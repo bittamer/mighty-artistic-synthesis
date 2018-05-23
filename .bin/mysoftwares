@@ -1,0 +1,58 @@
+# Acpype
+alias acpype="/home/hubbi/Software/acpype/acpype.py"
+
+# Amber
+export AMBERHOME="/home/hubbi/Software/amber12"
+export PATH=$PATH":"$AMBERHOME"/bin"
+#source $AMBERHOME/amber.sh
+
+# Autodock Tools
+alias adt="/home/hubbi/Software/mgltools/bin/adt"
+
+# Calibre
+#alias calibre="/home/hubbi/Software/calibre/calibre/calibre"
+
+# Gaussian
+#export g09root="/home/hubbi/data/Software/gaussian"
+#export GAUSS_SCRDIR="/home/hubbi/data/Software/gaussian/scr"
+#. $g09root/g09/bsd/g09.profile
+
+# Gotop
+alias gotop="/home/hubbi/Software/gotop/gotop"
+
+# Gromacs
+source /home/hubbi/Software/gromacs/bin/GMXRC.bash
+
+# Joplin
+alias joplin="/home/hubbi/Software/joplin/Joplin-1.0.70-x86_64.AppImage"
+
+# Leanote
+alias leanote="/home/hubbi/Software/leanote/Leanote"
+
+# LigPlot+
+alias ligplus="java -jar /home/hubbi/Software/LigPlus/LigPlus.jar"
+
+# lsofgraph
+alias lsofgraph="/home/hubbi/Software/lsofgraph/lsofgraph"
+
+# Matlab
+alias matlab="/home/hubbi/Software/matlab/r2017a/bin/matlab"
+alias mex="/home/hubbi/Software/matlab/r2017a/bin/mex"
+
+# Rust (programming language)
+export PATH=$PATH":/home/hubbi/.cargo/bin"
+
+# Speedtest
+alias speedtest="/home/hubbi/Software/speedtest/speedtest.py"
+
+# Undistract-me
+source /etc/profile.d/undistract-me.sh
+
+# VMD
+alias vmd="/home/hubbi/Software/vmd/bin/vmd"
+
+# WhatsApp
+alias whatsapp="/home/hubbi/Software/whatsapp/whatsapp-desktop-0.4.2-x86_64.AppImage"
+
+# Zotero
+alias zotero="/home/hubbi/Software/zotero/zotero"

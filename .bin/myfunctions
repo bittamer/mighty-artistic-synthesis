@@ -1,0 +1,87 @@
+# Toggle ITB Proxy
+function proxyon2 {
+	export http_proxy=http://hubbi:54910927@cache.itb.ac.id:8080
+	export https_proxy=$http_proxy
+        gsettings set org.gnome.system.proxy mode manual
+        gsettings set org.gnome.system.proxy.http host 167.205.22.103
+        gsettings set org.gnome.system.proxy.http port 8080
+	echo "Proxy ITB ON..."
+}
+function proxyon {
+	export http_proxy=http://167.205.22.102:8800
+	export https_proxy=$http_proxy
+        gsettings set org.gnome.system.proxy mode manual
+        gsettings set org.gnome.system.proxy.http host 167.205.22.102
+        gsettings set org.gnome.system.proxy.http port 8800
+	echo "Proxy ITB ON..."
+}
+# Proxy OFF
+function proxyoff {
+	export http_proxy=
+	export https_proxy=
+        gsettings set org.gnome.system.proxy mode none
+	echo "Proxy OFF..."
+}
+
+# make directory and enter it
+function mkcd {
+	mkdir $1
+	cd $1
+}
+
+# Colorized man pages
+man() {
+    env \
+        LESS_TERMCAP_mb=$(printf "\e[1;31m") \
+        LESS_TERMCAP_md=$(printf "\e[1;31m") \
+        LESS_TERMCAP_me=$(printf "\e[0m") \
+        LESS_TERMCAP_se=$(printf "\e[0m") \
+        LESS_TERMCAP_so=$(printf "\e[1;44;33m") \
+        LESS_TERMCAP_ue=$(printf "\e[0m") \
+        LESS_TERMCAP_us=$(printf "\e[1;32m") \
+            man "$@"
+}
+
+# download PDB file from RCSB servers
+function getpdb {
+        wget http://www.rcsb.org/pdb/files/$1.pdb
+}
+
+# update taskwarrior git repository
+function tasks {
+  cd /home/hubbi/snap/taskwarrior-plars/2/.task
+  git add backlog.data completed.data pending.data undo.data
+  if git commit -m "Updated tasks $(date +%c)"; then
+    git push vn master
+    cd -
+  else
+    cd -
+  fi
+}
+
+# update timewarrior git repository
+function tms {
+  cd /home/hubbi/snap/timew-spirotot/14/.timewarrior
+  git add data/ extensions/ timewarrior.cfg
+  if git commit -m "Updated timewarrior data $(date +%c)"; then
+    git push vn master
+    cd -
+  else
+    cd -
+  fi
+}
+
+# backup my Work and Documents folder to toconquer.space via borg
+function backup.work {
+  /usr/bin/borg create -v --stats --progress --compression lz4 --exclude-from /home/hubbi/.bin/borg_exclude vnexus:borgbackup/Work::Weekly_$(date +%y%m%d) /home/hubbi/Documents/Work/
+  }
+function backup.postgraduate {
+  /usr/bin/borg create -v --stats --progress --compression lz4 --exclude-from /home/hubbi/.bin/borg_exclude vnexus:borgbackup/Postgraduate::Weekly_$(date +%y%m%d) /home/hubbi/Documents/Postgraduate/
+}
+function backup.zotero {
+  cd /home/hubbi/Misc/Zotero
+  git add .
+  git commit -m "Update on $(date +%y%m%d)" -a
+  git push vn master
+  cd -
+}
