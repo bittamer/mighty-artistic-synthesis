@@ -1,0 +1,281 @@
+{
+  "Manage Series plugin:series dialog": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAJnAAABGQAABS0AAAMJAAACZwAAATcAAAUtAAADCQAAAAAAAAAAB4A="
+  }, 
+  "quick_start_guide_added": true, 
+  "recently_used_languages": [
+    "English"
+  ], 
+  "book_details_splitter_horizontal_state": [
+    true, 
+    200
+  ], 
+  "book_list_pin_splitter_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
+  }, 
+  "convert_single_dialog_geom": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAABEAAAAOAAAA5wAAAHwAAAARAAAAEYAAAOcAAAB8AAAAAAAAAAAA8A="
+  }, 
+  "book_details_splitter_vertical_state": [
+    true, 
+    120
+  ], 
+  "tag browser search box visible": false, 
+  "default_author_link": null, 
+  "previous_sort_order_BooksView": {
+    "pubdate": false, 
+    "title": true, 
+    "series": false, 
+    "tags": true, 
+    "#goodreads": false, 
+    "authors": true
+  }, 
+  "replace_scene_breaks_history": [
+    "", 
+    "<hr />", 
+    "\u2217 \u2217 \u2217", 
+    "\u2022 \u2022 \u2022", 
+    "\u2666 \u2666 \u2666", 
+    "\u2020 \u2020", 
+    "\u2021 \u2021 \u2021", 
+    "\u221e \u221e \u221e", 
+    "\u00a4 \u00a4 \u00a4"
+  ], 
+  "metadata_single_gui_geom": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAI0AAAA+QAABYUAAANuAAACNAAAARcAAAWFAAADbgAAAAAAAAAAB4A="
+  }, 
+  "cover_grid_texture": null, 
+  "custcol-prefs-table-geometry": [
+    63, 
+    55, 
+    217, 
+    121
+  ], 
+  "jobs_dialog_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAACrAAAADgAAAyMAAAIbAAAAqwAAABwAAAMjAAACGwAAAAAAAAAAA8A="
+  }, 
+  "tag_editor_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAACxAAAADgAAAzAAAAIbAAAAsQAAABwAAAMwAAACGwAAAAAAAAAAA8A="
+  }, 
+  "preferences dialog geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAIMAAAAnwAABa0AAAOMAAACDAAAAL0AAAWtAAADjAAAAAAAAAAAB4A="
+  }, 
+  "bulk_metadata_window_tab": 0, 
+  "manage_authors_table_widths": [
+    240, 
+    240, 
+    240
+  ], 
+  "tag_browser_splitter_horizontal_state": [
+    true, 
+    120
+  ], 
+  "toolbar_icon_size": "small", 
+  "jobs view column layout3": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPoAAAAFAQEBAAAAAAAAAAAAAAAAADL/////AAAAhAAAAAAAAAAFAAAAMgAAAAEAAAAAAAAAMgAAAAEAAAAAAAAAMgAAAAEAAAAAAAAAMgAAAAEAAAAAAAAAMgAAAAEAAAAAAAAD6AA="
+  }, 
+  "action-layout-toolbar": [
+    "Add Books", 
+    "Edit Metadata", 
+    null, 
+    "Convert Books", 
+    "View", 
+    null, 
+    "Store", 
+    "Donate", 
+    "Fetch News", 
+    "Help", 
+    null, 
+    "Remove Books", 
+    "Choose Library", 
+    "Save To Disk", 
+    "Connect Share", 
+    "Tweak ePub", 
+    "Preferences", 
+    "Manage Series"
+  ], 
+  "show_emblems": false, 
+  "library_usage_stats": {
+    "/home/hubbi/Documents/E-Books/calibre_library_nonfiction": 2, 
+    "/home/hubbi/Documents/E-Books/calibre_library_fiction": 8
+  }, 
+  "Plugin Updater plugin:plugin updater dialog": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAGLAAAAlQAABi8AAAOWAAABiwAAALMAAAYvAAADlgAAAAAAAAAAB4A="
+  }, 
+  "quickview visible": false, 
+  "grid view visible": false, 
+  "manage_authors_dialog_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAABxAAAAYwAAA3AAAAHGAAAAcQAAAHEAAANwAAABxgAAAAAAAAAAA8A="
+  }, 
+  "cover_grid_color": [
+    80, 
+    80, 
+    80
+  ], 
+  "custom_colors_for_color_dialog": [
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ]
+  ], 
+  "config_widget_dialog_geometry_Sharing_Metadata download": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAB6AAAADgAAA2cAAAIbAAAAegAAABwAAANnAAACGwAAAAAAAAAAA8A="
+  }, 
+  "cover_browser_splitter_horizontal_state": [
+    false, 
+    550
+  ], 
+  "action-layout-toolbar-device": [
+    "Add Books", 
+    "Edit Metadata", 
+    null, 
+    "Convert Books", 
+    "View", 
+    "Send To Device", 
+    null, 
+    null, 
+    "Location Manager", 
+    null, 
+    null, 
+    "Fetch News", 
+    "Save To Disk", 
+    "Store", 
+    "Connect Share", 
+    null, 
+    "Remove Books", 
+    null, 
+    "Help", 
+    "Preferences", 
+    "Manage Series"
+  ], 
+  "show_vl_tabs": true, 
+  "search bar visible": true, 
+  "bulk-mde-casing-algorithm": "title_case", 
+  "metasingle_window_geometry3": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAFdAAAAvQAABlwAAAOqAAABXQAAANsAAAZcAAADqgAAAAAAAAAAB4A="
+  }, 
+  "cover_browser_splitter_vertical_state": [
+    false, 
+    300
+  ], 
+  "single-cover-fetch-dialog-geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAI0AAAA2wAABYUAAANQAAACNAAAAPkAAAWFAAADUAAAAAAAAAAAB4A="
+  }, 
+  "duplicates-question-dialog-geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAEeAAAAXwAAAsMAAAHKAAABHgAAAG0AAALDAAABygAAAAAAAAAAA8A="
+  }, 
+  "choose-icon-theme-dialog-geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAIaAAAAIwAABZ0AAAQSAAACGgAAAEEAAAWdAAAEEgAAAAAAAAAAB4A="
+  }, 
+  "bulk_metadata_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAABEAAAAHwAAA5wAAAIJAAAARAAAAC0AAAOcAAACCQAAAAAAAAAAA8A="
+  }
+}

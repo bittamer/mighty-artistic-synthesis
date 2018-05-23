@@ -1,0 +1,57 @@
+[Data Source]
+DisplayName=Personal Me
+Enabled=true
+Parent=
+
+[Offline]
+StaySynchronized=false
+
+[Refresh]
+Enabled=true
+IntervalMinutes=15
+
+[Authentication]
+Host=server45017x.maintenis.com
+Method=none
+Port=993
+ProxyUid=system-proxy
+RememberPassword=true
+User=me@hubbinash.org
+CredentialName=
+
+[Mail Account]
+BackendName=imapx
+IdentityUid=1fa14564a8cd680c8e84db8076686e5c049e9b09
+ArchiveFolder=folder://afb8661df39bd681453e99156416283a63f95fdf/INBOX/Archive
+NeedsInitialSetup=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Imapx Backend]
+FilterInbox=true
+StoreChangesInterval=3
+LimitByAge=false
+LimitUnit=years
+LimitValue=1
+UseMultiFetch=false
+CheckAll=false
+CheckSubscribed=true
+ConcurrentConnections=3
+FetchOrder=ascending
+FilterAll=false
+FilterJunk=false
+FilterJunkInbox=false
+Namespace=
+RealJunkPath=INBOX/Junk
+RealTrashPath=INBOX/Trash
+ShellCommand=ssh -C -l %u %h exec /usr/sbin/imapd
+UseIdle=true
+UseNamespace=false
+UseQresync=false
+UseRealJunkPath=true
+UseRealTrashPath=true
+UseShellCommand=false
+UseSubscriptions=true
+IgnoreOtherUsersNamespace=false
+IgnoreSharedFoldersNamespace=false

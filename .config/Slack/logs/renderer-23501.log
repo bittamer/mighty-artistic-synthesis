@@ -1,0 +1,29 @@
+[04/17/18, 13:56:35:111] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/17/18, 13:56:35:112] info: ║      Slack 3.1.1, linux 4.15.0-15-generic on x64 at 04/17/18, 13:56:35:109      ║
+[04/17/18, 13:56:35:112] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/17/18, 13:56:35:198] info: Initializing local storage instance at path: /home/hubbi/.config/Slack/local-settings.json
+[04/17/18, 13:56:36:564] info: Store: SET_NETWORK_STATUS offline
+[04/17/18, 13:56:36:803] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T81JU9CQ5"
+}
+[04/17/18, 13:56:36:804] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T81JU9CQ5"
+}
+[04/17/18, 13:56:37:058] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T81JU9CQ5"
+}
+[04/17/18, 13:56:46:862] info: Store: SHOW_WEBAPP_DIALOG
+{
+  "dialogType": "prefs"
+}
+[04/17/18, 13:56:52:061] info: Store: QUIT_APP
+[04/17/18, 13:56:52:161] info: Store: QUIT_APP
+[04/17/18, 13:56:52:177] info: Store: REMOVE_WINDOW 2

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lineedit_history_choose_library_dialog</key>
+	<array>
+		<string>/home/hubbi/Documents/E-Books/calibre_library_nonfiction</string>
+		<string>/home/hubbi/Documents/E-Books/calibre_library_fiction</string>
+	</array>
+</dict>
+</plist>

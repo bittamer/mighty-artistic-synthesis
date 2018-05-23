@@ -1,0 +1,7 @@
+{
+  "server": "auto", 
+  "domain": "uk", 
+  "ignore_fields": [
+    "tags"
+  ]
+}

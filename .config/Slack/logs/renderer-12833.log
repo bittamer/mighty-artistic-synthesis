@@ -1,0 +1,12 @@
+[04/14/18, 17:53:01:587] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/14/18, 17:53:01:587] info: ║      Slack 3.1.1, linux 4.13.0-38-generic on x64 at 04/14/18, 17:53:01:584      ║
+[04/14/18, 17:53:01:587] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/14/18, 17:53:01:667] info: Initializing local storage instance at path: /home/hubbi/.config/Slack/local-settings.json
+[04/14/18, 17:53:02:938] info: Store: SET_NETWORK_STATUS online
+[04/14/18, 17:53:07:793] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 17:53:07:802] info: Store: MAIN_WINDOW_SHOWN

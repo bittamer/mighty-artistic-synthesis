@@ -1,0 +1,32 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN" "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>Windows Applications</Name>
+    <Directory>cxmenu-cxoffice-0ad3bf1c-79db-48a5-8762-23a6e256d3bb-3ii0rqp.directory</Directory>
+    <Include>
+      <Category>X-cxmenu-cxoffice-0ad3bf1c-79db-48a5-8762-23a6e256d3bb-3ii0rqp</Category>
+    </Include>
+    <Menu>
+      <Name>GaussView 5.0</Name>
+      <Directory>cxmenu-cxoffice-0ad3bf1c-79db-48a5-8762-23a6e256d3bb-0jv1dcg.directory</Directory>
+      <Include>
+        <Category>X-cxmenu-cxoffice-0ad3bf1c-79db-48a5-8762-23a6e256d3bb-0jv1dcg</Category>
+      </Include>
+      <Menu>
+        <Name>READMEs</Name>
+        <Directory>cxmenu-cxoffice-0ad3bf1c-79db-48a5-8762-23a6e256d3bb-071i7b9.directory</Directory>
+        <Include>
+          <Category>X-cxmenu-cxoffice-0ad3bf1c-79db-48a5-8762-23a6e256d3bb-071i7b9</Category>
+        </Include>
+      </Menu>
+    </Menu>
+    <Menu>
+      <Name>Gaussian 09W</Name>
+      <Directory>cxmenu-cxoffice-0ad3bf1c-79db-48a5-8762-23a6e256d3bb-1pajed8.directory</Directory>
+      <Include>
+        <Category>X-cxmenu-cxoffice-0ad3bf1c-79db-48a5-8762-23a6e256d3bb-1pajed8</Category>
+      </Include>
+    </Menu>
+  </Menu>
+</Menu>

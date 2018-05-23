@@ -1,0 +1,18 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN" "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>Windows Applications</Name>
+    <Directory>cxmenu-cxoffice-e2990cf1-a67d-4d76-a0e7-167d837798c9-3ii0rqp.directory</Directory>
+    <Include>
+      <Category>X-cxmenu-cxoffice-e2990cf1-a67d-4d76-a0e7-167d837798c9-3ii0rqp</Category>
+    </Include>
+    <Menu>
+      <Name>Steam</Name>
+      <Directory>cxmenu-cxoffice-e2990cf1-a67d-4d76-a0e7-167d837798c9-0483fdc.directory</Directory>
+      <Include>
+        <Category>X-cxmenu-cxoffice-e2990cf1-a67d-4d76-a0e7-167d837798c9-0483fdc</Category>
+      </Include>
+    </Menu>
+  </Menu>
+</Menu>

@@ -1,0 +1,183 @@
+Setting breakpad minidump AppID = 305620
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198032303536 [API loaded no]
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8323075
+AK Error: Plug-in not registered: 8192003
+AK Error: Plug-in not registered: 8192003
+AK Error: Plug-in not registered: 8912899
+ERROR: ld.so: object '/mnt/data/hubbi/Misc/steam.ubuntu/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separa
+te_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_packing GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL
+_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_shader_integer_mix GL_EXT_shader_sampl
+es_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_decode GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_IBM_multimode_draw_arrays GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_conditional_render GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 48839104
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass 'DEFERRED' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - All passes removed
+Begin MonoManager ReloadAssembly
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/UnityEngine.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/UnityEngine.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/Assembly-CSharp.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/Assembly-UnityScript.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/UnityEngine.UI.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/UnityEngine.Networking.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/AmplifyBloom.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/AmplifyBloom.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/EasyRoads3D.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/EasyRoads3D.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/SuperSplines.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/SuperSplines.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/HOTween.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/HOTween.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/SampleClassLibrary.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/SampleClassLibrary.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/UnityEngine.CrashLog.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/UnityEngine.CrashLog.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/Pathfinding.ClipperLib.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/Pathfinding.ClipperLib.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/Pathfinding.Poly2Tri.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/Pathfinding.Poly2Tri.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/ch.sycoforge.Decal.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/ch.sycoforge.Decal.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/ch.sycoforge.Util.Attributes.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/ch.sycoforge.Util.Attributes.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/Rewired_Core.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/Rewired_Core.dll into Unity Child Domain
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/Rewired_Linux_Lib.dll (this message is harmless)
+Loading /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/Rewired_Linux_Lib.dll into Unity Child Domain
+- Completed reload, in  0.607 seconds
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/System.Core.dll (this message is harmless)
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/System.dll (this message is harmless)
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/UnityScript.Lang.dll (this message is harmless)
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/Boo.Lang.dll (this message is harmless)
+New context 0x8597130 created with attributes:
+Default vsync count 1
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 59 Hz
+UnloadTime: 1.409000 ms
+Non platform assembly: data-0x9101610 (this message is harmless)
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/data-0x9101610.so
+Non platform assembly: data-0x9136100 (this message is harmless)
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/data-0x9136100.so
+Non platform assembly: data-0x9153e90 (this message is harmless)
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/data-0x9153e90.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Mono/x86_64/libudev.so
+Platform assembly: /mnt/data/hubbi/Misc/steam.ubuntu/steam/steamapps/common/TheLongDark/tld_Data/Managed/System.Xml.dll (this message is harmless)
+Desktop is 1920 x 1080 @ 59 Hz
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Received stats and achievements from Steam
+
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

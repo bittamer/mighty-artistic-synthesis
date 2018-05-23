@@ -1,0 +1,1342 @@
+info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 2.8.2, linux 4.13.0-16-generic on x64 at 11/16/17, 23:12:21:921      ║
+info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+info: Nov-16 23:12:24.480 [BOOT] booted! pri:0 version:1510847355 start_ms:1510848744040 (8ms ago)
+info: Nov-16 23:12:24.490 [BOOT] Starting incremental boot (early)
+warn: 🐶 CSS check: no cssRules or rules defined?
+info: Nov-16 23:12:25.959 [SOCKET-MANAGER] (T81JU9CQ5) Changing from never_connected to prov_connect
+info: Nov-16 23:12:25.959 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connect state for up to 10000 ms
+info: Nov-16 23:12:25.960 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connect to prov_connecting
+info: Nov-16 23:12:25.960 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connecting state for up to 20000 ms
+error: 2017/11/16 23:12:26.676 logging error: {"subtype":"api_call_error","message":"{\"ok\":false,\"error\":\"[LIB_BANNERS] Error accessing team stats\"}","stack":"Error\n    at Object.n [as logError] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.c62dd411b050751e57ee.min.js:1:17372)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.701a22168460752e7f6e.min.js:1:40127)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.701a22168460752e7f6e.min.js:1:35320)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.701a22168460752e7f6e.min.js:1:36858)\n    at XMLHttpRequest.m.onreadystatechange (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.701a22168460752e7f6e.min.js:1:38601)"}
+warn: 2017/11/16 23:12:26.676  args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+warn: 2017/11/16 23:12:26.678  A call to promo.banner failed
+info: Nov-16 23:12:27.442 [BOOT] Finalizing incremental boot
+info: Nov-16 23:12:28.900 [FLANNEL] received a user_counts_request call while we are not connected; deferring
+info: Nov-16 23:12:28.201 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connecting to prov_connected
+info: Nov-16 23:12:28.202 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connected state for up to 60000 ms
+info: Nov-16 23:12:28.203 [FLANNEL] connected! Continuing deferred user_counts_request call
+info: Nov-16 23:12:28.322 [BOOT] Completed incremental boot
+info: Nov-16 23:12:28.409 [HISTORY] C80QSNU9E HAS MORE
+info: Nov-16 23:12:28.417 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Nov-16 23:12:28.417 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connected to prov_finalize
+info: Nov-16 23:12:28.417 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalize state for up to 10000 ms
+info: Nov-16 23:12:28.418 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalize to prov_finalizing
+info: Nov-16 23:12:28.418 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalizing state for up to 10000 ms
+info: Nov-16 23:12:28.421 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalizing to connected
+info: Nov-16 23:12:28.421 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-16 23:12:28.428 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Nov-16 23:12:28.429 [BOOT] Finished first boot 2478 ms after DOM ready
+info: 2017/11/16 23:12:28.519  Team pref "display_email_addresses" -> true
+info: 2017/11/16 23:12:28.519  display_email_addresses check: pref enabled, but 0 email fields found in TS.model.members.
+info: 2017/11/16 23:12:28.864  Finished processing users.counts
+info: 2017/11/16 23:12:28.865  0 IMs with unreads, 0 total dm_count
+error: 2017/11/16 23:12:29.162 logging error: {"subtype":"api_call_error","message":"{\"ok\":false,\"error\":\"[LIB_BANNERS] Error accessing team stats\"}","stack":"Error\n    at Object.n [as logError] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.c62dd411b050751e57ee.min.js:1:17372)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.701a22168460752e7f6e.min.js:1:40127)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.701a22168460752e7f6e.min.js:1:35320)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.701a22168460752e7f6e.min.js:1:36858)\n    at XMLHttpRequest.m.onreadystatechange (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.701a22168460752e7f6e.min.js:1:38601)"}
+warn: 2017/11/16 23:12:29.162  args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+error: 2017/11/16 23:12:29.165  A call to promo.banner failed likely because stats_cds is failing
+info: Nov-16 23:13:09.659 [ACTION:CHANNEL-SIDEBAR] Selected C82H1SWF9
+info: Nov-16 23:13:10.970 [HISTORY] Not loading scrollback in C82H1SWF9: We have the oldest msg: 1510843022.000186. is_limited:undefined
+info: Nov-16 23:13:21.121 [ACTION:CHANNEL-SIDEBAR] Selected Vall_threads
+info: Nov-16 23:13:21.150 [ALL THREADS] Starting threads view from the api
+info: Nov-16 23:13:21.449 [ALL THREADS] Processing subscriptions.thread.getView response
+info: Nov-16 23:13:24.949 [ACTION:CHANNEL-SIDEBAR] Selected heading apps
+error: 2017/11/16 23:14:26.187 logging error: {"subtype":"api_call_error","message":"{\"ok\":false,\"error\":\"no_emailtoken\"}","stack":"Error\n    at Object.n [as logError] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.c62dd411b050751e57ee.min.js:1:17372)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.701a22168460752e7f6e.min.js:1:40127)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.701a22168460752e7f6e.min.js:1:35320)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.701a22168460752e7f6e.min.js:1:36858)\n    at XMLHttpRequest.m.onreadystatechange (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.701a22168460752e7f6e.min.js:1:38601)"}
+warn: 2017/11/16 23:14:26.188  args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+info: Nov-16 23:16:30.686 [ACTION:CHANNEL-SIDEBAR] Selected D81CF520K
+info: Nov-16 23:16:30.721 [ALL THREADS] destroying threads view, clearing threads data
+warn: 2017/11/16 23:16:31.868  getOldestValidTs(D81CF520K): none found. msgs.length = -1
+info: Nov-16 23:16:36.483 [ACTION:CHANNEL-SIDEBAR] Selected D80UV3WC9
+warn: 2017/11/16 23:16:36.793  getOldestValidTs(D80UV3WC9): none found. msgs.length = -1
+info: Nov-16 23:16:41.450 [ACTION:CHANNEL-SIDEBAR] Selected C82H1SWF9
+info: Nov-16 23:16:41.109 [HISTORY] Not loading scrollback in C82H1SWF9: We have the oldest msg: 1510843022.000186. is_limited:undefined
+info: Nov-16 23:29:12.274 [SOCKET-MANAGER] (T81JU9CQ5) got offline event; moving to DISCONNECT as needed
+info: Nov-16 23:29:12.279 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connected to disconnect
+info: Nov-16 23:29:12.290 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnect state for up to 10000 ms
+info: Nov-16 23:29:12.297 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnect to disconnecting
+info: Nov-16 23:29:12.298 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnecting state for up to 10000 ms
+info: Nov-16 23:29:12.300 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnecting to disconnected
+info: Nov-16 23:29:12.300 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnected state for up to 10000 ms
+info: Nov-16 23:29:12.301 [SOCKET-MANAGER] (T81JU9CQ5) Disconnected! Online? false
+info: Nov-16 23:29:12.301 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnected to wait_for_connectivity
+info: Nov-16 23:29:12.302 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_connectivity state for up to 300000 ms
+info: 2017/11/16 23:29:12.308  Hiding the reconnection banner because we are disconnected
+info: 2017/11/16 23:29:34.104  Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Nov-16 23:29:34.106 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Nov-16 23:29:34.107 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Nov-16 23:29:34.116 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_rate_limit to connect
+info: Nov-16 23:29:34.117 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connect state for up to 10000 ms
+info: Nov-16 23:29:34.126 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connect to checking_fast_reconnect
+info: Nov-16 23:29:34.126 [SOCKET-MANAGER] (T81JU9CQ5) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Nov-16 23:29:34.441 [SOCKET-MANAGER] (T81JU9CQ5) Changing from checking_fast_reconnect to connecting
+info: Nov-16 23:29:34.442 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connecting state for up to 20000 ms
+info: Nov-16 23:29:36.444 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connecting to connected
+info: Nov-16 23:29:36.445 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-16 23:29:36.457 [EVENTLOG] fr=true, lc=false, lt=1510848955.000338
+info: Nov-16 23:31:12.179 [SOCKET-MANAGER] (T81JU9CQ5) got offline event; moving to DISCONNECT as needed
+info: Nov-16 23:31:12.181 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connected to disconnect
+info: Nov-16 23:31:12.187 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnect state for up to 10000 ms
+info: Nov-16 23:31:12.196 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnect to disconnecting
+info: Nov-16 23:31:12.197 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnecting state for up to 10000 ms
+info: Nov-16 23:31:12.228 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnecting to disconnected
+info: Nov-16 23:31:12.229 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnected state for up to 10000 ms
+info: Nov-16 23:31:12.238 [SOCKET-MANAGER] (T81JU9CQ5) Disconnected! Online? false
+info: Nov-16 23:31:12.239 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnected to wait_for_connectivity
+info: Nov-16 23:31:12.240 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_connectivity state for up to 300000 ms
+info: 2017/11/16 23:31:12.252  Hiding the reconnection banner because we are disconnected
+warn: 2017/11/16 23:31:23.316  Internet connection still offline after 1 attempts (unable to reach API)
+warn: 2017/11/16 23:31:34.334  Internet connection still offline after 2 attempts (unable to reach API)
+info: 2017/11/16 23:31:37.508  Internet connection has been re-established after 3 retry attempts; offline for NaN seconds
+info: Nov-16 23:31:37.509 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Nov-16 23:31:37.510 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Nov-16 23:31:37.522 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_rate_limit to connect
+info: Nov-16 23:31:37.522 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connect state for up to 10000 ms
+info: Nov-16 23:31:37.527 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connect to checking_fast_reconnect
+info: Nov-16 23:31:37.528 [SOCKET-MANAGER] (T81JU9CQ5) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Nov-16 23:31:37.875 [SOCKET-MANAGER] (T81JU9CQ5) Changing from checking_fast_reconnect to connecting
+info: Nov-16 23:31:37.876 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connecting state for up to 20000 ms
+error: WebSocket connection to 'wss://mpmulti-ajby.slack-msgs.com/?flannel=2&token=xoxs-⋯&frt=Hf-FAwEBA2ZydAH_hgABAgEBUAEKAAEBUwEKAAAA_gF4_4YB_gFPNf-BAwEBA2ZycAH_ggABBQECUnUBDAABAlRpAQwAAQJFaQEMAAECVWkBDAABAk10Af-EAAAAEP-DBQEBBFRpbWUB_4QAAAD-AQX_ggH_2HdzczovL21wbXVsdGktcTZwdS5zbGFjay1tc2dzLmNvbS93ZWJzb2NrZXQvZ2tiQWZUMFBvUDhDT09KLUZlRU85aWF0UDVWTW01VnlOdHpyUFo4NmJIRmRDSUFrUllvZHhTQUlRNjgwNndtQk1saGlMWWFKalM2LTRhR0Z2T04zTzMteFlBdjVhSFFJTmRMVV8tU014dEVudGJWVDk1YjJRRGRmdHc0OW5tWVFyakFWdE9sMi1TM005TzJ1bjMtZDdNbnFNWU9MeUtwQzY4eXNFU3F1X1lrPQEJVDgxSlU5Q1E1AglVODJCMUQzUVcBDwEAAAAO0Z-0DgOmHB3-IAABIFzAXk2ozxHYXTcpMQC3hnirbjBDZcWkHZXZB6xBHgpEAA&encoding=' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED
+info: Nov-16 23:31:47.899 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connecting to error
+info: Nov-16 23:31:47.900 [SOCKET-MANAGER] (T81JU9CQ5) will stay in error state for up to 10000 ms
+error: Nov-16 23:31:47.905 SOCKET-MANAGER (T81JU9CQ5) Closing socket due to unknown error
+info: 2017/11/16 23:31:47.910  Stacktrace: ↴
+ at e (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.c62dd411b050751e57ee.min.js:1:17813)
+at https://a.slack-edge.com/bv1-1/rollup-core_required_ts.c62dd411b050751e57ee.min.js:1:1047
+at e (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:38461)
+at e (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:40164)
+at s (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:6:167711)
+at e (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:40537)
+at e (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:34606)
+at e.<anonymous> (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.6715daf6cfad2699e014.min.js:201:112752)
+at O (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:151872)
+at WebSocket._socket.onclose (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:153551)
+info: Nov-16 23:31:47.912 [SOCKET-MANAGER] (T81JU9CQ5) Changing from error to wait_for_connectivity
+info: Nov-16 23:31:47.913 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_connectivity state for up to 300000 ms
+info: Nov-16 23:31:48.229 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Nov-16 23:31:48.229 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Nov-16 23:31:48.237 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_rate_limit to connect
+info: Nov-16 23:31:48.238 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connect state for up to 10000 ms
+info: Nov-16 23:31:48.242 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connect to checking_fast_reconnect
+info: Nov-16 23:31:48.243 [SOCKET-MANAGER] (T81JU9CQ5) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Nov-16 23:31:48.258 [SOCKET-MANAGER] (T81JU9CQ5) Changing from checking_fast_reconnect to prov_connect
+info: Nov-16 23:31:48.258 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connect state for up to 10000 ms
+info: Nov-16 23:31:48.261 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connect to prov_connecting
+info: Nov-16 23:31:48.262 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connecting state for up to 20000 ms
+info: Nov-16 23:31:50.583 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connecting to prov_connected
+info: Nov-16 23:31:50.584 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connected state for up to 60000 ms
+info: 2017/11/16 23:31:50.592  Got start data from Socket Manager; hydrating it
+info: 2017/11/16 23:31:50.640  Successfully hydrated start data from Socket Manager; processing it
+info: Nov-16 23:31:50.790 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Nov-16 23:31:50.790 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connected to prov_finalize
+info: Nov-16 23:31:50.790 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalize state for up to 10000 ms
+info: Nov-16 23:31:50.791 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalize to prov_finalizing
+info: Nov-16 23:31:50.791 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalizing state for up to 10000 ms
+info: Nov-16 23:31:50.792 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalizing to connected
+info: Nov-16 23:31:50.792 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-16 23:31:50.794 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Nov-16 23:31:50.795 [EVENTLOG] fr=false, lc=false, lt=1510848955.000338
+info: Nov-16 23:31:50.795 [EVENTLOG] fetching events since 1510848955.000338 (955.9996619224548 seconds ago)
+info: 2017/11/16 23:31:51.500  Finished processing users.counts
+info: 2017/11/16 23:31:51.501  0 IMs with unreads, 0 total dm_count
+info: Nov-16 23:31:51.504 [EVENTLOG] nothing to process
+info: Nov-16 23:31:51.504 [EVENTLOG] fetched finish (cancelled? false)
+info: Nov-16 23:31:51.504 [EVENTLOG] dispatching signal and clearing timestamp
+info: Nov-16 23:35:12.222 [SOCKET-MANAGER] (T81JU9CQ5) got offline event; moving to DISCONNECT as needed
+info: Nov-16 23:35:12.224 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connected to disconnect
+info: Nov-16 23:35:12.228 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnect state for up to 10000 ms
+info: Nov-16 23:35:12.230 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnect to disconnecting
+info: Nov-16 23:35:12.231 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnecting state for up to 10000 ms
+info: Nov-16 23:35:12.233 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnecting to disconnected
+info: Nov-16 23:35:12.233 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnected state for up to 10000 ms
+info: Nov-16 23:35:12.235 [SOCKET-MANAGER] (T81JU9CQ5) Disconnected! Online? false
+info: Nov-16 23:35:12.235 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnected to wait_for_connectivity
+info: Nov-16 23:35:12.235 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_connectivity state for up to 300000 ms
+info: 2017/11/16 23:35:12.239  Hiding the reconnection banner because we are disconnected
+info: 2017/11/16 23:35:46.939  Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Nov-16 23:35:46.941 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Nov-16 23:35:46.941 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Nov-16 23:35:46.946 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_rate_limit to connect
+info: Nov-16 23:35:46.947 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connect state for up to 10000 ms
+info: Nov-16 23:35:46.953 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connect to checking_fast_reconnect
+info: Nov-16 23:35:46.953 [SOCKET-MANAGER] (T81JU9CQ5) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Nov-16 23:35:47.236 [SOCKET-MANAGER] (T81JU9CQ5) Changing from checking_fast_reconnect to connecting
+info: Nov-16 23:35:47.236 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connecting state for up to 20000 ms
+info: Nov-16 23:35:49.244 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connecting to connected
+info: Nov-16 23:35:49.245 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-16 23:35:49.257 [EVENTLOG] fr=true, lc=false, lt=1510848955.000338
+info: Nov-16 23:37:12.253 [SOCKET-MANAGER] (T81JU9CQ5) got offline event; moving to DISCONNECT as needed
+info: Nov-16 23:37:12.262 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connected to disconnect
+info: Nov-16 23:37:12.275 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnect state for up to 10000 ms
+info: Nov-16 23:37:12.283 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnect to disconnecting
+info: Nov-16 23:37:12.301 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnecting state for up to 10000 ms
+info: Nov-16 23:37:12.305 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnecting to disconnected
+info: Nov-16 23:37:12.307 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnected state for up to 10000 ms
+info: Nov-16 23:37:12.310 [SOCKET-MANAGER] (T81JU9CQ5) Disconnected! Online? false
+info: Nov-16 23:37:12.310 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnected to wait_for_connectivity
+info: Nov-16 23:37:12.310 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_connectivity state for up to 300000 ms
+info: 2017/11/16 23:37:12.314  Hiding the reconnection banner because we are disconnected
+warn: 2017/11/16 23:37:23.331  Internet connection still offline after 1 attempts (unable to reach API)
+info: 2017/11/16 23:37:33.874  Internet connection has been re-established after 2 retry attempts; offline for NaN seconds
+info: Nov-16 23:37:33.875 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Nov-16 23:37:33.876 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Nov-16 23:37:33.885 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_rate_limit to connect
+info: Nov-16 23:37:33.886 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connect state for up to 10000 ms
+info: Nov-16 23:37:33.891 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connect to checking_fast_reconnect
+info: Nov-16 23:37:33.891 [SOCKET-MANAGER] (T81JU9CQ5) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Nov-16 23:37:34.171 [SOCKET-MANAGER] (T81JU9CQ5) Changing from checking_fast_reconnect to connecting
+info: Nov-16 23:37:34.172 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connecting state for up to 20000 ms
+info: Nov-16 23:37:38.118 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connecting to connected
+info: Nov-16 23:37:38.119 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-16 23:37:38.127 [EVENTLOG] fr=true, lc=false, lt=1510848955.000338
+info: Nov-16 23:41:12.167 [SOCKET-MANAGER] (T81JU9CQ5) got offline event; moving to DISCONNECT as needed
+info: Nov-16 23:41:12.168 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connected to disconnect
+info: Nov-16 23:41:12.174 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnect state for up to 10000 ms
+info: Nov-16 23:41:12.187 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnect to disconnecting
+info: Nov-16 23:41:12.188 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnecting state for up to 10000 ms
+info: Nov-16 23:41:12.236 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnecting to disconnected
+info: Nov-16 23:41:12.236 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnected state for up to 10000 ms
+info: Nov-16 23:41:12.240 [SOCKET-MANAGER] (T81JU9CQ5) Disconnected! Online? false
+info: Nov-16 23:41:12.241 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnected to wait_for_connectivity
+info: Nov-16 23:41:12.241 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_connectivity state for up to 300000 ms
+info: 2017/11/16 23:41:12.247  Hiding the reconnection banner because we are disconnected
+warn: 2017/11/16 23:42:13.246  Internet connection still offline after 1 attempts (unable to reach API)
+info: 2017/11/16 23:42:41.140  Internet connection has been re-established after 2 retry attempts; offline for NaN seconds
+info: Nov-16 23:42:41.150 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Nov-16 23:42:41.150 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Nov-16 23:42:41.160 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_rate_limit to connect
+info: Nov-16 23:42:41.170 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connect state for up to 10000 ms
+info: Nov-16 23:42:41.170 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connect to checking_fast_reconnect
+info: Nov-16 23:42:41.180 [SOCKET-MANAGER] (T81JU9CQ5) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Nov-16 23:42:41.308 [SOCKET-MANAGER] (T81JU9CQ5) Changing from checking_fast_reconnect to connecting
+info: Nov-16 23:42:41.308 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connecting state for up to 20000 ms
+info: Nov-16 23:42:43.241 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connecting to connected
+info: Nov-16 23:42:43.242 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-16 23:42:43.251 [EVENTLOG] fr=true, lc=false, lt=1510848955.000338
+info: Nov-16 23:53:12.181 [SOCKET-MANAGER] (T81JU9CQ5) got offline event; moving to DISCONNECT as needed
+info: Nov-16 23:53:12.186 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connected to disconnect
+info: Nov-16 23:53:12.200 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnect state for up to 10000 ms
+info: Nov-16 23:53:12.223 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnect to disconnecting
+info: Nov-16 23:53:12.227 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnecting state for up to 10000 ms
+info: Nov-16 23:53:12.237 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnecting to disconnected
+info: Nov-16 23:53:12.239 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnected state for up to 10000 ms
+info: Nov-16 23:53:12.243 [SOCKET-MANAGER] (T81JU9CQ5) Disconnected! Online? false
+info: Nov-16 23:53:12.244 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnected to wait_for_connectivity
+info: Nov-16 23:53:12.246 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_connectivity state for up to 300000 ms
+info: 2017/11/16 23:53:12.257  Hiding the reconnection banner because we are disconnected
+warn: 2017/11/16 23:53:23.271  Internet connection still offline after 1 attempts (unable to reach API)
+warn: 2017/11/16 23:53:34.289  Internet connection still offline after 2 attempts (unable to reach API)
+warn: 2017/11/16 23:53:45.302  Internet connection still offline after 3 attempts (unable to reach API)
+info: 2017/11/16 23:53:48.266  Internet connection has been re-established after 4 retry attempts; offline for NaN seconds
+info: Nov-16 23:53:48.268 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Nov-16 23:53:48.269 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Nov-16 23:53:48.277 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_rate_limit to connect
+info: Nov-16 23:53:48.277 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connect state for up to 10000 ms
+info: Nov-16 23:53:48.282 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connect to checking_fast_reconnect
+info: Nov-16 23:53:48.282 [SOCKET-MANAGER] (T81JU9CQ5) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Nov-16 23:53:48.572 [SOCKET-MANAGER] (T81JU9CQ5) Changing from checking_fast_reconnect to connecting
+info: Nov-16 23:53:48.573 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connecting state for up to 20000 ms
+info: Nov-16 23:53:50.534 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connecting to connected
+info: Nov-16 23:53:50.534 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-16 23:53:50.542 [EVENTLOG] fr=true, lc=false, lt=1510848955.000338
+info: Nov-17 02:36:09.300 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connected to error
+info: Nov-17 02:36:09.400 [SOCKET-MANAGER] (T81JU9CQ5) will stay in error state for up to 10000 ms
+error: Nov-17 02:36:09.500 SOCKET-MANAGER (T81JU9CQ5) Closing socket due to unknown error
+info: 2017/11/17 02:36:09.500  Stacktrace: ↴
+ at e (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.c62dd411b050751e57ee.min.js:1:17813)
+at https://a.slack-edge.com/bv1-1/rollup-core_required_ts.c62dd411b050751e57ee.min.js:1:1047
+at e (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:38461)
+at e (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:40164)
+at s (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:6:167711)
+at e (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:40537)
+at e (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:34606)
+at e.<anonymous> (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.6715daf6cfad2699e014.min.js:201:112752)
+at O (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:151872)
+at WebSocket._socket.onclose (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:153551)
+info: 2017/11/17 02:36:09.700  Hiding the reconnection banner because we are disconnected
+info: Nov-17 02:36:09.700 [SOCKET-MANAGER] (T81JU9CQ5) Changing from error to wait_for_connectivity
+info: Nov-17 02:36:09.700 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_connectivity state for up to 300000 ms
+info: Nov-17 02:36:15.152 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Nov-17 02:36:15.153 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Nov-17 02:36:15.158 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_rate_limit to connect
+info: Nov-17 02:36:15.159 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connect state for up to 10000 ms
+info: Nov-17 02:36:15.163 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connect to checking_fast_reconnect
+info: Nov-17 02:36:15.164 [SOCKET-MANAGER] (T81JU9CQ5) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Nov-17 02:36:15.168 [SOCKET-MANAGER] (T81JU9CQ5) Changing from checking_fast_reconnect to prov_connect
+info: Nov-17 02:36:15.169 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connect state for up to 10000 ms
+info: Nov-17 02:36:15.172 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connect to prov_connecting
+info: Nov-17 02:36:15.173 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connecting state for up to 20000 ms
+info: Nov-17 02:36:18.160 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connecting to prov_connected
+info: Nov-17 02:36:18.160 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connected state for up to 60000 ms
+info: 2017/11/17 02:36:18.167  Got start data from Socket Manager; hydrating it
+info: 2017/11/17 02:36:18.202  Successfully hydrated start data from Socket Manager; processing it
+info: Nov-17 02:36:18.320 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Nov-17 02:36:18.320 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connected to prov_finalize
+info: Nov-17 02:36:18.320 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalize state for up to 10000 ms
+info: Nov-17 02:36:18.321 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalize to prov_finalizing
+info: Nov-17 02:36:18.322 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalizing state for up to 10000 ms
+info: Nov-17 02:36:18.322 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalizing to connected
+info: Nov-17 02:36:18.322 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-17 02:36:18.324 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Nov-17 02:36:18.324 [EVENTLOG] fr=false, lc=false, lt=1510848955.000338
+info: Nov-17 02:36:18.324 [EVENTLOG] fetching events since 1510848955.000338 (12023.999661922455 seconds ago)
+info: 2017/11/17 02:36:19.369  Finished processing users.counts
+info: 2017/11/17 02:36:19.369  0 IMs with unreads, 0 total dm_count
+info: Nov-17 02:36:19.380 [EVENTLOG] nothing to process
+info: Nov-17 02:36:19.380 [EVENTLOG] fetched finish (cancelled? false)
+info: Nov-17 02:36:19.381 [EVENTLOG] dispatching signal and clearing timestamp
+info: Nov-17 03:32:05.394 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connected to error
+info: Nov-17 03:32:05.397 [SOCKET-MANAGER] (T81JU9CQ5) will stay in error state for up to 10000 ms
+error: Nov-17 03:32:05.400 SOCKET-MANAGER (T81JU9CQ5) Closing socket due to unknown error
+info: 2017/11/17 03:32:05.401  Stacktrace: ↴
+ at e (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.c62dd411b050751e57ee.min.js:1:17813)
+at https://a.slack-edge.com/bv1-1/rollup-core_required_ts.c62dd411b050751e57ee.min.js:1:1047
+at e (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:38461)
+at e (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:40164)
+at s (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:6:167711)
+at e (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:40537)
+at e (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:34606)
+at e.<anonymous> (https://a.slack-edge.com/bv1-1/rollup-core_required_libs.6715daf6cfad2699e014.min.js:201:112752)
+at O (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:151872)
+at WebSocket._socket.onclose (https://a.slack-edge.com/bv1-1/application.0e1437e128ca6d95381c.min.js:12:153551)
+info: 2017/11/17 03:32:05.403  Hiding the reconnection banner because we are disconnected
+info: Nov-17 03:32:05.403 [SOCKET-MANAGER] (T81JU9CQ5) Changing from error to wait_for_connectivity
+info: Nov-17 03:32:05.403 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_connectivity state for up to 300000 ms
+info: Nov-17 03:32:06.588 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Nov-17 03:32:06.589 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Nov-17 03:32:06.600 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_rate_limit to connect
+info: Nov-17 03:32:06.601 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connect state for up to 10000 ms
+info: Nov-17 03:32:06.607 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connect to checking_fast_reconnect
+info: Nov-17 03:32:06.607 [SOCKET-MANAGER] (T81JU9CQ5) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Nov-17 03:32:06.610 [SOCKET-MANAGER] (T81JU9CQ5) Changing from checking_fast_reconnect to prov_connect
+info: Nov-17 03:32:06.610 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connect state for up to 10000 ms
+info: Nov-17 03:32:06.612 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connect to prov_connecting
+info: Nov-17 03:32:06.612 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connecting state for up to 20000 ms
+info: Nov-17 03:32:08.961 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connecting to prov_connected
+info: Nov-17 03:32:08.961 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connected state for up to 60000 ms
+info: 2017/11/17 03:32:08.963  Got start data from Socket Manager; hydrating it
+info: 2017/11/17 03:32:08.996  Successfully hydrated start data from Socket Manager; processing it
+info: Nov-17 03:32:09.162 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Nov-17 03:32:09.162 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connected to prov_finalize
+info: Nov-17 03:32:09.162 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalize state for up to 10000 ms
+info: Nov-17 03:32:09.163 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalize to prov_finalizing
+info: Nov-17 03:32:09.163 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalizing state for up to 10000 ms
+info: Nov-17 03:32:09.164 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalizing to connected
+info: Nov-17 03:32:09.164 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-17 03:32:09.165 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Nov-17 03:32:09.165 [EVENTLOG] fr=false, lc=false, lt=1510848955.000338
+info: Nov-17 03:32:09.165 [EVENTLOG] fetching events since 1510848955.000338 (15374.999661922455 seconds ago)
+info: 2017/11/17 03:32:10.218  Finished processing users.counts
+info: 2017/11/17 03:32:10.219  0 IMs with unreads, 0 total dm_count
+info: Nov-17 03:32:10.234 [EVENTLOG] nothing to process
+info: Nov-17 03:32:10.235 [EVENTLOG] fetched finish (cancelled? false)
+info: Nov-17 03:32:10.235 [EVENTLOG] dispatching signal and clearing timestamp
+info: Nov-17 04:53:12.244 [SOCKET-MANAGER] (T81JU9CQ5) got offline event; moving to DISCONNECT as needed
+info: Nov-17 04:53:12.245 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connected to disconnect
+info: Nov-17 04:53:12.251 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnect state for up to 10000 ms
+info: Nov-17 04:53:12.255 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnect to disconnecting
+info: Nov-17 04:53:12.256 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnecting state for up to 10000 ms
+info: Nov-17 04:53:12.259 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnecting to disconnected
+info: Nov-17 04:53:12.260 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnected state for up to 10000 ms
+info: Nov-17 04:53:12.262 [SOCKET-MANAGER] (T81JU9CQ5) Disconnected! Online? false
+info: Nov-17 04:53:12.264 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnected to wait_for_connectivity
+info: Nov-17 04:53:12.264 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_connectivity state for up to 300000 ms
+info: 2017/11/17 04:53:12.270  Hiding the reconnection banner because we are disconnected
+info: 2017/11/17 04:53:14.388  Internet connection has been re-established after 1 retry attempts; offline for NaN seconds
+info: Nov-17 04:53:14.390 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Nov-17 04:53:14.390 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Nov-17 04:53:14.398 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_rate_limit to connect
+info: Nov-17 04:53:14.398 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connect state for up to 10000 ms
+info: Nov-17 04:53:14.405 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connect to checking_fast_reconnect
+info: Nov-17 04:53:14.405 [SOCKET-MANAGER] (T81JU9CQ5) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Nov-17 04:53:15.438 [SOCKET-MANAGER] (T81JU9CQ5) Changing from checking_fast_reconnect to connecting
+info: Nov-17 04:53:15.439 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connecting state for up to 20000 ms
+info: Nov-17 04:53:17.401 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connecting to connected
+info: Nov-17 04:53:17.402 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-17 04:53:17.406 [EVENTLOG] fr=true, lc=false, lt=1510848955.000338
+info: Nov-17 04:58:32.218 [SOCKET-MANAGER] (T81JU9CQ5) got offline event; moving to DISCONNECT as needed
+info: Nov-17 04:58:32.219 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connected to disconnect
+info: Nov-17 04:58:32.220 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnect state for up to 10000 ms
+info: Nov-17 04:58:32.227 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnect to disconnecting
+info: Nov-17 04:58:32.227 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnecting state for up to 10000 ms
+info: Nov-17 04:58:32.228 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnecting to disconnected
+info: Nov-17 04:58:32.228 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnected state for up to 10000 ms
+info: Nov-17 04:58:32.230 [SOCKET-MANAGER] (T81JU9CQ5) Disconnected! Online? false
+info: Nov-17 04:58:32.230 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnected to wait_for_connectivity
+info: Nov-17 04:58:32.231 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_connectivity state for up to 300000 ms
+info: 2017/11/17 04:58:32.233  Hiding the reconnection banner because we are disconnected
+warn: 2017/11/17 04:58:33.232  Internet connection still offline after 1 attempts (browser says it is still offline)
+warn: 2017/11/17 04:58:34.233  Internet connection still offline after 2 attempts (browser says it is still offline)
+warn: 2017/11/17 08:55:20.124  Internet connection still offline after 3 attempts (browser says it is still offline)
+warn: 2017/11/17 08:55:21.125  Internet connection still offline after 4 attempts (browser says it is still offline)
+warn: 2017/11/17 08:55:22.125  Internet connection still offline after 5 attempts (browser says it is still offline)
+warn: 2017/11/17 08:55:23.126  Internet connection still offline after 6 attempts (browser says it is still offline)
+warn: 2017/11/17 08:55:24.127  Internet connection still offline after 7 attempts (browser says it is still offline)
+warn: 2017/11/17 08:55:25.128  Internet connection still offline after 8 attempts (browser says it is still offline)
+warn: 2017/11/17 08:55:26.130  Internet connection still offline after 9 attempts (unable to reach API)
+warn: 2017/11/17 08:55:27.138  Internet connection still offline after 10 attempts (unable to reach API)
+info: 2017/11/17 08:55:29.295  Internet connection has been re-established after 11 retry attempts; offline for NaN seconds
+info: Nov-17 08:55:29.296 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Nov-17 08:55:29.297 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Nov-17 08:55:29.301 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_rate_limit to connect
+info: Nov-17 08:55:29.301 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connect state for up to 10000 ms
+info: Nov-17 08:55:29.304 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connect to checking_fast_reconnect
+info: Nov-17 08:55:29.305 [SOCKET-MANAGER] (T81JU9CQ5) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Nov-17 08:55:29.309 [SOCKET-MANAGER] (T81JU9CQ5) Changing from checking_fast_reconnect to prov_connect
+info: Nov-17 08:55:29.310 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connect state for up to 10000 ms
+info: Nov-17 08:55:29.313 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connect to prov_connecting
+info: Nov-17 08:55:29.313 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connecting state for up to 20000 ms
+info: Nov-17 08:55:31.568 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connecting to prov_connected
+info: Nov-17 08:55:31.569 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connected state for up to 60000 ms
+info: 2017/11/17 08:55:31.570  Got start data from Socket Manager; hydrating it
+info: 2017/11/17 08:55:31.678  Successfully hydrated start data from Socket Manager; processing it
+info: Nov-17 08:55:31.822 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Nov-17 08:55:31.822 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connected to prov_finalize
+info: Nov-17 08:55:31.822 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalize state for up to 10000 ms
+info: Nov-17 08:55:31.823 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalize to prov_finalizing
+info: Nov-17 08:55:31.824 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalizing state for up to 10000 ms
+info: Nov-17 08:55:31.824 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalizing to connected
+info: Nov-17 08:55:31.825 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-17 08:55:31.826 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Nov-17 08:55:31.826 [EVENTLOG] fr=false, lc=false, lt=1510848955.000338
+info: Nov-17 08:55:31.826 [EVENTLOG] fetching events since 1510848955.000338 (34776.999661922455 seconds ago)
+info: 2017/11/17 08:55:32.211  Finished processing users.counts
+info: 2017/11/17 08:55:32.212  0 IMs with unreads, 0 total dm_count
+info: Nov-17 08:55:32.980 [EVENTLOG] nothing to process
+info: Nov-17 08:55:32.981 [EVENTLOG] fetched finish (cancelled? false)
+info: Nov-17 08:55:32.981 [EVENTLOG] dispatching signal and clearing timestamp
+info: Nov-17 08:55:48.968 [SOCKET-MANAGER] (T81JU9CQ5) got offline event; moving to DISCONNECT as needed
+info: Nov-17 08:55:48.975 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connected to disconnect
+info: Nov-17 08:55:48.998 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnect state for up to 10000 ms
+info: Nov-17 08:55:49.130 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnect to disconnecting
+info: Nov-17 08:55:49.150 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnecting state for up to 10000 ms
+info: Nov-17 08:55:49.210 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnecting to disconnected
+info: Nov-17 08:55:49.230 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnected state for up to 10000 ms
+info: Nov-17 08:55:49.260 [SOCKET-MANAGER] (T81JU9CQ5) Disconnected! Online? false
+info: Nov-17 08:55:49.280 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnected to wait_for_connectivity
+info: Nov-17 08:55:49.290 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_connectivity state for up to 300000 ms
+info: 2017/11/17 08:55:49.370  Hiding the reconnection banner because we are disconnected
+info: Nov-17 08:56:31.954 [SOCKET-MANAGER] (T81JU9CQ5) got offline event; moving to DISCONNECT as needed
+warn: 2017/11/17 08:56:50.370  Internet connection still offline after 1 attempts (unable to reach API)
+info: 2017/11/17 08:56:51.935  Internet connection has been re-established after 2 retry attempts; offline for NaN seconds
+info: Nov-17 08:56:51.936 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Nov-17 08:56:51.936 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Nov-17 08:56:51.938 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_rate_limit to connect
+info: Nov-17 08:56:51.939 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connect state for up to 10000 ms
+info: Nov-17 08:56:51.944 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connect to checking_fast_reconnect
+info: Nov-17 08:56:51.945 [SOCKET-MANAGER] (T81JU9CQ5) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Nov-17 08:56:52.990 [SOCKET-MANAGER] (T81JU9CQ5) Changing from checking_fast_reconnect to connecting
+info: Nov-17 08:56:52.990 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connecting state for up to 20000 ms
+info: Nov-17 08:56:55.380 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connecting to connected
+info: Nov-17 08:56:55.380 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-17 08:56:55.430 [EVENTLOG] fr=true, lc=false, lt=1510848955.000338
+info: Nov-17 09:14:40.915 [SOCKET-MANAGER] (T81JU9CQ5) got offline event; moving to DISCONNECT as needed
+info: Nov-17 09:14:40.916 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connected to disconnect
+info: Nov-17 09:14:40.918 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnect state for up to 10000 ms
+info: Nov-17 09:14:40.923 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnect to disconnecting
+info: Nov-17 09:14:40.923 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnecting state for up to 10000 ms
+info: Nov-17 09:14:40.926 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnecting to disconnected
+info: Nov-17 09:14:40.926 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnected state for up to 10000 ms
+info: Nov-17 09:14:40.928 [SOCKET-MANAGER] (T81JU9CQ5) Disconnected! Online? false
+info: Nov-17 09:14:40.929 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnected to wait_for_connectivity
+info: Nov-17 09:14:40.930 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_connectivity state for up to 300000 ms
+info: 2017/11/17 09:14:40.935  Hiding the reconnection banner because we are disconnected
+warn: 2017/11/17 09:15:41.934  Internet connection still offline after 1 attempts (unable to reach API)
+info: 2017/11/17 09:15:44.920  Internet connection has been re-established after 2 retry attempts; offline for NaN seconds
+info: Nov-17 09:15:44.920 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Nov-17 09:15:44.920 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Nov-17 09:15:44.930 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_rate_limit to connect
+info: Nov-17 09:15:44.930 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connect state for up to 10000 ms
+info: Nov-17 09:15:44.940 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connect to checking_fast_reconnect
+info: Nov-17 09:15:44.940 [SOCKET-MANAGER] (T81JU9CQ5) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Nov-17 09:15:44.493 [SOCKET-MANAGER] (T81JU9CQ5) Changing from checking_fast_reconnect to connecting
+info: Nov-17 09:15:44.494 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connecting state for up to 20000 ms
+info: Nov-17 09:15:46.498 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connecting to connected
+info: Nov-17 09:15:46.499 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-17 09:15:46.500 [EVENTLOG] fr=true, lc=false, lt=1510848955.000338
+info: Nov-17 09:18:40.822 [SOCKET-MANAGER] (T81JU9CQ5) got offline event; moving to DISCONNECT as needed
+info: Nov-17 09:18:40.823 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connected to disconnect
+info: Nov-17 09:18:40.837 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnect state for up to 10000 ms
+info: Nov-17 09:18:40.838 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnect to disconnecting
+info: Nov-17 09:18:40.843 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnecting state for up to 10000 ms
+info: Nov-17 09:18:40.845 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnecting to disconnected
+info: Nov-17 09:18:40.845 [SOCKET-MANAGER] (T81JU9CQ5) will stay in disconnected state for up to 10000 ms
+info: Nov-17 09:18:40.847 [SOCKET-MANAGER] (T81JU9CQ5) Disconnected! Online? false
+info: Nov-17 09:18:40.847 [SOCKET-MANAGER] (T81JU9CQ5) Changing from disconnected to wait_for_connectivity
+info: Nov-17 09:18:40.847 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_connectivity state for up to 300000 ms
+info: 2017/11/17 09:18:40.850  Hiding the reconnection banner because we are disconnected
+warn: 2017/11/17 09:19:41.850  Internet connection still offline after 1 attempts (unable to reach API)
+info: 2017/11/17 09:19:43.925  Internet connection has been re-established after 2 retry attempts; offline for NaN seconds
+info: Nov-17 09:19:43.925 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_connectivity to wait_for_rate_limit
+info: Nov-17 09:19:43.926 [SOCKET-MANAGER] (T81JU9CQ5) will stay in wait_for_rate_limit state for up to 120000 ms
+info: Nov-17 09:19:43.929 [SOCKET-MANAGER] (T81JU9CQ5) Changing from wait_for_rate_limit to connect
+info: Nov-17 09:19:43.934 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connect state for up to 10000 ms
+info: Nov-17 09:19:43.940 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connect to checking_fast_reconnect
+info: Nov-17 09:19:43.940 [SOCKET-MANAGER] (T81JU9CQ5) will stay in checking_fast_reconnect state for up to 60000 ms
+info: Nov-17 09:19:45.230 [SOCKET-MANAGER] (T81JU9CQ5) Changing from checking_fast_reconnect to connecting
+info: Nov-17 09:19:45.230 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connecting state for up to 20000 ms
+info: Nov-17 09:19:47.476 [SOCKET-MANAGER] (T81JU9CQ5) Changing from connecting to connected
+info: Nov-17 09:19:47.476 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-17 09:19:47.482 [EVENTLOG] fr=true, lc=false, lt=1510848955.000338
+warn: 2017/11/17 09:27:32.779  NOT going back in time on channel C82H1SWF9. last_read = 1510843114.000300 -> 1510843062.000557, reason: viewed
+info: Nov-17 09:27:38.389 [ACTION:CHANNEL-SIDEBAR] Selected C80QSNU9E
+info: Nov-17 09:27:38.427 [HISTORY] Not loading scrollback in C80QSNU9E: We have the oldest msg: 1510842903.000626. is_limited:undefined
+info: Nov-17 09:27:39.721 [HISTORY] Not loading scrollback in C80QSNU9E: We have the oldest msg: 1510842903.000626. is_limited:undefined
+info: Nov-17 09:27:45.434 [ACTION:CHANNEL-SIDEBAR] Selected C82H0CF6K
+info: Nov-17 09:27:46.584 [HISTORY] Not loading scrollback in C82H0CF6K: We have the oldest msg: 1510842903.000774. is_limited:undefined
+info: Nov-17 09:27:50.217 [ACTION:CHANNEL-SIDEBAR] Selected C80QSNU9E
+info: Nov-17 09:27:50.256 [HISTORY] Not loading scrollback in C80QSNU9E: We have the oldest msg: 1510842903.000626. is_limited:undefined
+info: Nov-17 09:28:05.943 [ACTION:CHANNEL-SIDEBAR] Selected C82H1SWF9
+info: Nov-17 09:28:05.989 [HISTORY] Not loading scrollback in C82H1SWF9: We have the oldest msg: 1510843022.000186. is_limited:undefined
+info: Nov-17 09:28:07.156 [HISTORY] Not loading scrollback in C82H1SWF9: We have the oldest msg: 1510843022.000186. is_limited:undefined
+info: Nov-17 09:28:14.890 [ACTION:CHANNEL-SIDEBAR] Selected Vinvites
+info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 2.8.2, linux 4.13.0-16-generic on x64 at 11/17/17, 09:28:58:599      ║
+info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+info: Nov-17 09:29:03.446 [BOOT] booted! pri:0 version:1510884618 start_ms:1510885743432 (14ms ago)
+info: Nov-17 09:29:03.447 [BOOT] Starting incremental boot (early)
+warn: 🐶 CSS check: no cssRules or rules defined?
+info: Nov-17 09:29:05.600 [SOCKET-MANAGER] (T81JU9CQ5) Changing from never_connected to prov_connect
+info: Nov-17 09:29:05.600 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connect state for up to 10000 ms
+info: Nov-17 09:29:05.610 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connect to prov_connecting
+info: Nov-17 09:29:05.610 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connecting state for up to 20000 ms
+info: Nov-17 09:29:05.542 [BOOT] Finalizing incremental boot
+info: Nov-17 09:29:06.366 [FLANNEL] received a user_counts_request call while we are not connected; deferring
+error: 2017/11/17 09:29:06.489 logging error: {"subtype":"api_call_error","message":"{\"ok\":false,\"error\":\"[LIB_BANNERS] Error accessing team stats\"}","stack":"Error\n    at Object.n [as logError] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.0edb3d1742dacac7daf0.min.js:1:96120)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:138745)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:133938)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:135476)\n    at XMLHttpRequest.m.onreadystatechange (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:137219)"}
+warn: 2017/11/17 09:29:06.489  args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+warn: 2017/11/17 09:29:06.490  A call to promo.banner failed
+info: Nov-17 09:29:07.789 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connecting to prov_connected
+info: Nov-17 09:29:07.790 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connected state for up to 60000 ms
+info: Nov-17 09:29:07.799 [FLANNEL] connected! Continuing deferred user_counts_request call
+info: Nov-17 09:29:07.937 [BOOT] Completed incremental boot
+info: Nov-17 09:29:08.490 [HISTORY] C82H1SWF9 HAS MORE
+info: Nov-17 09:29:08.620 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Nov-17 09:29:08.620 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connected to prov_finalize
+info: Nov-17 09:29:08.620 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalize state for up to 10000 ms
+info: Nov-17 09:29:08.640 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalize to prov_finalizing
+info: Nov-17 09:29:08.640 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalizing state for up to 10000 ms
+info: Nov-17 09:29:08.680 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalizing to connected
+info: Nov-17 09:29:08.680 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-17 09:29:08.710 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Nov-17 09:29:08.720 [BOOT] Finished first boot 3021 ms after DOM ready
+info: 2017/11/17 09:29:08.130  Team pref "display_email_addresses" -> true
+info: 2017/11/17 09:29:08.130  display_email_addresses check: pref enabled, but 0 email fields found in TS.model.members.
+error: 2017/11/17 09:29:09.109 logging error: {"subtype":"api_call_error","message":"{\"ok\":false,\"error\":\"[LIB_BANNERS] Error accessing team stats\"}","stack":"Error\n    at Object.n [as logError] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.0edb3d1742dacac7daf0.min.js:1:96120)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:138745)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:133938)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:135476)\n    at XMLHttpRequest.m.onreadystatechange (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:137219)"}
+warn: 2017/11/17 09:29:09.109  args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+error: 2017/11/17 09:29:09.110  A call to promo.banner failed likely because stats_cds is failing
+info: 2017/11/17 09:29:09.120  Finished processing users.counts
+info: 2017/11/17 09:29:09.121  0 IMs with unreads, 0 total dm_count
+info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 2.8.2, linux 4.13.0-16-generic on x64 at 11/17/17, 12:39:53:085      ║
+info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+info: Nov-17 12:39:56.407 [BOOT] booted! pri:0 version:1510895791 start_ms:1510897196400 (7ms ago)
+info: Nov-17 12:39:56.408 [BOOT] Starting incremental boot (early)
+warn: 🐶 CSS check: no cssRules or rules defined?
+info: Nov-17 12:39:58.745 [SOCKET-MANAGER] (T81JU9CQ5) Changing from never_connected to prov_connect
+info: Nov-17 12:39:58.746 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connect state for up to 10000 ms
+info: Nov-17 12:39:58.747 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connect to prov_connecting
+info: Nov-17 12:39:58.747 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connecting state for up to 20000 ms
+info: Nov-17 12:39:59.107 [BOOT] Finalizing incremental boot
+info: Nov-17 12:39:59.930 [FLANNEL] received a user_counts_request call while we are not connected; deferring
+info: Nov-17 12:39:59.978 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connecting to prov_connected
+info: Nov-17 12:39:59.978 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connected state for up to 60000 ms
+info: Nov-17 12:39:59.980 [FLANNEL] connected! Continuing deferred user_counts_request call
+error: 2017/11/17 12:40:00.124 logging error: {"subtype":"api_call_error","message":"{\"ok\":false,\"error\":\"[LIB_BANNERS] Error accessing team stats\"}","stack":"Error\n    at Object.n [as logError] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.0edb3d1742dacac7daf0.min.js:1:96120)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:138745)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:133938)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:135476)\n    at XMLHttpRequest.m.onreadystatechange (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:137219)"}
+warn: 2017/11/17 12:40:00.124  args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+warn: 2017/11/17 12:40:00.125  A call to promo.banner failed
+info: Nov-17 12:40:00.206 [BOOT] Completed incremental boot
+info: Nov-17 12:40:00.358 [HISTORY] C82H1SWF9 HAS MORE
+info: Nov-17 12:40:00.374 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Nov-17 12:40:00.375 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connected to prov_finalize
+info: Nov-17 12:40:00.375 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalize state for up to 10000 ms
+info: Nov-17 12:40:00.379 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalize to prov_finalizing
+info: Nov-17 12:40:00.379 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalizing state for up to 10000 ms
+info: Nov-17 12:40:00.381 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalizing to connected
+info: Nov-17 12:40:00.381 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-17 12:40:00.386 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Nov-17 12:40:00.387 [BOOT] Finished first boot 1653 ms after DOM ready
+warn: 2017/11/17 12:40:00.444  Email display allowed for this team, but < 50% of non-bot members (1/3) in model have email fields. Dumping LS cache to correct inconsistency.
+info: 2017/11/17 12:40:00.444  Team pref "display_email_addresses" -> true
+info: 2017/11/17 12:40:00.781  Finished processing users.counts
+info: 2017/11/17 12:40:00.781  0 IMs with unreads, 0 total dm_count
+error: 2017/11/17 12:40:02.498 logging error: {"subtype":"api_call_error","message":"{\"ok\":false,\"error\":\"[LIB_BANNERS] Error accessing team stats\"}","stack":"Error\n    at Object.n [as logError] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.0edb3d1742dacac7daf0.min.js:1:96120)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:138745)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:133938)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:135476)\n    at XMLHttpRequest.m.onreadystatechange (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:137219)"}
+warn: 2017/11/17 12:40:02.499  args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+error: 2017/11/17 12:40:02.502  A call to promo.banner failed likely because stats_cds is failing
+info: Nov-17 12:40:06.160 [ACTION:CHANNEL-SIDEBAR] Selected C80QSNU9E
+info: Nov-17 12:40:06.339 [HISTORY] Not loading scrollback in C80QSNU9E: We have the oldest msg: 1510842903.000626. is_limited:undefined
+info: Nov-17 12:40:10.786 [ACTION:CHANNEL-SIDEBAR] Selected C82H0CF6K
+info: Nov-17 12:40:11.857 [HISTORY] Not loading scrollback in C82H0CF6K: We have the oldest msg: 1510842903.000774. is_limited:undefined
+info: Nov-17 12:40:14.106 [ACTION:CHANNEL-SIDEBAR] Selected C82H1SWF9
+info: Nov-17 12:40:14.147 [HISTORY] Not loading scrollback in C82H1SWF9: We have the oldest msg: 1510843022.000186. is_limited:undefined
+info: Nov-17 12:40:19.720 [ACTION:CHANNEL-SIDEBAR] Selected D81CK19G9
+warn: 2017/11/17 12:40:20.633  getOldestValidTs(D81CK19G9): none found. msgs.length = -1
+info: Nov-17 12:40:23.737 [ACTION:CHANNEL-SIDEBAR] Selected D80UV3WC9
+warn: 2017/11/17 12:40:24.112  getOldestValidTs(D80UV3WC9): none found. msgs.length = -1
+info: Nov-17 12:40:25.865 [ACTION:CHANNEL-SIDEBAR] Selected C82H1SWF9
+info: Nov-17 12:40:25.908 [HISTORY] Not loading scrollback in C82H1SWF9: We have the oldest msg: 1510843022.000186. is_limited:undefined
+info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 2.8.2, linux 4.13.0-16-generic on x64 at 11/17/17, 12:44:41:771      ║
+info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+info: Nov-17 12:44:45.419 [BOOT] booted! pri:0 version:1510895791 start_ms:1510897485412 (7ms ago)
+info: Nov-17 12:44:45.420 [BOOT] Starting incremental boot (early)
+warn: 🐶 CSS check: no cssRules or rules defined?
+info: Nov-17 12:44:47.360 [SOCKET-MANAGER] (T81JU9CQ5) Changing from never_connected to prov_connect
+info: Nov-17 12:44:47.360 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connect state for up to 10000 ms
+info: Nov-17 12:44:47.370 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connect to prov_connecting
+info: Nov-17 12:44:47.370 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connecting state for up to 20000 ms
+info: Nov-17 12:44:47.534 [BOOT] Finalizing incremental boot
+info: Nov-17 12:44:48.406 [FLANNEL] received a user_counts_request call while we are not connected; deferring
+info: Nov-17 12:44:48.420 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connecting to prov_connected
+info: Nov-17 12:44:48.421 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connected state for up to 60000 ms
+info: Nov-17 12:44:48.422 [FLANNEL] connected! Continuing deferred user_counts_request call
+error: 2017/11/17 12:44:48.458 logging error: {"subtype":"api_call_error","message":"{\"ok\":false,\"error\":\"[LIB_BANNERS] Error accessing team stats\"}","stack":"Error\n    at Object.n [as logError] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.0edb3d1742dacac7daf0.min.js:1:96120)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:138745)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:133938)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:135476)\n    at XMLHttpRequest.m.onreadystatechange (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:137219)"}
+warn: 2017/11/17 12:44:48.458  args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+warn: 2017/11/17 12:44:48.459  A call to promo.banner failed
+info: Nov-17 12:44:48.572 [BOOT] Completed incremental boot
+info: Nov-17 12:44:48.699 [HISTORY] C82H1SWF9 HAS MORE
+info: Nov-17 12:44:48.721 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Nov-17 12:44:48.721 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connected to prov_finalize
+info: Nov-17 12:44:48.721 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalize state for up to 10000 ms
+info: Nov-17 12:44:48.726 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalize to prov_finalizing
+info: Nov-17 12:44:48.727 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalizing state for up to 10000 ms
+info: Nov-17 12:44:48.728 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalizing to connected
+info: Nov-17 12:44:48.729 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-17 12:44:48.733 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Nov-17 12:44:48.734 [BOOT] Finished first boot 1708 ms after DOM ready
+warn: 2017/11/17 12:44:48.800  Email display allowed for this team, but < 50% of non-bot members (1/3) in model have email fields. Dumping LS cache to correct inconsistency.
+info: 2017/11/17 12:44:48.800  Team pref "display_email_addresses" -> true
+info: 2017/11/17 12:44:49.174  Finished processing users.counts
+info: 2017/11/17 12:44:49.174  0 IMs with unreads, 0 total dm_count
+error: 2017/11/17 12:44:50.228 logging error: {"subtype":"api_call_error","message":"{\"ok\":false,\"error\":\"[LIB_BANNERS] Error accessing team stats\"}","stack":"Error\n    at Object.n [as logError] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.0edb3d1742dacac7daf0.min.js:1:96120)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:138745)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:133938)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:135476)\n    at XMLHttpRequest.m.onreadystatechange (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:137219)"}
+warn: 2017/11/17 12:44:50.228  args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+error: 2017/11/17 12:44:50.230  A call to promo.banner failed likely because stats_cds is failing
+info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 2.8.2, linux 4.13.0-16-generic on x64 at 11/17/17, 16:28:21:080      ║
+info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+info: Nov-17 16:28:24.785 [BOOT] booted! pri:0 version:1510895791 start_ms:1510910904777 (8ms ago)
+info: Nov-17 16:28:24.786 [BOOT] Starting incremental boot (early)
+warn: 🐶 CSS check: no cssRules or rules defined?
+info: Nov-17 16:28:26.328 [SOCKET-MANAGER] (T81JU9CQ5) Changing from never_connected to prov_connect
+info: Nov-17 16:28:26.328 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connect state for up to 10000 ms
+info: Nov-17 16:28:26.329 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connect to prov_connecting
+info: Nov-17 16:28:26.330 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connecting state for up to 20000 ms
+info: Nov-17 16:28:26.795 [BOOT] Finalizing incremental boot
+info: Nov-17 16:28:27.612 [FLANNEL] received a user_counts_request call while we are not connected; deferring
+error: 2017/11/17 16:28:27.726 logging error: {"subtype":"api_call_error","message":"{\"ok\":false,\"error\":\"[LIB_BANNERS] Error accessing team stats\"}","stack":"Error\n    at Object.n [as logError] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.0edb3d1742dacac7daf0.min.js:1:96120)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:138745)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:133938)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:135476)\n    at XMLHttpRequest.m.onreadystatechange (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:137219)"}
+warn: 2017/11/17 16:28:27.727  args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+warn: 2017/11/17 16:28:27.728  A call to promo.banner failed
+info: Nov-17 16:28:28.725 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connecting to prov_connected
+info: Nov-17 16:28:28.725 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connected state for up to 60000 ms
+info: Nov-17 16:28:28.726 [FLANNEL] connected! Continuing deferred user_counts_request call
+info: Nov-17 16:28:28.874 [BOOT] Completed incremental boot
+info: Nov-17 16:28:29.200 [HISTORY] C82H1SWF9 HAS MORE
+info: Nov-17 16:28:29.200 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Nov-17 16:28:29.210 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connected to prov_finalize
+info: Nov-17 16:28:29.210 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalize state for up to 10000 ms
+info: Nov-17 16:28:29.250 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalize to prov_finalizing
+info: Nov-17 16:28:29.260 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalizing state for up to 10000 ms
+info: Nov-17 16:28:29.270 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalizing to connected
+info: Nov-17 16:28:29.280 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-17 16:28:29.310 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Nov-17 16:28:29.320 [BOOT] Finished first boot 2713 ms after DOM ready
+warn: 2017/11/17 16:28:29.960  Email display allowed for this team, but < 50% of non-bot members (1/3) in model have email fields. Dumping LS cache to correct inconsistency.
+info: 2017/11/17 16:28:29.960  Team pref "display_email_addresses" -> true
+error: 2017/11/17 16:28:29.474 logging error: {"subtype":"api_call_error","message":"{\"ok\":false,\"error\":\"[LIB_BANNERS] Error accessing team stats\"}","stack":"Error\n    at Object.n [as logError] (https://a.slack-edge.com/bv1-1/rollup-core_required_ts.0edb3d1742dacac7daf0.min.js:1:96120)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:138745)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:133938)\n    at e (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:135476)\n    at XMLHttpRequest.m.onreadystatechange (https://a.slack-edge.com/bv1-1/rollup-secondary_a_required.a4df4fd458398f9475c6.min.js:1:137219)"}
+warn: 2017/11/17 16:28:29.474  args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+error: 2017/11/17 16:28:29.474  A call to promo.banner failed likely because stats_cds is failing
+info: 2017/11/17 16:28:29.485  Finished processing users.counts
+info: 2017/11/17 16:28:29.485  0 IMs with unreads, 0 total dm_count
+info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 2.9.0, linux 4.13.0-16-generic on x64 at 11/21/17, 21:45:44:048      ║
+info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+info: Nov-21 21:45:48.862 [BOOT] booted! pri:0 version:1511271705 start_ms:1511275548851 (11ms ago)
+info: Nov-21 21:45:48.863 [BOOT] Starting incremental boot (early)
+warn: 🐶 CSS check: no cssRules or rules defined?
+info: Nov-21 21:45:51.620 [SOCKET-MANAGER] (T81JU9CQ5) Changing from never_connected to prov_connect
+info: Nov-21 21:45:51.620 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connect state for up to 10000 ms
+info: Nov-21 21:45:51.622 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connect to prov_connecting
+info: Nov-21 21:45:51.622 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connecting state for up to 20000 ms
+info: Nov-21 21:45:52.162 [BOOT] Finalizing incremental boot
+info: Nov-21 21:45:53.170 [FLANNEL] received a user_counts_request call while we are not connected; deferring
+info: Nov-21 21:45:54.586 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connecting to prov_connected
+info: Nov-21 21:45:54.586 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_connected state for up to 60000 ms
+info: Nov-21 21:45:54.592 [FLANNEL] connected! Continuing deferred user_counts_request call
+info: Nov-21 21:45:54.743 [BOOT] Completed incremental boot
+info: Nov-21 21:45:54.865 [HISTORY] C82H1SWF9 HAS MORE
+info: Nov-21 21:45:54.879 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Nov-21 21:45:54.879 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_connected to prov_finalize
+info: Nov-21 21:45:54.879 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalize state for up to 10000 ms
+info: Nov-21 21:45:54.883 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalize to prov_finalizing
+info: Nov-21 21:45:54.883 [SOCKET-MANAGER] (T81JU9CQ5) will stay in prov_finalizing state for up to 10000 ms
+info: Nov-21 21:45:54.884 [SOCKET-MANAGER] (T81JU9CQ5) Changing from prov_finalizing to connected
+info: Nov-21 21:45:54.885 [SOCKET-MANAGER] (T81JU9CQ5) will stay in connected state for up to Infinity ms
+info: Nov-21 21:45:54.887 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Nov-21 21:45:54.889 [BOOT] Finished first boot 3279 ms after DOM ready
+warn: 2017/11/21 21:45:54.945  Email display allowed for this team, but < 50% of non-bot members (1/3) in model have email fields. Dumping LS cache to correct inconsistency.
+info: 2017/11/21 21:45:54.946  Team pref "display_email_addresses" -> true
+info: 2017/11/21 21:45:55.351  Finished processing users.counts
+info: 2017/11/21 21:45:55.352  0 IMs with unreads, 0 total dm_count
+info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 3.0.5, linux 4.13.0-32-generic on x64 at 02/20/18, 16:59:45:637      ║
+info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+info: Feb-20 17:00:03.677 [BOOT] booted! pri:0 version:1519101844 start_ms:1519120794624 (9053ms ago)
+info: Feb-20 17:00:03.679 [BOOT] Starting incremental boot (early)
+info: Feb-20 17:00:04.124 [T81JU9CQ5] SOCKET-MANAGER:  Changing from never_connected to prov_connect
+info: Feb-20 17:00:04.125 [T81JU9CQ5] SOCKET-MANAGER:  will stay in prov_connect state for up to 10000 ms
+info: Feb-20 17:00:04.125 [T81JU9CQ5] SOCKET-MANAGER:  Changing from prov_connect to prov_connecting
+info: Feb-20 17:00:04.125 [T81JU9CQ5] SOCKET-MANAGER:  will stay in prov_connecting state for up to 20000 ms
+info: Feb-20 17:00:04.987 [FOCUS-EVENT] Window focused
+info: Feb-20 17:00:05.492 [BOOT] Finalizing incremental boot
+info: Feb-20 17:00:05.810 [UNREAD-COUNTS] Counting unreads in C82H1SWF9 because (3) timestamps added
+info: Feb-20 17:00:06.490 [HISTORY-FETCH] Fetching history for message pane: C82H1SWF9
+info: Feb-20 17:00:06.630 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Feb-20 17:00:06.650 [MESSAGE-LIST] componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 3
+info: Feb-20 17:00:06.105 [FLANNEL] received a user_counts_request call while we are not connected; deferring
+info: Feb-20 17:00:06.129 [MESSAGE-LIST] componentWillReceiveProps isLoading: true isLoadingOlder: true timestamps: 3
+info: Feb-20 17:00:06.132 [CHECK-UNREADS] unreadLineVisible updated: true -> false
+info: Feb-20 17:00:06.503 [T81JU9CQ5] SOCKET-MANAGER:  Changing from prov_connecting to prov_connected
+info: Feb-20 17:00:06.504 [T81JU9CQ5] SOCKET-MANAGER:  will stay in prov_connected state for up to 60000 ms
+info: Feb-20 17:00:06.514 [FLANNEL] connected! Continuing deferred user_counts_request call
+info: Feb-20 17:00:06.520 [INFO] Got start data from Socket Manager; hydrating it
+warn: Feb-20 17:00:06.919 activity is not scalar! it needs to be handled by upsertTeam specifically to test if it has changed! object
+info: Feb-20 17:00:06.979 [BOOT] Completed incremental boot
+info: Feb-20 17:00:07.178 [CHECK-UNREADS] Checking unreads after fully booted
+info: Feb-20 17:00:07.182 [CHECK-UNREADS] Not marking C82H1SWF9, clearing ghost last_read
+info: Feb-20 17:00:08.782 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Feb-20 17:00:08.782 [T81JU9CQ5] SOCKET-MANAGER:  Changing from prov_connected to prov_finalize
+info: Feb-20 17:00:08.782 [T81JU9CQ5] SOCKET-MANAGER:  will stay in prov_finalize state for up to 10000 ms
+info: Feb-20 17:00:08.782 [T81JU9CQ5] SOCKET-MANAGER:  Changing from prov_finalize to prov_finalizing
+info: Feb-20 17:00:08.782 [T81JU9CQ5] SOCKET-MANAGER:  will stay in prov_finalizing state for up to 10000 ms
+info: Feb-20 17:00:08.783 [T81JU9CQ5] SOCKET-MANAGER:  Changing from prov_finalizing to connected
+info: Feb-20 17:00:08.783 [T81JU9CQ5] SOCKET-MANAGER:  will stay in connected state for up to Infinity ms
+info: Feb-20 17:00:08.783 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Feb-20 17:00:08.784 [BOOT] Finished first boot 4666 ms after DOM ready
+info: Feb-20 17:00:08.828 [MESSAGE-LIST] componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 3
+info: Feb-20 17:00:09.117 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Feb-20 17:00:09.459 [UNREAD-COUNTS] Completed users.counts processing
+info: Feb-20 17:00:09.519 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Feb-20 17:00:09.519 [CHECK-UNREADS] Not marking C82H1SWF9 because last_read >= latest && channel is read
+info: Feb-20 17:00:19.821 [ACTION:CHANNEL-SIDEBAR] Selected D80UV3WC9
+info: Feb-20 17:00:19.910 [MESSAGE-LIST] Switching channels: D80UV3WC9 timestamps: 0
+info: Feb-20 17:00:19.911 [MESSAGE-LIST] requestAround channelId: D80UV3WC9 isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Feb-20 17:00:19.911 [HISTORY-FETCH] Fetching history for message pane: D80UV3WC9
+info: Feb-20 17:00:19.915 [MESSAGE-LIST] requestAround channelId: D80UV3WC9 isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Feb-20 17:00:19.915 [MESSAGE-LIST] requestAround channelId: D80UV3WC9 isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Feb-20 17:00:19.928 [MESSAGE-LIST] componentWillReceiveProps isLoading: true isLoadingOlder: null timestamps: 0
+info: Feb-20 17:00:21.260 [MESSAGE-LIST] componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 0
+info: Feb-20 17:00:21.130 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Feb-20 17:00:21.486 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Feb-20 17:00:21.487 [CHECK-UNREADS] Marking D80UV3WC9 because unread line is visible
+info: Feb-20 17:00:21.502 [UNREAD-COUNTS] Counting unreads in D80UV3WC9 because last_read changed to 1519120804.000000
+info: Feb-20 17:00:22.410 [ACTION:CHANNEL-SIDEBAR] Selected C82H1SWF9
+info: Feb-20 17:00:22.441 [MESSAGE-LIST] Switching channels: C82H1SWF9 timestamps: 3
+info: Feb-20 17:00:22.467 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Feb-20 17:00:22.827 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Feb-20 17:00:22.828 [CHECK-UNREADS] Not marking C82H1SWF9 because last_read >= latest && channel is read
+info: Feb-20 17:00:27.558 [FOCUS-EVENT] Window blurred
+info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 3.1.1, linux 4.13.0-38-generic on x64 at 04/14/18, 15:59:29:456      ║
+info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+info: Apr-14 15:59:58.498 [BOOT] booted! pri:0 version:1523677171 start_ms:1523696388651 (9847ms ago)
+info: Apr-14 15:59:58.519 [BOOT] Starting incremental boot (early)
+info: Apr-14 15:59:59.500 [T81JU9CQ5] SOCKET-MANAGER: Changing from never_connected to prov_connect
+info: Apr-14 15:59:59.700 [T81JU9CQ5] SOCKET-MANAGER: will stay in prov_connect state for up to 10000 ms
+info: Apr-14 15:59:59.800 [T81JU9CQ5] SOCKET-MANAGER: Changing from prov_connect to prov_connecting
+info: Apr-14 15:59:59.900 [T81JU9CQ5] SOCKET-MANAGER: will stay in prov_connecting state for up to 35000 ms
+info: Apr-14 15:59:59.167 [FOCUS-EVENT] Window blurred
+info: Apr-14 15:59:59.793 [BOOT] Finalizing incremental boot
+info: Apr-14 15:59:59.797 [FLANNEL] received a user_counts_request call while we are not connected; deferring
+info: Apr-14 16:00:00.136 [UNREAD-COUNTS] Counting unreads in C82H1SWF9 because (3) timestamps added
+info: Apr-14 16:00:00.231 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:00:00.232 [FOCUS-EVENT] Window focused
+info: Apr-14 16:00:00.267 [BOOT-TIMING] First meaningful paint: 28307ms
+info: Apr-14 16:00:00.496 [HISTORY-FETCH] Fetching history for message pane: C82H1SWF9
+info: Apr-14 16:00:00.514 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 16:00:00.516 [MESSAGE-LIST] componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 3
+info: Apr-14 16:00:00.522 [CHECK-UNREADS] Checking unreads after window became focused
+info: Apr-14 16:00:00.523 [CHECK-UNREADS] Not marking C82H1SWF9 because not fully booted
+info: Apr-14 16:00:00.556 [FLANNEL] received a user_counts_request call while we are not connected; deferring
+info: Apr-14 16:00:00.583 [MESSAGE-LIST] componentWillReceiveProps isLoading: true isLoadingOlder: true timestamps: 3
+info: Apr-14 16:00:00.586 [CHECK-UNREADS] unreadLineVisible updated: true -> false
+info: Apr-14 16:00:00.716 [T81JU9CQ5] SOCKET-MANAGER: Changing from prov_connecting to prov_connected
+info: Apr-14 16:00:00.716 [T81JU9CQ5] SOCKET-MANAGER: will stay in prov_connected state for up to 60000 ms
+info: Apr-14 16:00:00.718 [FLANNEL] connected! Continuing deferred user_counts_request call
+info: Apr-14 16:00:00.719 [FLANNEL] connected! Continuing deferred user_counts_request call
+info: Apr-14 16:00:00.720 [INFO] Got start data from Socket Manager; hydrating it
+warn: Apr-14 16:00:00.731 activity is not scalar! it needs to be handled by upsertTeam specifically to test if it has changed! object
+info: Apr-14 16:00:00.755 [BOOT] Completed incremental boot
+info: Apr-14 16:00:00.929 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Apr-14 16:00:00.929 [T81JU9CQ5] SOCKET-MANAGER: Changing from prov_connected to prov_finalize
+info: Apr-14 16:00:00.930 [T81JU9CQ5] SOCKET-MANAGER: will stay in prov_finalize state for up to 10000 ms
+info: Apr-14 16:00:00.930 [T81JU9CQ5] SOCKET-MANAGER: Changing from prov_finalize to prov_finalizing
+info: Apr-14 16:00:00.930 [T81JU9CQ5] SOCKET-MANAGER: will stay in prov_finalizing state for up to 10000 ms
+info: Apr-14 16:00:00.931 [T81JU9CQ5] SOCKET-MANAGER: Changing from prov_finalizing to connected
+info: Apr-14 16:00:00.931 [T81JU9CQ5] SOCKET-MANAGER: will stay in connected state for up to Infinity ms
+info: Apr-14 16:00:00.932 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Apr-14 16:00:00.933 [BOOT] Finished first boot 1941 ms after DOM ready
+info: Apr-14 16:00:01.161 [CHECK-UNREADS] Checking unreads after fully booted
+info: Apr-14 16:00:01.163 [CHECK-UNREADS] Not marking C82H1SWF9, clearing ghost last_read
+info: Apr-14 16:00:01.702 [MESSAGE-LIST] componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 3
+info: Apr-14 16:00:02.191 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 16:00:02.546 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Apr-14 16:00:02.547 [CHECK-UNREADS] Marking C82H1SWF9 because unread line is visible
+info: Apr-14 16:00:02.551 [UNREAD-COUNTS] Counting unreads in C82H1SWF9 because last_read changed to 1523696400.000000
+info: Apr-14 16:00:02.811 [UNREAD-COUNTS] Completed users.counts processing
+info: Apr-14 16:00:09.596 [ACTION:CHANNEL-SIDEBAR] Selected Vall_threads
+info: Apr-14 16:00:09.619 [ALL THREADS] Starting threads view from the api
+info: Apr-14 16:00:09.994 [ALL THREADS] Processing subscriptions.thread.getView response
+info: Apr-14 16:00:18.275 [ACTION:CHANNEL-SIDEBAR] Clicked plus button for apps
+info: Apr-14 16:00:48.210 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:00:48.300 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:01:01.342 [FOCUS-EVENT] Window focused
+info: Apr-14 16:01:05.998 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:01:06.000 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:01:07.330 [FOCUS-EVENT] Window focused
+info: Apr-14 16:01:09.434 [ACTION:CHANNEL-SIDEBAR] Selected Vinvites
+info: Apr-14 16:01:12.341 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:01:12.345 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:01:13.773 [FOCUS-EVENT] Window focused
+info: Apr-14 16:01:55.564 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:01:55.567 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:02:03.878 [FOCUS-EVENT] Window focused
+info: Apr-14 16:02:05.800 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:02:05.804 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:02:13.236 [FOCUS-EVENT] Window focused
+info: Apr-14 16:02:15.384 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:02:15.386 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:02:17.387 [FOCUS-EVENT] Window focused
+info: Apr-14 16:02:18.410 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:02:18.600 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:02:31.634 [FOCUS-EVENT] Window focused
+info: Apr-14 16:02:32.395 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:02:32.401 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:03:50.430 [FOCUS-EVENT] Window focused
+info: Apr-14 16:03:53.577 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:03:53.593 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:04:38.990 [INFO] UA64N94JU joined the team
+info: Apr-14 16:04:39.160 [T81JU9CQ5] UA64N94JU joined channel C82H1SWF9
+info: Apr-14 16:04:39.520 [T81JU9CQ5] UA64N94JU joined channel C82H0CF6K
+info: Apr-14 16:04:39.135 [T81JU9CQ5] UA64N94JU joined channel C80QSNU9E
+info: Apr-14 16:05:43.712 [T81JU9CQ5] upsertBot: adding bot "BA6R5FM5G"
+info: Apr-14 16:06:28.605 [UNREAD-COUNTS] Updated unread_cnt for C80QSNU9E: 1
+info: Apr-14 16:06:32.311 [FOCUS-EVENT] Window focused
+info: Apr-14 16:06:37.700 [ACTION:CHANNEL-SIDEBAR] Selected C80QSNU9E
+info: Apr-14 16:06:37.115 [ALL THREADS] destroying threads view, clearing threads data
+info: Apr-14 16:06:37.235 [MESSAGE-LIST] requestAround channelId: C80QSNU9E isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 16:06:37.236 [HISTORY-FETCH] Fetching history for message pane: C80QSNU9E
+info: Apr-14 16:06:37.664 [CHECK-UNREADS] Checking unreads after debounced channel change to C80QSNU9E
+info: Apr-14 16:06:37.665 [CHECK-UNREADS] Not marking C80QSNU9E, clearing ghost last_read
+info: Apr-14 16:06:38.361 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (5) timestamps added
+info: Apr-14 16:06:38.369 [MESSAGE-LIST] componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 2
+info: Apr-14 16:06:38.391 [BOOT-TIMING] First meaningful paint: 426431ms
+info: Apr-14 16:06:38.391 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 16:06:38.751 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Apr-14 16:06:38.751 [CHECK-UNREADS] Marking C80QSNU9E because unread line is visible
+info: Apr-14 16:06:38.757 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because last_read changed to 1523696789.000018
+info: Apr-14 16:06:38.757 [UNREAD-COUNTS] Updated unread_cnt for C80QSNU9E: 0
+info: Apr-14 16:06:42.510 [ACTION:MESSAGE] Sent a message of length 8 to C80QSNU9E
+info: Apr-14 16:06:42.540 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:06:42.540 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:06:42.540 [CHECK-UNREADS] Not marking C80QSNU9E because last_read >= latest && channel is read
+info: Apr-14 16:06:42.481 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because message removed
+info: Apr-14 16:06:42.485 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:06:42.488 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:06:42.490 [CHECK-UNREADS] Marking C80QSNU9E because unread line is visible
+info: Apr-14 16:06:42.502 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because last_read changed to 1523696802.000085
+info: Apr-14 16:07:00.642 [ACTION:MESSAGE] Sent a message of length 51 to C80QSNU9E
+info: Apr-14 16:07:00.649 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:07:00.649 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:07:00.650 [CHECK-UNREADS] Not marking C80QSNU9E because last_read >= latest && channel is read
+info: Apr-14 16:07:00.983 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because message removed
+info: Apr-14 16:07:00.984 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:07:00.985 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:07:00.986 [CHECK-UNREADS] Marking C80QSNU9E because unread line is visible
+info: Apr-14 16:07:00.992 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because last_read changed to 1523696821.000052
+info: Apr-14 16:07:04.422 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:07:04.424 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:07:14.946 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:07:14.946 [UNREAD-COUNTS] Updated unread_cnt for C80QSNU9E: 1
+info: Apr-14 16:07:14.952 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:07:14.952 [CHECK-UNREADS] Not marking C80QSNU9E because attention not on chat (window_not_focused)
+info: Apr-14 16:08:33.355 [T81JU9CQ5] upsertBot: adding bot "BA7SM1VKR"
+info: Apr-14 16:08:33.403 [T81JU9CQ5] upsertBot: adding bot "BA6N67CAX"
+info: Apr-14 16:08:33.425 [INFO] UA6V5PGG5 joined the team
+info: Apr-14 16:09:36.640 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:09:36.650 [UNREAD-COUNTS] Updated unread_cnt for C80QSNU9E: 2
+info: Apr-14 16:09:36.670 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:09:36.700 [CHECK-UNREADS] Not marking C80QSNU9E because attention not on chat (window_not_focused)
+info: Apr-14 16:09:36.996 [INFO] Team pref "display_email_addresses" -> true
+info: Apr-14 16:09:38.434 [FOCUS-EVENT] Window focused
+info: Apr-14 16:09:38.501 [CHECK-UNREADS] Checking unreads after window became focused
+info: Apr-14 16:09:38.502 [CHECK-UNREADS] Marking C80QSNU9E because unread line is visible
+info: Apr-14 16:09:38.505 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because last_read changed to 1523696976.000064
+info: Apr-14 16:09:38.506 [UNREAD-COUNTS] Updated unread_cnt for C80QSNU9E: 0
+info: Apr-14 16:09:45.148 [ACTION:MESSAGE] Sent a message of length 7 to C80QSNU9E
+info: Apr-14 16:09:45.152 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:09:45.153 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:09:45.153 [CHECK-UNREADS] Not marking C80QSNU9E because last_read >= latest && channel is read
+info: Apr-14 16:09:45.480 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because message removed
+info: Apr-14 16:09:45.480 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:09:45.480 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:09:45.481 [CHECK-UNREADS] Marking C80QSNU9E because unread line is visible
+info: Apr-14 16:09:45.482 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because last_read changed to 1523696986.000012
+info: Apr-14 16:09:49.396 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:09:49.399 [UNREAD-COUNTS] Updated unread_cnt for C80QSNU9E: 1
+info: Apr-14 16:09:49.407 [UNREAD-COUNTS] Updated unread_highlight_cnt for C80QSNU9E: 1
+info: Apr-14 16:09:49.415 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:09:49.417 [CHECK-UNREADS] Marking C80QSNU9E because unread line is visible
+info: Apr-14 16:09:49.429 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because last_read changed to 1523696989.000073
+info: Apr-14 16:09:49.430 [UNREAD-COUNTS] Updated unread_cnt for C80QSNU9E: 0
+info: Apr-14 16:09:49.434 [UNREAD-COUNTS] Updated unread_highlight_cnt for C80QSNU9E: 0
+info: Apr-14 16:09:56.230 [ACTION:MESSAGE] Sent a message of length 41 to C80QSNU9E
+info: Apr-14 16:09:56.246 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:09:56.246 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:09:56.247 [CHECK-UNREADS] Not marking C80QSNU9E because last_read >= latest && channel is read
+info: Apr-14 16:09:56.574 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because message removed
+info: Apr-14 16:09:56.575 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:09:56.576 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:09:56.577 [CHECK-UNREADS] Marking C80QSNU9E because unread line is visible
+info: Apr-14 16:09:56.589 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because last_read changed to 1523696997.000014
+info: Apr-14 16:09:56.688 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:09:56.689 [UNREAD-COUNTS] Updated unread_cnt for C80QSNU9E: 1
+info: Apr-14 16:09:56.691 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:09:56.691 [CHECK-UNREADS] Marking C80QSNU9E because unread line is visible
+info: Apr-14 16:09:56.692 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because last_read changed to 1523696997.000015
+info: Apr-14 16:09:56.693 [UNREAD-COUNTS] Updated unread_cnt for C80QSNU9E: 0
+info: Apr-14 16:10:05.990 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because message removed
+info: Apr-14 16:10:22.573 [ACTION:MESSAGE] Sent a message of length 37 to C80QSNU9E
+info: Apr-14 16:10:22.577 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:10:22.577 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:10:22.578 [CHECK-UNREADS] Not marking C80QSNU9E because last_read >= latest && channel is read
+info: Apr-14 16:10:23.126 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because message removed
+info: Apr-14 16:10:23.129 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:10:23.133 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:10:23.136 [CHECK-UNREADS] Marking C80QSNU9E because unread line is visible
+info: Apr-14 16:10:23.147 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because last_read changed to 1523697023.000044
+info: Apr-14 16:10:34.770 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:10:34.790 [UNREAD-COUNTS] Updated unread_cnt for C80QSNU9E: 1
+info: Apr-14 16:10:34.820 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:10:34.830 [CHECK-UNREADS] Marking C80QSNU9E because unread line is visible
+info: Apr-14 16:10:34.860 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because last_read changed to 1523697034.000067
+info: Apr-14 16:10:34.860 [UNREAD-COUNTS] Updated unread_cnt for C80QSNU9E: 0
+info: Apr-14 16:10:35.161 [ACTION:MESSAGE] Sent a message of length 40 to C80QSNU9E
+info: Apr-14 16:10:35.163 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:10:35.163 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:10:35.164 [CHECK-UNREADS] Not marking C80QSNU9E because last_read >= latest && channel is read
+info: Apr-14 16:10:35.618 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because message removed
+info: Apr-14 16:10:35.619 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:10:35.620 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:10:35.621 [CHECK-UNREADS] Marking C80QSNU9E because unread line is visible
+info: Apr-14 16:10:35.629 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because last_read changed to 1523697036.000007
+info: Apr-14 16:10:43.490 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:10:43.491 [UNREAD-COUNTS] Updated unread_cnt for C80QSNU9E: 1
+info: Apr-14 16:10:43.495 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:10:43.495 [CHECK-UNREADS] Marking C80QSNU9E because unread line is visible
+info: Apr-14 16:10:43.497 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because last_read changed to 1523697043.000048
+info: Apr-14 16:10:43.497 [UNREAD-COUNTS] Updated unread_cnt for C80QSNU9E: 0
+info: Apr-14 16:11:13.299 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:11:13.300 [UNREAD-COUNTS] Updated unread_cnt for C80QSNU9E: 1
+info: Apr-14 16:11:13.305 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:11:13.305 [CHECK-UNREADS] Marking C80QSNU9E because unread line is visible
+info: Apr-14 16:11:13.310 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because last_read changed to 1523697073.000090
+info: Apr-14 16:11:13.310 [UNREAD-COUNTS] Updated unread_cnt for C80QSNU9E: 0
+info: Apr-14 16:11:19.184 [ACTION:MESSAGE] Sent a message of length 8 to C80QSNU9E
+info: Apr-14 16:11:19.189 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:11:19.190 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:11:19.191 [CHECK-UNREADS] Not marking C80QSNU9E because last_read >= latest && channel is read
+info: Apr-14 16:11:19.527 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because message removed
+info: Apr-14 16:11:19.528 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because (1) timestamps added
+info: Apr-14 16:11:19.529 [UNREAD-COUNTS] Checking unreads in C80QSNU9E after a new message
+info: Apr-14 16:11:19.531 [CHECK-UNREADS] Marking C80QSNU9E because unread line is visible
+info: Apr-14 16:11:19.536 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because last_read changed to 1523697080.000005
+info: Apr-14 16:11:21.350 [ACTION:CHANNEL-SIDEBAR] Selected DA7MY9RJS
+info: Apr-14 16:11:21.113 [MESSAGE-LIST] Switching channels: DA7MY9RJS timestamps: 0
+info: Apr-14 16:11:21.114 [MESSAGE-LIST] requestAround channelId: DA7MY9RJS isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 16:11:21.114 [HISTORY-FETCH] Fetching history for message pane: DA7MY9RJS
+info: Apr-14 16:11:21.118 [MESSAGE-LIST] requestAround channelId: DA7MY9RJS isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 16:11:21.118 [MESSAGE-LIST] requestAround channelId: DA7MY9RJS isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 16:11:21.132 [MESSAGE-LIST] requestAround channelId: DA7MY9RJS isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 16:11:21.133 [MESSAGE-LIST] requestAround channelId: DA7MY9RJS isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 16:11:21.133 [MESSAGE-LIST] requestAround channelId: DA7MY9RJS isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 16:11:21.135 [MESSAGE-LIST] componentWillReceiveProps isLoading: true isLoadingOlder: null timestamps: 0
+info: Apr-14 16:11:21.590 [MESSAGE-LIST] componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 0
+info: Apr-14 16:11:21.671 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 16:11:22.330 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Apr-14 16:11:22.340 [CHECK-UNREADS] Marking DA7MY9RJS because unread line is visible
+info: Apr-14 16:11:22.489 [ACTION:MESSAGE] Sent a message of length 5 to DA7MY9RJS
+info: Apr-14 16:11:22.494 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:11:22.494 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:11:22.494 [CHECK-UNREADS] Marking DA7MY9RJS because unread line is visible
+info: Apr-14 16:11:22.805 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because message removed
+info: Apr-14 16:11:22.806 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:11:22.806 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:11:22.807 [CHECK-UNREADS] Marking DA7MY9RJS because unread line is visible
+info: Apr-14 16:11:22.814 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because last_read changed to 1523697083.000033
+info: Apr-14 16:11:22.877 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:11:22.877 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:11:22.877 [CHECK-UNREADS] Marking DA7MY9RJS because unread line is visible
+info: Apr-14 16:11:22.879 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because last_read changed to 1523697083.000038
+info: Apr-14 16:11:24.000 [ACTION:MESSAGE] Sent a message of length 6 to DA7MY9RJS
+info: Apr-14 16:11:24.140 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:11:24.170 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:11:24.200 [CHECK-UNREADS] Not marking DA7MY9RJS because last_read >= latest && channel is read
+info: Apr-14 16:11:24.358 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because message removed
+info: Apr-14 16:11:24.359 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:11:24.360 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:11:24.360 [CHECK-UNREADS] Marking DA7MY9RJS because unread line is visible
+info: Apr-14 16:11:24.367 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because last_read changed to 1523697084.000086
+warn: %cUnhandled rejection TypeError: Cannot read property 'split' of undefined
+    at /usr/lib/slack/resources/app.asar/node_modules/electron-spellchecker/lib/spell-check-handler.js:478:26
+    at Generator.next (<anonymous>)
+    at step (/usr/lib/slack/resources/app.asar/node_modules/electron-spellchecker/lib/spell-check-handler.js:73:191)
+    at /usr/lib/slack/resources/app.asar/node_modules/electron-spellchecker/lib/spell-check-handler.js:73:437
+    at O.C [as _execute] (https://a.slack-edge.com/bv1-2/rollup-core_required_libs.c0dc38f60627b10d1857.min.js:1:298879)
+    at O._resolveFromExecutor (https://a.slack-edge.com/bv1-2/rollup-core_required_libs.c0dc38f60627b10d1857.min.js:1:329165)
+    at new O (https://a.slack-edge.com/bv1-2/rollup-core_required_libs.c0dc38f60627b10d1857.min.js:1:322889)
+    at /usr/lib/slack/resources/app.asar/node_modules/electron-spellchecker/lib/spell-check-handler.js:73:99
+    at SpellCheckHandler.loadDictionaryForLanguageWithAlternatives (/usr/lib/slack/resources/app.asar/node_modules/electron-spellchecker/lib/spell-check-handler.js:509:7)
+    at /usr/lib/slack/resources/app.asar/node_modules/electron-spellchecker/lib/spell-check-handler.js:437:34
+    at Generator.next (<anonymous>)
+    at step (/usr/lib/slack/resources/app.asar/node_modules/electron-spellchecker/lib/spell-check-handler.js:73:191)
+    at /usr/lib/slack/resources/app.asar/node_modules/electron-spellchecker/lib/spell-check-handler.js:73:437
+    at O.C [as _execute] (https://a.slack-edge.com/bv1-2/rollup-core_required_libs.c0dc38f60627b10d1857.min.js:1:298879)
+    at O._resolveFromExecutor (https://a.slack-edge.com/bv1-2/rollup-core_required_libs.c0dc38f60627b10d1857.min.js:1:329165)
+    at new O (https://a.slack-edge.com/bv1-2/rollup-core_required_libs.c0dc38f60627b10d1857.min.js:1:322889)
+info: Apr-14 16:11:39.428 [ACTION:MESSAGE] Sent a message of length 25 to DA7MY9RJS
+info: Apr-14 16:11:39.433 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:11:39.434 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:11:39.434 [CHECK-UNREADS] Not marking DA7MY9RJS because last_read >= latest && channel is read
+info: Apr-14 16:11:39.830 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because message removed
+info: Apr-14 16:11:39.831 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:11:39.832 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:11:39.833 [CHECK-UNREADS] Marking DA7MY9RJS because unread line is visible
+info: Apr-14 16:11:39.840 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because last_read changed to 1523697100.000053
+info: Apr-14 16:11:47.540 [ACTION:MESSAGE] Sent a message of length 44 to DA7MY9RJS
+info: Apr-14 16:11:47.548 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:11:47.548 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:11:47.549 [CHECK-UNREADS] Not marking DA7MY9RJS because last_read >= latest && channel is read
+info: Apr-14 16:11:48.116 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because message removed
+info: Apr-14 16:11:48.117 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:11:48.118 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:11:48.119 [CHECK-UNREADS] Marking DA7MY9RJS because unread line is visible
+info: Apr-14 16:11:48.127 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because last_read changed to 1523697108.000042
+info: Apr-14 16:11:50.598 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:11:50.600 [UNREAD-COUNTS] Updated unread_cnt for DA7MY9RJS: 1
+info: Apr-14 16:11:50.610 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:11:50.611 [CHECK-UNREADS] Marking DA7MY9RJS because unread line is visible
+info: Apr-14 16:11:50.620 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because last_read changed to 1523697111.000021
+info: Apr-14 16:11:50.621 [UNREAD-COUNTS] Updated unread_cnt for DA7MY9RJS: 0
+info: Apr-14 16:11:57.481 [ACTION:CHANNEL-SIDEBAR] Selected C80QSNU9E
+info: Apr-14 16:11:57.593 [MESSAGE-LIST] Switching channels: C80QSNU9E timestamps: 15
+info: Apr-14 16:11:57.649 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 16:11:58.190 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Apr-14 16:11:58.220 [CHECK-UNREADS] Not marking C80QSNU9E because last_read >= latest && channel is read
+info: Apr-14 16:11:59.725 [ACTION:CHANNEL-SIDEBAR] Selected DA7MY9RJS
+info: Apr-14 16:11:59.768 [MESSAGE-LIST] Switching channels: DA7MY9RJS timestamps: 6
+info: Apr-14 16:11:59.799 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 16:12:00.157 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Apr-14 16:12:00.158 [CHECK-UNREADS] Not marking DA7MY9RJS because last_read >= latest && channel is read
+info: Apr-14 16:12:21.698 [ACTION:MESSAGE] Sent a message of length 79 to DA7MY9RJS
+info: Apr-14 16:12:21.702 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:12:21.702 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:12:21.702 [CHECK-UNREADS] Not marking DA7MY9RJS because last_read >= latest && channel is read
+info: Apr-14 16:12:22.111 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because message removed
+info: Apr-14 16:12:22.112 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:12:22.113 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:12:22.114 [CHECK-UNREADS] Marking DA7MY9RJS because unread line is visible
+info: Apr-14 16:12:22.122 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because last_read changed to 1523697142.000040
+info: Apr-14 16:12:34.801 [ACTION:MESSAGE] Sent a message of length 71 to DA7MY9RJS
+info: Apr-14 16:12:34.808 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:12:34.809 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:12:34.810 [CHECK-UNREADS] Not marking DA7MY9RJS because last_read >= latest && channel is read
+info: Apr-14 16:12:35.323 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because message removed
+info: Apr-14 16:12:35.324 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:12:35.325 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:12:35.325 [CHECK-UNREADS] Marking DA7MY9RJS because unread line is visible
+info: Apr-14 16:12:35.329 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because last_read changed to 1523697155.000084
+info: Apr-14 16:12:52.700 [ACTION:CHANNEL-SIDEBAR] Selected Vall_threads
+info: Apr-14 16:12:52.732 [ALL THREADS] Starting threads view from the api
+info: Apr-14 16:12:53.260 [ALL THREADS] Processing subscriptions.thread.getView response
+info: Apr-14 16:12:53.762 [UNREAD-COUNTS] Updated unread_cnt for DA7MY9RJS: 1
+info: Apr-14 16:12:58.116 [ACTION:CHANNEL-SIDEBAR] Selected DA7MY9RJS
+info: Apr-14 16:12:58.148 [ALL THREADS] destroying threads view, clearing threads data
+info: Apr-14 16:12:58.217 [BOOT-TIMING] First meaningful paint: 806257ms
+info: Apr-14 16:12:58.453 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 16:12:58.708 [CHECK-UNREADS] Checking unreads after debounced channel change to DA7MY9RJS
+info: Apr-14 16:12:58.709 [CHECK-UNREADS] Marking DA7MY9RJS because unread line is visible
+info: Apr-14 16:12:58.714 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because last_read changed to 1523697174.000028
+info: Apr-14 16:12:58.715 [UNREAD-COUNTS] Updated unread_cnt for DA7MY9RJS: 0
+info: Apr-14 16:12:58.804 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Apr-14 16:12:58.804 [CHECK-UNREADS] Not marking DA7MY9RJS because last_read >= latest && channel is read
+info: Apr-14 16:13:07.691 [ACTION:MESSAGE] Sent a message of length 3 to DA7MY9RJS
+info: Apr-14 16:13:07.694 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:13:07.694 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:13:07.694 [CHECK-UNREADS] Not marking DA7MY9RJS because last_read >= latest && channel is read
+info: Apr-14 16:13:08.195 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because message removed
+info: Apr-14 16:13:08.197 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:13:08.198 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:13:08.200 [CHECK-UNREADS] Marking DA7MY9RJS because unread line is visible
+info: Apr-14 16:13:08.211 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because last_read changed to 1523697188.000046
+info: Apr-14 16:13:20.540 [ACTION:MESSAGE] Sent a message of length 45 to DA7MY9RJS
+info: Apr-14 16:13:20.548 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:13:20.549 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:13:20.550 [CHECK-UNREADS] Not marking DA7MY9RJS because last_read >= latest && channel is read
+info: Apr-14 16:13:21.920 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because message removed
+info: Apr-14 16:13:21.930 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (1) timestamps added
+info: Apr-14 16:13:21.930 [UNREAD-COUNTS] Checking unreads in DA7MY9RJS after a new message
+info: Apr-14 16:13:21.940 [CHECK-UNREADS] Marking DA7MY9RJS because unread line is visible
+info: Apr-14 16:13:21.101 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because last_read changed to 1523697201.000040
+info: Apr-14 16:13:22.752 [ACTION:CHANNEL-SIDEBAR] Selected D8DCRC1DL
+info: Apr-14 16:13:22.779 [MESSAGE-LIST] Switching channels: D8DCRC1DL timestamps: 0
+info: Apr-14 16:13:22.780 [MESSAGE-LIST] requestAround channelId: D8DCRC1DL isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 16:13:22.780 [HISTORY-FETCH] Fetching history for message pane: D8DCRC1DL
+info: Apr-14 16:13:22.784 [MESSAGE-LIST] requestAround channelId: D8DCRC1DL isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 16:13:22.784 [MESSAGE-LIST] requestAround channelId: D8DCRC1DL isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 16:13:22.796 [MESSAGE-LIST] componentWillReceiveProps isLoading: true isLoadingOlder: null timestamps: 0
+info: Apr-14 16:13:23.374 [MESSAGE-LIST] componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 0
+info: Apr-14 16:13:23.380 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 16:13:23.736 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Apr-14 16:13:23.737 [CHECK-UNREADS] Marking D8DCRC1DL because unread line is visible
+info: Apr-14 16:13:23.742 [UNREAD-COUNTS] Counting unreads in D8DCRC1DL because last_read changed to 1523696400.000000
+info: Apr-14 16:13:23.927 [ACTION:CHANNEL-SIDEBAR] Selected DA7MY9RJS
+info: Apr-14 16:13:23.980 [MESSAGE-LIST] Switching channels: DA7MY9RJS timestamps: 11
+info: Apr-14 16:13:24.530 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 16:13:24.415 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Apr-14 16:13:24.415 [CHECK-UNREADS] Not marking DA7MY9RJS because last_read >= latest && channel is read
+info: Apr-14 16:13:35.517 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:13:35.522 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:13:39.725 [FOCUS-EVENT] Window focused
+info: Apr-14 16:13:39.744 [CHECK-UNREADS] Checking unreads after window became focused
+info: Apr-14 16:13:39.744 [CHECK-UNREADS] Not marking DA7MY9RJS because last_read >= latest && channel is read
+info: Apr-14 16:13:41.362 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:13:41.368 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:14:41.506 [FOCUS-EVENT] Window focused
+info: Apr-14 16:14:41.532 [CHECK-UNREADS] Checking unreads after window became focused
+info: Apr-14 16:14:41.533 [CHECK-UNREADS] Not marking DA7MY9RJS because last_read >= latest && channel is read
+info: Apr-14 16:14:44.696 [ACTION:CHANNEL-SIDEBAR] Selected DA7MYSLBY
+info: Apr-14 16:14:44.882 [MESSAGE-LIST] Switching channels: DA7MYSLBY timestamps: 0
+info: Apr-14 16:14:44.883 [MESSAGE-LIST] requestAround channelId: DA7MYSLBY isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 16:14:44.883 [HISTORY-FETCH] Fetching history for message pane: DA7MYSLBY
+info: Apr-14 16:14:44.890 [MESSAGE-LIST] requestAround channelId: DA7MYSLBY isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 16:14:44.890 [MESSAGE-LIST] requestAround channelId: DA7MYSLBY isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 16:14:44.914 [MESSAGE-LIST] componentWillReceiveProps isLoading: true isLoadingOlder: null timestamps: 0
+info: Apr-14 16:14:45.510 [MESSAGE-LIST] componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 0
+info: Apr-14 16:14:45.541 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 16:14:45.900 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Apr-14 16:14:45.900 [CHECK-UNREADS] Marking DA7MYSLBY because unread line is visible
+info: Apr-14 16:15:01.922 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 16:15:02.282 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Apr-14 16:15:02.283 [CHECK-UNREADS] Marking DA7MYSLBY because unread line is visible
+info: Apr-14 16:15:02.545 [ACTION:MESSAGE] Sent a message of length 5 to DA7MYSLBY
+info: Apr-14 16:15:02.548 [UNREAD-COUNTS] Counting unreads in DA7MYSLBY because (1) timestamps added
+info: Apr-14 16:15:02.548 [UNREAD-COUNTS] Checking unreads in DA7MYSLBY after a new message
+info: Apr-14 16:15:02.549 [CHECK-UNREADS] Marking DA7MYSLBY because unread line is visible
+info: Apr-14 16:15:02.564 [BOOT-TIMING] First meaningful paint: 930604ms
+info: Apr-14 16:15:02.881 [UNREAD-COUNTS] Counting unreads in DA7MYSLBY because message removed
+info: Apr-14 16:15:02.882 [UNREAD-COUNTS] Counting unreads in DA7MYSLBY because (1) timestamps added
+info: Apr-14 16:15:02.883 [UNREAD-COUNTS] Checking unreads in DA7MYSLBY after a new message
+info: Apr-14 16:15:02.884 [CHECK-UNREADS] Marking DA7MYSLBY because unread line is visible
+info: Apr-14 16:15:02.894 [UNREAD-COUNTS] Counting unreads in DA7MYSLBY because last_read changed to 1523697303.000068
+info: Apr-14 16:15:03.905 [UNREAD-COUNTS] Counting unreads in DA7MYSLBY because (1) timestamps added
+info: Apr-14 16:15:03.906 [UNREAD-COUNTS] Updated unread_cnt for DA7MYSLBY: 1
+info: Apr-14 16:15:03.916 [UNREAD-COUNTS] Checking unreads in DA7MYSLBY after a new message
+info: Apr-14 16:15:03.917 [CHECK-UNREADS] Marking DA7MYSLBY because unread line is visible
+info: Apr-14 16:15:03.932 [UNREAD-COUNTS] Counting unreads in DA7MYSLBY because last_read changed to 1523697304.000037
+info: Apr-14 16:15:03.934 [UNREAD-COUNTS] Updated unread_cnt for DA7MYSLBY: 0
+info: Apr-14 16:15:03.973 [UNREAD-COUNTS] Counting unreads in DA7MYSLBY because (1) timestamps added
+info: Apr-14 16:15:03.975 [UNREAD-COUNTS] Updated unread_cnt for DA7MYSLBY: 1
+info: Apr-14 16:15:03.988 [UNREAD-COUNTS] Checking unreads in DA7MYSLBY after a new message
+info: Apr-14 16:15:03.990 [CHECK-UNREADS] Marking DA7MYSLBY because unread line is visible
+info: Apr-14 16:15:03.998 [UNREAD-COUNTS] Counting unreads in DA7MYSLBY because last_read changed to 1523697304.000048
+info: Apr-14 16:15:04.000 [UNREAD-COUNTS] Updated unread_cnt for DA7MYSLBY: 0
+info: Apr-14 16:15:12.567 [ACTION:MESSAGE] Sent a message of length 4 to DA7MYSLBY
+info: Apr-14 16:15:12.569 [UNREAD-COUNTS] Counting unreads in DA7MYSLBY because (1) timestamps added
+info: Apr-14 16:15:12.570 [UNREAD-COUNTS] Checking unreads in DA7MYSLBY after a new message
+info: Apr-14 16:15:12.570 [CHECK-UNREADS] Not marking DA7MYSLBY because last_read >= latest && channel is read
+info: Apr-14 16:15:12.860 [UNREAD-COUNTS] Counting unreads in DA7MYSLBY because message removed
+info: Apr-14 16:15:12.861 [UNREAD-COUNTS] Counting unreads in DA7MYSLBY because (1) timestamps added
+info: Apr-14 16:15:12.862 [UNREAD-COUNTS] Checking unreads in DA7MYSLBY after a new message
+info: Apr-14 16:15:12.863 [CHECK-UNREADS] Marking DA7MYSLBY because unread line is visible
+info: Apr-14 16:15:12.867 [UNREAD-COUNTS] Counting unreads in DA7MYSLBY because last_read changed to 1523697313.000038
+info: Apr-14 16:15:13.212 [UNREAD-COUNTS] Counting unreads in DA7MYSLBY because (1) timestamps added
+info: Apr-14 16:15:13.213 [UNREAD-COUNTS] Updated unread_cnt for DA7MYSLBY: 1
+info: Apr-14 16:15:13.223 [UNREAD-COUNTS] Checking unreads in DA7MYSLBY after a new message
+info: Apr-14 16:15:13.224 [CHECK-UNREADS] Marking DA7MYSLBY because unread line is visible
+info: Apr-14 16:15:13.228 [UNREAD-COUNTS] Counting unreads in DA7MYSLBY because last_read changed to 1523697313.000071
+info: Apr-14 16:15:13.229 [UNREAD-COUNTS] Updated unread_cnt for DA7MYSLBY: 0
+info: Apr-14 16:15:13.289 [UNREAD-COUNTS] Counting unreads in DA7MYSLBY because (1) timestamps added
+info: Apr-14 16:15:13.290 [UNREAD-COUNTS] Updated unread_cnt for DA7MYSLBY: 1
+info: Apr-14 16:15:13.292 [UNREAD-COUNTS] Checking unreads in DA7MYSLBY after a new message
+info: Apr-14 16:15:13.292 [CHECK-UNREADS] Marking DA7MYSLBY because unread line is visible
+info: Apr-14 16:15:13.294 [UNREAD-COUNTS] Counting unreads in DA7MYSLBY because last_read changed to 1523697313.000079
+info: Apr-14 16:15:13.294 [UNREAD-COUNTS] Updated unread_cnt for DA7MYSLBY: 0
+info: Apr-14 16:15:16.957 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:15:16.966 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:15:18.104 [UNREAD-COUNTS] Counting unreads in C80QSNU9E because last_read changed to 1523697314.000000
+info: Apr-14 16:15:22.216 [FOCUS-EVENT] Window focused
+info: Apr-14 16:15:22.263 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:15:22.265 [FOCUS-EVENT] Window focused
+info: Apr-14 16:15:22.272 [CHECK-UNREADS] Checking unreads after window became focused
+info: Apr-14 16:15:22.272 [CHECK-UNREADS] Not marking DA7MYSLBY because last_read >= latest && channel is read
+info: Apr-14 16:15:22.272 [CHECK-UNREADS] Checking unreads after window became focused
+info: Apr-14 16:15:22.273 [CHECK-UNREADS] Not marking DA7MYSLBY because last_read >= latest && channel is read
+info: Apr-14 16:15:22.276 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:15:23.145 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:15:23.147 [FOCUS-EVENT] Window blurred
+info: Apr-14 16:15:24.135 [FOCUS-EVENT] Window focused
+info: Apr-14 16:15:24.145 [CHECK-UNREADS] Checking unreads after window became focused
+info: Apr-14 16:15:24.145 [CHECK-UNREADS] Not marking DA7MYSLBY because last_read >= latest && channel is read
+info: Apr-14 16:15:27.866 [ACTION:CHANNEL-SIDEBAR] Selected DA7MY9RJS
+info: Apr-14 16:15:27.917 [MESSAGE-LIST] Switching channels: DA7MY9RJS timestamps: 11
+info: Apr-14 16:15:27.960 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 16:15:28.327 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Apr-14 16:15:28.328 [CHECK-UNREADS] Not marking DA7MY9RJS because last_read >= latest && channel is read
+info: Apr-14 16:15:36.719 [FOCUS-EVENT] Window blurred
+info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 3.1.1, linux 4.13.0-38-generic on x64 at 04/14/18, 17:53:00:506      ║
+info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+info: Apr-14 17:53:07.352 [BOOT] booted! pri:0 version:1523677171 start_ms:1523703185414 (1937ms ago)
+info: Apr-14 17:53:07.366 [BOOT] Starting incremental boot (early)
+info: Apr-14 17:53:07.727 [T81JU9CQ5] SOCKET-MANAGER: Changing from never_connected to prov_connect
+info: Apr-14 17:53:07.728 [T81JU9CQ5] SOCKET-MANAGER: will stay in prov_connect state for up to 10000 ms
+info: Apr-14 17:53:07.729 [T81JU9CQ5] SOCKET-MANAGER: Changing from prov_connect to prov_connecting
+info: Apr-14 17:53:07.730 [T81JU9CQ5] SOCKET-MANAGER: will stay in prov_connecting state for up to 35000 ms
+info: Apr-14 17:53:09.400 [FOCUS-EVENT] Window focused
+info: Apr-14 17:53:09.459 [BOOT] Finalizing incremental boot
+info: Apr-14 17:53:09.464 [FLANNEL] received a user_counts_request call while we are not connected; deferring
+info: Apr-14 17:53:09.788 [UNREAD-COUNTS] Counting unreads in DA7MY9RJS because (15) timestamps added
+info: Apr-14 17:53:09.826 [BOOT-TIMING] First meaningful paint: 7158ms
+info: Apr-14 17:53:09.998 [HISTORY-FETCH] Fetching history for message pane: DA7MY9RJS
+info: Apr-14 17:53:10.130 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 17:53:10.140 [MESSAGE-LIST] componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 15
+info: Apr-14 17:53:10.350 [T81JU9CQ5] SOCKET-MANAGER: Changing from prov_connecting to prov_connected
+info: Apr-14 17:53:10.350 [T81JU9CQ5] SOCKET-MANAGER: will stay in prov_connected state for up to 60000 ms
+info: Apr-14 17:53:10.370 [FLANNEL] connected! Continuing deferred user_counts_request call
+info: Apr-14 17:53:10.380 [INFO] Got start data from Socket Manager; hydrating it
+warn: Apr-14 17:53:10.530 activity is not scalar! it needs to be handled by upsertTeam specifically to test if it has changed! object
+info: Apr-14 17:53:10.900 [BOOT] Completed incremental boot
+info: Apr-14 17:53:10.206 [BOOT] _maybeFinalizeOrOpenConnectionToMS will finalize SocketManager
+info: Apr-14 17:53:10.207 [T81JU9CQ5] SOCKET-MANAGER: Changing from prov_connected to prov_finalize
+info: Apr-14 17:53:10.207 [T81JU9CQ5] SOCKET-MANAGER: will stay in prov_finalize state for up to 10000 ms
+info: Apr-14 17:53:10.207 [T81JU9CQ5] SOCKET-MANAGER: Changing from prov_finalize to prov_finalizing
+info: Apr-14 17:53:10.207 [T81JU9CQ5] SOCKET-MANAGER: will stay in prov_finalizing state for up to 10000 ms
+info: Apr-14 17:53:10.207 [T81JU9CQ5] SOCKET-MANAGER: Changing from prov_finalizing to connected
+info: Apr-14 17:53:10.208 [T81JU9CQ5] SOCKET-MANAGER: will stay in connected state for up to Infinity ms
+info: Apr-14 17:53:10.208 [BOOT] _maybeFinalizeOrOpenConnectionToMS did finalize SocketManager
+info: Apr-14 17:53:10.209 [BOOT] Finished first boot 2489 ms after DOM ready
+info: Apr-14 17:53:10.302 [MESSAGE-LIST] componentWillReceiveProps isLoading: true isLoadingOlder: true timestamps: 15
+info: Apr-14 17:53:10.316 [CHECK-UNREADS] unreadLineVisible updated: true -> false
+info: Apr-14 17:53:10.446 [CHECK-UNREADS] Checking unreads after fully booted
+info: Apr-14 17:53:10.447 [CHECK-UNREADS] Not marking DA7MY9RJS, clearing ghost last_read
+info: Apr-14 17:53:11.543 [MESSAGE-LIST] componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 15
+info: Apr-14 17:53:11.838 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 17:53:11.986 [UNREAD-COUNTS] Completed users.counts processing
+info: Apr-14 17:53:12.216 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Apr-14 17:53:12.217 [CHECK-UNREADS] Not marking DA7MY9RJS because last_read >= latest && channel is read
+info: Apr-14 17:53:18.333 [CHECK-UNREADS] unreadLineVisible updated: true -> false
+info: Apr-14 17:53:18.784 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 17:53:19.134 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Apr-14 17:53:19.135 [CHECK-UNREADS] Not marking DA7MY9RJS because last_read >= latest && channel is read
+info: Apr-14 17:53:26.202 [ACTION:CHANNEL-SIDEBAR] Selected Vall_threads
+info: Apr-14 17:53:26.225 [ALL THREADS] Starting threads view from the api
+info: Apr-14 17:53:26.818 [ALL THREADS] Processing subscriptions.thread.getView response
+info: Apr-14 17:53:29.338 [FOCUS-EVENT] Window blurred
+info: Apr-14 17:53:29.346 [FOCUS-EVENT] Window blurred
+info: Apr-14 17:54:32.340 [FOCUS-EVENT] Window focused
+info: Apr-14 17:54:35.493 [ACTION:CHANNEL-SIDEBAR] Selected D81CF520K
+info: Apr-14 17:54:35.522 [ALL THREADS] destroying threads view, clearing threads data
+info: Apr-14 17:54:35.550 [MESSAGE-LIST] requestAround channelId: D81CF520K isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 17:54:35.550 [HISTORY-FETCH] Fetching history for message pane: D81CF520K
+info: Apr-14 17:54:35.566 [MESSAGE-LIST] componentWillReceiveProps isLoading: true isLoadingOlder: null timestamps: 0
+info: Apr-14 17:54:36.868 [UNREAD-COUNTS] Counting unreads in D81CF520K because (2) timestamps added
+info: Apr-14 17:54:36.876 [MESSAGE-LIST] componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 2
+info: Apr-14 17:54:36.937 [BOOT-TIMING] First meaningful paint: 94269ms
+info: Apr-14 17:54:36.937 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 17:54:37.308 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Apr-14 17:54:37.309 [CHECK-UNREADS] Not marking D81CF520K because last_read >= latest && channel is read
+info: Apr-14 17:54:45.956 [ACTION:MESSAGE] Sent a message of length 12 to D81CF520K
+info: Apr-14 17:54:45.958 [UNREAD-COUNTS] Counting unreads in D81CF520K because (1) timestamps added
+info: Apr-14 17:54:45.958 [UNREAD-COUNTS] Checking unreads in D81CF520K after a new message
+info: Apr-14 17:54:45.959 [CHECK-UNREADS] Not marking D81CF520K because last_read >= latest && channel is read
+info: Apr-14 17:54:46.518 [UNREAD-COUNTS] Counting unreads in D81CF520K because message removed
+info: Apr-14 17:54:46.518 [UNREAD-COUNTS] Counting unreads in D81CF520K because (1) timestamps added
+info: Apr-14 17:54:46.519 [UNREAD-COUNTS] Checking unreads in D81CF520K after a new message
+info: Apr-14 17:54:46.519 [CHECK-UNREADS] Marking D81CF520K because unread line is visible
+info: Apr-14 17:54:46.523 [UNREAD-COUNTS] Counting unreads in D81CF520K because last_read changed to 1523703286.000007
+info: Apr-14 17:54:46.745 [UNREAD-COUNTS] Counting unreads in D81CF520K because (1) timestamps added
+info: Apr-14 17:54:46.756 [UNREAD-COUNTS] Updated unread_cnt for D81CF520K: 1
+info: Apr-14 17:54:46.763 [UNREAD-COUNTS] Checking unreads in D81CF520K after a new message
+info: Apr-14 17:54:46.763 [CHECK-UNREADS] Marking D81CF520K because unread line is visible
+info: Apr-14 17:54:46.768 [UNREAD-COUNTS] Counting unreads in D81CF520K because last_read changed to 1523703286.000027
+info: Apr-14 17:54:46.768 [UNREAD-COUNTS] Updated unread_cnt for D81CF520K: 0
+info: Apr-14 17:54:54.920 [ACTION:CLIENT-UI] Mark active channel read
+info: Apr-14 17:55:08.186 [ACTION:MESSAGE] Sent a message of length 13 to D81CF520K
+info: Apr-14 17:55:08.188 [UNREAD-COUNTS] Counting unreads in D81CF520K because (1) timestamps added
+info: Apr-14 17:55:08.188 [UNREAD-COUNTS] Checking unreads in D81CF520K after a new message
+info: Apr-14 17:55:08.188 [CHECK-UNREADS] Not marking D81CF520K because last_read >= latest && channel is read
+info: Apr-14 17:55:08.640 [UNREAD-COUNTS] Counting unreads in D81CF520K because message removed
+info: Apr-14 17:55:08.640 [UNREAD-COUNTS] Counting unreads in D81CF520K because (1) timestamps added
+info: Apr-14 17:55:08.641 [UNREAD-COUNTS] Checking unreads in D81CF520K after a new message
+info: Apr-14 17:55:08.641 [CHECK-UNREADS] Marking D81CF520K because unread line is visible
+info: Apr-14 17:55:08.647 [UNREAD-COUNTS] Counting unreads in D81CF520K because last_read changed to 1523703308.000009
+info: Apr-14 17:55:08.695 [UNREAD-COUNTS] Counting unreads in D81CF520K because (1) timestamps added
+info: Apr-14 17:55:08.695 [UNREAD-COUNTS] Updated unread_cnt for D81CF520K: 1
+info: Apr-14 17:55:08.699 [UNREAD-COUNTS] Checking unreads in D81CF520K after a new message
+info: Apr-14 17:55:08.700 [CHECK-UNREADS] Marking D81CF520K because unread line is visible
+info: Apr-14 17:55:08.703 [UNREAD-COUNTS] Counting unreads in D81CF520K because last_read changed to 1523703308.000015
+info: Apr-14 17:55:08.703 [UNREAD-COUNTS] Updated unread_cnt for D81CF520K: 0
+info: Apr-14 17:55:18.545 [FOCUS-EVENT] Window blurred
+info: Apr-14 17:55:18.549 [FOCUS-EVENT] Window blurred
+info: Apr-14 17:55:25.278 [FOCUS-EVENT] Window focused
+info: Apr-14 17:55:25.288 [CHECK-UNREADS] Checking unreads after window became focused
+info: Apr-14 17:55:25.288 [CHECK-UNREADS] Not marking D81CF520K because last_read >= latest && channel is read
+info: Apr-14 17:55:26.524 [FOCUS-EVENT] Window blurred
+info: Apr-14 17:55:26.532 [FOCUS-EVENT] Window blurred
+info: Apr-14 17:55:26.893 [FOCUS-EVENT] Window focused
+info: Apr-14 17:55:26.912 [CHECK-UNREADS] Checking unreads after window became focused
+info: Apr-14 17:55:26.912 [CHECK-UNREADS] Not marking D81CF520K because last_read >= latest && channel is read
+info: Apr-14 17:55:29.450 [ACTION:CLIENT-UI] Mark active channel read
+info: Apr-14 17:55:29.927 [FOCUS-EVENT] Window blurred
+info: Apr-14 17:56:11.971 [FOCUS-EVENT] Window focused
+info: Apr-14 17:56:11.982 [CHECK-UNREADS] Checking unreads after window became focused
+info: Apr-14 17:56:11.983 [CHECK-UNREADS] Not marking D81CF520K because last_read >= latest && channel is read
+info: Apr-14 17:56:15.620 [ACTION:CHANNEL-SIDEBAR] Selected C80QSNU9E
+info: Apr-14 17:56:15.111 [MESSAGE-LIST] Switching channels: C80QSNU9E timestamps: 0
+info: Apr-14 17:56:15.111 [MESSAGE-LIST] requestAround channelId: C80QSNU9E isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 17:56:15.111 [HISTORY-FETCH] Fetching history for message pane: C80QSNU9E
+info: Apr-14 17:56:15.114 [MESSAGE-LIST] requestAround channelId: C80QSNU9E isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 17:56:15.114 [MESSAGE-LIST] requestAround channelId: C80QSNU9E isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 17:56:15.128 [MESSAGE-LIST] requestAround channelId: C80QSNU9E isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 17:56:15.129 [MESSAGE-LIST] requestAround channelId: C80QSNU9E isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 17:56:15.129 [MESSAGE-LIST] requestAround channelId: C80QSNU9E isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 17:56:15.130 [MESSAGE-LIST] componentWillReceiveProps isLoading: true isLoadingOlder: null timestamps: 0
+info: Apr-14 17:56:16.896 [MESSAGE-LIST] componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 15
+info: Apr-14 17:56:17.390 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 17:56:17.760 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Apr-14 17:56:17.760 [CHECK-UNREADS] Not marking C80QSNU9E because last_read >= latest && channel is read
+info: Apr-14 17:56:22.511 [INFO] Opening conversation 1523696835.000047 in C80QSNU9E
+info: Apr-14 17:56:23.463 [INFO] Rendering thread 1523696835.000047, 1 messages (has_more: false)
+info: Apr-14 17:56:37.380 [ACTION:CHANNEL-SIDEBAR] Selected DA7MYSLBY
+info: Apr-14 17:56:37.100 [MESSAGE-LIST] Switching channels: DA7MYSLBY timestamps: 0
+info: Apr-14 17:56:37.101 [MESSAGE-LIST] requestAround channelId: DA7MYSLBY isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 17:56:37.101 [HISTORY-FETCH] Fetching history for message pane: DA7MYSLBY
+info: Apr-14 17:56:37.104 [MESSAGE-LIST] requestAround channelId: DA7MYSLBY isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 17:56:37.104 [MESSAGE-LIST] requestAround channelId: DA7MYSLBY isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 17:56:37.117 [MESSAGE-LIST] requestAround channelId: DA7MYSLBY isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 17:56:37.118 [MESSAGE-LIST] requestAround channelId: DA7MYSLBY isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 17:56:37.118 [MESSAGE-LIST] requestAround channelId: DA7MYSLBY isLoading: false timestamps: 0 reachedStart: false reachedEnd: false
+info: Apr-14 17:56:37.119 [MESSAGE-LIST] componentWillReceiveProps isLoading: true isLoadingOlder: null timestamps: 0
+info: Apr-14 17:56:38.546 [T81JU9CQ5] bulkUpsertBot: adding bot "BA6N67CAX"
+info: Apr-14 17:56:38.847 [UNREAD-COUNTS] Counting unreads in DA7MYSLBY because (6) timestamps added
+info: Apr-14 17:56:38.858 [MESSAGE-LIST] componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 6
+info: Apr-14 17:56:38.920 [CHECK-UNREADS] unreadLineVisible updated: false -> true
+info: Apr-14 17:56:39.280 [CHECK-UNREADS] Checking unreads after unread line became visible
+info: Apr-14 17:56:39.281 [CHECK-UNREADS] Not marking DA7MYSLBY because last_read >= latest && channel is read
+info: Apr-14 17:56:39.777 [ACTION:CHANNEL-SIDEBAR] Selected Vall_threads
+info: Apr-14 17:56:39.801 [ALL THREADS] Starting threads view from the api
+info: Apr-14 17:56:41.320 [ALL THREADS] Processing subscriptions.thread.getView response
+error: 2018/4/14 17:57:20.231 logging error: {"subtype":"api_call_error","message":"{\"ok\":false,\"error\":\"no_emailtoken\"}","stack":"Error\n    at Object.n [as logError] (https://a.slack-edge.com/bv1-2/rollup-core_required_ts.1f03fb73ae11d80dea05.min.js:1:68026)\n    at e (https://a.slack-edge.com/bv1-2/rollup-secondary_a_required.21e34e4bb3f5940891a1.min.js:1:136929)\n    at e (https://a.slack-edge.com/bv1-2/rollup-secondary_a_required.21e34e4bb3f5940891a1.min.js:1:132124)\n    at e (https://a.slack-edge.com/bv1-2/rollup-secondary_a_required.21e34e4bb3f5940891a1.min.js:1:133719)\n    at XMLHttpRequest.d.onreadystatechange (https://a.slack-edge.com/bv1-2/rollup-secondary_a_required.21e34e4bb3f5940891a1.min.js:1:135417)"}
+warn: Apr-14 17:57:20.234 args/data logging skipped, run with ?log_api_failures=1 to enable full logging
+info: Apr-14 17:59:15.813 [FOCUS-EVENT] Window blurred
+info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+info: ║      Slack 3.1.1, linux 4.15.0-15-generic on x64 at 04/17/18, 13:56:32:912      ║
+info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+error: Uncaught ReferenceError: TSSSB is not defined

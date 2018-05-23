@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<braseroproject>
+	<version>0.2</version>
+	<label>Pantoprazole Tablets</label>
+	<track>
+		<data>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Sweetman - Pantoprazole.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FSweetman%2520-%2520Pantoprazole.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/Schillinger, 2007.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FSchillinger%2C%25202007.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/Xie, 2005.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FXie%2C%25202005.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/PT Novell Pharm Labs, 2017 - Pantoprazole BE.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FPT%2520Novell%2520Pharm%2520Labs%2C%25202017%2520-%2520Pantoprazole%2520BE.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/Gomes, 2011.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FGomes%2C%25202011.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/Sweetman, 2009.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FSweetman%2C%25202009.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Regula, 2006.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FRegula%2C%25202006.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Fitton, 1996.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FFitton%2C%25201996.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/Shukla, 2014.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FShukla%2C%25202014.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Scholten, 2007.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FScholten%2C%25202007.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Takeda 2017 - SPC.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FTakeda%25202017%2520-%2520SPC.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/2.4 Pantoprazole Tablet Nonclinical Overview.docx</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2F2.4%2520Pantoprazole%2520Tablet%2520Nonclinical%2520Overview.docx</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/Breedveld, 2004.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FBreedveld%2C%25202004.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/1.4.2 Pantoprazole Tablet CV Nonclinical.doc</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2F1.4.2%2520Pantoprazole%2520Tablet%2520CV%2520Nonclinical.doc</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Ducrotte, 2007.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FDucrotte%2C%25202007.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/2.5 Pantoprazole Tablet Clinical Overview.doc</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2F2.5%2520Pantoprazole%2520Tablet%2520Clinical%2520Overview.doc</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/Savarino, 2009.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FSavarino%2C%25202009.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Adamek, 1998.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FAdamek%2C%25201998.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Takeda 2017 - Panto IV Monograph.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FTakeda%25202017%2520-%2520Panto%2520IV%2520Monograph.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/1.4.3 Pantoprazole Tablet CV Clinical.doc</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2F1.4.3%2520Pantoprazole%2520Tablet%2520CV%2520Clinical.doc</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Caro, 2001.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FCaro%2C%25202001.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Lexicomp - Pantoprazole Sodium AHFS DI.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FLexicomp%2520-%2520Pantoprazole%2520Sodium%2520AHFS%2520DI.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/Patel, 2013.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FPatel%2C%25202013.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Bardhan, 2004.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FBardhan%2C%25202004.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/Shirazi, 2014.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FShirazi%2C%25202014.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/McEvoy, 2014.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FMcEvoy%2C%25202014.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Nava-Ocampo, 2006.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FNava-Ocampo%2C%25202006.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/McEvoy, 2014.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FMcEvoy%2C%25202014.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/EMA, 2014.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FEMA%2C%25202014.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/Masubuchi, 1997.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FMasubuchi%2C%25201997.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/Takeda, 2016 (Pantoloc).pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FTakeda%2C%25202016%2520%28Pantoloc%29.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/Limaye, 2016.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FLimaye%2C%25202016.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/PT Novell Pharm Labs, 2017 - Pantoprazole BE.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FPT%2520Novell%2520Pharm%2520Labs%2C%25202017%2520-%2520Pantoprazole%2520BE.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Labenz, 1997.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FLabenz%2C%25201997.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/Sandoz, 2015.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FSandoz%2C%25202015.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Monnikes, 2005.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FMonnikes%2C%25202005.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Scholten, 2005.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FScholten%2C%25202005.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Muller, 1992 - abstract.png</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FMuller%2C%25201992%2520-%2520abstract.png</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/Goodman and Gilman, 2011.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FGoodman%2520and%2520Gilman%2C%25202011.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Choi, 2007.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FChoi%2C%25202007.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/Jungnickel, 2000.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FJungnickel%2C%25202000.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Dajani, 1999.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FDajani%2C%25201999.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Diav-Citrin, 2005.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FDiav-Citrin%2C%25202005.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Nonclinical Overview/Kumar, 2016.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FKumar%2C%25202016.pdf</uri>
+			</graft>
+			<graft>
+				<path>/Pantoprazole 40 mg Enteric-Coated Tablets/References - Clinical Overview/Shin, 2004.pdf</path>
+				<uri>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FShin%2C%25202004.pdf</uri>
+			</graft>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FSweetman%2520-%2520Pantoprazole.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FSchillinger%2C%25202007.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FXie%2C%25202005.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FPT%2520Novell%2520Pharm%2520Labs%2C%25202017%2520-%2520Pantoprazole%2520BE.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FGomes%2C%25202011.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FSweetman%2C%25202009.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FRegula%2C%25202006.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FFitton%2C%25201996.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FShukla%2C%25202014.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FScholten%2C%25202007.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FTakeda%25202017%2520-%2520SPC.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2F2.4%2520Pantoprazole%2520Tablet%2520Nonclinical%2520Overview.docx</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FBreedveld%2C%25202004.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2F1.4.2%2520Pantoprazole%2520Tablet%2520CV%2520Nonclinical.doc</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FDucrotte%2C%25202007.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2F2.5%2520Pantoprazole%2520Tablet%2520Clinical%2520Overview.doc</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FSavarino%2C%25202009.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FAdamek%2C%25201998.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FTakeda%25202017%2520-%2520Panto%2520IV%2520Monograph.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2F1.4.3%2520Pantoprazole%2520Tablet%2520CV%2520Clinical.doc</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FCaro%2C%25202001.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FLexicomp%2520-%2520Pantoprazole%2520Sodium%2520AHFS%2520DI.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FPatel%2C%25202013.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FBardhan%2C%25202004.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FShirazi%2C%25202014.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FMcEvoy%2C%25202014.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FNava-Ocampo%2C%25202006.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FMcEvoy%2C%25202014.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FEMA%2C%25202014.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FMasubuchi%2C%25201997.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FTakeda%2C%25202016%2520(Pantoloc).pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FLimaye%2C%25202016.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FPT%2520Novell%2520Pharm%2520Labs%2C%25202017%2520-%2520Pantoprazole%2520BE.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FLabenz%2C%25201997.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FSandoz%2C%25202015.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FMonnikes%2C%25202005.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FScholten%2C%25202005.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FMuller%2C%25201992%2520-%2520abstract.png</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FGoodman%2520and%2520Gilman%2C%25202011.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FChoi%2C%25202007.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FJungnickel%2C%25202000.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FDajani%2C%25201999.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FDiav-Citrin%2C%25202005.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Nonclinical%2520Overview%2FKumar%2C%25202016.pdf</excluded>
+			<excluded>file%3A%2F%2F%2Fmedia%2Fhubbi%2FFlashNexus%2FPantoprazole%2FPantoprazole%252040%2520mg%2520Enteric-Coated%2520Tablets%2FReferences%2520-%2520Clinical%2520Overview%2FShin%2C%25202004.pdf</excluded>
+		</data>
+	</track>
+</braseroproject>

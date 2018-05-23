@@ -1,0 +1,463 @@
+[error  ] UserConfig: Could not read user config file '/home/hubbi/.config/supertuxkart/0.8.2/config.xml'.
+[info   ] [FileManager]: Data files will be fetched from: '/usr/share/games/supertuxkart/data/'
+[info   ] [FileManager]: User directory is '/home/hubbi/.config/supertuxkart/0.8.2/'.
+[info   ] [FileManager]: Addons files will be stored in '/home/hubbi/.local/share/supertuxkart/addons/'.
+[info   ] [FileManager]: Screenshots will be stored in '/home/hubbi/.cache/supertuxkart/screenshots/'.
+[info   ] [FileManager]: User-defined grand prix will be stored in '/home/hubbi/.local/share/supertuxkart/grandprix/'.
+[info   ] [FileManager]: Asset 0 will be loaded from '/usr/share/games/supertuxkart/data/challenges/'.
+[info   ] [FileManager]: Asset 1 will be loaded from '/usr/share/games/supertuxkart/data/gfx/'.
+[info   ] [FileManager]: Asset 2 will be loaded from '/usr/share/games/supertuxkart/data/grandprix/'.
+[info   ] [FileManager]: Asset 3 will be loaded from '/usr/share/games/supertuxkart/data/gui/'.
+[info   ] [FileManager]: Asset 4 will be loaded from '/usr/share/games/supertuxkart/data/library/'.
+[info   ] [FileManager]: Asset 5 will be loaded from '/usr/share/games/supertuxkart/data/models/'.
+[info   ] [FileManager]: Asset 6 will be loaded from '/usr/share/games/supertuxkart/data/music/'.
+[info   ] [FileManager]: Asset 7 will be loaded from '/usr/share/games/supertuxkart/data/replay/'.
+[info   ] [FileManager]: Asset 8 will be loaded from '/usr/share/games/supertuxkart/data/tracks/'.
+[info   ] [FileManager]: Asset 9 will be loaded from '/usr/share/games/supertuxkart/data/sfx/'.
+[info   ] [FileManager]: Asset 10 will be loaded from '/usr/share/games/supertuxkart/data/shaders/'.
+[info   ] [FileManager]: Asset 11 will be loaded from '/usr/share/games/supertuxkart/data/skins/'.
+[info   ] [FileManager]: Asset 12 will be loaded from '/usr/share/games/supertuxkart/data/textures/'.
+[info   ] [FileManager]: Asset 13 will be loaded from '/usr/share/games/supertuxkart/data/ttf/'.
+[info   ] [FileManager]: Asset 14 will be loaded from '/usr/share/games/supertuxkart/data/po/'.
+[verbose  ] translation: Env var LANGUAGE = 'en_US.UTF-8'.
+[verbose  ] translation: Language 'English (United States)'.
+[warn   ] [IrrDriver Temp Logger]: Level 2: No doublebuffering available.
+
+[warn   ] [IrrDriver Temp Logger]: Level 3: Fatal error, could not get visual.
+
+[warn   ] [IrrDriver Temp Logger]: Level 2: No doublebuffering available.
+
+[warn   ] [IrrDriver Temp Logger]: Level 3: Fatal error, could not get visual.
+
+[warn   ] [IrrDriver Temp Logger]: Level 2: No doublebuffering available.
+
+[warn   ] [IrrDriver Temp Logger]: Level 3: Fatal error, could not get visual.
+
+[warn   ] [IrrDriver Temp Logger]: Level 3: Vertex shader compilation failed at position -1:
+
+
+[warn   ] [IrrDriver Temp Logger]: Level 3: Pixel shader compilation failed at position -1:
+
+
+[warn   ] [IrrDriver Temp Logger]: Level 3: Vertex shader compilation failed at position -1:
+
+
+[warn   ] [IrrDriver Temp Logger]: Level 3: Pixel shader compilation failed at position -1:
+
+
+[warn   ] [IrrDriver Temp Logger]: Level 3: Vertex shader compilation failed at position -1:
+
+
+[warn   ] [IrrDriver Temp Logger]: Level 3: Pixel shader compilation failed at position -1:
+
+
+[verbose  ] irr_driver: An invalid resolution was set in the config file, reverting to saner values
+
+[info   ] IrrDriver: OpenGL version: 4.5
+[info   ] IrrDriver: OpenGL vendor: Intel Open Source Technology Center
+[info   ] IrrDriver: OpenGL renderer: Mesa DRI Intel(R) HD Graphics 520 (Skylake GT2) 
+[info   ] IrrDriver: OpenGL version string: 4.5 (Core Profile) Mesa 17.2.2
+[info   ] GLDriver: AMD Vertex Shader Layer Present
+[info   ] GLDriver: ARB Buffer Storage Present
+[info   ] GLDriver: ARB Base Instance Present
+[info   ] GLDriver: ARB Draw Indirect Present
+[info   ] GLDriver: ARB Compute Shader Present
+[info   ] GLDriver: ARB Arrays of Arrays Present
+[info   ] GLDriver: ARB Texture Storage Present
+[info   ] GLDriver: ARB Texture View Present
+[info   ] GLDriver: ARB Image Load Store Present
+[info   ] GLDriver: ARB Shader Atomic Counters Present
+[info   ] GLDriver: ARB Shader Storage Buffer Object Present
+[info   ] GLDriver: ARB Multi Draw Indirect Present
+[info   ] GLDriver: EXT Texture Compression S3TC Present
+[info   ] GLDriver: ARB Uniform Buffer Object Present
+[info   ] GLDriver: ARB Explicit Attrib Location Present
+[info   ] GLDriver: Geometry Shaders Present
+[info   ] irr_driver: GLSL supported.
+[info   ] Freetype Environment: Loading fonts...
+[info   ] Freetype Environment: DPI for Normal Font is 21.
+[info   ] Freetype Environment: DPI for Title Font is 36.
+[info   ] Freetype Environment: DPI for Digit Font is 32.
+[warn   ] [IrrDriver Temp Logger]: Level 2: PNG warning: iCCP: known incorrect sRGB profile
+
+[warn   ] [IrrDriver Temp Logger]: Level 2: PNG warning: iCCP: known incorrect sRGB profile
+
+[warn   ] [IrrDriver Temp Logger]: Level 2: PNG warning: iCCP: known incorrect sRGB profile
+
+[warn   ] [IrrDriver Temp Logger]: Level 2: PNG warning: iCCP: known incorrect sRGB profile
+
+[warn   ] [IrrDriver Temp Logger]: Level 2: PNG warning: iCCP: known incorrect sRGB profile
+
+[warn   ] [IrrDriver Temp Logger]: Level 2: PNG warning: iCCP: known incorrect sRGB profile
+
+[info   ] ScalableFont::loadTTF: Created 15 glyphs supporting 16 characters for high-res digits font Sigmar using 1 glyph page(s).
+[info   ] ScalableFont::loadTTF: Created 94 glyphs supporting 152 characters for bold title font FreeSans using 1 glyph page(s).
+[info   ] ScalableFont::loadTTF: Created 98 glyphs supporting 101 characters for normal font Cantarell using 1 glyph page(s).
+[info   ] shader: Compiling shader : texturedquad.vert
+[info   ] shader: Compiling shader : texturedquad.frag
+[info   ] shader: Compiling shader : texturedquad.vert
+[info   ] shader: Compiling shader : uniformcolortexturedquad.frag
+[info   ] shader: Compiling shader : colortexturedquad.vert
+[info   ] shader: Compiling shader : colortexturedquad.frag
+[info   ] player_manager: A new players.xml file will be created.
+[info   ] Highscore Manager: New highscore file '/home/hubbi/.config/supertuxkart/0.8.2/highscore.xml' created.
+
+[info   ] GrandPrixManager: Loading Grand Prix files from /usr/share/games/supertuxkart/data/grandprix/
+[info   ] GrandPrixManager: Loading Grand Prix files from /home/hubbi/.local/share/supertuxkart/grandprix/
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[warn   ] EventHandler: Error while loading kart 'Adiumy':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Amanda':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Emule':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'Photoshop ICC profile': 'RGB ': RGB color space not permitted on grayscale PNG
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'Photoshop ICC profile': 'RGB ': RGB color space not permitted on grayscale PNG
+[warn   ] EventHandler: Error while loading kart 'Gavroche':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Hexley':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Konqi':
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'Photoshop ICC profile': 'RGB ': RGB color space not permitted on grayscale PNG
+[warn   ] EventHandler: Error while loading kart 'Konqi':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Konqi':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Konqi':
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'Photoshop ICC profile': 'RGB ': RGB color space not permitted on grayscale PNG
+[warn   ] EventHandler: Error while loading kart 'Konqi':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Konqi':
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'Photoshop ICC profile': 'RGB ': RGB color space not permitted on grayscale PNG
+[warn   ] EventHandler: Error while loading kart 'Konqi':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Tux':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Tux':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Tux':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Tux':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Tux':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Tux':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Tux':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: Error while loading kart 'Tux':
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[info   ] shader: Compiling shader : coloredquad.vert
+[info   ] shader: Compiling shader : coloredquad.frag
+[info   ] HTTPRequest: Downloading http://addons.supertuxkart.net/dl/xml/news.xml
+[info   ] HTTPRequest: Downloading http://addons.supertuxkart.net/dl/xml/news.xml
+[error  ] news: Error downloading news: 'Failure when receiving data from the peer'.
+[info   ] [FileManager]: Creating directory(ies) '/home/hubbi/.cache/supertuxkart/cached-textures/hd/tux/'
+[info   ] [FileManager]: Checking for: '/
+[info   ] [FileManager]: Checking for: '/home/
+[info   ] [FileManager]: Checking for: '/home/hubbi/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/
+[info   ] FileManager: Creating directory '/home/hubbi/.cache/supertuxkart/cached-textures/hd/'.
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/tux/
+[info   ] FileManager: Creating directory '/home/hubbi/.cache/supertuxkart/cached-textures/hd/tux/'.
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : utils/encode_normal.frag
+[info   ] shader: Compiling shader : object_pass1.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : utils/encode_normal.frag
+[info   ] shader: Compiling shader : objectref_pass1.frag
+[info   ] shader: Compiling shader : grass_pass.vert
+[info   ] shader: Compiling shader : utils/encode_normal.frag
+[info   ] shader: Compiling shader : objectref_pass1.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : utils/encode_normal.frag
+[info   ] shader: Compiling shader : normalmap.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_object_pass.vert
+[info   ] shader: Compiling shader : utils/encode_normal.frag
+[info   ] shader: Compiling shader : instanced_object_pass1.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_object_pass.vert
+[info   ] shader: Compiling shader : utils/encode_normal.frag
+[info   ] shader: Compiling shader : instanced_objectref_pass1.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_grass.vert
+[info   ] shader: Compiling shader : utils/encode_normal.frag
+[info   ] shader: Compiling shader : instanced_objectref_pass1.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_object_pass.vert
+[info   ] shader: Compiling shader : utils/encode_normal.frag
+[info   ] shader: Compiling shader : instanced_normalmap.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : utils/decodeNormal.frag
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : utils/DiffuseIBL.frag
+[info   ] shader: Compiling shader : utils/SpecularIBL.frag
+[info   ] shader: Compiling shader : degraded_ibl.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : utils/decodeNormal.frag
+[info   ] shader: Compiling shader : utils/SpecularBRDF.frag
+[info   ] shader: Compiling shader : utils/DiffuseBRDF.frag
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : utils/SunMRP.frag
+[info   ] shader: Compiling shader : sunlight.frag
+[info   ] shader: Compiling shader : pointlight.vert
+[info   ] shader: Compiling shader : utils/decodeNormal.frag
+[info   ] shader: Compiling shader : utils/SpecularBRDF.frag
+[info   ] shader: Compiling shader : utils/DiffuseBRDF.frag
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : pointlight.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : object_pass2.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : objectref_pass2.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : object_unlit.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : splatting.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : objectpass_spheremap.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : detailed_object_pass2.frag
+[info   ] shader: Compiling shader : grass_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : grass_pass2.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : instanced_object_pass2.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : instanced_objectref_pass2.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_object_pass.vert
+[info   ] shader: Compiling shader : instanced_object_unlit.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : instanced_objectpass_spheremap.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_object_pass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : instanced_detailed_object_pass2.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : instanced_grass.vert
+[info   ] shader: Compiling shader : utils/getLightFactor.frag
+[info   ] shader: Compiling shader : instanced_grass_pass2.frag
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : transparent.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : passthrough.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : utils/getRGBfromCIEXxy.frag
+[info   ] shader: Compiling shader : utils/getCIEXYZ.frag
+[info   ] shader: Compiling shader : tonemap.frag
+[info   ] [FileManager]: Creating directory(ies) '/home/hubbi/.cache/supertuxkart/cached-textures/hd/sara_the_wizard/'
+[info   ] [FileManager]: Checking for: '/
+[info   ] [FileManager]: Checking for: '/home/
+[info   ] [FileManager]: Checking for: '/home/hubbi/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/sara_the_wizard/
+[info   ] FileManager: Creating directory '/home/hubbi/.cache/supertuxkart/cached-textures/hd/sara_the_wizard/'.
+[verbose  ] RaceManager: Nb of karts=5, ghost karts:0 ai:4 players:1
+
+[info   ] Singleton: Destroyed singleton.
+[warn   ] EventHandler: While loading track '/usr/share/games/supertuxkart/data/tracks/olivermath/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: While loading track '/usr/share/games/supertuxkart/data/tracks/olivermath/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : importance_sampling_specular.frag
+[info   ] [FileManager]: Creating directory(ies) '/home/hubbi/.cache/supertuxkart/cached-textures/hd/textures/'
+[info   ] [FileManager]: Checking for: '/
+[info   ] [FileManager]: Checking for: '/home/
+[info   ] [FileManager]: Checking for: '/home/hubbi/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/textures/
+[info   ] FileManager: Creating directory '/home/hubbi/.cache/supertuxkart/cached-textures/hd/textures/'.
+[info   ] [FileManager]: Creating directory(ies) '/home/hubbi/.cache/supertuxkart/cached-textures/hd/models/'
+[info   ] [FileManager]: Checking for: '/
+[info   ] [FileManager]: Checking for: '/home/
+[info   ] [FileManager]: Checking for: '/home/hubbi/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/models/
+[info   ] FileManager: Creating directory '/home/hubbi/.cache/supertuxkart/cached-textures/hd/models/'.
+[info   ] [FileManager]: Creating directory(ies) '/home/hubbi/.cache/supertuxkart/cached-textures/hd/olivermath/'
+[info   ] [FileManager]: Checking for: '/
+[info   ] [FileManager]: Checking for: '/home/
+[info   ] [FileManager]: Checking for: '/home/hubbi/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/olivermath/
+[info   ] FileManager: Creating directory '/home/hubbi/.cache/supertuxkart/cached-textures/hd/olivermath/'.
+[info   ] [FileManager]: Creating directory(ies) '/home/hubbi/.cache/supertuxkart/cached-textures/hd/sara_the_racer/'
+[info   ] [FileManager]: Checking for: '/
+[info   ] [FileManager]: Checking for: '/home/
+[info   ] [FileManager]: Checking for: '/home/hubbi/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/sara_the_racer/
+[info   ] FileManager: Creating directory '/home/hubbi/.cache/supertuxkart/cached-textures/hd/sara_the_racer/'.
+[info   ] [FileManager]: Creating directory(ies) '/home/hubbi/.cache/supertuxkart/cached-textures/hd/konqi/'
+[info   ] [FileManager]: Checking for: '/
+[info   ] [FileManager]: Checking for: '/home/
+[info   ] [FileManager]: Checking for: '/home/hubbi/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/konqi/
+[info   ] FileManager: Creating directory '/home/hubbi/.cache/supertuxkart/cached-textures/hd/konqi/'.
+[info   ] [FileManager]: Creating directory(ies) '/home/hubbi/.cache/supertuxkart/cached-textures/hd/adiumy/'
+[info   ] [FileManager]: Checking for: '/
+[info   ] [FileManager]: Checking for: '/home/
+[info   ] [FileManager]: Checking for: '/home/hubbi/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/adiumy/
+[info   ] FileManager: Creating directory '/home/hubbi/.cache/supertuxkart/cached-textures/hd/adiumy/'.
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : fog.frag
+[info   ] shader: Compiling shader : sky.vert
+[info   ] shader: Compiling shader : sky.frag
+[info   ] shader: Compiling shader : pointlight.vert
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : pointlightscatter.frag
+[info   ] shader: Compiling shader : gaussian6v.comp
+[info   ] shader: Compiling shader : gaussian6h.comp
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : transparentfog.frag
+[info   ] shader: Compiling shader : pointemitter.vert
+[info   ] shader: Compiling shader : particle.vert
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : particle.frag
+[warn   ] SFXManager: Throttling sfx - queue size 121
+[warn   ] SFXManager: Throttling sfx - queue size 121
+[warn   ] SFXManager: Throttling sfx - queue size 121
+[warn   ] SFXManager: Throttling sfx - queue size 121
+[warn   ] SFXManager: Throttling sfx - queue size 121
+[info   ] shader: Compiling shader : primitive2dlist.vert
+[info   ] shader: Compiling shader : transparent.frag
+[info   ] [FileManager]: Creating directory(ies) '/home/hubbi/.cache/supertuxkart/cached-textures/hd/gui/'
+[info   ] [FileManager]: Checking for: '/
+[info   ] [FileManager]: Checking for: '/home/
+[info   ] [FileManager]: Checking for: '/home/hubbi/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/
+[info   ] [FileManager]: Checking for: '/home/hubbi/.cache/supertuxkart/cached-textures/hd/gui/
+[info   ] FileManager: Creating directory '/home/hubbi/.cache/supertuxkart/cached-textures/hd/gui/'.
+[info   ] shader: Compiling shader : billboard.vert
+[info   ] shader: Compiling shader : billboard.frag
+[info   ] This work was NOT networked: This is NOT a network world.
+[info   ] Singleton: Destroyed singleton.
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : utils/decodeNormal.frag
+[info   ] shader: Compiling shader : utils/getPosFromUVDepth.frag
+[info   ] shader: Compiling shader : utils/DiffuseIBL.frag
+[info   ] shader: Compiling shader : utils/SpecularIBL.frag
+[info   ] shader: Compiling shader : IBL.frag
+[info   ] shader: Compiling shader : utils/getworldmatrix.vert
+[info   ] shader: Compiling shader : glow_object.vert
+[info   ] shader: Compiling shader : glow_object.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : glow.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : mlaa_color1.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : mlaa_blend2.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : mlaa_neigh3.frag
+[verbose  ] RaceManager: Nb of karts=5, ghost karts:0 ai:4 players:1
+
+[info   ] Singleton: Destroyed singleton.
+[warn   ] EventHandler: While loading track '/usr/share/games/supertuxkart/data/tracks/olivermath/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: known incorrect sRGB profile
+[warn   ] EventHandler: While loading track '/usr/share/games/supertuxkart/data/tracks/olivermath/track.xml'
+[warn   ] Irrlicht: PNG warning: iCCP: profile 'ICC profile': 1000000h: invalid rendering intent
+[info   ] shader: Compiling shader : object_pass.vert
+[info   ] shader: Compiling shader : colorize.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : godfade.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : gaussian3v.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : gaussian3h.frag
+[info   ] shader: Compiling shader : screenquad.vert
+[info   ] shader: Compiling shader : godray.frag
+[info   ] This work was NOT networked: This is NOT a network world.
+[info   ] Singleton: Destroyed singleton.

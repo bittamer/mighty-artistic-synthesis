@@ -1,0 +1,2166 @@
+[11/16/17, 23:11:43:665] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[11/16/17, 23:11:43:667] info: ║      Slack 2.8.2, linux 4.13.0-16-generic on x64 at 11/16/17, 23:11:43:658      ║
+[11/16/17, 23:11:43:668] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[11/16/17, 23:11:43:851] info: Initializing local storage instance at path: /home/hubbi/.config/Slack/local-settings.json
+[11/16/17, 23:11:44:029] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/hubbi/.config/Slack/logs/recorded-trace
+[11/16/17, 23:11:44:482] info: Store: persist/REHYDRATE
+[11/16/17, 23:11:44:491] info: BrowserStore: Let's migrate Redux state
+[11/16/17, 23:11:44:493] info: Initializing local storage instance at path: /home/hubbi/.config/Slack/redux-state.json
+[11/16/17, 23:11:44:495] info: BrowserStore: Finished migration, make a note of it
+[11/16/17, 23:11:44:500] info: Store: COMPLETED
+{ redux: true, macgap: false }
+[11/16/17, 23:11:44:741] info: Tray Handler: Showing a tray balloon with title: Welcome to Slack!
+[11/16/17, 23:11:44:746] info: Store: UPDATE_SETTINGS
+{ isDevMode: false,
+  appVersion: '2.8.2',
+  versionName: 'Zero',
+  devEnv: null,
+  resourcePath: '/usr/lib/slack/resources/app.asar',
+  launchedWithLink: null,
+  webappSrcPath: null,
+  webappParams: null,
+  launchOnStartup: false,
+  releaseChannel: 'prod',
+  openDevToolsOnStart: false,
+  logFile: null,
+  pretendNotReallyWindows10: false,
+  isAeroGlassEnabled: false,
+  platformVersion: { major: 4, minor: 13, build: 0 },
+  isTitleBarHidden: false,
+  linux: 
+   { os: 'Ubuntu 17.10',
+     release: 'artful',
+     desktopEnvironment: 'ubuntu:GNOME' } }
+[11/16/17, 23:11:44:750] info: Store: UPDATE_SETTINGS
+{ hasRunApp: true }
+[11/16/17, 23:11:44:772] info: Store: ADD_WINDOW
+{ id: 1, type: 'MAIN' }
+[11/16/17, 23:11:44:776] info: Loading windowMetrics
+[11/16/17, 23:11:44:777] info: Store: SAVE_WINDOW_SETTINGS
+{ position: [ 384, 108 ], size: [ 1152, 864 ] }
+[11/16/17, 23:11:44:807] info: Store: UPDATE_SETTINGS
+{ PrefSSBFileDownloadPath: '/home/hubbi/Downloads' }
+[11/16/17, 23:11:44:810] info: DownloadListener: Downloads directory set to /home/hubbi/Downloads
+[11/16/17, 23:11:44:812] info: App: Welcome to Slack 2.8.2 x64
+[11/16/17, 23:11:44:813] info: App load time: 1270ms
+[11/16/17, 23:11:44:815] info: Store: SET_FULL_SCREEN
+[11/16/17, 23:11:44:854] info: TransformPasswords: Writing entire reducer
+[11/16/17, 23:11:45:887] info: Store: SET_NETWORK_STATUS online
+[11/16/17, 23:11:45:904] info: Main window finished load. Launched on login: false
+[11/16/17, 23:11:45:923] info: Store: APP_STARTED
+[11/16/17, 23:11:45:928] info: Store: SET_FULL_SCREEN
+[11/16/17, 23:11:45:930] info: Store: SET_FULL_SCREEN
+[11/16/17, 23:11:45:978] info: Store: SET_FULL_SCREEN
+[11/16/17, 23:11:45:980] info: Store: SET_FULL_SCREEN
+[11/16/17, 23:11:46:916] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1152, 864 ],
+  position: [ 384, 136 ],
+  isMaximized: false }
+[11/16/17, 23:11:52:284] info: Store: page-loaded
+[11/16/17, 23:12:05:467] info: Store: page-loaded
+[11/16/17, 23:12:21:896] info: Store: ADD_NEW_TEAM
+{ id: 'U82B1D3QW',
+  name: '[REDACTED]',
+  team_id: 'T81JU9CQ5',
+  team_name: '[REDACTED]',
+  team_url: '[REDACTED]' }
+[11/16/17, 23:12:21:911] info: Store: SET_LOGIN_DIALOG
+[11/16/17, 23:12:25:120] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1152, 864 ],
+  position: [ 267, 131 ],
+  isMaximized: false }
+[11/16/17, 23:12:26:022] info: Store: page-loaded
+[11/16/17, 23:12:27:439] info: Store: SELECT_CHANNEL C80QSNU9E
+[11/16/17, 23:12:27:447] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T81JU9CQ5' }
+[11/16/17, 23:12:27:578] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#4D394B',
+     menu_bg: '#3E313C',
+     active_item: '#4C9689',
+     active_item_text: '#FFFFFF',
+     hover_item: '#3E313C',
+     text_color: '#FFFFFF',
+     active_presence: '#38978D',
+     badge: '#EB4D5C' },
+  teamId: 'T81JU9CQ5' }
+[11/16/17, 23:12:28:325] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1335, 869 ],
+  position: [ 267, 131 ],
+  isMaximized: false }
+[11/16/17, 23:12:28:343] info: Store: UPDATE_TEAM_ICONS
+{ icons: false, teamId: 'T81JU9CQ5' }
+[11/16/17, 23:12:28:424] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T81JU9CQ5' }
+[11/16/17, 23:12:28:474] info: Store: webapp-loaded
+[11/16/17, 23:12:28:536] info: Store: [7] Store an API token for a team
+[11/16/17, 23:12:28:538] info: TransformPasswords: Writing entire reducer
+[11/16/17, 23:13:09:688] info: Store: SELECT_CHANNEL C82H1SWF9
+[11/16/17, 23:13:31:328] info: Store: SHOW_WEBAPP_DIALOG
+{ dialogType: 'prefs' }
+[11/16/17, 23:13:38:458] info: Store: SHOW_WEBAPP_DIALOG
+{ dialogType: 'prefs' }
+[11/16/17, 23:15:36:846] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#544538',
+     menu_bg: '#42362B',
+     active_item: '#5DB09D',
+     active_item_text: '#FFFFFF',
+     hover_item: '#4A3C30',
+     text_color: '#FFFFFF',
+     active_presence: '#FFFFFF',
+     badge: '#5DB09D' },
+  teamId: 'T81JU9CQ5' }
+[11/16/17, 23:15:38:221] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#F8F8FA',
+     menu_bg: '#F8F8FA',
+     active_item: '#2D9EE0',
+     active_item_text: '#FFFFFF',
+     hover_item: '#FFFFFF',
+     text_color: '#383F45',
+     active_presence: '#60D156',
+     badge: '#DC5960' },
+  teamId: 'T81JU9CQ5' }
+[11/16/17, 23:15:41:140] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#0D7E83',
+     menu_bg: '#076570',
+     active_item: '#F79F66',
+     active_item_text: '#FFFFFF',
+     hover_item: '#D37C71',
+     text_color: '#FFFFFF',
+     active_presence: '#F79F66',
+     badge: '#F15340' },
+  teamId: 'T81JU9CQ5' }
+[11/16/17, 23:15:43:605] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#4D5250',
+     menu_bg: '#444A47',
+     active_item: '#D39B46',
+     active_item_text: '#FFFFFF',
+     hover_item: '#434745',
+     text_color: '#FFFFFF',
+     active_presence: '#99D04A',
+     badge: '#DB6668' },
+  teamId: 'T81JU9CQ5' }
+[11/16/17, 23:15:44:481] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#303E4D',
+     menu_bg: '#2C3849',
+     active_item: '#6698C8',
+     active_item_text: '#FFFFFF',
+     hover_item: '#4A5664',
+     text_color: '#FFFFFF',
+     active_presence: '#94E864',
+     badge: '#78AF8F' },
+  teamId: 'T81JU9CQ5' }
+[11/16/17, 23:15:49:791] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#4F2F4C',
+     menu_bg: '#452842',
+     active_item: '#8C5888',
+     active_item_text: '#FFFFFF',
+     hover_item: '#3E313C',
+     text_color: '#FFFFFF',
+     active_presence: '#D0FF00',
+     badge: '#889100' },
+  teamId: 'T81JU9CQ5' }
+[11/16/17, 23:15:51:413] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#544538',
+     menu_bg: '#42362B',
+     active_item: '#5DB09D',
+     active_item_text: '#FFFFFF',
+     hover_item: '#4A3C30',
+     text_color: '#FFFFFF',
+     active_presence: '#FFFFFF',
+     badge: '#5DB09D' },
+  teamId: 'T81JU9CQ5' }
+[11/16/17, 23:15:52:404] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#0D7E83',
+     menu_bg: '#076570',
+     active_item: '#F79F66',
+     active_item_text: '#FFFFFF',
+     hover_item: '#D37C71',
+     text_color: '#FFFFFF',
+     active_presence: '#F79F66',
+     badge: '#F15340' },
+  teamId: 'T81JU9CQ5' }
+[11/16/17, 23:15:55:465] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#303E4D',
+     menu_bg: '#2C3849',
+     active_item: '#6698C8',
+     active_item_text: '#FFFFFF',
+     hover_item: '#4A5664',
+     text_color: '#FFFFFF',
+     active_presence: '#94E864',
+     badge: '#78AF8F' },
+  teamId: 'T81JU9CQ5' }
+[11/16/17, 23:16:30:713] info: Store: SELECT_CHANNEL D81CF520K
+[11/16/17, 23:16:36:511] info: Store: SELECT_CHANNEL D80UV3WC9
+[11/16/17, 23:16:41:068] info: Store: SELECT_CHANNEL C82H1SWF9
+[11/16/17, 23:16:58:449] info: Attempted to close the window, hiding due to run from tray
+[11/16/17, 23:16:58:458] info: Store: UPDATE_SETTINGS
+{ hasRunFromTray: true }
+[11/16/17, 23:16:58:469] info: Store: SHOW_TRAY_BALLOON
+{ title: 'Why didn’t Slack quit?',
+  content: 'Slack’s set to stay running in the notification area. To change this, visit Preferences > Linux App.' }
+[11/16/17, 23:16:58:471] info: Tray Handler: Showing a tray balloon with title: Why didn’t Slack quit?
+[11/16/17, 23:16:58:558] info: Store: SET_FULL_SCREEN
+[11/16/17, 23:16:58:561] info: Store: SET_FULL_SCREEN
+[11/16/17, 23:16:59:571] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1335, 869 ],
+  position: [ 267, 103 ],
+  isMaximized: false }
+[11/16/17, 23:31:50:682] info: Store: UPDATE_TEAM_ICONS
+{ icons: false, teamId: 'T81JU9CQ5' }
+[11/16/17, 23:31:50:790] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T81JU9CQ5' }
+[11/17/17, 02:36:18:221] info: Store: UPDATE_TEAM_ICONS
+{ icons: false, teamId: 'T81JU9CQ5' }
+[11/17/17, 02:36:18:575] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T81JU9CQ5' }
+[11/17/17, 03:32:09:037] info: Store: UPDATE_TEAM_ICONS
+{ icons: false, teamId: 'T81JU9CQ5' }
+[11/17/17, 03:32:09:378] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T81JU9CQ5' }
+[11/17/17, 08:55:31:703] info: Store: UPDATE_TEAM_ICONS
+{ icons: false, teamId: 'T81JU9CQ5' }
+[11/17/17, 08:55:31:947] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T81JU9CQ5' }
+[11/17/17, 09:27:32:674] info: Main: Received /usr/bin/slack,--disable-gpu from another instance
+[11/17/17, 09:27:32:681] info: App: Otherwise signaled, foregrounding.
+[11/17/17, 09:27:32:684] info: Store: FOREGROUND_APP
+[11/17/17, 09:27:32:733] info: Store: SET_FULL_SCREEN
+[11/17/17, 09:27:32:737] info: Store: SET_FULL_SCREEN
+[11/17/17, 09:27:32:782] info: Store: SET_FULL_SCREEN
+[11/17/17, 09:27:32:784] info: Store: SET_FULL_SCREEN
+[11/17/17, 09:27:33:714] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1335, 869 ],
+  position: [ 267, 131 ],
+  isMaximized: false }
+[11/17/17, 09:27:38:409] info: Store: SELECT_CHANNEL C80QSNU9E
+[11/17/17, 09:27:45:452] info: Store: SELECT_CHANNEL C82H0CF6K
+[11/17/17, 09:27:50:240] info: Store: SELECT_CHANNEL C80QSNU9E
+[11/17/17, 09:28:05:960] info: Store: SELECT_CHANNEL C82H1SWF9
+[11/17/17, 09:28:49:768] info: Store: QUIT_APP
+[11/17/17, 09:28:49:790] info: Allowing window close because user chose to quit
+[11/17/17, 09:28:49:796] info: App: Disposing application
+[11/17/17, 09:28:49:798] info: Store: REMOVE_WINDOW 1
+[11/17/17, 09:28:49:820] info: Store: UPDATE_TEAM_USAGE
+{ T81JU9CQ5: 37023940 }
+[11/17/17, 09:28:49:907] info: Store: SET_FULL_SCREEN
+[11/17/17, 09:28:49:911] info: Store: SET_FULL_SCREEN
+[11/17/17, 09:28:55:875] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[11/17/17, 09:28:55:877] info: ║      Slack 2.8.2, linux 4.13.0-16-generic on x64 at 11/17/17, 09:28:55:868      ║
+[11/17/17, 09:28:55:877] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[11/17/17, 09:28:56:064] info: Initializing local storage instance at path: /home/hubbi/.config/Slack/local-settings.json
+[11/17/17, 09:28:56:232] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/hubbi/.config/Slack/logs/recorded-trace
+[11/17/17, 09:28:56:907] info: TransformPasswords: Reading entire reducer
+[11/17/17, 09:28:56:933] info: Store: persist/REHYDRATE
+[11/17/17, 09:28:57:179] info: Store: UPDATE_SETTINGS
+{ isDevMode: false,
+  appVersion: '2.8.2',
+  versionName: 'Zero',
+  devEnv: null,
+  resourcePath: '/usr/lib/slack/resources/app.asar',
+  launchedWithLink: null,
+  webappSrcPath: null,
+  webappParams: null,
+  launchOnStartup: false,
+  releaseChannel: 'prod',
+  openDevToolsOnStart: false,
+  logFile: null,
+  pretendNotReallyWindows10: false,
+  isAeroGlassEnabled: false,
+  platformVersion: { major: 4, minor: 13, build: 0 },
+  isTitleBarHidden: false,
+  linux: 
+   { os: 'Ubuntu 17.10',
+     release: 'artful',
+     desktopEnvironment: 'ubuntu:GNOME' } }
+[11/17/17, 09:28:57:203] info: Store: ADD_WINDOW
+{ id: 1, type: 'MAIN' }
+[11/17/17, 09:28:57:208] info: Loading windowMetrics
+{ size: [ 1335, 869 ],
+  position: [ 267, 131 ],
+  isMaximized: false }
+[11/17/17, 09:28:57:239] info: App: Welcome to Slack 2.8.2 x64
+[11/17/17, 09:28:57:240] info: App load time: 1463ms
+[11/17/17, 09:28:57:242] info: Store: SET_FULL_SCREEN
+[11/17/17, 09:28:57:536] info: TransformPasswords: Writing entire reducer
+[11/17/17, 09:28:58:751] info: Store: SET_NETWORK_STATUS online
+[11/17/17, 09:28:58:765] info: Main window finished load. Launched on login: false
+[11/17/17, 09:28:58:805] info: Store: APP_STARTED
+[11/17/17, 09:28:58:811] info: Store: SET_FULL_SCREEN
+[11/17/17, 09:28:58:813] info: Store: SET_FULL_SCREEN
+[11/17/17, 09:28:58:874] info: Store: SET_FULL_SCREEN
+[11/17/17, 09:28:58:876] info: Store: SET_FULL_SCREEN
+[11/17/17, 09:28:59:777] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1335, 869 ],
+  position: [ 267, 159 ],
+  isMaximized: false }
+[11/17/17, 09:29:05:142] info: Store: page-loaded
+[11/17/17, 09:29:05:537] info: Store: SELECT_CHANNEL C82H1SWF9
+[11/17/17, 09:29:05:546] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US' }
+[11/17/17, 09:29:06:483] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#303E4D',
+     menu_bg: '#2C3849',
+     active_item: '#6698C8',
+     active_item_text: '#FFFFFF',
+     hover_item: '#4A5664',
+     text_color: '#FFFFFF',
+     active_presence: '#94E864',
+     badge: '#78AF8F' },
+  teamId: 'T81JU9CQ5' }
+[11/17/17, 09:29:07:959] info: Store: UPDATE_TEAM_ICONS
+{ icons: false, teamId: 'T81JU9CQ5' }
+[11/17/17, 09:29:08:061] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T81JU9CQ5' }
+[11/17/17, 09:29:08:115] info: Store: webapp-loaded
+[11/17/17, 09:29:11:068] info: Store: QUIT_APP
+[11/17/17, 09:29:11:088] info: Allowing window close because user chose to quit
+[11/17/17, 09:29:11:144] info: App: Disposing application
+[11/17/17, 09:29:11:146] info: Store: REMOVE_WINDOW 1
+[11/17/17, 09:29:11:179] info: Store: UPDATE_TEAM_USAGE
+{ T81JU9CQ5: 12424 }
+[11/17/17, 09:29:11:222] info: Store: SET_FULL_SCREEN
+[11/17/17, 09:29:11:224] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:39:50:253] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[11/17/17, 12:39:50:257] info: ║      Slack 2.8.2, linux 4.13.0-16-generic on x64 at 11/17/17, 12:39:50:246      ║
+[11/17/17, 12:39:50:258] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[11/17/17, 12:39:50:444] info: Initializing local storage instance at path: /home/hubbi/.config/Slack/local-settings.json
+[11/17/17, 12:39:50:685] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/hubbi/.config/Slack/logs/recorded-trace
+[11/17/17, 12:39:51:543] info: TransformPasswords: Reading entire reducer
+[11/17/17, 12:39:51:568] info: Store: persist/REHYDRATE
+[11/17/17, 12:39:51:925] info: Store: UPDATE_SETTINGS
+{ isDevMode: false,
+  appVersion: '2.8.2',
+  versionName: 'Zero',
+  devEnv: null,
+  resourcePath: '/usr/lib/slack/resources/app.asar',
+  launchedWithLink: null,
+  webappSrcPath: null,
+  webappParams: null,
+  launchOnStartup: false,
+  releaseChannel: 'prod',
+  openDevToolsOnStart: false,
+  logFile: null,
+  pretendNotReallyWindows10: false,
+  isAeroGlassEnabled: false,
+  platformVersion: { major: 4, minor: 13, build: 0 },
+  isTitleBarHidden: false,
+  linux: 
+   { os: 'Ubuntu 17.10',
+     release: 'artful',
+     desktopEnvironment: 'ubuntu:GNOME' } }
+[11/17/17, 12:39:51:950] info: Store: ADD_WINDOW
+{ id: 1, type: 'MAIN' }
+[11/17/17, 12:39:51:954] info: Loading windowMetrics
+{ size: [ 1335, 869 ],
+  position: [ 267, 159 ],
+  isMaximized: false }
+[11/17/17, 12:39:51:985] info: App: Welcome to Slack 2.8.2 x64
+[11/17/17, 12:39:51:986] info: App load time: 1834ms
+[11/17/17, 12:39:51:988] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:39:52:168] info: TransformPasswords: Writing entire reducer
+[11/17/17, 12:39:53:244] info: Store: SET_NETWORK_STATUS online
+[11/17/17, 12:39:53:257] info: Main window finished load. Launched on login: false
+[11/17/17, 12:39:53:279] info: Store: APP_STARTED
+[11/17/17, 12:39:53:283] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:39:53:285] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:39:53:344] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:39:53:347] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:39:54:290] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1335, 869 ],
+  position: [ 267, 187 ],
+  isMaximized: false }
+[11/17/17, 12:39:58:499] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:39:59:033] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1335, 869 ],
+  position: [ 325, 91 ],
+  isMaximized: false }
+[11/17/17, 12:39:59:102] info: Store: SELECT_CHANNEL C82H1SWF9
+[11/17/17, 12:39:59:112] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US' }
+[11/17/17, 12:39:59:466] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:39:59:990] info: Store: page-loaded
+[11/17/17, 12:40:00:235] info: Store: UPDATE_TEAM_ICONS
+{ icons: false, teamId: 'T81JU9CQ5' }
+[11/17/17, 12:40:00:374] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T81JU9CQ5' }
+[11/17/17, 12:40:00:419] info: Store: webapp-loaded
+[11/17/17, 12:40:00:606] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#303E4D',
+     menu_bg: '#2C3849',
+     active_item: '#6698C8',
+     active_item_text: '#FFFFFF',
+     hover_item: '#4A5664',
+     text_color: '#FFFFFF',
+     active_presence: '#94E864',
+     badge: '#78AF8F' },
+  teamId: 'T81JU9CQ5' }
+[11/17/17, 12:40:06:032] info: Store: SELECT_CHANNEL C80QSNU9E
+[11/17/17, 12:40:10:796] info: Store: SELECT_CHANNEL C82H0CF6K
+[11/17/17, 12:40:14:119] info: Store: SELECT_CHANNEL C82H1SWF9
+[11/17/17, 12:40:19:735] info: Store: SELECT_CHANNEL D81CK19G9
+[11/17/17, 12:40:23:762] info: Store: SELECT_CHANNEL D80UV3WC9
+[11/17/17, 12:40:25:886] info: Store: SELECT_CHANNEL C82H1SWF9
+[11/17/17, 12:40:51:976] info: Attempted to close the window, hiding due to run from tray
+[11/17/17, 12:40:52:052] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:40:52:058] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:40:53:073] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1335, 869 ],
+  position: [ 325, 63 ],
+  isMaximized: false }
+[11/17/17, 12:42:42:822] info: Main: Received slack from another instance
+[11/17/17, 12:42:42:824] info: App: Otherwise signaled, foregrounding.
+[11/17/17, 12:42:42:825] info: Store: FOREGROUND_APP
+[11/17/17, 12:42:42:854] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:42:42:858] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:42:42:913] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:42:42:916] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:42:43:841] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1335, 869 ],
+  position: [ 325, 91 ],
+  isMaximized: false }
+[11/17/17, 12:42:49:224] info: Attempted to close the window, hiding due to run from tray
+[11/17/17, 12:42:49:278] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:42:49:282] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:42:50:290] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1335, 869 ],
+  position: [ 325, 63 ],
+  isMaximized: false }
+[11/17/17, 12:42:52:085] info: Main: Received slack from another instance
+[11/17/17, 12:42:52:086] info: App: Otherwise signaled, foregrounding.
+[11/17/17, 12:42:52:087] info: Store: FOREGROUND_APP
+[11/17/17, 12:42:52:123] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:42:52:125] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:42:52:175] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:42:52:177] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:42:53:098] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1335, 869 ],
+  position: [ 325, 91 ],
+  isMaximized: false }
+[11/17/17, 12:42:56:155] info: Store: QUIT_APP
+[11/17/17, 12:42:56:172] info: Allowing window close because user chose to quit
+[11/17/17, 12:42:56:190] info: App: Disposing application
+[11/17/17, 12:42:56:201] info: Store: REMOVE_WINDOW 1
+[11/17/17, 12:42:56:227] info: Store: UPDATE_TEAM_USAGE
+{ T81JU9CQ5: 182980 }
+[11/17/17, 12:42:56:313] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:42:56:315] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:44:39:444] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[11/17/17, 12:44:39:446] info: ║      Slack 2.8.2, linux 4.13.0-16-generic on x64 at 11/17/17, 12:44:39:437      ║
+[11/17/17, 12:44:39:447] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[11/17/17, 12:44:39:631] info: Initializing local storage instance at path: /home/hubbi/.config/Slack/local-settings.json
+[11/17/17, 12:44:39:795] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/hubbi/.config/Slack/logs/recorded-trace
+[11/17/17, 12:44:40:217] info: TransformPasswords: Reading entire reducer
+[11/17/17, 12:44:40:230] info: Store: persist/REHYDRATE
+[11/17/17, 12:44:40:450] info: Store: UPDATE_SETTINGS
+{ isDevMode: false,
+  appVersion: '2.8.2',
+  versionName: 'Zero',
+  devEnv: null,
+  resourcePath: '/usr/lib/slack/resources/app.asar',
+  launchedWithLink: null,
+  webappSrcPath: null,
+  webappParams: null,
+  launchOnStartup: false,
+  releaseChannel: 'prod',
+  openDevToolsOnStart: false,
+  logFile: null,
+  pretendNotReallyWindows10: false,
+  isAeroGlassEnabled: false,
+  platformVersion: { major: 4, minor: 13, build: 0 },
+  isTitleBarHidden: false,
+  linux: 
+   { os: 'Ubuntu 17.10',
+     release: 'artful',
+     desktopEnvironment: 'ubuntu:GNOME' } }
+[11/17/17, 12:44:40:475] info: Store: ADD_WINDOW
+{ id: 1, type: 'MAIN' }
+[11/17/17, 12:44:40:479] info: Loading windowMetrics
+{ size: [ 1335, 869 ],
+  position: [ 325, 91 ],
+  isMaximized: false }
+[11/17/17, 12:44:40:511] info: App: Welcome to Slack 2.8.2 x64
+[11/17/17, 12:44:40:512] info: App load time: 1168ms
+[11/17/17, 12:44:40:514] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:44:40:843] info: TransformPasswords: Writing entire reducer
+[11/17/17, 12:44:41:932] info: Store: SET_NETWORK_STATUS online
+[11/17/17, 12:44:41:944] info: Main window finished load. Launched on login: false
+[11/17/17, 12:44:42:056] info: Store: APP_STARTED
+[11/17/17, 12:44:42:061] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:44:42:063] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:44:42:161] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:44:42:163] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:44:43:032] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1335, 869 ],
+  position: [ 325, 119 ],
+  isMaximized: false }
+[11/17/17, 12:44:45:199] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:44:46:050] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:44:47:112] info: Store: page-loaded
+[11/17/17, 12:44:47:532] info: Store: SELECT_CHANNEL C82H1SWF9
+[11/17/17, 12:44:47:541] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US' }
+[11/17/17, 12:44:48:492] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#303E4D',
+     menu_bg: '#2C3849',
+     active_item: '#6698C8',
+     active_item_text: '#FFFFFF',
+     hover_item: '#4A5664',
+     text_color: '#FFFFFF',
+     active_presence: '#94E864',
+     badge: '#78AF8F' },
+  teamId: 'T81JU9CQ5' }
+[11/17/17, 12:44:48:599] info: Store: UPDATE_TEAM_ICONS
+{ icons: false, teamId: 'T81JU9CQ5' }
+[11/17/17, 12:44:48:721] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T81JU9CQ5' }
+[11/17/17, 12:44:48:763] info: Store: webapp-loaded
+[11/17/17, 12:44:50:638] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:44:57:514] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:44:59:367] info: Attempted to close the window, hiding due to run from tray
+[11/17/17, 12:44:59:420] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:44:59:430] info: Store: SET_FULL_SCREEN
+[11/17/17, 12:45:00:441] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1335, 869 ],
+  position: [ 325, 91 ],
+  isMaximized: false }
+[11/17/17, 16:28:18:847] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[11/17/17, 16:28:18:849] info: ║      Slack 2.8.2, linux 4.13.0-16-generic on x64 at 11/17/17, 16:28:18:841      ║
+[11/17/17, 16:28:18:850] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[11/17/17, 16:28:19:034] info: Initializing local storage instance at path: /home/hubbi/.config/Slack/local-settings.json
+[11/17/17, 16:28:19:209] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/hubbi/.config/Slack/logs/recorded-trace
+[11/17/17, 16:28:19:650] info: TransformPasswords: Reading entire reducer
+[11/17/17, 16:28:19:661] info: Store: persist/REHYDRATE
+[11/17/17, 16:28:19:872] info: Store: UPDATE_SETTINGS
+{ isDevMode: false,
+  appVersion: '2.8.2',
+  versionName: 'Zero',
+  devEnv: null,
+  resourcePath: '/usr/lib/slack/resources/app.asar',
+  launchedWithLink: null,
+  webappSrcPath: null,
+  webappParams: null,
+  launchOnStartup: false,
+  releaseChannel: 'prod',
+  openDevToolsOnStart: false,
+  logFile: null,
+  pretendNotReallyWindows10: false,
+  isAeroGlassEnabled: false,
+  platformVersion: { major: 4, minor: 13, build: 0 },
+  isTitleBarHidden: false,
+  linux: 
+   { os: 'Ubuntu 17.10',
+     release: 'artful',
+     desktopEnvironment: 'ubuntu:GNOME' } }
+[11/17/17, 16:28:19:896] info: Store: ADD_WINDOW
+{ id: 1, type: 'MAIN' }
+[11/17/17, 16:28:19:901] info: Loading windowMetrics
+{ size: [ 1335, 869 ],
+  position: [ 325, 91 ],
+  isMaximized: false }
+[11/17/17, 16:28:19:931] info: App: Welcome to Slack 2.8.2 x64
+[11/17/17, 16:28:19:932] info: App load time: 1187ms
+[11/17/17, 16:28:19:934] info: Store: SET_FULL_SCREEN
+[11/17/17, 16:28:20:154] info: TransformPasswords: Writing entire reducer
+[11/17/17, 16:28:21:228] info: Store: SET_NETWORK_STATUS online
+[11/17/17, 16:28:21:241] info: Main window finished load. Launched on login: false
+[11/17/17, 16:28:21:264] info: Store: APP_STARTED
+[11/17/17, 16:28:21:269] info: Store: SET_FULL_SCREEN
+[11/17/17, 16:28:21:272] info: Store: SET_FULL_SCREEN
+[11/17/17, 16:28:21:329] info: Store: SET_FULL_SCREEN
+[11/17/17, 16:28:21:332] info: Store: SET_FULL_SCREEN
+[11/17/17, 16:28:22:274] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1335, 869 ],
+  position: [ 325, 119 ],
+  isMaximized: false }
+[11/17/17, 16:28:26:402] info: Store: page-loaded
+[11/17/17, 16:28:26:791] info: Store: SELECT_CHANNEL C82H1SWF9
+[11/17/17, 16:28:26:800] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US' }
+[11/17/17, 16:28:27:708] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#303E4D',
+     menu_bg: '#2C3849',
+     active_item: '#6698C8',
+     active_item_text: '#FFFFFF',
+     hover_item: '#4A5664',
+     text_color: '#FFFFFF',
+     active_presence: '#94E864',
+     badge: '#78AF8F' },
+  teamId: 'T81JU9CQ5' }
+[11/17/17, 16:28:28:896] info: Store: UPDATE_TEAM_ICONS
+{ icons: false, teamId: 'T81JU9CQ5' }
+[11/17/17, 16:28:29:019] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T81JU9CQ5' }
+[11/17/17, 16:28:29:074] info: Store: webapp-loaded
+[11/17/17, 16:28:36:581] info: Store: QUIT_APP
+[11/17/17, 16:28:36:597] info: Allowing window close because user chose to quit
+[11/17/17, 16:28:36:676] info: App: Disposing application
+[11/17/17, 16:28:36:683] info: Store: REMOVE_WINDOW 1
+[11/17/17, 16:28:36:723] info: Store: UPDATE_TEAM_USAGE
+{ T81JU9CQ5: 15492 }
+[11/17/17, 16:28:36:763] info: Store: SET_FULL_SCREEN
+[11/17/17, 16:28:36:765] info: Store: SET_FULL_SCREEN
+[11/21/17, 21:45:36:887] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[11/21/17, 21:45:36:890] info: ║      Slack 2.9.0, linux 4.13.0-16-generic on x64 at 11/21/17, 21:45:36:768      ║
+[11/21/17, 21:45:36:891] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[11/21/17, 21:45:37:405] info: Initializing local storage instance at path: /home/hubbi/.config/Slack/local-settings.json
+[11/21/17, 21:45:37:842] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/hubbi/.config/Slack/logs/recorded-trace
+[11/21/17, 21:45:39:695] info: TransformPasswords: Reading entire reducer
+[11/21/17, 21:45:39:703] info: Store: persist/REHYDRATE
+[11/21/17, 21:45:40:423] info: Store: UPDATE_SETTINGS
+{ isDevMode: false,
+  appVersion: '2.9.0',
+  versionName: 'Zero',
+  devEnv: null,
+  resourcePath: '/usr/lib/slack/resources/app.asar',
+  launchedWithLink: null,
+  webappSrcPath: null,
+  webappParams: null,
+  launchOnStartup: false,
+  releaseChannel: 'prod',
+  openDevToolsOnStart: false,
+  logFile: null,
+  pretendNotReallyWindows10: false,
+  isAeroGlassEnabled: false,
+  platformVersion: { major: 4, minor: 13, build: 0 },
+  isTitleBarHidden: false,
+  linux: 
+   { os: 'Ubuntu 17.10',
+     release: 'artful',
+     desktopEnvironment: 'ubuntu:GNOME' } }
+[11/21/17, 21:45:40:647] info: Store: ADD_WINDOW
+{ id: 1, type: 'MAIN' }
+[11/21/17, 21:45:40:657] info: Loading windowMetrics
+{ size: [ 1335, 869 ],
+  position: [ 325, 119 ],
+  isMaximized: false }
+[11/21/17, 21:45:40:893] info: App: Welcome to Slack 2.9.0 x64
+[11/21/17, 21:45:40:894] info: App load time: 4308ms
+[11/21/17, 21:45:40:896] info: Store: SET_FULL_SCREEN
+[11/21/17, 21:45:41:257] info: TransformPasswords: Writing entire reducer
+[11/21/17, 21:45:44:362] info: Store: SET_NETWORK_STATUS online
+[11/21/17, 21:45:44:375] info: Main window finished load. Launched on login: false
+[11/21/17, 21:45:44:423] info: Store: APP_STARTED
+[11/21/17, 21:45:44:430] info: Store: SET_FULL_SCREEN
+[11/21/17, 21:45:44:435] info: Store: SET_FULL_SCREEN
+[11/21/17, 21:45:44:480] info: Store: SET_FULL_SCREEN
+[11/21/17, 21:45:44:482] info: Store: SET_FULL_SCREEN
+[11/21/17, 21:45:45:402] info: Store: SAVE_WINDOW_SETTINGS
+{ size: [ 1335, 869 ],
+  position: [ 325, 147 ],
+  isMaximized: false }
+[11/21/17, 21:45:46:085] info: Store: SET_FULL_SCREEN
+[11/21/17, 21:45:46:126] info: Store: SET_FULL_SCREEN
+[11/21/17, 21:45:46:576] info: Store: SET_FULL_SCREEN
+[11/21/17, 21:45:46:646] info: Store: SET_FULL_SCREEN
+[11/21/17, 21:45:50:133] info: Store: SET_FULL_SCREEN
+[11/21/17, 21:45:50:138] info: Store: SET_FULL_SCREEN
+[11/21/17, 21:45:52:223] info: Store: SELECT_CHANNEL C82H1SWF9
+[11/21/17, 21:45:52:226] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US' }
+[11/21/17, 21:45:53:116] info: Store: page-loaded
+[11/21/17, 21:45:53:777] info: Store: UPDATE_TEAM_THEME
+{ theme: 
+   { column_bg: '#303E4D',
+     menu_bg: '#2C3849',
+     active_item: '#6698C8',
+     active_item_text: '#FFFFFF',
+     hover_item: '#4A5664',
+     text_color: '#FFFFFF',
+     active_presence: '#94E864',
+     badge: '#78AF8F' },
+  teamId: 'T81JU9CQ5' }
+[11/21/17, 21:45:54:769] info: Store: UPDATE_TEAM_ICONS
+{ icons: false, teamId: 'T81JU9CQ5' }
+[11/21/17, 21:45:54:990] info: Store: UPDATE_TEAM_LOCALE
+{ locale: 'en-US', teamId: 'T81JU9CQ5' }
+[11/21/17, 21:45:55:080] info: Store: webapp-loaded
+[11/21/17, 21:48:11:699] info: Store: SET_FULL_SCREEN
+[11/21/17, 21:48:11:782] info: Store: SET_FULL_SCREEN
+[11/21/17, 21:48:13:548] info: Store: SET_FULL_SCREEN
+[11/21/17, 21:48:20:294] info: Store: SET_FULL_SCREEN
+[11/21/17, 21:48:27:247] info: Store: QUIT_APP
+[11/21/17, 21:48:27:266] info: Allowing window close because user chose to quit
+[11/21/17, 21:48:27:290] info: App: Disposing application
+[11/21/17, 21:48:27:299] info: Store: REMOVE_WINDOW 1
+[11/21/17, 21:48:27:339] info: Store: UPDATE_TEAM_USAGE
+{ T81JU9CQ5: 162967 }
+[11/21/17, 21:48:27:455] info: Store: SET_FULL_SCREEN
+[11/21/17, 21:48:27:457] info: Store: SET_FULL_SCREEN
+[02/20/18, 16:59:41:524] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[02/20/18, 16:59:41:525] info: ║      Slack 3.0.5, linux 4.13.0-32-generic on x64 at 02/20/18, 16:59:41:521      ║
+[02/20/18, 16:59:41:525] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[02/20/18, 16:59:41:999] info: Initializing local storage instance at path: /home/hubbi/.config/Slack/local-settings.json
+[02/20/18, 16:59:42:523] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/hubbi/.config/Slack/logs/recorded-trace
+[02/20/18, 16:59:44:315] info: TransformPasswords: Reading entire reducer
+[02/20/18, 16:59:44:339] info: Store: persist/REHYDRATE
+{
+  "appTeams": {
+    "selectedTeamId": "T81JU9CQ5",
+    "teamsByIndex": [
+      "T81JU9CQ5"
+    ],
+    "teamsToSignOut": []
+  },
+  "dialog": "[REDACTED]",
+  "downloads": "[REDACTED]",
+  "migrations": {
+    "redux": true,
+    "macgap": false
+  },
+  "settings": {
+    "appVersion": "2.9.0",
+    "versionName": "Zero",
+    "platform": "linux",
+    "platformVersion": {
+      "major": 4,
+      "minor": 13,
+      "build": 0
+    },
+    "isWin10": false,
+    "isBeforeWin10": false,
+    "resourcePath": "/usr/lib/slack/resources/app.asar",
+    "webappSrcPath": null,
+    "webappParams": null,
+    "isDevMode": false,
+    "devEnv": null,
+    "launchedWithLink": null,
+    "logFile": null,
+    "openDevToolsOnStart": false,
+    "pretendNotReallyWindows10": false,
+    "releaseChannel": "prod",
+    "autoHideMenuBar": false,
+    "isTitleBarHidden": false,
+    "hasRunApp": true,
+    "hasRunFromTray": true,
+    "reportIssueOnStartup": false,
+    "runFromTray": true,
+    "launchOnStartup": false,
+    "spellcheckerLanguage": null,
+    "zoomLevel": 0,
+    "whitelistedUrlSchemes": [
+      "http:",
+      "https:",
+      "mailto:",
+      "skype:",
+      "spotify:",
+      "live:",
+      "callto:",
+      "tel:",
+      "im:",
+      "sip:",
+      "sips:"
+    ],
+    "PrefSSBFileDownloadPath": "/home/hubbi/Downloads",
+    "notificationMethod": null,
+    "notificationPlayback": null,
+    "notifyPosition": {
+      "corner": "bottom_right",
+      "display": "same_as_app"
+    },
+    "locale": "en-US",
+    "useHwAcceleration": true,
+    "os": false,
+    "release": false,
+    "desktopEnvironment": false,
+    "isAeroGlassEnabled": false,
+    "linux": {
+      "os": "Ubuntu 17.10",
+      "release": "artful",
+      "desktopEnvironment": "ubuntu:GNOME"
+    }
+  },
+  "teams": "[REDACTED]",
+  "unreads": {
+    "T81JU9CQ5": {
+      "unreads": 0,
+      "unreadHighlights": 0,
+      "showBullet": true
+    }
+  },
+  "windowFrame": {
+    "windowSettings": {
+      "size": [
+        1335,
+        869
+      ],
+      "position": [
+        325,
+        147
+      ],
+      "isMaximized": false
+    }
+  },
+  "tokens": "[REDACTED]"
+}
+[02/20/18, 16:59:44:342] info: initializeMainWindowEpic: Waiting for selected team to load
+{
+  "selectedTeamId": "T81JU9CQ5"
+}
+[02/20/18, 16:59:44:343] info: NetworkStatus: Waiting for network online…
+[02/20/18, 16:59:44:364] info: UpdaterEpics: Updates disabled because
+{
+  "reasons": [
+    "using Linux"
+  ]
+}
+[02/20/18, 16:59:45:604] info: Store: INITIALIZE_SETTINGS
+{
+  "releaseChannel": "prod",
+  "platformVersion": {
+    "major": 4,
+    "minor": 13,
+    "build": 0
+  },
+  "isTitleBarHidden": false,
+  "isDevMode": false,
+  "appVersion": "3.0.5",
+  "versionName": "Around The World",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "webappSrcPath": null,
+  "webappParams": null,
+  "launchOnStartup": false,
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "isAeroGlassEnabled": false,
+  "linux": {
+    "os": "Ubuntu 17.10",
+    "release": "artful",
+    "desktopEnvironment": "Unity"
+  }
+}
+[02/20/18, 16:59:45:613] info: AutoLoginEpic: Checking for autologin.
+[02/20/18, 16:59:45:613] info: AutoLoginEpic: Completed autologin processing — successfully logged in 0 workspaces.
+[02/20/18, 16:59:45:614] info: Store: AUTOLOGIN_TEAMS_COMPLETE
+[02/20/18, 16:59:45:621] info: WebContentsMediator: Attaching to new webContents
+[02/20/18, 16:59:45:625] info: Store: ADD_WINDOW
+{
+  "id": 2,
+  "type": "main"
+}
+[02/20/18, 16:59:45:628] info: BrowserViewManager: Starting initialization
+[02/20/18, 16:59:45:629] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "T81JU9CQ5"
+}
+[02/20/18, 16:59:45:629] info: BrowserViewManager: Creating BrowserView
+{
+  "teamId": "T81JU9CQ5"
+}
+[02/20/18, 16:59:45:630] info: WebContentsMediator: Attaching to new webContents
+[02/20/18, 16:59:45:633] info: BrowserViewManager: 
++-----------+------+-----+
+|           | Full | Min |
+|-----------+------+-----+
+| T81JU9CQ5 | ✔    |     |
++-----------+------+-----+
+[02/20/18, 16:59:45:634] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "teamId": "T81JU9CQ5",
+  "state": "unloaded"
+}
+[02/20/18, 16:59:45:658] info: PersistSettingsWindowBehavior: Loading windowMetrics
+{
+  "settings": {
+    "size": [
+      1335,
+      869
+    ],
+    "position": [
+      325,
+      147
+    ],
+    "isMaximized": false
+  }
+}
+[02/20/18, 16:59:45:721] info: Application: Setting main window ID
+{
+  "id": 2
+}
+[02/20/18, 16:59:45:725] info: App: Welcome to Slack 3.0.5 x64
+[02/20/18, 16:59:45:726] info: App load time: 4595ms
+[02/20/18, 16:59:45:869] info: Store: SET_FULL_SCREEN
+[02/20/18, 16:59:46:169] info: TransformPasswords: Writing entire reducer
+[02/20/18, 16:59:46:773] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[02/20/18, 16:59:46:774] info: Store: SET_NETWORK_STATUS online
+[02/20/18, 16:59:47:218] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "T81JU9CQ5"
+}
+[02/20/18, 16:59:47:221] info: BrowserViewManager: 
++-----------+------+-----+
+|           | Full | Min |
+|-----------+------+-----+
+| T81JU9CQ5 | ✔    |     |
++-----------+------+-----+
+[02/20/18, 16:59:47:222] info: BrowserViewManager: Finished initialization
+{
+  "elapsed": 1593
+}
+[02/20/18, 17:00:04:206] info: WebContents LifeCycle: webContents:3 from 'unloaded' to 'loaded' took 18570 ms
+[02/20/18, 17:00:04:206] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T81JU9CQ5"
+}
+[02/20/18, 17:00:04:212] info: initializeMainWindowEpic: Showing main window
+{
+  "shouldMinimize": false,
+  "shouldMaximize": false,
+  "shouldHide": false
+}
+[02/20/18, 17:00:04:214] info: Store: MAIN_WINDOW_SHOWN
+[02/20/18, 17:00:04:259] info: Store: SET_FULL_SCREEN
+[02/20/18, 17:00:04:271] info: Store: SET_FULL_SCREEN
+[02/20/18, 17:00:04:276] info: Store: SET_FULL_SCREEN
+[02/20/18, 17:00:04:619] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T81JU9CQ5"
+}
+[02/20/18, 17:00:05:229] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "size": [
+    1335,
+    869
+  ],
+  "position": [
+    325,
+    175
+  ],
+  "isMaximized": false
+}
+[02/20/18, 17:00:05:490] info: Store: SELECT_CHANNEL C82H1SWF9
+[02/20/18, 17:00:05:493] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T81JU9CQ5"
+}
+[02/20/18, 17:00:05:495] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[02/20/18, 17:00:05:564] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T81JU9CQ5",
+  "theme": {
+    "active_item": "#6698C8",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#94E864",
+    "badge": "#78AF8F",
+    "column_bg": "#303E4D",
+    "hover_item": "#4A5664",
+    "menu_bg": "#2C3849",
+    "text_color": "#FFFFFF"
+  }
+}
+[02/20/18, 17:00:06:989] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T81JU9CQ5"
+}
+[02/20/18, 17:00:08:782] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T81JU9CQ5"
+}
+[02/20/18, 17:00:08:833] info: WebContents LifeCycle: webContents:3 from 'loaded' to 'webapp-loaded' took 4627 ms
+[02/20/18, 17:00:08:834] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T81JU9CQ5"
+}
+[02/20/18, 17:00:09:531] info: WebContentsMediator: Attaching to new webContents
+[02/20/18, 17:00:15:735] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-23619.log
+[02/20/18, 17:00:15:737] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-26756.log
+[02/20/18, 17:00:15:739] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-4408.log
+[02/20/18, 17:00:15:741] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-5305.log
+[02/20/18, 17:00:15:743] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-7256.log
+[02/20/18, 17:00:15:776] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-785.log
+[02/20/18, 17:00:15:777] info: Removed log file /home/hubbi/.config/Slack/logs/webapp-login.log
+[02/20/18, 17:00:15:791] info: Removed log file /home/hubbi/.config/Slack/logs/webview-1.log
+[02/20/18, 17:00:15:812] info: Removed log file /home/hubbi/.config/Slack/logs/webview-2.log
+[02/20/18, 17:00:19:840] info: Store: SELECT_CHANNEL D80UV3WC9
+[02/20/18, 17:00:22:415] info: Store: SELECT_CHANNEL C82H1SWF9
+[02/20/18, 17:00:22:486] info: WebContentsMediator: Attaching to new webContents
+[02/20/18, 17:00:27:522] info: Store: QUIT_APP
+[02/20/18, 17:00:27:546] info: Allowing window close because user chose to quit
+[02/20/18, 17:00:27:598] info: App: Disposing application
+[02/20/18, 17:00:27:599] info: Store: REMOVE_WINDOW 2
+[02/20/18, 17:00:27:615] info: Store: QUIT_APP
+[04/14/18, 15:59:21:237] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/14/18, 15:59:21:238] info: ║      Slack 3.1.1, linux 4.13.0-38-generic on x64 at 04/14/18, 15:59:21:234      ║
+[04/14/18, 15:59:21:238] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/14/18, 15:59:22:262] info: Initializing local storage instance at path: /home/hubbi/.config/Slack/local-settings.json
+[04/14/18, 15:59:23:017] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/hubbi/.config/Slack/logs/recorded-trace
+[04/14/18, 15:59:26:726] info: TransformPasswords: Reading entire reducer
+[04/14/18, 15:59:26:763] info: Store: persist/REHYDRATE
+{
+  "appTeams": {
+    "selectedTeamId": "T81JU9CQ5",
+    "teamsByIndex": [
+      "T81JU9CQ5"
+    ],
+    "teamsToSignOut": []
+  },
+  "dialog": "[REDACTED]",
+  "downloads": "[REDACTED]",
+  "migrations": {
+    "redux": true,
+    "macgap": false
+  },
+  "settings": {
+    "appVersion": "3.0.5",
+    "versionName": "Around The World",
+    "platform": "linux",
+    "platformVersion": {
+      "major": 4,
+      "minor": 13,
+      "build": 0
+    },
+    "isWin10": false,
+    "isBeforeWin10": false,
+    "resourcePath": "/usr/lib/slack/resources/app.asar",
+    "webappSrcPath": null,
+    "webappParams": null,
+    "isDevMode": false,
+    "devEnv": null,
+    "logFile": null,
+    "openDevToolsOnStart": false,
+    "pretendNotReallyWindows10": false,
+    "releaseChannel": "prod",
+    "autoHideMenuBar": false,
+    "isTitleBarHidden": false,
+    "hasRunApp": true,
+    "hasRunFromTray": true,
+    "reportIssueOnStartup": false,
+    "runFromTray": true,
+    "launchOnStartup": false,
+    "spellcheckerLanguage": null,
+    "zoomLevel": 0,
+    "workspaceIdleTimeout": 21600000,
+    "whitelistedUrlSchemes": [
+      "http:",
+      "https:",
+      "mailto:",
+      "skype:",
+      "spotify:",
+      "live:",
+      "callto:",
+      "tel:",
+      "im:",
+      "sip:",
+      "sips:"
+    ],
+    "isTitleBarForcedByUser": false,
+    "PrefSSBFileDownloadPath": "/home/hubbi/Downloads",
+    "notificationMethod": null,
+    "notificationPlayback": null,
+    "notifyPosition": {
+      "corner": "bottom_right",
+      "display": "same_as_app"
+    },
+    "locale": "en-US",
+    "useHwAcceleration": true,
+    "os": false,
+    "release": false,
+    "desktopEnvironment": false,
+    "launchedWithLink": null,
+    "isAeroGlassEnabled": false,
+    "linux": {
+      "os": "Ubuntu 17.10",
+      "release": "artful",
+      "desktopEnvironment": "Unity"
+    }
+  },
+  "teams": "[REDACTED]",
+  "windowFrame": {
+    "windowSettings": {
+      "size": [
+        1335,
+        869
+      ],
+      "position": [
+        325,
+        175
+      ],
+      "isMaximized": false
+    },
+    "isFullScreen": false
+  },
+  "tokens": "[REDACTED]"
+}
+[04/14/18, 15:59:26:768] info: initializeMainWindowEpic: Waiting for selected team to load
+{
+  "selectedTeamId": "T81JU9CQ5"
+}
+[04/14/18, 15:59:26:770] info: Store: UPDATE_SETTINGS
+{
+  "isSignedIntoSlackOrg": false
+}
+[04/14/18, 15:59:26:789] info: UpdaterEpics: Updates disabled because
+{
+  "reasons": [
+    "using Linux"
+  ]
+}
+[04/14/18, 15:59:29:408] info: Store: INITIALIZE_SETTINGS
+{
+  "releaseChannel": "prod",
+  "platformVersion": {
+    "major": 4,
+    "minor": 13,
+    "build": 0
+  },
+  "isTitleBarHidden": false,
+  "isDevMode": false,
+  "appVersion": "3.1.1",
+  "versionName": "Blackstar",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "webappSrcPath": null,
+  "webappParams": null,
+  "launchOnStartup": false,
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "isAeroGlassEnabled": false,
+  "isGpuCompositionAvailable": true,
+  "linux": {
+    "os": "Ubuntu 17.10",
+    "release": "artful",
+    "desktopEnvironment": "Unity"
+  }
+}
+[04/14/18, 15:59:29:424] info: AutoLoginEpic: Checking for autologin.
+[04/14/18, 15:59:29:425] info: AutoLoginEpic: Completed autologin processing — successfully logged in 0 workspaces.
+[04/14/18, 15:59:29:426] info: Store: AUTOLOGIN_TEAMS_COMPLETE
+[04/14/18, 15:59:29:436] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 15:59:29:441] info: Store: ADD_WINDOW
+{
+  "id": 2,
+  "type": "main"
+}
+[04/14/18, 15:59:29:445] info: BrowserViewManager: Starting initialization
+[04/14/18, 15:59:29:445] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 15:59:29:445] info: BrowserViewManager: Creating BrowserView
+{
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 15:59:29:447] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 15:59:29:452] info: BrowserViewManager: 
++-----------+------+-----+
+|           | Full | Min |
+|-----------+------+-----+
+| T81JU9CQ5 | ✔    |     |
++-----------+------+-----+
+[04/14/18, 15:59:29:453] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "teamId": "T81JU9CQ5",
+  "state": "unloaded"
+}
+[04/14/18, 15:59:29:463] info: PersistSettingsWindowBehavior: Loading windowMetrics
+{
+  "settings": {
+    "size": [
+      1335,
+      869
+    ],
+    "position": [
+      325,
+      175
+    ],
+    "isMaximized": false
+  }
+}
+[04/14/18, 15:59:29:493] info: Application: Setting main window ID
+{
+  "id": 2
+}
+[04/14/18, 15:59:29:494] info: App: Welcome to Slack 3.1.1 x64
+[04/14/18, 15:59:29:494] info: App load time: 9,495691327
+[04/14/18, 15:59:29:777] info: Store: SET_FULL_SCREEN
+[04/14/18, 15:59:30:205] info: TransformPasswords: Writing entire reducer
+[04/14/18, 15:59:30:437] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 15:59:30:457] info: BrowserViewManager: 
++-----------+------+-----+
+|           | Full | Min |
+|-----------+------+-----+
+| T81JU9CQ5 | ✔    |     |
++-----------+------+-----+
+[04/14/18, 15:59:30:458] info: BrowserViewManager: Finished initialization
+{
+  "elapsed": 1012
+}
+[04/14/18, 15:59:33:092] info: Store: SET_NETWORK_STATUS online
+[04/14/18, 15:59:52:025] info: Main: Received /usr/bin/slack from another instance
+[04/14/18, 15:59:52:025] info: App: Otherwise signaled, foregrounding.
+[04/14/18, 15:59:52:026] info: Store: FOREGROUND_APP
+[04/14/18, 15:59:59:105] info: WebContents LifeCycle: webContents:3 from 'unloaded' to 'loaded' took 29650 ms
+[04/14/18, 15:59:59:106] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 15:59:59:112] info: initializeMainWindowEpic: Showing main window
+{
+  "shouldMinimize": false,
+  "shouldMaximize": false,
+  "shouldHide": false
+}
+[04/14/18, 15:59:59:113] info: Store: MAIN_WINDOW_SHOWN
+[04/14/18, 15:59:59:159] info: Store: SET_FULL_SCREEN
+[04/14/18, 15:59:59:161] info: Store: SET_FULL_SCREEN
+[04/14/18, 15:59:59:224] info: Store: SET_FULL_SCREEN
+[04/14/18, 15:59:59:496] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-5047.log
+[04/14/18, 15:59:59:496] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-5075.log
+[04/14/18, 15:59:59:497] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-5099.log
+[04/14/18, 15:59:59:561] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 15:59:59:791] info: Store: SELECT_CHANNEL C82H1SWF9
+[04/14/18, 15:59:59:794] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/14/18, 15:59:59:796] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[04/14/18, 16:00:00:131] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "size": [
+    1335,
+    869
+  ],
+  "position": [
+    325,
+    203
+  ],
+  "isMaximized": false
+}
+[04/14/18, 16:00:00:573] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T81JU9CQ5",
+  "theme": {
+    "active_item": "#6698C8",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#94E864",
+    "badge": "#78AF8F",
+    "column_bg": "#303E4D",
+    "hover_item": "#4A5664",
+    "menu_bg": "#2C3849",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/14/18, 16:00:00:758] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 16:00:00:824] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:00:00:929] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 16:00:00:975] info: WebContents LifeCycle: webContents:3 from 'loaded' to 'webapp-loaded' took 1870 ms
+[04/14/18, 16:00:00:975] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 16:00:01:611] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 16:00:02:309] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 16:00:05:029] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "size": [
+    1335,
+    869
+  ],
+  "position": [
+    302,
+    133
+  ],
+  "isMaximized": false
+}
+[04/14/18, 16:00:48:383] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:01:01:422] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:01:06:056] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:01:07:070] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:01:12:384] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:01:13:819] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:01:55:638] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:03:918] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:05:855] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:13:282] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:15:384] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:18:006] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:18:010] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:31:688] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:32:451] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:59:046] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:03:06:616] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:03:07:857] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:03:24:548] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:03:50:100] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:03:53:620] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:06:28:644] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T81JU9CQ5-UA64N94JU-g758d0277cef-512",
+  "channel": "C80QSNU9E",
+  "content": "[REDACTED]",
+  "id": "4zqwcJhW903P33V",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C80QSNU9E&message=1523696789.000018&team=T81JU9CQ5",
+  "msg": "1523696789.000018",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T81JU9CQ5",
+  "title": "[REDACTED]"
+}
+[04/14/18, 16:06:28:655] info: Creating new Electron notification.
+[04/14/18, 16:06:32:384] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:06:37:094] info: Store: SELECT_CHANNEL C80QSNU9E
+[04/14/18, 16:06:37:270] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 16:06:37:701] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 16:07:04:459] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:07:15:023] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T81JU9CQ5-UA64N94JU-g758d0277cef-512",
+  "channel": "C80QSNU9E",
+  "content": "[REDACTED]",
+  "id": "E02vuliPVny1VBZ",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C80QSNU9E&message=1523696835.000047&team=T81JU9CQ5",
+  "msg": "1523696835.000047",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T81JU9CQ5",
+  "title": "[REDACTED]"
+}
+[04/14/18, 16:07:15:025] info: Creating new Electron notification.
+[04/14/18, 16:09:36:141] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T81JU9CQ5-UA64N94JU-g758d0277cef-512",
+  "channel": "C80QSNU9E",
+  "content": "[REDACTED]",
+  "id": "DQ2rTjsZKJ84q50",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C80QSNU9E&message=1523696976.000064&team=T81JU9CQ5",
+  "msg": "1523696976.000064",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T81JU9CQ5",
+  "title": "[REDACTED]"
+}
+[04/14/18, 16:09:36:142] info: Creating new Electron notification.
+[04/14/18, 16:09:38:542] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 16:09:38:561] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:10:25:388] error: Telemetry: Failed to send telemetry request
+{
+  "error": {
+    "message": "telemetry request aborted due to timeout",
+    "stack": "Error: telemetry request aborted due to timeout\n    at Timeout.setTimeout [as _onTimeout] (/usr/lib/slack/resources/app.asar/src/telemetry.ts:130:36)\n    at ontimeout (timers.js:469:11)\n    at tryOnTimeout (timers.js:304:5)\n    at Timer.listOnTimeout (timers.js:264:5)"
+  }
+}
+[04/14/18, 16:11:21:056] info: Store: SELECT_CHANNEL DA7MY9RJS
+[04/14/18, 16:11:25:077] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 16:11:57:499] info: Store: SELECT_CHANNEL C80QSNU9E
+[04/14/18, 16:11:57:691] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 16:11:59:731] info: Store: SELECT_CHANNEL DA7MY9RJS
+[04/14/18, 16:12:53:781] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T81JU9CQ5-UA64N94JU-g758d0277cef-512",
+  "channel": "DA7MY9RJS",
+  "content": "[REDACTED]",
+  "id": "NY2jTMtRqYyOo0y",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=DA7MY9RJS&message=1523697174.000028&team=T81JU9CQ5",
+  "msg": "1523697174.000028",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T81JU9CQ5",
+  "title": "[REDACTED]"
+}
+[04/14/18, 16:12:53:783] info: Creating new Electron notification.
+[04/14/18, 16:12:58:137] info: Store: SELECT_CHANNEL DA7MY9RJS
+[04/14/18, 16:12:58:276] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 16:13:22:757] info: Store: SELECT_CHANNEL D8DCRC1DL
+[04/14/18, 16:13:23:935] info: Store: SELECT_CHANNEL DA7MY9RJS
+[04/14/18, 16:13:24:075] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 16:13:25:390] error: Telemetry: Failed to send telemetry request
+{
+  "error": {
+    "message": "telemetry request aborted due to timeout",
+    "stack": "Error: telemetry request aborted due to timeout\n    at Timeout.setTimeout [as _onTimeout] (/usr/lib/slack/resources/app.asar/src/telemetry.ts:130:36)\n    at ontimeout (timers.js:469:11)\n    at tryOnTimeout (timers.js:304:5)\n    at Timer.listOnTimeout (timers.js:264:5)"
+  }
+}
+[04/14/18, 16:13:35:586] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:13:39:769] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:13:41:428] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:14:25:433] error: Telemetry: Failed to send telemetry request
+{
+  "error": {
+    "message": "telemetry request aborted due to timeout",
+    "stack": "Error: telemetry request aborted due to timeout\n    at Timeout.setTimeout [as _onTimeout] (/usr/lib/slack/resources/app.asar/src/telemetry.ts:130:36)\n    at ontimeout (timers.js:469:11)\n    at tryOnTimeout (timers.js:304:5)\n    at Timer.listOnTimeout (timers.js:264:5)"
+  }
+}
+[04/14/18, 16:14:41:578] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:14:44:729] info: Store: SELECT_CHANNEL DA7MYSLBY
+[04/14/18, 16:15:17:032] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:15:22:306] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:15:23:186] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:15:24:180] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:15:27:884] info: Store: SELECT_CHANNEL DA7MY9RJS
+[04/14/18, 16:15:27:989] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 16:15:36:627] info: Store: QUIT_APP
+[04/14/18, 16:15:36:659] info: Allowing window close because user chose to quit
+[04/14/18, 16:15:36:679] info: App: Disposing application
+[04/14/18, 16:15:36:682] info: Store: REMOVE_WINDOW 2
+[04/14/18, 16:15:36:746] info: Store: QUIT_APP
+[04/14/18, 17:52:58:033] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/14/18, 17:52:58:034] info: ║      Slack 3.1.1, linux 4.13.0-38-generic on x64 at 04/14/18, 17:52:58:031      ║
+[04/14/18, 17:52:58:034] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/14/18, 17:52:58:484] info: Initializing local storage instance at path: /home/hubbi/.config/Slack/local-settings.json
+[04/14/18, 17:52:58:716] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/hubbi/.config/Slack/logs/recorded-trace
+[04/14/18, 17:52:59:964] info: TransformPasswords: Reading entire reducer
+[04/14/18, 17:52:59:985] info: Store: persist/REHYDRATE
+{
+  "appTeams": {
+    "selectedTeamId": "T81JU9CQ5",
+    "teamsByIndex": [
+      "T81JU9CQ5"
+    ],
+    "teamsToSignOut": []
+  },
+  "dialog": "[REDACTED]",
+  "downloads": "[REDACTED]",
+  "migrations": {
+    "redux": true,
+    "macgap": false
+  },
+  "settings": {
+    "appVersion": "3.1.1",
+    "versionName": "Blackstar",
+    "platform": "linux",
+    "platformVersion": {
+      "major": 4,
+      "minor": 13,
+      "build": 0
+    },
+    "isWin10": false,
+    "isBeforeWin10": false,
+    "resourcePath": "/usr/lib/slack/resources/app.asar",
+    "webappSrcPath": null,
+    "webappParams": null,
+    "isDevMode": false,
+    "devEnv": null,
+    "logFile": null,
+    "openDevToolsOnStart": false,
+    "pretendNotReallyWindows10": false,
+    "releaseChannel": "prod",
+    "autoHideMenuBar": false,
+    "isTitleBarForcedByUser": false,
+    "isTitleBarHidden": false,
+    "hasRunApp": true,
+    "hasRunFromTray": true,
+    "reportIssueOnStartup": false,
+    "isSignedIntoSlackOrg": false,
+    "isGpuCompositionAvailable": true,
+    "runFromTray": true,
+    "launchOnStartup": false,
+    "spellcheckerLanguage": null,
+    "zoomLevel": 0,
+    "workspaceIdleTimeout": 21600000,
+    "whitelistedUrlSchemes": [
+      "http:",
+      "https:",
+      "mailto:",
+      "skype:",
+      "spotify:",
+      "live:",
+      "callto:",
+      "tel:",
+      "im:",
+      "sip:",
+      "sips:"
+    ],
+    "PrefSSBFileDownloadPath": "/home/hubbi/Downloads",
+    "notificationMethod": null,
+    "notificationPlayback": null,
+    "notifyPosition": {
+      "corner": "bottom_right",
+      "display": "same_as_app"
+    },
+    "locale": "en-US",
+    "useHwAcceleration": true,
+    "os": false,
+    "release": false,
+    "desktopEnvironment": false,
+    "launchedWithLink": null,
+    "isAeroGlassEnabled": false,
+    "linux": {
+      "os": "Ubuntu 17.10",
+      "release": "artful",
+      "desktopEnvironment": "Unity"
+    }
+  },
+  "teams": "[REDACTED]",
+  "windowFrame": {
+    "windowSettings": {
+      "size": [
+        1335,
+        869
+      ],
+      "position": [
+        302,
+        133
+      ],
+      "isMaximized": false
+    },
+    "isFullScreen": false
+  },
+  "tokens": "[REDACTED]"
+}
+[04/14/18, 17:52:59:991] info: initializeMainWindowEpic: Waiting for selected team to load
+{
+  "selectedTeamId": "T81JU9CQ5"
+}
+[04/14/18, 17:52:59:993] info: Store: UPDATE_SETTINGS
+{
+  "isSignedIntoSlackOrg": false
+}
+[04/14/18, 17:53:00:014] info: UpdaterEpics: Updates disabled because
+{
+  "reasons": [
+    "using Linux"
+  ]
+}
+[04/14/18, 17:53:00:489] info: Store: INITIALIZE_SETTINGS
+{
+  "releaseChannel": "prod",
+  "platformVersion": {
+    "major": 4,
+    "minor": 13,
+    "build": 0
+  },
+  "isTitleBarHidden": false,
+  "isDevMode": false,
+  "appVersion": "3.1.1",
+  "versionName": "Blackstar",
+  "devEnv": null,
+  "resourcePath": "/snap/slack/6/usr/lib/slack/resources/app.asar",
+  "webappSrcPath": null,
+  "webappParams": null,
+  "launchOnStartup": false,
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "isAeroGlassEnabled": false,
+  "isGpuCompositionAvailable": false,
+  "linux": {
+    "os": "Ubuntu 17.10",
+    "release": "artful",
+    "desktopEnvironment": "Unity"
+  }
+}
+[04/14/18, 17:53:00:491] info: AutoLoginEpic: Checking for autologin.
+[04/14/18, 17:53:00:491] info: AutoLoginEpic: Completed autologin processing — successfully logged in 0 workspaces.
+[04/14/18, 17:53:00:491] info: Store: AUTOLOGIN_TEAMS_COMPLETE
+[04/14/18, 17:53:00:494] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 17:53:00:497] info: Store: ADD_WINDOW
+{
+  "id": 2,
+  "type": "main"
+}
+[04/14/18, 17:53:00:499] info: BrowserViewManager: Starting initialization
+[04/14/18, 17:53:00:499] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 17:53:00:500] info: BrowserViewManager: Creating BrowserView
+{
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 17:53:00:501] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 17:53:00:504] info: BrowserViewManager: 
++-----------+------+-----+
+|           | Full | Min |
+|-----------+------+-----+
+| T81JU9CQ5 | ✔    |     |
++-----------+------+-----+
+[04/14/18, 17:53:00:504] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "teamId": "T81JU9CQ5",
+  "state": "unloaded"
+}
+[04/14/18, 17:53:00:512] info: PersistSettingsWindowBehavior: Loading windowMetrics
+{
+  "settings": {
+    "size": [
+      1335,
+      869
+    ],
+    "position": [
+      302,
+      133
+    ],
+    "isMaximized": false
+  }
+}
+[04/14/18, 17:53:00:580] info: Application: Setting main window ID
+{
+  "id": 2
+}
+[04/14/18, 17:53:00:581] info: App: Welcome to Slack 3.1.1 x64
+[04/14/18, 17:53:00:581] info: App load time: 3,12342002
+[04/14/18, 17:53:00:663] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:53:00:774] info: TransformPasswords: Writing entire reducer
+[04/14/18, 17:53:01:276] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 17:53:01:280] info: BrowserViewManager: 
++-----------+------+-----+
+|           | Full | Min |
+|-----------+------+-----+
+| T81JU9CQ5 | ✔    |     |
++-----------+------+-----+
+[04/14/18, 17:53:01:280] info: BrowserViewManager: Finished initialization
+{
+  "elapsed": 781
+}
+[04/14/18, 17:53:02:933] info: Store: SET_NETWORK_STATUS online
+[04/14/18, 17:53:07:792] info: WebContents LifeCycle: webContents:3 from 'unloaded' to 'loaded' took 7287 ms
+[04/14/18, 17:53:07:792] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 17:53:07:799] info: initializeMainWindowEpic: Showing main window
+{
+  "shouldMinimize": false,
+  "shouldMaximize": false,
+  "shouldHide": false
+}
+[04/14/18, 17:53:07:800] info: Store: MAIN_WINDOW_SHOWN
+[04/14/18, 17:53:07:836] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:53:07:839] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:53:07:870] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:53:08:341] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 17:53:08:817] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "size": [
+    1335,
+    869
+  ],
+  "position": [
+    302,
+    161
+  ],
+  "isMaximized": false
+}
+[04/14/18, 17:53:09:456] info: Store: SELECT_CHANNEL DA7MY9RJS
+[04/14/18, 17:53:09:460] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 17:53:09:462] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[04/14/18, 17:53:09:518] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T81JU9CQ5",
+  "theme": {
+    "active_item": "#6698C8",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#94E864",
+    "badge": "#78AF8F",
+    "column_bg": "#303E4D",
+    "hover_item": "#4A5664",
+    "menu_bg": "#2C3849",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/14/18, 17:53:10:098] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 17:53:10:211] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 17:53:10:213] info: WebContents LifeCycle: webContents:3 from 'loaded' to 'webapp-loaded' took 2421 ms
+[04/14/18, 17:53:10:213] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 17:53:10:751] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 17:53:11:506] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 17:53:29:385] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:54:32:074] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:54:35:513] info: Store: SELECT_CHANNEL D81CF520K
+[04/14/18, 17:54:37:563] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 17:54:37:877] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 17:55:18:606] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:55:18:628] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:55:25:269] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:55:25:307] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:55:26:561] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:55:26:564] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:55:26:882] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:55:26:915] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:55:29:887] info: WindowCloseBehavior: Attempted to close the window, hiding due to run from tray
+[04/14/18, 17:55:29:973] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:55:29:976] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:55:30:973] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "size": [
+    1335,
+    869
+  ],
+  "position": [
+    302,
+    133
+  ],
+  "isMaximized": false
+}
+[04/14/18, 17:56:11:901] info: Main: Received /snap/slack/6/usr/lib/slack/slack,--executed-from=/home/hubbi,--pid=13920 from another instance
+[04/14/18, 17:56:11:901] info: App: Otherwise signaled, foregrounding.
+[04/14/18, 17:56:11:902] info: Store: FOREGROUND_APP
+[04/14/18, 17:56:11:941] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:56:11:943] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:56:11:981] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:56:12:926] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "size": [
+    1335,
+    869
+  ],
+  "position": [
+    302,
+    161
+  ],
+  "isMaximized": false
+}
+[04/14/18, 17:56:15:079] info: Store: SELECT_CHANNEL C80QSNU9E
+[04/14/18, 17:56:17:433] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 17:56:37:056] info: Store: SELECT_CHANNEL DA7MYSLBY
+[04/14/18, 17:56:39:103] info: WebContentsMediator: Attaching to new webContents
+[04/14/18, 17:56:45:700] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "size": [
+    1335,
+    869
+  ],
+  "position": [
+    295,
+    102
+  ],
+  "isMaximized": false
+}
+[04/14/18, 17:56:49:599] info: Store: SHOW_WEBAPP_DIALOG
+{
+  "dialogType": "prefs"
+}
+[04/14/18, 17:58:17:783] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T81JU9CQ5",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/14/18, 17:58:19:708] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T81JU9CQ5",
+  "theme": {
+    "active_item": "#F79F66",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#F79F66",
+    "badge": "#F15340",
+    "column_bg": "#0D7E83",
+    "hover_item": "#D37C71",
+    "menu_bg": "#076570",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/14/18, 17:58:21:292] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T81JU9CQ5",
+  "theme": {
+    "active_item": "#D39B46",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#99D04A",
+    "badge": "#DB6668",
+    "column_bg": "#4D5250",
+    "hover_item": "#434745",
+    "menu_bg": "#444A47",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/14/18, 17:58:22:944] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T81JU9CQ5",
+  "theme": {
+    "active_item": "#5DB09D",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#FFFFFF",
+    "badge": "#5DB09D",
+    "column_bg": "#544538",
+    "hover_item": "#4A3C30",
+    "menu_bg": "#42362B",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/14/18, 17:58:24:162] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T81JU9CQ5",
+  "theme": {
+    "active_item": "#2D9EE0",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#60D156",
+    "badge": "#DC5960",
+    "column_bg": "#F8F8FA",
+    "hover_item": "#FFFFFF",
+    "menu_bg": "#F8F8FA",
+    "text_color": "#383F45"
+  }
+}
+[04/14/18, 17:58:25:563] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T81JU9CQ5",
+  "theme": {
+    "active_item": "#6698C8",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#94E864",
+    "badge": "#78AF8F",
+    "column_bg": "#303E4D",
+    "hover_item": "#4A5664",
+    "menu_bg": "#2C3849",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/14/18, 17:59:15:810] info: WindowCloseBehavior: Attempted to close the window, hiding due to run from tray
+[04/14/18, 17:59:15:850] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:59:15:851] info: Store: SET_FULL_SCREEN
+[04/14/18, 17:59:16:850] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "size": [
+    1335,
+    869
+  ],
+  "position": [
+    295,
+    74
+  ],
+  "isMaximized": false
+}
+[04/14/18, 18:21:16:015] info: Store: QUIT_APP
+[04/14/18, 18:21:16:023] info: Allowing window close because user chose to quit
+[04/14/18, 18:21:16:026] info: App: Disposing application
+[04/14/18, 18:21:16:026] info: Store: REMOVE_WINDOW 2
+[04/14/18, 18:21:16:040] info: Store: QUIT_APP
+[04/17/18, 13:55:24:790] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/17/18, 13:55:24:791] info: ║      Slack 3.1.1, linux 4.15.0-15-generic on x64 at 04/17/18, 13:55:24:787      ║
+[04/17/18, 13:55:24:791] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/17/18, 13:55:25:412] info: Initializing local storage instance at path: /home/hubbi/.config/Slack/local-settings.json
+[04/17/18, 13:55:25:710] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/hubbi/.config/Slack/logs/recorded-trace
+[04/17/18, 13:56:32:206] info: TransformPasswords: Reading entire reducer
+[04/17/18, 13:56:32:234] info: Store: persist/REHYDRATE
+{
+  "appTeams": {
+    "selectedTeamId": "T81JU9CQ5",
+    "teamsByIndex": [
+      "T81JU9CQ5"
+    ],
+    "teamsToSignOut": []
+  },
+  "dialog": "[REDACTED]",
+  "downloads": "[REDACTED]",
+  "migrations": {
+    "redux": true,
+    "macgap": false
+  },
+  "settings": {
+    "appVersion": "3.1.1",
+    "versionName": "Blackstar",
+    "platform": "linux",
+    "platformVersion": {
+      "major": 4,
+      "minor": 13,
+      "build": 0
+    },
+    "isWin10": false,
+    "isBeforeWin10": false,
+    "resourcePath": "/snap/slack/6/usr/lib/slack/resources/app.asar",
+    "webappSrcPath": null,
+    "webappParams": null,
+    "isDevMode": false,
+    "devEnv": null,
+    "logFile": null,
+    "openDevToolsOnStart": false,
+    "pretendNotReallyWindows10": false,
+    "releaseChannel": "prod",
+    "autoHideMenuBar": false,
+    "isTitleBarForcedByUser": false,
+    "isTitleBarHidden": false,
+    "hasRunApp": true,
+    "hasRunFromTray": true,
+    "reportIssueOnStartup": false,
+    "isSignedIntoSlackOrg": false,
+    "isGpuCompositionAvailable": false,
+    "runFromTray": true,
+    "launchOnStartup": false,
+    "spellcheckerLanguage": null,
+    "zoomLevel": 0,
+    "workspaceIdleTimeout": 21600000,
+    "whitelistedUrlSchemes": [
+      "http:",
+      "https:",
+      "mailto:",
+      "skype:",
+      "spotify:",
+      "live:",
+      "callto:",
+      "tel:",
+      "im:",
+      "sip:",
+      "sips:"
+    ],
+    "PrefSSBFileDownloadPath": "/home/hubbi/Downloads",
+    "notificationMethod": null,
+    "notificationPlayback": null,
+    "notifyPosition": {
+      "corner": "bottom_right",
+      "display": "same_as_app"
+    },
+    "locale": "en-US",
+    "useHwAcceleration": true,
+    "os": false,
+    "release": false,
+    "desktopEnvironment": false,
+    "launchedWithLink": null,
+    "isAeroGlassEnabled": false,
+    "linux": {
+      "os": "Ubuntu 17.10",
+      "release": "artful",
+      "desktopEnvironment": "Unity"
+    }
+  },
+  "teams": "[REDACTED]",
+  "windowFrame": {
+    "windowSettings": {
+      "size": [
+        1335,
+        869
+      ],
+      "position": [
+        295,
+        74
+      ],
+      "isMaximized": false
+    },
+    "isFullScreen": false
+  },
+  "tokens": "[REDACTED]"
+}
+[04/17/18, 13:56:32:237] info: initializeMainWindowEpic: Waiting for selected team to load
+{
+  "selectedTeamId": "T81JU9CQ5"
+}
+[04/17/18, 13:56:32:238] info: Store: UPDATE_SETTINGS
+{
+  "isSignedIntoSlackOrg": false
+}
+[04/17/18, 13:56:32:245] info: UpdaterEpics: Updates disabled because
+{
+  "reasons": [
+    "using Linux"
+  ]
+}
+[04/17/18, 13:56:32:893] info: Store: INITIALIZE_SETTINGS
+{
+  "releaseChannel": "prod",
+  "platformVersion": {
+    "major": 4,
+    "minor": 15,
+    "build": 0
+  },
+  "isTitleBarHidden": false,
+  "isDevMode": false,
+  "appVersion": "3.1.1",
+  "versionName": "Blackstar",
+  "devEnv": null,
+  "resourcePath": "/snap/slack/6/usr/lib/slack/resources/app.asar",
+  "webappSrcPath": null,
+  "webappParams": null,
+  "launchOnStartup": false,
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "isAeroGlassEnabled": false,
+  "isGpuCompositionAvailable": false,
+  "linux": {
+    "os": "Ubuntu Bionic Beaver (development branch)",
+    "release": "bionic",
+    "desktopEnvironment": "Unity"
+  }
+}
+[04/17/18, 13:56:32:895] info: AutoLoginEpic: Checking for autologin.
+[04/17/18, 13:56:32:895] info: AutoLoginEpic: Completed autologin processing — successfully logged in 0 workspaces.
+[04/17/18, 13:56:32:895] info: Store: AUTOLOGIN_TEAMS_COMPLETE
+[04/17/18, 13:56:32:899] info: WebContentsMediator: Attaching to new webContents
+[04/17/18, 13:56:32:902] info: Store: ADD_WINDOW
+{
+  "id": 2,
+  "type": "main"
+}
+[04/17/18, 13:56:32:904] info: BrowserViewManager: Starting initialization
+[04/17/18, 13:56:32:904] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "T81JU9CQ5"
+}
+[04/17/18, 13:56:32:904] info: BrowserViewManager: Creating BrowserView
+{
+  "teamId": "T81JU9CQ5"
+}
+[04/17/18, 13:56:32:905] info: WebContentsMediator: Attaching to new webContents
+[04/17/18, 13:56:32:908] info: BrowserViewManager: 
++-----------+------+-----+
+|           | Full | Min |
+|-----------+------+-----+
+| T81JU9CQ5 | ✔    |     |
++-----------+------+-----+
+[04/17/18, 13:56:32:909] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "teamId": "T81JU9CQ5",
+  "state": "unloaded"
+}
+[04/17/18, 13:56:32:918] info: PersistSettingsWindowBehavior: Loading windowMetrics
+{
+  "settings": {
+    "size": [
+      1335,
+      869
+    ],
+    "position": [
+      295,
+      74
+    ],
+    "isMaximized": false
+  }
+}
+[04/17/18, 13:56:32:965] info: Application: Setting main window ID
+{
+  "id": 2
+}
+[04/17/18, 13:56:32:967] info: App: Welcome to Slack 3.1.1 x64
+[04/17/18, 13:56:32:967] info: App load time: 68,824698689
+[04/17/18, 13:56:33:221] info: Store: SET_FULL_SCREEN
+[04/17/18, 13:56:33:258] warn: SlackApi: Failed to call api.features
+{
+  "error": {
+    "message": "request to https://slack.com/api/api.features?token=xoxs-⋯&platform=ssb failed, reason: net::ERR_CONNECTION_RESET",
+    "type": "system",
+    "errno": "ERR_CONNECTION_RESET",
+    "code": "ERR_CONNECTION_RESET"
+  }
+}
+[04/17/18, 13:56:33:263] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "T81JU9CQ5"
+}
+[04/17/18, 13:56:33:282] info: BrowserViewManager: 
++-----------+------+-----+
+|           | Full | Min |
+|-----------+------+-----+
+| T81JU9CQ5 | ✔    |     |
++-----------+------+-----+
+[04/17/18, 13:56:33:283] info: BrowserViewManager: Finished initialization
+{
+  "elapsed": 378
+}
+[04/17/18, 13:56:33:483] info: TransformPasswords: Writing entire reducer
+[04/17/18, 13:56:36:561] info: Store: SET_NETWORK_STATUS offline
+[04/17/18, 13:56:36:726] info: WebContents LifeCycle: webContents:3 from 'unloaded' to 'loaded' took 3815 ms
+[04/17/18, 13:56:36:726] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T81JU9CQ5"
+}
+[04/17/18, 13:56:36:735] info: WebContents LifeCycle: webContents:3 from 'loaded' to 'empty-page' took 9 ms
+[04/17/18, 13:56:36:735] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T81JU9CQ5"
+}
+[04/17/18, 13:56:37:057] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T81JU9CQ5"
+}
+[04/17/18, 13:56:46:851] info: Store: SHOW_WEBAPP_DIALOG
+{
+  "dialogType": "prefs"
+}
+[04/17/18, 13:56:52:058] info: Store: QUIT_APP
+[04/17/18, 13:56:52:160] info: Store: QUIT_APP
+[04/17/18, 13:56:52:166] info: Allowing window close because user chose to quit
+[04/17/18, 13:56:52:170] info: App: Disposing application
+[04/17/18, 13:56:52:171] info: Store: REMOVE_WINDOW 2
+[04/17/18, 13:56:52:210] info: Store: QUIT_APP

@@ -1,0 +1,136 @@
+{
+  "reports-ui-state": {}, 
+  "saved_seaches_state": {
+    "wrap": true, 
+    "direction": "down", 
+    "where": "current"
+  }, 
+  "recent-books": [
+    "/home/hubbi/Documents/E-Books/Calibre Library/Timothy Zahn/Vision of the Future (43)/Vision of the Future - Timothy Zahn.epub"
+  ], 
+  "main_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAABDAAAAGwAAB38AAAQ3AAAAQwAAADcAAAd/AAAENwAAAAACAAAAB4A="
+  }, 
+  "find-widget-state": {
+    "direction": "down", 
+    "case_sensitive": false, 
+    "mode": "normal", 
+    "wrap": true, 
+    "where": "current", 
+    "dot_all": false
+  }, 
+  "main_window_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAAEAAAADr/wCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAADwAAAOvAAAAWQD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAFkA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAHkA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAIkA////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAfkA////AAAAAQAAAmkAAAOv/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAPAAAA68AAABAAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABZAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAkAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAAApAP///wAAA8gAAAOvAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABJv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
+  }, 
+  "text_search_widget_state": {
+    "where": "current", 
+    "mode": "normal", 
+    "dot_all": true, 
+    "case_sensitive": false
+  }, 
+  "search-panel-visible": false, 
+  "custom_colors_for_color_dialog": [
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ]
+  ], 
+  "check-book-splitter-state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAEAAAAC//////////8A/////wEAAAABAA=="
+  }
+}

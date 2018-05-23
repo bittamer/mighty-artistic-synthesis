@@ -1,0 +1,19 @@
+[Data Source]
+DisplayName=Personal Me
+Enabled=true
+Parent=afb8661df39bd681453e99156416283a63f95fdf
+
+[Mail Transport]
+BackendName=smtp
+
+[Authentication]
+Host=server45017x.maintenis.com
+Method=PLAIN
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=me@hubbinash.org
+CredentialName=
+
+[Security]
+Method=ssl-on-alternate-port

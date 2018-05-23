@@ -1,0 +1,387 @@
+[2017-11-20 17:59:54:0765] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-20 17:59:54:0962] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-20 18:14:10:0603] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-20 18:14:10:0799] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-20 21:23:38:0328] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-20 21:23:38:0524] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-20 21:40:24:0694] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-20 21:40:24:0974] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-21 08:06:39:0765] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-21 08:06:43:0317] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-21 10:33:17:0179] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-21 10:33:17:0372] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 14:56:53:0251] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 14:56:54:0399] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 15:19:04:0958] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 15:19:05:0113] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 15:23:26:0882] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 15:23:27:0088] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 15:24:20:0156] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 15:24:20:0333] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 15:25:45:0770] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 15:25:45:0960] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 15:33:25:0123] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 15:33:28:0718] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 15:33:43:0459] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 15:33:43:0647] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 16:08:00:0861] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 16:08:01:0842] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 16:11:02:0491] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 16:11:02:0738] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 16:14:07:0782] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 16:14:07:0995] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 16:18:51:0650] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 16:18:51:0993] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 16:45:59:0617] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 16:45:59:0915] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 17:04:34:0747] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 17:04:34:0947] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 17:06:51:0025] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 17:06:51:0209] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 17:08:20:0100] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 17:08:20:0294] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 21:26:25:0171] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 21:26:25:0342] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 21:58:13:0270] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 21:58:14:0945] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 21:58:48:0756] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 21:58:48:0951] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-23 22:15:06:0407] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-23 22:15:06:0530] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-24 20:45:48:0338] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-24 20:45:49:0246] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-11-29 22:36:32:0151] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-11-29 22:36:33:0050] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-13 16:33:48:0673] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-13 16:33:50:0477] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-13 16:50:42:0226] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-13 16:50:42:0366] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-14 13:46:05:0592] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-14 13:46:05:0737] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-14 13:57:19:0084] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-14 13:57:19:0295] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-14 13:59:04:0737] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-14 13:59:04:0948] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-14 14:03:39:0862] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-14 14:03:40:0083] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-14 14:09:50:0450] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-14 14:09:50:0664] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-14 16:01:21:0709] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-14 16:01:22:0048] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-15 16:11:36:0421] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-15 16:11:37:0815] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-15 16:13:27:0279] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-15 16:13:27:0497] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-15 16:20:35:0864] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-15 16:20:36:0302] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-15 16:24:55:0130] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-15 16:24:55:0285] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-15 16:28:53:0209] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-15 16:28:53:0389] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-15 16:34:34:0856] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-15 16:34:35:0034] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-15 17:32:46:0904] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-15 17:32:47:0096] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-15 17:34:55:0454] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-15 17:34:55:0627] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-15 17:35:55:0554] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-15 17:35:55:0764] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-16 13:22:14:0523] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-16 13:22:14:0760] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-16 21:07:40:0874] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-16 21:07:41:0109] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-17 08:31:31:0913] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-17 08:31:32:0897] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-17 09:13:37:0256] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-17 09:13:37:0885] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-17 15:59:06:0470] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-17 15:59:06:0698] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-18 09:21:18:0230] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-18 09:21:18:0434] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-18 09:22:37:0500] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-18 09:22:37:0658] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-18 10:08:07:0151] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-18 10:08:07:0317] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-18 10:09:15:0733] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-18 10:09:15:0921] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-18 10:12:08:0015] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-18 10:12:08:0207] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-18 10:17:12:0294] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-18 10:17:12:0496] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-18 10:20:01:0117] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-18 10:20:01:0331] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-18 10:27:05:0031] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-18 10:27:05:0221] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-18 11:00:36:0640] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-18 11:00:37:0030] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-18 11:05:06:0877] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-18 11:05:07:0070] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-18 11:17:10:0888] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-18 11:17:11:0072] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-18 13:35:36:0494] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-18 13:35:36:0712] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-18 21:24:34:0532] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-18 21:24:34:0831] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-19 13:35:40:0456] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-19 13:35:43:0848] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-19 14:27:40:0814] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-19 14:27:44:0335] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-19 14:32:49:0115] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-19 14:32:52:0086] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-19 15:11:52:0706] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-19 15:11:53:0565] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-19 15:56:31:0581] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-19 15:56:32:0621] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-20 11:06:20:0405] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-20 11:06:21:0819] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-20 21:09:25:0227] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-20 21:09:25:0508] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-21 10:51:44:0944] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-21 10:51:46:0431] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-21 16:26:49:0458] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-21 16:26:50:0293] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-21 16:30:40:0483] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-21 16:30:40:0755] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-28 21:45:14:0123] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-28 21:45:14:0835] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2017-12-29 08:05:53:0410] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2017-12-29 08:05:54:0157] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-02 11:08:49:0030] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-02 11:08:49:0801] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-02 11:23:38:0108] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-02 11:23:38:0302] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-02 15:09:02:0247] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-02 15:09:03:0217] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-02 15:09:10:0647] [warn] Error: 
+[2018-01-02 17:23:01:0766] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-02 17:23:02:0870] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-02 17:23:17:0204] [warn] Error: 
+[2018-01-02 17:32:27:0892] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-02 17:32:28:0216] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-02 23:11:48:0050] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-02 23:11:48:0221] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-04 12:24:47:0276] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-04 12:24:48:0232] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-05 14:10:38:0745] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-05 14:10:39:0571] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-05 14:10:40:0722] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-05 14:10:40:0864] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-05 14:17:19:0714] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-05 14:17:20:0314] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-05 14:34:00:0115] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-05 14:34:00:0323] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-05 15:13:04:0078] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-05 15:13:04:0679] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-05 15:13:55:0145] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-05 15:13:55:0348] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-07 22:35:35:0048] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-07 22:35:38:0903] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-07 22:35:47:0782] [warn] Error: 
+[2018-01-11 22:39:20:0493] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-11 22:39:21:0325] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-11 22:39:29:0643] [warn] Error: 
+[2018-01-11 22:42:36:0800] [warn] Error: 
+[2018-01-11 22:42:47:0003] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-11 22:42:47:0448] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-11 22:42:51:0778] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-11 22:42:51:0907] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-11 22:42:55:0152] [warn] Error: 
+[2018-01-12 10:19:06:0164] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-12 10:19:07:0499] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-12 10:19:15:0161] [warn] Error: 
+[2018-01-12 14:19:24:0858] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-12 14:19:25:0700] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-12 14:21:13:0306] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-12 14:21:13:0505] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-12 14:56:52:0214] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-12 14:56:52:0664] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-12 15:35:00:0435] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-12 15:35:00:0781] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-12 16:13:19:0492] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-12 16:13:19:0939] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-12 16:13:37:0893] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-12 16:13:38:0035] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-12 16:13:42:0017] [warn] Error: 
+[2018-01-12 16:16:22:0032] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-12 16:16:22:0620] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-15 10:55:49:0856] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-15 10:55:50:0770] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-15 10:55:58:0345] [warn] Error: 
+[2018-01-15 11:06:28:0144] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-15 11:06:28:0825] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-15 11:08:49:0727] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-15 11:08:49:0902] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-15 11:30:20:0614] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-15 11:30:20:0820] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-15 11:38:02:0281] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-15 11:38:02:0490] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-15 11:43:23:0713] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-15 11:43:23:0930] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-15 13:50:47:0053] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-15 13:50:48:0357] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-15 14:51:10:0972] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-15 14:51:11:0286] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-15 21:56:18:0087] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-15 21:56:18:0934] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-16 09:42:38:0954] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-16 09:42:39:0551] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-16 09:59:15:0078] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-16 09:59:15:0673] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-16 15:09:39:0073] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-16 15:09:40:0592] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-17 21:45:00:0029] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-17 21:45:02:0965] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-29 10:34:15:0240] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-29 10:34:17:0162] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-29 10:55:01:0176] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-29 10:55:02:0140] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-29 10:55:09:0543] [warn] Error: 
+[2018-01-29 19:15:24:0329] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-29 19:15:25:0340] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-29 19:15:34:0035] [warn] Error: 
+[2018-01-29 19:59:14:0650] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-29 19:59:14:0963] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-29 20:10:03:0415] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-29 20:10:03:0588] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-29 20:31:15:0720] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-29 20:31:15:0968] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-31 08:24:11:0956] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-31 08:24:12:0894] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-31 08:24:20:0995] [warn] Error: 
+[2018-01-31 08:29:11:0223] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-31 08:29:11:0383] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-31 08:29:14:0646] [warn] Error: 
+[2018-01-31 08:30:20:0788] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-31 08:30:20:0955] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-31 08:30:24:0090] [warn] Error: 
+[2018-01-31 08:38:41:0043] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-01-31 08:38:41:0231] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-01-31 08:38:44:0520] [warn] Error: 
+[2018-02-03 21:33:32:0718] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-13 10:09:56:0113] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-13 10:09:56:0938] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-13 10:10:05:0527] [warn] Error: 
+[2018-02-13 13:45:19:0613] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-13 13:45:21:0664] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-13 13:57:08:0116] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-13 13:57:09:0081] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-13 14:07:00:0868] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-13 14:07:01:0371] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-13 14:21:18:0938] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-13 14:21:19:0596] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-13 14:21:27:0920] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-13 14:21:28:0581] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-13 15:15:24:0442] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-13 15:15:25:0315] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-13 15:15:35:0359] [warn] Error: 
+[2018-02-13 15:22:42:0084] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-13 15:22:42:0273] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-13 15:25:18:0927] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-13 15:25:19:0106] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-13 15:25:22:0544] [warn] Error: 
+[2018-02-20 14:40:40:0219] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-20 14:40:41:0498] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-20 14:40:54:0643] [warn] Error: 
+[2018-02-20 15:21:29:0242] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-20 15:21:29:0647] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-20 15:29:16:0607] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-20 15:29:17:0296] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-20 15:34:59:0530] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-20 15:35:00:0211] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-20 15:54:13:0162] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-20 15:54:13:0906] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-20 15:58:30:0681] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-20 15:58:30:0942] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-20 19:51:42:0611] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-20 19:51:42:0871] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-20 20:21:09:0874] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-20 20:21:10:0124] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-20 20:22:10:0414] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-20 20:22:10:0638] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-26 16:48:43:0391] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-26 16:48:44:0439] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-26 16:48:52:0837] [warn] Error: 
+[2018-02-26 17:39:26:0925] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-26 17:39:27:0173] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-26 18:03:45:0153] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-26 18:03:45:0771] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-26 22:25:44:0767] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-26 22:25:45:0182] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-27 09:55:39:0017] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-27 09:55:40:0058] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-27 10:20:31:0471] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-02-27 10:20:31:0656] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-02-27 10:20:38:0760] [warn] Error: 
+[2018-03-04 22:16:18:0241] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-03-04 22:16:19:0449] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-04 22:16:28:0610] [warn] Error: 
+[2018-03-13 11:40:18:0482] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-03-13 11:40:19:0203] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-13 11:40:26:0994] [warn] Error: 
+[2018-03-13 23:13:57:0531] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-03-13 23:13:58:0212] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-13 23:14:08:0238] [warn] Error: 
+[2018-03-17 14:16:57:0859] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-03-17 14:16:58:0648] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-17 14:17:06:0045] [warn] Error: 
+[2018-03-17 14:30:11:0725] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-03-17 14:30:11:0900] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-17 14:30:15:0267] [warn] Error: 
+[2018-03-17 15:14:00.829] [warn] Error loading configuration from /home/hubbi/.config/whatsapp-desktop/settings.json (Error: ENOENT: no such file or directory, open '/home/hubbi/.config/whatsapp-desktop/settings.json'), loading default
+[2018-03-17 15:14:01.092] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-20 09:59:48.097] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-20 10:03:39.497] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-20 10:30:40.960] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-20 11:51:50.891] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-20 11:57:17.687] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-22 20:59:44.354] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-22 21:02:48.182] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-22 21:21:20.854] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-22 21:22:33.688] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-23 09:32:58.742] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 15:05:08.120] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 15:08:49.958] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 15:10:45.147] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 15:19:05.295] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 17:05:45.448] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 17:34:50.628] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 21:15:22.476] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 21:25:54.942] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 21:32:00.507] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 21:34:34.972] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 21:49:42.815] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 22:00:16.367] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 22:05:43.598] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 22:06:43.328] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 22:10:26.676] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 22:22:16.744] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 22:23:10.877] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 22:29:53.623] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 22:37:35.779] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 22:38:06.038] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 22:45:11.548] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-28 23:26:43.366] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-29 08:27:46.216] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-29 08:58:57.340] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-29 09:22:48.104] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-29 09:23:02.078] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-29 09:23:15.491] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-29 12:13:15.161] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-29 14:33:45.667] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-29 16:29:36.140] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-29 16:31:44.324] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-29 17:53:21.474] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-03-29 22:38:54.145] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-04-02 15:28:20.059] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-04-02 15:29:13.903] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-04-02 15:29:19.109] [warn] Error: 
+[2018-04-02 16:07:53.484] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-04-03 09:26:03.095] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-04-03 10:18:18.951] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-04-03 10:18:22.812] [warn] Error: 
+[2018-05-02 10:12:57.602] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-05-02 10:13:03.580] [warn] Error checking updates (status 404): null
+[2018-05-02 14:59:46.052] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-05-02 14:59:50.692] [warn] Error checking updates (status 404): null
+[2018-05-09 10:50:25.905] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-05-09 11:45:00.373] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'

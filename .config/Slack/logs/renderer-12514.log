@@ -1,0 +1,383 @@
+[04/14/18, 15:59:34:103] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[04/14/18, 15:59:34:103] info: ║      Slack 3.1.1, linux 4.13.0-38-generic on x64 at 04/14/18, 15:59:34:099      ║
+[04/14/18, 15:59:34:103] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[04/14/18, 15:59:34:192] info: Initializing local storage instance at path: /home/hubbi/.config/Slack/local-settings.json
+[04/14/18, 15:59:35:028] info: cld3::loadModule: loading cld3 module
+[04/14/18, 15:59:35:094] info: cld3Loader::loadModule: running environment is NODE
+[04/14/18, 15:59:35:094] info: cld3Loader::loadModule: constructed module object for runtime
+[04/14/18, 15:59:35:302] info: cld3Loader::initializeRuntime: successfully initialized module
+[04/14/18, 15:59:35:302] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[04/14/18, 15:59:35:305] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[04/14/18, 15:59:35:306] info: SSBIntegration: Main window preload script loaded 1670.953556
+[04/14/18, 15:59:52:027] info: Store: FOREGROUND_APP
+[04/14/18, 16:00:00:143] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 16:00:00:145] info: Store: MAIN_WINDOW_SHOWN
+[04/14/18, 16:00:00:235] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:00:00:236] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:00:00:529] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:00:00:533] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 16:00:00:544] info: Store: SELECT_CHANNEL C82H1SWF9
+[04/14/18, 16:00:00:544] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[04/14/18, 16:00:00:545] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[04/14/18, 16:00:00:549] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    325,
+    203
+  ],
+  "size": [
+    1335,
+    869
+  ]
+}
+[04/14/18, 16:00:00:593] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T81JU9CQ5",
+  "theme": {
+    "active_item": "#6698C8",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#94E864",
+    "badge": "#78AF8F",
+    "column_bg": "#303E4D",
+    "hover_item": "#4A5664",
+    "menu_bg": "#2C3849",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/14/18, 16:00:00:933] info: postLoadTaskSetup: Desktop client fully loaded
+{
+  "loadedTime": 40933.39756
+}
+[04/14/18, 16:00:01:021] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": false,
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 16:00:01:147] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:00:01:148] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 16:00:01:149] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T81JU9CQ5"
+}
+[04/14/18, 16:00:02:418] info: Raw Locale list: ["C","C.UTF-8","en_AG","en_AG.utf8","en_AU.utf8","en_BW.utf8","en_CA.utf8","en_DK.utf8","en_GB.utf8","en_HK.utf8","en_IE.utf8","en_IL","en_IL.utf8","en_IN","en_IN.utf8","en_NG","en_NG.utf8","en_NZ.utf8","en_PH.utf8","en_SG.utf8","en_US.utf8","en_ZA.utf8","en_ZM","en_ZM.utf8","en_ZW.utf8","id_ID.utf8","POSIX",""]
+[04/14/18, 16:00:02:418] info: Filtered Locale list: ["en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IL","en_IL","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW","id_ID"]
+[04/14/18, 16:00:02:418] info: Counts: {"en":["en_AG","en_AG","en_AU","en_BW","en_CA","en_DK","en_GB","en_HK","en_IE","en_IL","en_IL","en_IN","en_IN","en_NG","en_NG","en_NZ","en_PH","en_SG","en_US","en_ZA","en_ZM","en_ZM","en_ZW"],"id":["id_ID"]}
+[04/14/18, 16:00:02:418] info: Setting id
+[04/14/18, 16:00:02:419] info: Result: {"id":"id-ID","en":"en-US"}
+[04/14/18, 16:00:02:421] info: Requesting to load id-ID, alternatives are ["id-ID","id-ID","id-ID"]
+[04/14/18, 16:00:02:423] info: Loading dictionary for language id-ID
+[04/14/18, 16:00:02:427] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:00:02:442] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:00:02:443] info: Creating node-spellchecker instance
+[04/14/18, 16:00:02:444] info: Actually installing spell check provider to Electron
+[04/14/18, 16:00:02:678] info: Loading dictionary for language id-ID
+[04/14/18, 16:00:02:678] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:00:02:679] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:00:05:033] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    302,
+    133
+  ],
+  "size": [
+    1335,
+    869
+  ]
+}
+[04/14/18, 16:00:47:668] info: Got window.open with URL: https://farmasi-itb.slack.com/apps/A0F7YS32P
+[04/14/18, 16:00:48:023] info: Unloading spellchecker
+[04/14/18, 16:00:48:031] info: Unloading spellchecker
+[04/14/18, 16:00:48:385] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:01:01:346] info: Restoring spellchecker
+[04/14/18, 16:01:01:347] info: Loading dictionary for language id-ID
+[04/14/18, 16:01:01:348] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:01:01:363] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:01:01:364] info: Creating node-spellchecker instance
+[04/14/18, 16:01:01:426] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:01:05:999] info: Unloading spellchecker
+[04/14/18, 16:01:06:001] info: Unloading spellchecker
+[04/14/18, 16:01:06:057] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:01:07:035] info: Restoring spellchecker
+[04/14/18, 16:01:07:035] info: Loading dictionary for language id-ID
+[04/14/18, 16:01:07:035] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:01:07:041] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:01:07:041] info: Creating node-spellchecker instance
+[04/14/18, 16:01:07:071] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:01:12:342] info: Unloading spellchecker
+[04/14/18, 16:01:12:346] info: Unloading spellchecker
+[04/14/18, 16:01:12:387] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:01:13:774] info: Restoring spellchecker
+[04/14/18, 16:01:13:775] info: Loading dictionary for language id-ID
+[04/14/18, 16:01:13:775] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:01:13:789] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:01:13:789] info: Creating node-spellchecker instance
+[04/14/18, 16:01:13:823] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:01:33:206] info: Attempting detection, string length: 13
+[04/14/18, 16:01:33:207] info: Attempting detection, string length: 13
+[04/14/18, 16:01:33:391] info: Attempting detection, string length: 14
+[04/14/18, 16:01:33:392] info: Attempting detection, string length: 14
+[04/14/18, 16:01:33:392] info: Attempting detection, string length: 14
+[04/14/18, 16:01:33:393] info: Attempting detection, string length: 14
+[04/14/18, 16:01:55:565] info: Unloading spellchecker
+[04/14/18, 16:01:55:575] info: Unloading spellchecker
+[04/14/18, 16:01:55:639] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:03:879] info: Restoring spellchecker
+[04/14/18, 16:02:03:879] info: Loading dictionary for language id-ID
+[04/14/18, 16:02:03:879] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:02:03:888] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:02:03:888] info: Creating node-spellchecker instance
+[04/14/18, 16:02:03:922] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:05:801] info: Unloading spellchecker
+[04/14/18, 16:02:05:805] info: Unloading spellchecker
+[04/14/18, 16:02:05:857] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:13:237] info: Restoring spellchecker
+[04/14/18, 16:02:13:237] info: Loading dictionary for language id-ID
+[04/14/18, 16:02:13:237] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:02:13:241] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:02:13:241] info: Creating node-spellchecker instance
+[04/14/18, 16:02:13:284] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:15:385] info: Unloading spellchecker
+[04/14/18, 16:02:15:386] info: Unloading spellchecker
+[04/14/18, 16:02:15:388] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:17:388] info: Restoring spellchecker
+[04/14/18, 16:02:17:389] info: Loading dictionary for language id-ID
+[04/14/18, 16:02:17:389] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:02:17:394] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:02:17:395] info: Creating node-spellchecker instance
+[04/14/18, 16:02:18:042] info: Unloading spellchecker
+[04/14/18, 16:02:18:056] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:18:057] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:18:060] info: Unloading spellchecker
+[04/14/18, 16:02:31:635] info: Restoring spellchecker
+[04/14/18, 16:02:31:636] info: Loading dictionary for language id-ID
+[04/14/18, 16:02:31:636] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:02:31:677] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:02:31:678] info: Creating node-spellchecker instance
+[04/14/18, 16:02:31:690] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:32:396] info: Unloading spellchecker
+[04/14/18, 16:02:32:403] info: Unloading spellchecker
+[04/14/18, 16:02:32:452] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:02:59:047] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:03:06:617] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:03:07:858] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:03:24:550] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:03:50:045] info: Restoring spellchecker
+[04/14/18, 16:03:50:046] info: Loading dictionary for language id-ID
+[04/14/18, 16:03:50:046] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:03:50:056] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:03:50:057] info: Creating node-spellchecker instance
+[04/14/18, 16:03:50:102] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:03:53:578] info: Unloading spellchecker
+[04/14/18, 16:03:53:593] info: Unloading spellchecker
+[04/14/18, 16:03:53:620] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:06:28:628] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[04/14/18, 16:06:28:630] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[04/14/18, 16:06:28:698] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T81JU9CQ5-UA64N94JU-g758d0277cef-512",
+  "channel": "C80QSNU9E",
+  "content": "[REDACTED]",
+  "id": "4zqwcJhW903P33V",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C80QSNU9E&message=1523696789.000018&team=T81JU9CQ5",
+  "msg": "1523696789.000018",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T81JU9CQ5",
+  "title": "[REDACTED]"
+}
+[04/14/18, 16:06:32:313] info: Restoring spellchecker
+[04/14/18, 16:06:32:313] info: Loading dictionary for language id-ID
+[04/14/18, 16:06:32:313] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:06:32:325] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:06:32:326] info: Creating node-spellchecker instance
+[04/14/18, 16:06:32:385] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:06:37:253] info: Store: SELECT_CHANNEL C80QSNU9E
+[04/14/18, 16:06:37:691] info: Requesting to load ms-MY, alternatives are ["ms-MY","ms-MY","ms-MY"]
+[04/14/18, 16:06:37:692] info: Loading dictionary for language ms-MY
+[04/14/18, 16:06:37:694] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ms-my-3-0.bdic
+[04/14/18, 16:06:38:827] info: Loading dictionary for language ms-MY
+[04/14/18, 16:06:38:828] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/ms-MY.bdic
+[04/14/18, 16:06:38:829] info: Failed to read file /home/hubbi/.config/Slack/dictionaries/ms-MY.bdic: File exists but is most likely bogus
+[04/14/18, 16:06:38:829] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ms-my-3-0.bdic
+[04/14/18, 16:06:38:934] info: Loading dictionary for language ms-MY
+[04/14/18, 16:06:38:934] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/ms-MY.bdic
+[04/14/18, 16:06:38:935] info: Failed to read file /home/hubbi/.config/Slack/dictionaries/ms-MY.bdic: File exists but is most likely bogus
+[04/14/18, 16:06:38:935] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ms-my-3-0.bdic
+[04/14/18, 16:06:39:065] info: dictionary for ms-MY_ms-MY is not available
+[04/14/18, 16:06:39:065] info: Actually installing spell check provider to Electron
+[04/14/18, 16:07:04:423] info: Unloading spellchecker
+[04/14/18, 16:07:04:425] info: Unloading spellchecker
+[04/14/18, 16:07:04:460] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:07:15:014] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[04/14/18, 16:07:15:015] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[04/14/18, 16:07:15:029] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T81JU9CQ5-UA64N94JU-g758d0277cef-512",
+  "channel": "C80QSNU9E",
+  "content": "[REDACTED]",
+  "id": "E02vuliPVny1VBZ",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C80QSNU9E&message=1523696835.000047&team=T81JU9CQ5",
+  "msg": "1523696835.000047",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T81JU9CQ5",
+  "title": "[REDACTED]"
+}
+[04/14/18, 16:09:36:135] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[04/14/18, 16:09:36:136] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[04/14/18, 16:09:36:151] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T81JU9CQ5-UA64N94JU-g758d0277cef-512",
+  "channel": "C80QSNU9E",
+  "content": "[REDACTED]",
+  "id": "DQ2rTjsZKJ84q50",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=C80QSNU9E&message=1523696976.000064&team=T81JU9CQ5",
+  "msg": "1523696976.000064",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T81JU9CQ5",
+  "title": "[REDACTED]"
+}
+[04/14/18, 16:09:38:450] info: Restoring spellchecker
+[04/14/18, 16:09:38:453] info: Requesting to load ms-MY, alternatives are ["ms-MY","ms-MY","ms-MY"]
+[04/14/18, 16:09:38:455] info: Loading dictionary for language ms-MY
+[04/14/18, 16:09:38:456] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/ms-MY.bdic
+[04/14/18, 16:09:38:540] info: Failed to read file /home/hubbi/.config/Slack/dictionaries/ms-MY.bdic: File exists but is most likely bogus
+[04/14/18, 16:09:38:540] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ms-my-3-0.bdic
+[04/14/18, 16:09:38:571] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:09:39:162] info: Loading dictionary for language ms-MY
+[04/14/18, 16:09:39:163] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/ms-MY.bdic
+[04/14/18, 16:09:39:163] info: Failed to read file /home/hubbi/.config/Slack/dictionaries/ms-MY.bdic: File exists but is most likely bogus
+[04/14/18, 16:09:39:163] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ms-my-3-0.bdic
+[04/14/18, 16:09:39:279] info: Loading dictionary for language ms-MY
+[04/14/18, 16:09:39:279] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/ms-MY.bdic
+[04/14/18, 16:09:39:280] info: Failed to read file /home/hubbi/.config/Slack/dictionaries/ms-MY.bdic: File exists but is most likely bogus
+[04/14/18, 16:09:39:280] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ms-my-3-0.bdic
+[04/14/18, 16:09:39:557] info: dictionary for ms-MY_ms-MY is not available
+[04/14/18, 16:11:21:129] info: Store: SELECT_CHANNEL DA7MY9RJS
+[04/14/18, 16:11:25:542] info: Failed to load dictionary undefined: Cannot read property 'split' of undefined
+[04/14/18, 16:11:57:688] info: Store: SELECT_CHANNEL C80QSNU9E
+[04/14/18, 16:11:58:110] info: Loading dictionary for language id-ID
+[04/14/18, 16:11:58:110] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:11:58:113] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:11:58:113] info: Creating node-spellchecker instance
+[04/14/18, 16:11:58:114] info: Actually installing spell check provider to Electron
+[04/14/18, 16:11:59:812] info: Store: SELECT_CHANNEL DA7MY9RJS
+[04/14/18, 16:11:59:829] info: Loading dictionary for language id-ID
+[04/14/18, 16:11:59:830] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:11:59:831] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:12:22:769] info: SpellChecker::updateDetectedLanguage: language has changed from 'und' to 'id'
+{
+  "language": "id",
+  "probability": 0.9679325819015503,
+  "is_reliable": true,
+  "proportion": 1
+}
+[04/14/18, 16:12:22:772] info: SpellChecker::updateDetectedLanguage: detected language is distinct to current, push values
+[04/14/18, 16:12:53:775] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[04/14/18, 16:12:53:776] warn: Unable to read quiet hours setting: windows-quiet-hours works only on Windows
+[04/14/18, 16:12:53:784] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T81JU9CQ5-UA64N94JU-g758d0277cef-512",
+  "channel": "DA7MY9RJS",
+  "content": "[REDACTED]",
+  "id": "NY2jTMtRqYyOo0y",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=DA7MY9RJS&message=1523697174.000028&team=T81JU9CQ5",
+  "msg": "1523697174.000028",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T81JU9CQ5",
+  "title": "[REDACTED]"
+}
+[04/14/18, 16:12:58:272] info: Store: SELECT_CHANNEL DA7MY9RJS
+[04/14/18, 16:12:58:629] info: Loading dictionary for language id-ID
+[04/14/18, 16:12:58:630] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:12:58:633] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:13:22:794] info: Store: SELECT_CHANNEL D8DCRC1DL
+[04/14/18, 16:13:24:070] info: Store: SELECT_CHANNEL DA7MY9RJS
+[04/14/18, 16:13:24:356] info: Loading dictionary for language id-ID
+[04/14/18, 16:13:24:356] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:13:24:356] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:13:24:797] info: Loading dictionary for language id-ID
+[04/14/18, 16:13:24:798] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:13:24:803] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:13:34:013] info: Opening authenticated Slack url in browser https://farmasi-itb.slack.com/z-browser-273640318821-346311138241-f73af29e8b86838db30860ad02418a2be743a18074234221a83948f75c39c6c2?redir=admin&session=273505062931
+[04/14/18, 16:13:35:521] info: Unloading spellchecker
+[04/14/18, 16:13:35:522] info: Unloading spellchecker
+[04/14/18, 16:13:35:587] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:13:39:727] info: Restoring spellchecker
+[04/14/18, 16:13:39:728] info: Loading dictionary for language id-ID
+[04/14/18, 16:13:39:728] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:13:39:731] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:13:39:731] info: Creating node-spellchecker instance
+[04/14/18, 16:13:39:771] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:13:41:364] info: Unloading spellchecker
+[04/14/18, 16:13:41:390] info: Unloading spellchecker
+[04/14/18, 16:13:41:428] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:14:41:509] info: Restoring spellchecker
+[04/14/18, 16:14:41:511] info: Loading dictionary for language id-ID
+[04/14/18, 16:14:41:512] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:14:41:537] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:14:41:537] info: Creating node-spellchecker instance
+[04/14/18, 16:14:41:579] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:14:44:910] info: Store: SELECT_CHANNEL DA7MYSLBY
+[04/14/18, 16:14:50:724] info: Couldn't get hint text from messages in channel: Failed to fetch recent messages
+[04/14/18, 16:15:16:964] info: Unloading spellchecker
+[04/14/18, 16:15:16:966] info: Unloading spellchecker
+[04/14/18, 16:15:17:034] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:15:22:217] info: Restoring spellchecker
+[04/14/18, 16:15:22:218] info: Loading dictionary for language id-ID
+[04/14/18, 16:15:22:218] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:15:22:264] info: Unloading spellchecker
+[04/14/18, 16:15:22:266] info: Restoring spellchecker
+[04/14/18, 16:15:22:266] info: Loading dictionary for language id-ID
+[04/14/18, 16:15:22:266] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:15:22:276] info: Unloading spellchecker
+[04/14/18, 16:15:22:288] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:15:22:288] info: Creating node-spellchecker instance
+[04/14/18, 16:15:22:289] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:15:22:307] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:15:23:146] info: Unloading spellchecker
+[04/14/18, 16:15:23:148] info: Unloading spellchecker
+[04/14/18, 16:15:23:187] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:15:24:136] info: Restoring spellchecker
+[04/14/18, 16:15:24:137] info: Loading dictionary for language id-ID
+[04/14/18, 16:15:24:137] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:15:24:147] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:15:24:147] info: Creating node-spellchecker instance
+[04/14/18, 16:15:24:182] info: Store: SET_FULL_SCREEN
+[04/14/18, 16:15:27:985] info: Store: SELECT_CHANNEL DA7MY9RJS
+[04/14/18, 16:15:28:286] info: Loading dictionary for language id-ID
+[04/14/18, 16:15:28:286] info: Returning local copy: /home/hubbi/.config/Slack/dictionaries/id-ID.bdic
+[04/14/18, 16:15:28:288] info: Setting current spellchecker to id-ID, requested language was id-ID
+[04/14/18, 16:15:36:630] info: Store: QUIT_APP
+[04/14/18, 16:15:36:721] info: Unloading spellchecker
+[04/14/18, 16:15:36:723] info: Store: REMOVE_WINDOW 2
+[04/14/18, 16:15:36:747] info: Store: QUIT_APP
