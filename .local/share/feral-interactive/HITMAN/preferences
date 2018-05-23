@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registry>
+    <key name="HKEY_CLASSES_ROOT">
+    </key>
+    <key name="HKEY_CURRENT_CONFIG">
+    </key>
+    <key name="HKEY_CURRENT_USER">
+        <key name="Software">
+            <key name="Feral Interactive">
+                <key name="HITMAN">
+                    <key name="Setup">
+                        <value name="AddSteamCloudAlias" type="integer">1</value>
+                        <value name="AllowPausing" type="integer">1</value>
+                        <value name="AllowSendUsageData" type="integer">1</value>
+                        <value name="AllowVulkanCheckbox" type="integer">1</value>
+                        <value name="AvoidSwapInjectionDuringPGOW" type="integer">1</value>
+                        <value name="ConstrainLiveWindowResize" type="integer">1</value>
+                        <value name="DoneMinOS" type="integer">0</value>
+                        <value name="DonePromotional" type="integer">0</value>
+                        <value name="DoneUnsupported" type="integer">0</value>
+                        <value name="EnableFeralNetNotificationSounds" type="integer">0</value>
+                        <value name="EnableMultithreadedGrassCulling" type="integer">1</value>
+                        <value name="EnableQuickGrassCulling" type="integer">1</value>
+                        <value name="EnableTextureStreamingDynamicThrottle" type="integer">1</value>
+                        <value name="FullScreen" type="integer">1</value>
+                        <value name="GameDestroysWindow" type="integer">0</value>
+                        <value name="GameOptionsDialogLastTab" type="integer">30000</value>
+                        <value name="GameOptionsDialogShouldShow" type="integer">1</value>
+                        <value name="GameOptionsDialogShouldShowBigPicture" type="integer">1</value>
+                        <value name="GameOptionsDialogShown" type="integer">1</value>
+                        <value name="GameSelected" type="integer">0</value>
+                        <value name="LiveWindowResizePercentage" type="integer">0</value>
+                        <value name="LiveWindowResizeThreshold" type="integer">0</value>
+                        <value name="MinWindowedHeight" type="integer">0</value>
+                        <value name="MinWindowedWidth" type="integer">0</value>
+                        <value name="PauseiTunes" type="integer">0</value>
+                        <value name="PauseMoviesOnPause" type="integer">1</value>
+                        <value name="PauseOnSuspend" type="integer">1</value>
+                        <value name="PauseSoundOnPause" type="integer">1</value>
+                        <value name="PauseTimersOnPause" type="integer">0</value>
+                        <value name="QuitClosesWindow" type="integer">0</value>
+                        <value name="RestoreMouseOnSuspend" type="integer">1</value>
+                        <value name="RestoreResOnSuspend" type="integer">1</value>
+                        <value name="RunEvenIfNotEnoughVRAM" type="integer">0</value>
+                        <value name="ScreenH" type="integer">720</value>
+                        <value name="ScreenW" type="integer">1280</value>
+                        <value name="SeenSpecificationAlertUUIDLow_SpecificationsClass" type="integer">1</value>
+                        <value name="SetiChatAway" type="integer">0</value>
+                        <value name="ShowAssertAlerts" type="integer">0</value>
+                        <value name="ShowTheHideDockCheckbox" type="integer">0</value>
+                        <value name="SoftwareUpdatedAskedUser" type="integer">1</value>
+                        <value name="SoftwareUpdatedCanCheck" type="integer">1</value>
+                        <value name="SpecificationLastUpdateCheckTime" type="binary">ea4dec5a00000000</value>
+                        <value name="SpecificationUpdateURL" type="string">https://u1.feralinteractive.com/autoupdate/hitman/specifications_linux_1_1_6.xml</value>
+                        <value name="SpecificationURLBase" type="string">https://u1.feralinteractive.com/autoupdate/hitman</value>
+                        <value name="TemporaryStorageReset" type="integer">1</value>
+                        <value name="UpdateServerDomain" type="string">u1.feralinteractive.com</value>
+                        <value name="UpdateServerPath" type="string">/autoupdate/</value>
+                        <value name="UpdateServerProtocol" type="string">https://</value>
+                        <value name="UseHalfResSSAO" type="integer">0</value>
+                        <key name="SpecificationAlerts">
+                            <value name="IntelDriverUnsupported" type="integer">0</value>
+                            <value name="LnxDistributionUnsupported" type="integer">0</value>
+                        </key>
+                    </key>
+                </key>
+            </key>
+            <key name="IndirectX">
+                <key name="Direct3D">
+                    <key name="Config">
+                        <value name="AllowD3D1x" type="integer">1</value>
+                        <value name="AllowSM5" type="integer">1</value>
+                        <value name="EnableShaderDeduplicator" type="integer">1</value>
+                        <value name="EnableShaderWarmer" type="integer">1</value>
+                        <value name="EnableShaderWarmerPrelink" type="integer">1</value>
+                        <value name="FSAALevel" type="integer">0</value>
+                        <value name="ShaderWarmerPrelinkLimit" type="binary">abaaaaaaaaaa3040</value>
+                        <value name="UseCorrectRegisterType" type="integer">0</value>
+                        <value name="UsedVertexShaderSSBOBlocks" type="integer">3</value>
+                        <value name="VBOMinMemToMap" type="integer">65536</value>
+                    </key>
+                </key>
+                <key name="DirectDraw">
+                    <key name="Config">
+                        <value name="BlankAllScreens" type="integer">1</value>
+                    </key>
+                </key>
+                <key name="DirectInput">
+                    <key name="Config">
+                        <value name="ForceCustomHIDDeviceDirectInputEnumeration" type="integer">1</value>
+                    </key>
+                </key>
+            </key>
+            <key name="IO Interactive">
+                <key name="Hitman">
+                    <value name="Adapter" type="integer">282989383</value>
+                    <value name="AntiAliasing" type="integer">0</value>
+                    <value name="Aspectratio" type="integer">0</value>
+                    <value name="Bokeh" type="integer">0</value>
+                    <value name="ExclusiveFullscreen" type="integer">1</value>
+                    <value name="firstrun" type="integer">0</value>
+                    <value name="FixVersion" type="integer">1</value>
+                    <value name="FocusLoss" type="integer">0</value>
+                    <value name="Fullscreen" type="integer">1</value>
+                    <value name="Gamma" type="integer">1000</value>
+                    <value name="HDR" type="integer">0</value>
+                    <value name="LevelOfDetail" type="integer">0</value>
+                    <value name="MirrorQuality" type="integer">0</value>
+                    <value name="Monitor" type="integer">0</value>
+                    <value name="QualityProfile" type="integer">4</value>
+                    <value name="Refreshrate" type="integer">0</value>
+                    <value name="ResolutionHeight" type="integer">720</value>
+                    <value name="ResolutionWidth" type="integer">1280</value>
+                    <value name="ShadowQuality" type="integer">0</value>
+                    <value name="ShadowResolution" type="integer">0</value>
+                    <value name="SSAO" type="integer">0</value>
+                    <value name="Stereo_Depth" type="binary">00004040</value>
+                    <value name="Stereo_Strength" type="binary">8fc2f53c</value>
+                    <value name="Stereoscopic" type="integer">0</value>
+                    <value name="SuperSampling" type="integer">1000</value>
+                    <value name="TextureFilter" type="integer">0</value>
+                    <value name="TextureResolution" type="integer">0</value>
+                    <value name="UseGdiCursor" type="integer">0</value>
+                    <value name="VSync" type="integer">1</value>
+                    <value name="VSyncInterval" type="integer">1</value>
+                    <value name="WindowHeight" type="integer">720</value>
+                    <value name="WindowMaximized" type="integer">0</value>
+                    <value name="WindowPosX" type="integer">8</value>
+                    <value name="WindowPosY" type="integer">4</value>
+                    <value name="WindowWidth" type="integer">1280</value>
+                    <key name="Input">
+                        <value name="activateprop_0_dev" type="integer">1</value>
+                        <value name="activateprop_0_nr" type="integer">34</value>
+                        <value name="activateprop_1_dev" type="integer">-1</value>
+                        <value name="activateprop_1_nr" type="integer">-1</value>
+                        <value name="aim_0_dev" type="integer">0</value>
+                        <value name="aim_0_nr" type="integer">1</value>
+                        <value name="aim_1_dev" type="integer">-1</value>
+                        <value name="aim_1_nr" type="integer">-1</value>
+                        <value name="camswitch_0_dev" type="integer">1</value>
+                        <value name="camswitch_0_nr" type="integer">47</value>
+                        <value name="camswitch_1_dev" type="integer">-1</value>
+                        <value name="camswitch_1_nr" type="integer">-1</value>
+                        <value name="cover_0_dev" type="integer">1</value>
+                        <value name="cover_0_nr" type="integer">57</value>
+                        <value name="cover_1_dev" type="integer">-1</value>
+                        <value name="cover_1_nr" type="integer">-1</value>
+                        <value name="dragbody_0_dev" type="integer">1</value>
+                        <value name="dragbody_0_nr" type="integer">48</value>
+                        <value name="dragbody_1_dev" type="integer">-1</value>
+                        <value name="dragbody_1_nr" type="integer">-1</value>
+                        <value name="dropitem_0_dev" type="integer">1</value>
+                        <value name="dropitem_0_nr" type="integer">34</value>
+                        <value name="dropitem_1_dev" type="integer">-1</value>
+                        <value name="dropitem_1_nr" type="integer">-1</value>
+                        <value name="holster_0_dev" type="integer">1</value>
+                        <value name="holster_0_nr" type="integer">58</value>
+                        <value name="holster_1_dev" type="integer">0</value>
+                        <value name="holster_1_nr" type="integer">2</value>
+                        <value name="instinct_0_dev" type="integer">1</value>
+                        <value name="instinct_0_nr" type="integer">29</value>
+                        <value name="instinct_1_dev" type="integer">-1</value>
+                        <value name="instinct_1_nr" type="integer">-1</value>
+                        <value name="inventory_0_dev" type="integer">1</value>
+                        <value name="inventory_0_nr" type="integer">23</value>
+                        <value name="inventory_1_dev" type="integer">-1</value>
+                        <value name="inventory_1_nr" type="integer">-1</value>
+                        <value name="melee_0_dev" type="integer">1</value>
+                        <value name="melee_0_nr" type="integer">16</value>
+                        <value name="melee_1_dev" type="integer">-1</value>
+                        <value name="melee_1_nr" type="integer">-1</value>
+                        <value name="move_down_0_dev" type="integer">1</value>
+                        <value name="move_down_0_nr" type="integer">31</value>
+                        <value name="move_down_1_dev" type="integer">-1</value>
+                        <value name="move_down_1_nr" type="integer">-1</value>
+                        <value name="move_left_0_dev" type="integer">1</value>
+                        <value name="move_left_0_nr" type="integer">30</value>
+                        <value name="move_left_1_dev" type="integer">-1</value>
+                        <value name="move_left_1_nr" type="integer">-1</value>
+                        <value name="move_right_0_dev" type="integer">1</value>
+                        <value name="move_right_0_nr" type="integer">32</value>
+                        <value name="move_right_1_dev" type="integer">-1</value>
+                        <value name="move_right_1_nr" type="integer">-1</value>
+                        <value name="move_up_0_dev" type="integer">1</value>
+                        <value name="move_up_0_nr" type="integer">17</value>
+                        <value name="move_up_1_dev" type="integer">-1</value>
+                        <value name="move_up_1_nr" type="integer">-1</value>
+                        <value name="pickup_0_dev" type="integer">1</value>
+                        <value name="pickup_0_nr" type="integer">33</value>
+                        <value name="pickup_1_dev" type="integer">-1</value>
+                        <value name="pickup_1_nr" type="integer">-1</value>
+                        <value name="precisionaim_0_dev" type="integer">1</value>
+                        <value name="precisionaim_0_nr" type="integer">42</value>
+                        <value name="precisionaim_1_dev" type="integer">-1</value>
+                        <value name="precisionaim_1_nr" type="integer">-1</value>
+                        <value name="reload_0_dev" type="integer">1</value>
+                        <value name="reload_0_nr" type="integer">19</value>
+                        <value name="reload_1_dev" type="integer">-1</value>
+                        <value name="reload_1_nr" type="integer">-1</value>
+                        <value name="run_0_dev" type="integer">1</value>
+                        <value name="run_0_nr" type="integer">42</value>
+                        <value name="run_1_dev" type="integer">-1</value>
+                        <value name="run_1_nr" type="integer">-1</value>
+                        <value name="shoot_0_dev" type="integer">0</value>
+                        <value name="shoot_0_nr" type="integer">0</value>
+                        <value name="shoot_1_dev" type="integer">-1</value>
+                        <value name="shoot_1_nr" type="integer">-1</value>
+                        <value name="sneak_0_dev" type="integer">1</value>
+                        <value name="sneak_0_nr" type="integer">46</value>
+                        <value name="sneak_1_dev" type="integer">-1</value>
+                        <value name="sneak_1_nr" type="integer">-1</value>
+                        <value name="surrender_0_dev" type="integer">1</value>
+                        <value name="surrender_0_nr" type="integer">45</value>
+                        <value name="surrender_1_dev" type="integer">-1</value>
+                        <value name="surrender_1_nr" type="integer">-1</value>
+                        <value name="takedisguise_0_dev" type="integer">1</value>
+                        <value name="takedisguise_0_nr" type="integer">20</value>
+                        <value name="takedisguise_1_dev" type="integer">-1</value>
+                        <value name="takedisguise_1_nr" type="integer">-1</value>
+                        <value name="toggle_placement_0_dev" type="integer">1</value>
+                        <value name="toggle_placement_0_nr" type="integer">56</value>
+                        <value name="toggle_placement_1_dev" type="integer">-1</value>
+                        <value name="toggle_placement_1_nr" type="integer">-1</value>
+                        <value name="use2_0_dev" type="integer">1</value>
+                        <value name="use2_0_nr" type="integer">45</value>
+                        <value name="use2_1_dev" type="integer">-1</value>
+                        <value name="use2_1_nr" type="integer">-1</value>
+                        <value name="use_0_dev" type="integer">1</value>
+                        <value name="use_0_nr" type="integer">18</value>
+                        <value name="use_1_dev" type="integer">-1</value>
+                        <value name="use_1_nr" type="integer">-1</value>
+                        <value name="zoomin_0_dev" type="integer">0</value>
+                        <value name="zoomin_0_nr" type="integer">8</value>
+                        <value name="zoomin_1_dev" type="integer">-1</value>
+                        <value name="zoomin_1_nr" type="integer">-1</value>
+                        <value name="zoomout_0_dev" type="integer">0</value>
+                        <value name="zoomout_0_nr" type="integer">9</value>
+                        <value name="zoomout_1_dev" type="integer">-1</value>
+                        <value name="zoomout_1_nr" type="integer">-1</value>
+                    </key>
+                </key>
+            </key>
+            <key name="MacDoze">
+                <key name="Config">
+                    <value name="DisableMouseGrab" type="integer">1</value>
+                    <value name="ExtraCommandLine" type="string"></value>
+                    <value name="ExtraCommandLineEnabled" type="integer">0</value>
+                </key>
+            </key>
+        </key>
+    </key>
+    <key name="HKEY_LOCAL_MACHINE">
+        <key name="Software">
+        </key>
+    </key>
+    <key name="HKEY_USERS">
+    </key>
+</registry>

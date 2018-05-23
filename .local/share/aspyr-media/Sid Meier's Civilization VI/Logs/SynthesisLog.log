@@ -1,0 +1,88 @@
+Structure: NaturalWonderElementSet: 0.0141 MB, 0.02s
+Structure: RiverSourceElementSet: 0.0283 MB, 0.02s
+Structure: MountainElementSet: 0.0017 MB, 0.00s
+Structure: MountainElementSet: 0.0092 MB, 0.00s
+Structure: CoastlineSplines: 1.3440 MB, 0.01s
+Structure: CliffClutter: 0.0000 MB, 0.00s
+Structure: CliffClutter: 0.0945 MB, 0.30s
+Structure: CliffClutter: 0.0022 MB, 0.00s
+Structure: IceSplines: 1.0330 MB, 0.01s
+Structure: ShallowsHeightHexGrid: 0.0731 MB, 0.01s
+Structure: LandHexHeightGrid: 0.0731 MB, 0.03s
+Structure: DesertMountainFeaturelines: 0.0119 MB, 0.00s
+Structure: RidgelineMountainFeaturelines: 0.2901 MB, 0.00s
+Structure: RiverFeaturelines: 0.7555 MB, 0.00s
+GenerateStructures: 0.422639 s
+BuildTerrainDatabases: 0.001886 s
+SetupMapPasses: 0.000006 s
+Map Pass 0: OceanMask (0.0000 MB, 0.00s)
+Map Pass 1: LandMask (2.3676 MB, 0.05s)
+Map Pass 2: IceMask (2.0819 MB, 0.04s)
+Map Pass 3: ShallowsHeight (1.4399 MB, 0.04s)
+Map Pass 4: LandHeight (1.4399 MB, 0.04s)
+Map Pass 5: IceHeight (0.0000 MB, 0.00s)
+Map Pass 6: Desert Hills (1.2938 MB, 0.04s)
+Map Pass 7: Standard Hills (1.3121 MB, 0.09s)
+Map Pass 8: MountainElements (0.0099 MB, 0.00s)
+Map Pass 9: RidgelineMountainsHeight (0.7385 MB, 0.00s)
+Map Pass 10: FlatLandHeight (0.3248 MB, 0.01s)
+Map Pass 11: CoastlineBlend (0.6319 MB, 0.00s)
+Map Pass 12: NaturalWonders (0.0102 MB, 0.00s)
+Map Pass 13: IceShelfBlend (0.4061 MB, 0.00s)
+Map Pass 14: RiverSources (0.0112 MB, 0.00s)
+Map Pass 15: RiverHeights (0.4291 MB, 0.00s)
+Map Pass 16: FinalIDPass (0.0825 MB, 0.00s)
+Map Pass 17: TerrainContextExport (20.0079 MB, 0.00s)
+SetupGlobalData: 0.310510 s
+SetupGlobalData(memory): 36.4146 MB
+SetupJobData: 87.0733 MB
+SetupJobData: 0.000063 s
+ProcessTiles: 16.863293 s
+Map Pass 0: OceanMask (0.03s Build Time)
+Map Pass 1: LandMask (1.16s Build Time)
+Map Pass 2: IceMask (0.76s Build Time)
+Map Pass 3: ShallowsHeight (1.52s Build Time)
+Map Pass 4: LandHeight (1.42s Build Time)
+Map Pass 5: IceHeight (0.08s Build Time)
+Map Pass 6: Desert Hills (0.68s Build Time)
+Map Pass 7: Standard Hills (2.47s Build Time)
+Map Pass 8: MountainElements (0.07s Build Time)
+Map Pass 9: RidgelineMountainsHeight (3.15s Build Time)
+Map Pass 10: FlatLandHeight (3.08s Build Time)
+Map Pass 11: CoastlineBlend (4.50s Build Time)
+Map Pass 12: NaturalWonders (0.12s Build Time)
+Map Pass 13: IceShelfBlend (1.79s Build Time)
+Map Pass 14: RiverSources (0.18s Build Time)
+Map Pass 15: RiverHeights (3.91s Build Time)
+Map Pass 16: FinalIDPass (0.58s Build Time)
+Map Pass 17: TerrainContextExport (8.16s Build Time)
+	 BuildCellData (0.00s Build Time)
+	 Downsample (0.76s Build Time)
+	 BuildCellGeometry_BaseMesh (3.31s Build Time)
+		 ClearTime (0.04s Build Time)
+		 EmitTessMask (1.38s Build Time)
+		 FillTessMask (0.48s Build Time)
+		 UpsampleTessMask (0.78s Build Time)
+		 BuildCellGeometry (0.18s Build Time)
+		 ComputeNormals (0.13s Build Time)
+		 BuildFinalVB (0.32s Build Time)
+	 BuildSamplerMesh (0.06s Build Time)
+	 BuildCellGeometry_IDMesh (3.90s Build Time)
+		 ClearTime (0.00s Build Time)
+		 BuildIDMap (1.16s Build Time)
+		 EmitTessMask (1.40s Build Time)
+		 FillTessMask (0.46s Build Time)
+		 UpsampleTessMask (0.69s Build Time)
+		 BuildCellGeometry (0.15s Build Time)
+		 BuildFinalVB (0.04s Build Time)
+	 OutputGeometry (0.14s Build Time)
+SynthesizeTerrain: 17.173925 s
+Total geometry memory: 28.00MB
+Total TerrainSampler memory: 7.64MB
+---------------------------------------------
+---------------------------------------------
+Terrain rendering data memory: 1.60 MB (Compression data: 0.09 MB)
+Terrain fixed cache texture memory: 2.71 MB
+Terrain view cache texture memory: 13.85 MB
+Terrain cache TOTAL memory: 18.16 MB
+---------------------------------------------

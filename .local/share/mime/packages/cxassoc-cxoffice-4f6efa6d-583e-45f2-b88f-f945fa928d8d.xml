@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/vnd.ms-mediapackage">
+    <!-- X-Created-By=application_vnd.ms-mediapackage -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_vnd.ms-mediapackage"/>
+    <comment>Clip Organizer Media Package File</comment>
+  </mime-type>
+  <mime-type type="application/vnd.ms-officetheme">
+    <!-- X-Created-By=application_vnd.ms-officetheme;application_vnd.ms-officetheme::print;application_vnd.ms-officetheme::open;application_vnd.ms-officetheme::show -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_vnd.ms-officetheme"/>
+    <comment>Microsoft Office Theme</comment>
+  </mime-type>
+  <mime-type type="application/x-crossover-dic">
+    <!-- X-Created-By=application_x-crossover-dic::print;application_x-crossover-dic -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-dic"/>
+    <comment>Text Document</comment>
+    <glob pattern="*.dic"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-dochtml">
+    <!-- X-Created-By=application_x-crossover-dochtml -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-dochtml"/>
+    <comment>Microsoft Word HTML Document</comment>
+    <glob pattern="*.dochtml"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-docxml">
+    <!-- X-Created-By=application_x-crossover-docxml::edit -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-docxml"/>
+    <comment>Microsoft Word XML Document</comment>
+    <glob pattern="*.docxml"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-dothtml">
+    <!-- X-Created-By=application_x-crossover-dothtml -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-dothtml"/>
+    <comment>Microsoft Word HTML Template</comment>
+    <glob pattern="*.dothtml"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-dqy">
+    <!-- X-Created-By=application_x-crossover-dqy::edit^5Fquery^5Fin^5Fnotepad;application_x-crossover-dqy -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-dqy"/>
+    <comment>Microsoft Excel ODBC Query File</comment>
+    <glob pattern="*.dqy"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-emf">
+    <!-- X-Created-By=application_x-crossover-emf:applications~ois.exe:edit;application_x-crossover-emf:applications~ois.exe;application_x-crossover-emf:applications~ois.exe:preview -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-emf"/>
+    <comment>application/x-crossover-emf</comment>
+  </mime-type>
+  <mime-type type="application/x-crossover-exc">
+    <!-- X-Created-By=application_x-crossover-exc;application_x-crossover-exc::print -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-exc"/>
+    <comment>Text Document</comment>
+    <glob pattern="*.exc"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-iqy">
+    <!-- X-Created-By=text_x-ms-iqy::edit^5Fquery^5Fin^5Fnotepad;text_x-ms-iqy -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-iqy"/>
+    <comment>Microsoft Excel Web Query File</comment>
+    <glob pattern="*.iqy"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-jfif">
+    <!-- X-Created-By=image_jpeg:applications~ois.exe:edit;image_jpeg:applications~ois.exe;image_jpeg:applications~ois.exe:preview -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-jfif"/>
+    <comment>application/x-crossover-jfif</comment>
+    <glob pattern="*.jfif"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-mpf">
+    <!-- X-Created-By=application_vnd.ms-mediapackage -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-mpf"/>
+    <comment>Clip Organizer Media Package File</comment>
+    <glob pattern="*.mpf"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-oqy">
+    <!-- X-Created-By=application_x-crossover-oqy::edit^5Fquery^5Fin^5Fnotepad -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-oqy"/>
+    <comment>Microsoft Excel OLAP Query File</comment>
+    <glob pattern="*.oqy"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-pothtml">
+    <!-- X-Created-By=application_x-crossover-pothtml -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-pothtml"/>
+    <comment>Microsoft PowerPoint HTML Template</comment>
+    <glob pattern="*.pothtml"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-ppa">
+    <!-- X-Created-By=application_vnd.ms-powerpoint -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-ppa"/>
+    <comment>Microsoft PowerPoint 97-2003 Addin</comment>
+    <glob pattern="*.ppa"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-ppthtml">
+    <!-- X-Created-By=application_x-crossover-ppthtml -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-ppthtml"/>
+    <comment>Microsoft PowerPoint HTML Document</comment>
+    <glob pattern="*.ppthtml"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-pptxml">
+    <!-- X-Created-By=application_x-crossover-pptxml -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-pptxml"/>
+    <comment>Microsoft PowerPoint XML Presentation</comment>
+    <glob pattern="*.pptxml"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-pwz">
+    <!-- X-Created-By=application_vnd.ms-powerpoint -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-pwz"/>
+    <comment>Microsoft PowerPoint Wizard</comment>
+    <glob pattern="*.pwz"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-rels">
+    <!-- X-Created-By=application_x-crossover-rels;application_x-crossover-rels::edit -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-rels"/>
+    <comment>XML Document</comment>
+    <glob pattern="*.rels"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-rqy">
+    <!-- X-Created-By=text_x-ms-rqy::edit^5Fquery^5Fin^5Fnotepad -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-rqy"/>
+    <comment>Microsoft Excel OLE DB Query File</comment>
+    <glob pattern="*.rqy"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-thmx">
+    <!-- X-Created-By=application_vnd.ms-officetheme::show;application_vnd.ms-officetheme::open;application_vnd.ms-officetheme;application_vnd.ms-officetheme::print -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-thmx"/>
+    <comment>Microsoft Office Theme</comment>
+    <glob pattern="*.thmx"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-vsto">
+    <!-- X-Created-By=application_x-ms-vsto -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-vsto"/>
+    <comment>VSTO Deployment Manifest</comment>
+    <glob pattern="*.vsto"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-wbk">
+    <!-- X-Created-By=application_msword::viewprotected;application_msword::print;application_msword::onenoteprintto;application_msword::edit;application_msword::new;application_msword -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-wbk"/>
+    <comment>Microsoft Word Backup Document</comment>
+    <glob pattern="*.wbk"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-wiz">
+    <!-- X-Created-By=application_msword::new -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-wiz"/>
+    <comment>Microsoft Word Wizard</comment>
+    <glob pattern="*.wiz"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-wmf">
+    <!-- X-Created-By=application_x-crossover-wmf:applications~ois.exe;application_x-crossover-wmf:applications~ois.exe:edit;application_x-crossover-wmf:applications~ois.exe:preview -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-wmf"/>
+    <comment>application/x-crossover-wmf</comment>
+  </mime-type>
+  <mime-type type="application/x-crossover-wps">
+    <!-- X-Created-By=application_x-crossover-wps:applications~winword.exe:edit -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-wps"/>
+    <comment>application/x-crossover-wps</comment>
+  </mime-type>
+  <mime-type type="application/x-crossover-wpt">
+    <!-- X-Created-By=application_x-crossover-wpt:applications~winword.exe:edit -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-wpt"/>
+    <comment>application/x-crossover-wpt</comment>
+    <glob pattern="*.wpt"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-wtf">
+    <!-- X-Created-By=application_x-crossover-wtf:applications~winword.exe:edit -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-wtf"/>
+    <comment>application/x-crossover-wtf</comment>
+    <glob pattern="*.wtf"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-xevgenxml">
+    <!-- X-Created-By=application_x-crossover-xevgenxml -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-xevgenxml"/>
+    <comment>application/x-crossover-xevgenxml</comment>
+    <glob pattern="*.xevgenxml"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-xlk">
+    <!-- X-Created-By=application_vnd.ms-excel;application_vnd.ms-excel::viewprotected;application_vnd.ms-excel::edit;application_vnd.ms-excel::print -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-xlk"/>
+    <comment>Microsoft Excel Backup File</comment>
+    <glob pattern="*.xlk"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-xlshtml">
+    <!-- X-Created-By=application_x-crossover-xlshtml -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-xlshtml"/>
+    <comment>Microsoft Excel HTML Document</comment>
+    <glob pattern="*.xlshtml"/>
+  </mime-type>
+  <mime-type type="application/x-crossover-xlthtml">
+    <!-- X-Created-By=application_x-crossover-xlthtml -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-crossover-xlthtml"/>
+    <comment>Microsoft Excel HTML Template</comment>
+    <glob pattern="*.xlthtml"/>
+  </mime-type>
+  <mime-type type="application/x-ms-vsto">
+    <!-- X-Created-By=application_x-ms-vsto -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_application_x-ms-vsto"/>
+    <comment>VSTO Deployment Manifest</comment>
+  </mime-type>
+  <mime-type type="text/x-ms-iqy">
+    <!-- X-Created-By=text_x-ms-iqy::edit^5Fquery^5Fin^5Fnotepad;text_x-ms-iqy -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_text_x-ms-iqy"/>
+    <comment>Microsoft Excel Web Query File</comment>
+  </mime-type>
+  <mime-type type="text/x-ms-odc">
+    <!-- X-Created-By=text_x-ms-odc::edit;text_x-ms-odc;text_x-ms-odc::edittext -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_text_x-ms-odc"/>
+    <comment>Microsoft Office Data Connection</comment>
+  </mime-type>
+  <mime-type type="text/x-ms-rqy">
+    <!-- X-Created-By=text_x-ms-rqy::edit^5Fquery^5Fin^5Fnotepad -->
+    <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_text_x-ms-rqy"/>
+    <comment>Microsoft Excel OLE DB Query File</comment>
+  </mime-type>
+</mime-info>

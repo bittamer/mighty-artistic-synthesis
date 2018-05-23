@@ -1,0 +1,29 @@
+[534995.573] [Localization]: Validating Foreign Key Constraints...
+[534995.573] [Localization]: Passed Validation.
+[534995.573] [Configuration]: Validating Foreign Key Constraints...
+[534995.573] [Configuration]: Passed Validation.
+[543995.573] [FullTextSearch]: Initializing FullTextSearch
+[547995.573] [Gameplay] ERROR: table Colors already exists
+[547995.573] [Gameplay]: In XMLSerializer while building table Colors from file color_tables.xml.
+[547995.573] [Gameplay] ERROR: table DiplomacyStatements already exists
+[547995.573] [Gameplay]: In XMLSerializer while building table DiplomacyStatements from file diplomacy_tables.xml.
+[547995.573] [Gameplay] ERROR: table LeaderAnimations already exists
+[547995.573] [Gameplay]: In XMLSerializer while building table LeaderAnimations from file leader_tables.xml.
+[547995.573] [Gameplay]: Validating Foreign Key Constraints...
+[547995.573] [Gameplay]: Passed Validation.
+[662995.573] [Configuration]: Validating Foreign Key Constraints...
+[662995.573] [Configuration]: Passed Validation.
+[692995.573] [FullTextSearch]: FTS - Creating Context
+[699995.573] [Configuration]: Validating Foreign Key Constraints...
+[699995.573] [Configuration]: Passed Validation.
+[700995.573] [Gameplay] ERROR: table Colors already exists
+[700995.573] [Gameplay]: In XMLSerializer while building table Colors from file color_tables.xml.
+[700995.573] [Gameplay] ERROR: table DiplomacyStatements already exists
+[700995.573] [Gameplay]: In XMLSerializer while building table DiplomacyStatements from file diplomacy_tables.xml.
+[700995.573] [Gameplay] ERROR: table LeaderAnimations already exists
+[700995.573] [Gameplay]: In XMLSerializer while building table LeaderAnimations from file leader_tables.xml.
+[701995.573] [Gameplay]: Validating Foreign Key Constraints...
+[701995.573] [Gameplay]: Passed Validation.
+[711995.573] [FullTextSearch]: FTS - Creating Context
+[712995.573] [FullTextSearch]: FTS - Creating Context
+[717995.573] [FullTextSearch]: FTS - Creating Context

@@ -1,0 +1,3328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/hubbi/Documents/E-Books/Pharmacy/Fundamentals%20of%20Anatomy%20and%20Physiology%20-%20Frederic%20Martini.pdf" added="2017-11-08T16:14:46Z" modified="2018-01-02T08:15:00Z" visited="2017-11-08T16:14:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-02T08:15:00Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Postgraduate/Research/Results/Buku%20Disertasi/2014%20-%20Bruce%20C.D.%20-%20Dynamic%20hydrogen%20bonding%20and%20DNA%20flexibility%20in%20minor%20groove%20binders-new.pdf" added="2017-11-26T12:05:07Z" modified="2017-12-19T03:05:06Z" visited="2017-11-26T12:05:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-12-19T03:05:06Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Kuliah/Anatomi%20Fisiologi%20I/3%20Tissue%20and%20Membranes%20FKK.ppt" added="2017-12-04T04:14:28Z" modified="2018-01-02T08:36:30Z" visited="2017-12-04T04:14:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.ppt"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;libreoffice --impress %U&apos;" modified="2018-01-02T08:35:45Z" count="2"/>
+          <bookmark:application name="LibreOffice 5.4" exec="&apos;soffice %u&apos;" modified="2018-01-02T08:36:30Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Other/Credit%20Card/BNI%20Silver/billing_082017.pdf" added="2017-12-05T05:25:22Z" modified="2018-01-03T09:10:27Z" visited="2017-12-05T05:25:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-03T09:10:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/E-Books/Pharmacy/Pharmacotherapy/Pharmacotherapy%20Handbook%20-%20Joseph%20DiPiro.pdf" added="2017-12-10T04:11:59Z" modified="2018-01-06T07:45:31Z" visited="2017-12-10T04:12:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-06T07:45:31Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/E-Books/Pharmacy/Pharmacotherapy/Pharmacotherapy%20-%20A%20Pathophysiologic%20Approach%20-%20Joseph%20DiPiro.pdf" added="2017-12-10T05:35:20Z" modified="2017-12-28T05:01:00Z" visited="2017-12-10T05:35:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-12-28T05:01:00Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Misc/firefox_tabs.list" added="2017-12-11T09:57:51Z" modified="2018-01-03T04:38:50Z" visited="2017-12-11T09:57:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-03T04:38:50Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/pdf" added="2017-12-12T06:52:28Z" modified="2017-12-21T04:02:25Z" visited="2017-12-12T06:52:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-12-12T06:52:28Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-12-21T04:02:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/pdf(2)" added="2017-12-12T06:56:36Z" modified="2017-12-21T04:02:15Z" visited="2017-12-12T06:56:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-12-12T06:56:36Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-12-21T04:02:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/pdf(4)" added="2017-12-12T06:56:54Z" modified="2017-12-21T04:02:22Z" visited="2017-12-12T06:56:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-12-12T06:56:54Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-12-21T04:02:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Lexicomp%20-%20AHFS%20DI%20-%20Irbesartan.pdf" added="2017-12-13T06:00:51Z" modified="2018-01-02T03:25:42Z" visited="2017-12-13T06:00:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-12-13T06:01:02Z" count="2"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-02T03:25:42Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Images/Screenshot%20from%202017-12-18%2010-59-42.png" added="2017-12-18T03:59:42Z" modified="2017-12-18T04:00:27Z" visited="2017-12-18T03:59:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2017-12-18T03:59:42Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;gimp-2.8 %U&apos;" modified="2017-12-18T03:59:56Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2017-12-18T04:00:27Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/FRK%20FED/FRK%20FED%202017-2018%20Semester%20I%20Hubbi%20Nashrullah%20Muhammad.xls" added="2017-12-18T06:05:21Z" modified="2017-12-18T06:05:21Z" visited="2017-12-18T06:05:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xls"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-12-18T06:05:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/FRK%20FED/FRK%20FED%202017-2018%20Semester%20I%20Hubbi%20Nashrullah%20Muhammad_NEW.xlsx" added="2017-12-18T06:07:44Z" modified="2017-12-18T06:07:44Z" visited="2017-12-18T06:07:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xlsx"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-12-18T06:07:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/FRK%20FED/FRK%20FED%202017-2018%20Semester%20I%20Hubbi%20Nashrullah%20Muhammad_NEW.xls" added="2017-12-18T06:08:32Z" modified="2017-12-18T06:09:23Z" visited="2017-12-18T06:08:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xls"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-12-18T06:09:23Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/leanote-desktop-linux-x64-v2.6.zip" added="2017-12-18T06:54:04Z" modified="2017-12-18T06:54:04Z" visited="2017-12-18T06:54:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-12-18T06:54:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Images/Screenshot%20from%202017-12-19%2015-25-37.png" added="2017-12-19T08:25:38Z" modified="2017-12-19T08:25:38Z" visited="2017-12-19T08:25:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2017-12-19T08:25:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/Programming-Principles-and-Practice-Using-C-2-ed-.pdf" added="2017-12-19T10:08:11Z" modified="2017-12-19T10:08:11Z" visited="2017-12-19T10:08:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-12-19T10:08:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/E-Books/Computing/Programming/Programming-Principles-and-Practice-Using-C-2-ed-.pdf" added="2017-12-19T10:09:25Z" modified="2017-12-19T10:09:25Z" visited="2017-12-19T10:09:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-12-19T10:09:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/ITB-Yuda.zip" added="2017-12-21T03:52:34Z" modified="2017-12-21T03:52:47Z" visited="2017-12-21T03:52:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-12-21T03:52:34Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-12-21T03:52:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/ITB%20Yuda" added="2017-12-21T03:53:14Z" modified="2017-12-21T03:53:14Z" visited="2017-12-21T03:53:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2017-12-21T03:53:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/ITB%20Yuda/CV_ITB.pdf" added="2017-12-21T03:53:23Z" modified="2017-12-28T06:02:42Z" visited="2017-12-21T03:53:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-12-28T06:02:42Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/ITB%20Yuda/S2%20INA%20Transkrip.pdf" added="2017-12-21T03:53:31Z" modified="2017-12-28T06:07:03Z" visited="2017-12-21T03:53:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-12-28T06:07:03Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/ITB%20Yuda/S2%20INA%20Ijazah.pdf" added="2017-12-21T03:53:37Z" modified="2017-12-28T06:02:57Z" visited="2017-12-21T03:53:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-12-28T06:02:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Surat%20Lain/Surat%20Lamaran%20Asmik.docx" added="2017-12-21T05:45:06Z" modified="2017-12-21T05:45:06Z" visited="2017-12-21T05:45:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/home/hubbi/.cxoffice/Microsoft_Office_2010/desktopdata/cxassoc/Scripts/cxoffice-7ad95d7f-122b-4af4-8c25-656bb7b666de:application_vnd.openxmlformats-officedocument.wordprocessingml.document %u&apos;" modified="2017-12-21T05:45:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Surat%20Lamaran%20Asmik.pdf" added="2017-12-21T06:42:57Z" modified="2018-01-04T03:32:21Z" visited="2017-12-21T06:42:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2017-12-21T06:42:57Z" count="2"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-04T03:32:21Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;gimp-2.8 %U&apos;" modified="2017-12-21T06:43:54Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2017-12-21T06:44:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Howtos/docker_install_ubuntu.txt" added="2017-12-21T09:06:50Z" modified="2017-12-21T09:10:09Z" visited="2017-12-21T09:06:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2017-12-21T09:10:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/IMG_20171226_094847.jpg" added="2017-12-26T02:59:45Z" modified="2017-12-26T03:07:25Z" visited="2017-12-26T02:59:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gimp-2.8 %U&apos;" modified="2017-12-26T02:59:45Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2017-12-26T03:07:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/IMG_20171226_094905.jpg" added="2017-12-26T03:00:00Z" modified="2017-12-26T03:00:03Z" visited="2017-12-26T03:00:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gimp-2.8 %U&apos;" modified="2017-12-26T03:00:00Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2017-12-26T03:00:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/1.jpg" added="2017-12-26T03:01:40Z" modified="2017-12-26T03:02:12Z" visited="2017-12-26T03:01:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2017-12-26T03:02:12Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/IMG_20171226_094921.jpg" added="2017-12-26T03:02:35Z" modified="2017-12-26T03:02:35Z" visited="2017-12-26T03:02:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2017-12-26T03:02:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/IMG_20171226_094935.jpg" added="2017-12-26T03:03:32Z" modified="2017-12-26T03:03:32Z" visited="2017-12-26T03:03:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2017-12-26T03:03:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/2.jpg" added="2017-12-26T03:05:19Z" modified="2017-12-26T03:05:24Z" visited="2017-12-26T03:05:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2017-12-26T03:05:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/IMG_20171226_095603.jpg" added="2017-12-26T03:05:40Z" modified="2017-12-26T03:05:40Z" visited="2017-12-26T03:05:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2017-12-26T03:05:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/3.jpg" added="2017-12-26T03:07:07Z" modified="2017-12-26T03:07:11Z" visited="2017-12-26T03:07:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2017-12-26T03:07:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/4.jpg" added="2017-12-26T03:08:46Z" modified="2017-12-26T03:08:51Z" visited="2017-12-26T03:08:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2017-12-26T03:08:51Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/nielsen_application_form.pdf" added="2017-12-26T03:09:31Z" modified="2017-12-26T03:09:39Z" visited="2017-12-26T03:09:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-12-26T03:09:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Kuliah/Farmakoterapi%20Dasar/Soal%20UTS%20Farmakoterapi%20Dasar%20FKK%20-%20Hubbi%20with%20Notes.docx" added="2017-12-28T03:52:21Z" modified="2017-12-28T12:14:30Z" visited="2017-12-28T03:52:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/wps %f&apos;" modified="2017-12-28T03:52:21Z" count="1"/>
+          <bookmark:application name="LibreOffice 5.4" exec="&apos;soffice %u&apos;" modified="2017-12-28T12:14:30Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Kuliah/Farmakoterapi%20Dasar/Soal%20UAS%20Farmakoterapi%20Dasar%20Hubbi.docx" added="2017-12-28T03:58:21Z" modified="2017-12-28T03:58:29Z" visited="2017-12-28T03:58:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.4" exec="&apos;soffice %u&apos;" modified="2017-12-28T03:58:24Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/wps %f&apos;" modified="2017-12-28T03:58:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_hubbi0/makalah" added="2017-12-28T04:11:10Z" modified="2017-12-28T04:11:13Z" visited="2017-12-28T04:11:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-12-28T04:11:10Z" count="1"/>
+          <bookmark:application name="LibreOffice 5.4" exec="&apos;soffice %u&apos;" modified="2017-12-28T04:11:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/Nightowl%20-%20The%20View%20From%20the%20Top-20171228T045044Z-001.zip" added="2017-12-28T04:52:06Z" modified="2017-12-28T04:52:06Z" visited="2017-12-28T04:52:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-12-28T04:52:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Music/Nightowl%20-%20The%20View%20From%20the%20Top-20171228T045044Z-001.zip" added="2017-12-28T04:53:32Z" modified="2017-12-28T04:53:32Z" visited="2017-12-28T04:53:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-12-28T04:53:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Music" added="2017-12-28T04:53:40Z" modified="2017-12-28T04:53:40Z" visited="2017-12-28T04:53:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2017-12-28T04:53:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Music/Nightowl%20-%20The%20View%20From%20the%20Top/sir_nightowl-the_view_from_the_top-01_genesis.mp3" added="2017-12-28T04:53:52Z" modified="2017-12-28T04:53:52Z" visited="2017-12-28T04:53:52Z">
+    <title>sir_nightowl-the_view_from_the_top-01_genesis.mp3</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2017-12-28T04:53:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Music/Nightowl%20-%20The%20View%20From%20the%20Top/sir_nightowl-the_view_from_the_top-02_life.mp3" added="2017-12-28T04:53:58Z" modified="2017-12-28T04:58:34Z" visited="2017-12-28T04:53:58Z">
+    <title>sir_nightowl-the_view_from_the_top-02_life.mp3</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2017-12-28T04:58:34Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Music/Nightowl%20-%20The%20View%20From%20the%20Top/sir_nightowl-the_view_from_the_top-03_adventures_on_planet_earth.mp3" added="2017-12-28T04:54:02Z" modified="2017-12-28T04:54:17Z" visited="2017-12-28T04:54:03Z">
+    <title>sir_nightowl-the_view_from_the_top-03_adventures_on_planet_earth.mp3</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2017-12-28T04:54:17Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/E-Books/Pharmacy/Pharmacotherapy/Pharmacotherapy%20-%20Arrhythmia.pdf" added="2017-12-28T05:00:35Z" modified="2017-12-28T05:01:09Z" visited="2017-12-28T05:00:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-12-28T05:01:09Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Music/Nightowl%20-%20The%20View%20From%20the%20Top/sir_nightowl-the_view_from_the_top-04_the_social_effect.mp3" added="2017-12-28T05:07:04Z" modified="2017-12-28T05:07:04Z" visited="2017-12-28T05:07:04Z">
+    <title>sir_nightowl-the_view_from_the_top-04_the_social_effect.mp3</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2017-12-28T05:07:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Music/Nightowl%20-%20The%20View%20From%20the%20Top/sir_nightowl-the_view_from_the_top-05_the_quest_to_find_yourself.mp3" added="2017-12-28T05:12:24Z" modified="2017-12-28T05:12:24Z" visited="2017-12-28T05:12:24Z">
+    <title>sir_nightowl-the_view_from_the_top-05_the_quest_to_find_yourself.mp3</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2017-12-28T05:12:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Music/Nightowl%20-%20The%20View%20From%20the%20Top/sir_nightowl-the_view_from_the_top-06_finding_serenity_on_the_search_for_the_sundew.mp3" added="2017-12-28T05:18:42Z" modified="2017-12-28T05:18:42Z" visited="2017-12-28T05:18:42Z">
+    <title>sir_nightowl-the_view_from_the_top-06_finding_serenity_on_the_search_for_the_sundew.mp3</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2017-12-28T05:18:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Music/Nightowl%20-%20The%20View%20From%20the%20Top/sir_nightowl-the_view_from_the_top-07_levitating_water_trick.mp3" added="2017-12-28T05:25:14Z" modified="2017-12-28T05:25:14Z" visited="2017-12-28T05:25:14Z">
+    <title>sir_nightowl-the_view_from_the_top-07_levitating_water_trick.mp3</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2017-12-28T05:25:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/ITB%20Yuda/S1%20INA%20Ijazah.pdf" added="2017-12-28T06:02:51Z" modified="2017-12-28T06:02:51Z" visited="2017-12-28T06:02:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-12-28T06:02:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/ITB%20Yuda/S1%20INA%20Transkrip.pdf" added="2017-12-28T06:03:27Z" modified="2017-12-28T06:06:34Z" visited="2017-12-28T06:03:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2017-12-28T06:06:34Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Kuliah/Farmakoterapi%20Dasar/Soal%20UTS%20Farmakoterapi%20Dasar%20STF%20-%20Hubbi%20with%20Notes.docx" added="2017-12-28T12:14:49Z" modified="2017-12-28T12:14:51Z" visited="2017-12-28T12:14:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.4" exec="&apos;soffice %u&apos;" modified="2017-12-28T12:14:51Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Kuliah/Farmakoterapi%20Dasar/Daftar%20Peserta%20Kelas%20FK4141-03-sem1-thn2017.xlsx" added="2017-12-28T16:09:27Z" modified="2017-12-28T16:10:43Z" visited="2017-12-28T16:09:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xlsx"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/bin/et %f&apos;" modified="2017-12-28T16:09:27Z" count="1"/>
+          <bookmark:application name="LibreOffice 5.4" exec="&apos;soffice %u&apos;" modified="2017-12-28T16:10:43Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Kuliah/Farmakoterapi%20Dasar/Nilai%20Ujian/Tahun%202017-2018%20Semester%201/Nilai%20UTS%20Farmakoterapi%20Dasar%20-%20Hubbi.xlsx" added="2017-12-28T16:11:33Z" modified="2017-12-28T17:06:49Z" visited="2017-12-28T16:11:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xlsx"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.4" exec="&apos;soffice %u&apos;" modified="2017-12-28T17:06:49Z" count="24"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Kuliah/Farmakoterapi%20Dasar/Nilai%20Ujian/Tahun%202017-2018%20Semester%201/Nilai%20UAS%20%20Farmakoterapi%20Dasar%20-%20Hubbi.xlsx" added="2017-12-28T23:39:50Z" modified="2017-12-29T00:26:26Z" visited="2017-12-28T23:39:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xlsx"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.4" exec="&apos;soffice %u&apos;" modified="2017-12-29T00:26:26Z" count="22"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/Screenshot-2017-12-29%20The%20Journal%20of%20Biological%20Chemistry.png" added="2017-12-29T00:33:15Z" modified="2017-12-29T00:33:15Z" visited="2017-12-29T00:33:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-12-29T00:33:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/Screenshot-2017-12-29%20JCB%20The%20Journal%20of%20Cell%20Biology.png" added="2017-12-29T00:33:29Z" modified="2017-12-29T00:33:29Z" visited="2017-12-29T00:33:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-12-29T00:33:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/crbb_mockup.svg" added="2017-12-29T00:40:13Z" modified="2017-12-29T00:40:13Z" visited="2017-12-29T00:40:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="inkscape" exec="&apos;inkscape %u&apos;" modified="2017-12-29T00:40:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/crbb_mockup.png" added="2017-12-29T01:05:03Z" modified="2017-12-29T01:05:09Z" visited="2017-12-29T01:05:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gimp-2.8 %U&apos;" modified="2017-12-29T01:05:03Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2017-12-29T01:05:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/crbb_mockup.jpg" added="2017-12-29T01:05:17Z" modified="2017-12-29T01:07:02Z" visited="2017-12-29T01:05:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2017-12-29T01:05:24Z" count="2"/>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2017-12-29T01:07:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Other/Credit%20Card/BNI%20Silver/billing_122017.pdf" added="2017-12-30T16:20:24Z" modified="2018-01-01T07:35:02Z" visited="2017-12-30T16:20:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2017-12-30T16:20:25Z" count="2"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-01T07:35:02Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/140620_SPOT_Hair11_Ronaldo.jpg.CROP.promovar-mediumlarge.jpg" added="2017-12-31T12:39:44Z" modified="2017-12-31T12:39:44Z" visited="2017-12-31T12:39:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-12-31T12:39:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/star-wars-storyrogue-one-2016-bluray-release-indonesian-106081.zip" added="2017-12-31T14:24:51Z" modified="2017-12-31T14:24:51Z" visited="2017-12-31T14:24:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2017-12-31T14:24:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Rogue%20One/star-wars-storyrogue-one-2016-bluray-release-indonesian-106081.zip" added="2017-12-31T14:25:08Z" modified="2017-12-31T14:25:08Z" visited="2017-12-31T14:25:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2017-12-31T14:25:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Rogue%20One" added="2017-12-31T14:25:12Z" modified="2017-12-31T14:25:12Z" visited="2017-12-31T14:25:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2017-12-31T14:25:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/Justice_League_2017.720p.HC.HDRip.950MB.MkvCage.nzb" added="2018-01-01T04:13:50Z" modified="2018-01-01T04:13:50Z" visited="2018-01-01T04:13:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-nzb"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-01T04:13:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Kuliah/Farmakologi%20Toksikologi%20I/Nilai%20UTS%20Farmol%20I%20Kelas%20Internasional.xlsx" added="2018-01-01T04:16:55Z" modified="2018-01-01T07:22:26Z" visited="2018-01-01T04:16:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xlsx"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.4" exec="&apos;soffice %u&apos;" modified="2018-01-01T07:22:26Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Kuliah/Farmakologi%20Toksikologi%20I/Nilai%20UTS%20Farmol%20I%20Kelas%20Internasional" added="2018-01-01T07:22:25Z" modified="2018-01-01T07:22:25Z" visited="2018-01-01T07:22:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.4" exec="&apos;soffice %u&apos;" modified="2018-01-01T07:22:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Kuliah/Farmakologi%20Toksikologi%20I/Nilai%20UTS%20Farmol%20I%20Kelas%20Internasional.xls" added="2018-01-01T07:22:26Z" modified="2018-01-01T07:22:26Z" visited="2018-01-01T07:22:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xls"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.4" exec="&apos;soffice %u&apos;" modified="2018-01-01T07:22:26Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/Guardians.of.the.Galaxy.Vol.2.2017.HDRip.XviD.AC3-EVO.nzb" added="2018-01-01T07:29:19Z" modified="2018-01-01T07:29:19Z" visited="2018-01-01T07:29:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-nzb"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-01T07:29:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/IMG_20180102_100159.jpg" added="2018-01-02T03:05:45Z" modified="2018-01-02T03:08:11Z" visited="2018-01-02T03:05:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-02T03:05:45Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;gimp-2.8 %U&apos;" modified="2018-01-02T03:08:06Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-02T03:08:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/IMG_20180102_100205.jpg" added="2018-01-02T03:06:22Z" modified="2018-01-02T03:12:49Z" visited="2018-01-02T03:06:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-02T03:06:22Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-02T03:12:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/IMG_20180102_100218.jpg" added="2018-01-02T03:06:52Z" modified="2018-01-02T03:18:02Z" visited="2018-01-02T03:06:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-02T03:06:52Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-02T03:18:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/IMG_20180102_100228.jpg" added="2018-01-02T03:07:26Z" modified="2018-01-02T03:19:36Z" visited="2018-01-02T03:07:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-02T03:07:26Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-02T03:19:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/irbesartan-1.jpg" added="2018-01-02T03:11:21Z" modified="2018-01-02T03:12:18Z" visited="2018-01-02T03:11:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-02T03:12:18Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/irbesartan-2.jpg" added="2018-01-02T03:17:42Z" modified="2018-01-02T03:17:47Z" visited="2018-01-02T03:17:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-02T03:17:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/irbesartan-3.jpg" added="2018-01-02T03:19:25Z" modified="2018-01-02T03:19:30Z" visited="2018-01-02T03:19:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-02T03:19:30Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/irbesartan-4.jpg" added="2018-01-02T03:21:00Z" modified="2018-01-02T03:21:05Z" visited="2018-01-02T03:21:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-02T03:21:05Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/McEvoy%202014%20-%20AHFS%20Drug%20Information.pdf" added="2018-01-02T03:22:05Z" modified="2018-01-02T03:22:05Z" visited="2018-01-02T03:22:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-02T03:22:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/Sitemap%20CRBB.jpg" added="2018-01-02T04:07:46Z" modified="2018-01-02T04:08:39Z" visited="2018-01-02T04:07:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-02T04:07:46Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;gimp-2.8 %U&apos;" modified="2018-01-02T04:08:05Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-02T04:08:39Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/document.pdf" added="2018-01-02T05:04:21Z" modified="2018-01-02T05:04:21Z" visited="2018-01-02T05:04:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-02T05:04:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Misc/ITB%20Yuda/fotokopi%20buku%20tabungan.pdf" added="2018-01-02T05:05:00Z" modified="2018-01-02T05:05:10Z" visited="2018-01-02T05:05:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gimp-2.8 %U&apos;" modified="2018-01-02T05:05:00Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-02T05:05:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/IMG_20180102_121027_138.jpg" added="2018-01-02T05:14:55Z" modified="2018-01-02T05:15:11Z" visited="2018-01-02T05:14:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-02T05:14:55Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;gimp-2.8 %U&apos;" modified="2018-01-02T05:15:09Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-02T05:15:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Other/Scanned%20Documents/Akte%20Kelahiran%20Fatiha.jpg" added="2018-01-02T05:17:14Z" modified="2018-01-02T05:17:21Z" visited="2018-01-02T05:17:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-02T05:17:21Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Images/Me%20and%20Wife/garuda.jpg" added="2018-01-02T07:14:42Z" modified="2018-01-02T07:14:42Z" visited="2018-01-02T07:14:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-02T07:14:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Kuliah/Anatomi%20Fisiologi%20I/2017-2018%20Semester%201/Nilai%20Kuis.xlsx" added="2018-01-02T09:16:42Z" modified="2018-01-02T18:00:36Z" visited="2018-01-02T09:16:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xlsx"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.4" exec="&apos;soffice %u&apos;" modified="2018-01-02T18:00:36Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Other/Credit%20Card/BNI%20Silver/billing_022017.pdf" added="2018-01-02T16:13:19Z" modified="2018-01-03T09:02:02Z" visited="2018-01-02T16:13:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-03T09:02:02Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Other/Credit%20Card/BNI%20Silver/billing_032017.pdf" added="2018-01-02T16:13:49Z" modified="2018-01-03T09:04:31Z" visited="2018-01-02T16:13:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-03T09:04:31Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Other/Credit%20Card/BNI%20Silver/billing_042017.pdf" added="2018-01-02T16:14:33Z" modified="2018-01-02T16:14:33Z" visited="2018-01-02T16:14:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-02T16:14:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/JBC_Example_PDF.pdf" added="2018-01-03T02:12:05Z" modified="2018-01-03T02:12:05Z" visited="2018-01-03T02:12:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-03T02:12:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/OSCE%20Beta%20Version/Perlengkapan%20OSCE%20Rekap%20SP.pdf" added="2018-01-03T02:14:46Z" modified="2018-01-03T02:14:46Z" visited="2018-01-03T02:14:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-03T02:14:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/OSCE%20Beta%20Version/Rekapitulasi%20Perlengkapan%20111117-rev%20AA.docx" added="2018-01-03T02:15:35Z" modified="2018-01-03T02:15:37Z" visited="2018-01-03T02:15:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.4" exec="&apos;soffice %u&apos;" modified="2018-01-03T02:15:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/AlfaLC/Editing%20Service/EXAMPLES/Manuscript/JBC_Example_PDF.pdf" added="2018-01-03T02:16:35Z" modified="2018-01-03T02:16:35Z" visited="2018-01-03T02:16:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-03T02:16:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/OSCE%20Try%20Out%20Penguji%20ITB%20Jan%202018/Perlengkapan/peralatans%20sorted.xlsx" added="2018-01-03T04:35:53Z" modified="2018-01-04T03:34:58Z" visited="2018-01-03T04:35:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xlsx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-03T04:35:53Z" count="2"/>
+          <bookmark:application name="LibreOffice 5.4" exec="&apos;soffice %u&apos;" modified="2018-01-04T03:34:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/firefox_tabs.list" added="2018-01-03T06:07:37Z" modified="2018-01-03T06:41:03Z" visited="2018-01-03T06:07:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-03T06:41:03Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/Notulen/2017-04-21%20Notulen%20Rapat%20Tim%20Kurikulum%202018%20-%20Review%20Kurikulum%20Eropa%20&amp;%20USA.pdf" added="2018-01-04T03:35:04Z" modified="2018-01-04T04:18:05Z" visited="2018-01-04T03:35:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-04T04:18:05Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/Notulen/2017-05-19%20Notulen%20Diskusi%20tentang%20Kurikulum%20Farmasi%20di%20Belanda.pdf" added="2018-01-04T03:35:07Z" modified="2018-01-04T03:35:07Z" visited="2018-01-04T03:35:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-04T03:35:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/Notulen/2017-12-28%20Notulen%20Rapat%20Tim%20Kurikulum%202018.docx" added="2018-01-04T03:35:48Z" modified="2018-01-04T04:02:12Z" visited="2018-01-04T03:35:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 5.4" exec="&apos;soffice %u&apos;" modified="2018-01-04T04:02:12Z" count="14"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Downloads/winapps/Microsoft%20Office%202010%20Proffesional/Microsoft%20Office%202010%20Professional%20Setup.exe" added="2018-01-04T03:38:32Z" modified="2018-01-04T03:38:32Z" visited="2018-01-04T03:38:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="crossover" exec="&apos;crossover %u&apos;" modified="2018-01-04T03:38:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/data/hubbi/Downloads/winapps/Microsoft%20Office%202010%20Proffesional/Read%20Me%20+%20Key.txt" added="2018-01-04T03:52:06Z" modified="2018-01-04T03:52:06Z" visited="2018-01-04T03:52:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-04T03:52:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/Notulen/2017-04-07%20Notulen%20Rapat%20Tim%20Kurikulum%202018%20-%20TOR%20Kegiatan%20Umpan%20Balik.pdf" added="2018-01-04T04:17:43Z" modified="2018-01-04T04:17:43Z" visited="2018-01-04T04:17:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-04T04:17:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/.cxoffice/Microsoft_Office_2010/dosdevices/y:/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/Notulen/2017-12-28%20Notulen%20Rapat%20Tim%20Kurikulum%202018.pdf" added="2018-01-04T04:24:43Z" modified="2018-01-04T04:35:40Z" visited="2018-01-04T04:24:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-04T04:35:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/Notulen/2017-12-28%20Notulen%20Rapat%20Tim%20Kurikulum%202018.pdf" added="2018-01-04T04:27:18Z" modified="2018-01-08T04:56:17Z" visited="2018-01-04T04:27:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-08T04:56:17Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/PRITA.pdf" added="2018-01-04T04:59:43Z" modified="2018-01-04T04:59:43Z" visited="2018-01-04T04:59:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T04:59:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/CRBB/Guideline%20for%20Authors/source/PRITA.pdf" added="2018-01-04T05:13:20Z" modified="2018-01-04T05:13:20Z" visited="2018-01-04T05:13:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-04T05:13:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/Notulen%20Rapat%20II%20-%2028-12-2017.pdf" added="2018-01-04T05:32:46Z" modified="2018-01-04T05:32:46Z" visited="2018-01-04T05:32:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T05:32:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/CRBB/Notulen/2017-12-28%20Notulen%20Rapat%20II.pdf" added="2018-01-04T05:33:16Z" modified="2018-01-04T05:33:16Z" visited="2018-01-04T05:33:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-04T05:33:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/Brainstorming/kurikulum%20eropa.docx" added="2018-01-04T06:57:44Z" modified="2018-01-04T06:57:44Z" visited="2018-01-04T06:57:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-04T06:57:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_001.jpg" added="2018-01-04T16:27:11Z" modified="2018-01-04T16:27:11Z" visited="2018-01-04T16:27:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:27:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_002.jpg" added="2018-01-04T16:27:16Z" modified="2018-01-04T16:27:16Z" visited="2018-01-04T16:27:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:27:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_005.jpg" added="2018-01-04T16:27:19Z" modified="2018-01-04T16:27:19Z" visited="2018-01-04T16:27:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:27:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_007.jpg" added="2018-01-04T16:27:24Z" modified="2018-01-04T16:27:24Z" visited="2018-01-04T16:27:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:27:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_010.jpg" added="2018-01-04T16:27:27Z" modified="2018-01-04T16:27:27Z" visited="2018-01-04T16:27:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:27:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_012.jpg" added="2018-01-04T16:27:30Z" modified="2018-01-04T16:27:30Z" visited="2018-01-04T16:27:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:27:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_014.jpg" added="2018-01-04T16:27:35Z" modified="2018-01-04T16:27:35Z" visited="2018-01-04T16:27:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:27:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_016.jpg" added="2018-01-04T16:27:38Z" modified="2018-01-04T16:27:38Z" visited="2018-01-04T16:27:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:27:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_019.jpg" added="2018-01-04T16:27:41Z" modified="2018-01-04T16:27:41Z" visited="2018-01-04T16:27:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:27:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_020.jpg" added="2018-01-04T16:27:44Z" modified="2018-01-04T16:27:44Z" visited="2018-01-04T16:27:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:27:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_031.jpg" added="2018-01-04T16:29:21Z" modified="2018-01-04T16:29:21Z" visited="2018-01-04T16:29:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:29:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_036.jpg" added="2018-01-04T16:29:24Z" modified="2018-01-04T16:29:24Z" visited="2018-01-04T16:29:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:29:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_049.jpg" added="2018-01-04T16:29:29Z" modified="2018-01-04T16:29:29Z" visited="2018-01-04T16:29:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:29:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_067.jpg" added="2018-01-04T16:29:33Z" modified="2018-01-04T16:29:33Z" visited="2018-01-04T16:29:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:29:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_069.jpg" added="2018-01-04T16:29:35Z" modified="2018-01-04T16:29:35Z" visited="2018-01-04T16:29:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:29:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_074.jpg" added="2018-01-04T16:30:19Z" modified="2018-01-04T16:30:19Z" visited="2018-01-04T16:30:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:30:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_087.jpg" added="2018-01-04T16:30:22Z" modified="2018-01-04T16:30:22Z" visited="2018-01-04T16:30:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:30:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_088.jpg" added="2018-01-04T16:30:26Z" modified="2018-01-04T16:30:26Z" visited="2018-01-04T16:30:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:30:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_091.jpg" added="2018-01-04T16:30:34Z" modified="2018-01-04T16:30:34Z" visited="2018-01-04T16:30:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:30:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/Private/Patritcy%20A%20-%20Patricya%20L/2/femjoy_6008680_092.jpg" added="2018-01-04T16:30:39Z" modified="2018-01-04T16:30:39Z" visited="2018-01-04T16:30:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-04T16:30:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/Rancangan%20Kurikulum" added="2018-01-05T03:34:55Z" modified="2018-01-05T03:34:55Z" visited="2018-01-05T03:34:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-05T03:34:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/Rancangan%20Kurikulum/rancangan%20kurikulum.doc" added="2018-01-05T03:34:55Z" modified="2018-01-05T07:38:04Z" visited="2018-01-05T03:34:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.doc"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-05T07:38:04Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/Rancangan%20Kurikulum/Review%20Singkat%20Silabus%20Kurikulum%202013%20-%20KK%20Farmaklin.ppt" added="2018-01-05T03:34:55Z" modified="2018-01-05T03:34:55Z" visited="2018-01-05T03:34:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.ppt"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-05T03:34:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/OSCE%20Try%20Out%20Penguji%20ITB%20Jan%202018/Perlengkapan/Peralatan%20TO%20Penguji.xlsx" added="2018-01-05T04:09:40Z" modified="2018-01-05T04:09:40Z" visited="2018-01-05T04:09:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xlsx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-05T04:09:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/Daftar%20Kebutuhan%20Pelatihan%20Penguji%20OSCE.docx" added="2018-01-05T04:09:57Z" modified="2018-01-05T04:09:57Z" visited="2018-01-05T04:09:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-05T04:09:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Misc/ITB%20Yuda/Surat%20Lamaran%20Asmik.pdf" added="2018-01-05T04:20:42Z" modified="2018-01-05T04:20:42Z" visited="2018-01-05T04:20:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-05T04:20:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Other/Scanned%20Documents/Surket_KTP_Hubbi_photo.jpg" added="2018-01-05T05:53:09Z" modified="2018-01-05T05:53:18Z" visited="2018-01-05T05:53:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gimp-2.8 %U&apos;" modified="2018-01-05T05:53:09Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-05T05:53:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Other/Scanned%20Documents/Surket_KTP_Hubbi_photo_20171227.jpg" added="2018-01-05T05:56:03Z" modified="2018-01-05T05:56:13Z" visited="2018-01-05T05:56:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-05T05:56:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Other/Scanned%20Documents/Surket_KTP_Hubbi_photo_20171227_small.jpg" added="2018-01-05T05:56:27Z" modified="2018-01-11T03:19:43Z" visited="2018-01-05T05:56:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-11T03:19:43Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/lastpass.csv" added="2018-01-05T15:12:58Z" modified="2018-01-05T15:14:52Z" visited="2018-01-05T15:12:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-05T15:12:58Z" count="2"/>
+          <bookmark:application name="LibreOffice 5.4" exec="&apos;soffice %u&apos;" modified="2018-01-05T15:14:06Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;/home/hubbi/.cxoffice/Microsoft_Office_2010/desktopdata/cxassoc/Scripts/cxoffice-5d50e39e-40f9-44cc-b05e-f025b34bd16d:application_vnd.ms-excel %u&apos;" modified="2018-01-05T15:14:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/E-Books/Pharmacy/Pharmacotherapy/Pharmacotherapy%20Handbook%20-%20Arrhythmia.pdf" added="2018-01-06T07:45:28Z" modified="2018-01-06T07:45:28Z" visited="2018-01-06T07:45:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-06T07:45:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/Screenshot-2018-1-6%20Your%20Humble%20Bundle%20Receipt%20Month%20to%20Month%20Plan.png" added="2018-01-06T08:20:08Z" modified="2018-01-06T08:21:34Z" visited="2018-01-06T08:20:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-06T08:21:34Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Images/Screenshot%20from%202018-01-06%2015-20-24.png" added="2018-01-06T08:20:25Z" modified="2018-01-06T08:21:21Z" visited="2018-01-06T08:20:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2018-01-06T08:20:25Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;gimp-2.8 %U&apos;" modified="2018-01-06T08:20:39Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-06T08:21:06Z" count="3"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-06T08:21:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/Backup%20Architecture.jpg" added="2018-01-07T10:58:56Z" modified="2018-01-07T10:58:56Z" visited="2018-01-07T10:58:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-07T10:58:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Misc/Backup%20Architecture.jpg" added="2018-01-07T10:59:57Z" modified="2018-01-07T11:00:46Z" visited="2018-01-07T10:59:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gimp-2.8 %U&apos;" modified="2018-01-07T10:59:57Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-07T11:00:46Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Other/Mutasi%20Rekening/Mandiri/e-Statement/2017-12%20December.pdf" added="2018-01-07T11:23:35Z" modified="2018-01-07T11:23:35Z" visited="2018-01-07T11:23:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-07T11:23:35Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/CRBB/Guideline%20for%20Authors/crbb_template.doc" added="2018-01-07T15:37:15Z" modified="2018-01-18T17:09:27Z" visited="2018-01-07T15:37:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.doc"/>
+        <bookmark:applications>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2018-01-07T15:37:15Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-18T17:09:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/eururoauthorshipform.doc" added="2018-01-08T07:17:39Z" modified="2018-01-08T07:17:39Z" visited="2018-01-08T07:17:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.doc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-08T07:17:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Hubbi%20Nashrullah%20Muhammad.pgp" added="2018-01-09T00:57:39Z" modified="2018-01-09T00:57:39Z" visited="2018-01-09T00:57:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pgp-encrypted"/>
+        <bookmark:applications>
+          <bookmark:application name="seahorse" exec="&apos;seahorse %u&apos;" modified="2018-01-09T00:57:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Hubbi%20Nashrullah%20Muhammad.asc" added="2018-01-09T01:03:03Z" modified="2018-01-09T01:03:03Z" visited="2018-01-09T01:03:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="seahorse" exec="&apos;seahorse %u&apos;" modified="2018-01-09T01:03:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/Remun_0127083291_Desember_2017.pdf" added="2018-01-10T06:21:56Z" modified="2018-01-10T06:21:56Z" visited="2018-01-10T06:21:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-10T06:21:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Remunerasi/Remun%202017-12%20December.pdf" added="2018-01-10T06:22:27Z" modified="2018-01-10T06:22:40Z" visited="2018-01-10T06:22:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gimp-2.8 %U&apos;" modified="2018-01-10T06:22:27Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-10T06:22:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Remunerasi/Edits/Remun_0127083291_November_2017_actual.pdf" added="2018-01-10T06:22:52Z" modified="2018-01-10T06:22:52Z" visited="2018-01-10T06:22:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-10T06:22:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Remunerasi/Edits/Remun_0127083291_November_2017_actual.xcf" added="2018-01-10T06:22:57Z" modified="2018-01-10T06:26:41Z" visited="2018-01-10T06:22:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/xcf"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-10T06:26:41Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Remunerasi/Edits/Remun_0127083291_December_2017.jpg" added="2018-01-10T06:29:33Z" modified="2018-01-10T06:29:55Z" visited="2018-01-10T06:29:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-10T06:29:55Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Misc/Dupak%20contoh.xlsx" added="2018-01-10T13:03:24Z" modified="2018-01-10T13:03:24Z" visited="2018-01-10T13:03:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xlsx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-10T13:03:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Howtos/gpg_exchanging_keys_import_export.txt" added="2018-01-10T15:42:17Z" modified="2018-01-10T15:44:52Z" visited="2018-01-10T15:42:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-10T15:44:52Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Other/Credit%20Card/HSBC/cc_bni.jpg" added="2018-01-11T03:18:14Z" modified="2018-01-11T03:18:20Z" visited="2018-01-11T03:18:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gimp-2.8 %U&apos;" modified="2018-01-11T03:18:14Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-11T03:18:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Other/Credit%20Card/HSBC/NPWP.jpg" added="2018-01-11T03:19:00Z" modified="2018-01-11T03:19:00Z" visited="2018-01-11T03:19:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-11T03:19:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Other/Scanned%20Documents/KTP_small.jpg" added="2018-01-11T03:20:15Z" modified="2018-01-11T03:20:15Z" visited="2018-01-11T03:20:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-11T03:20:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Remunerasi/Edits/Remun%202017-12%20December.pdf" added="2018-01-11T15:45:10Z" modified="2018-01-16T08:30:28Z" visited="2018-01-11T15:45:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-16T08:30:28Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Remun%202017-12%20December.pdf" added="2018-01-11T15:45:30Z" modified="2018-01-11T15:45:30Z" visited="2018-01-11T15:45:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2018-01-11T15:45:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/STFB/Bimbingan%20Tugas%20Akhir/2017-2018/References/AMPK/2013%20-%20Ruderman%20NB%20-%20AMPK,%20insulin%20resistance,%20and%20the%20metabolic%20syndrome.pdf" added="2018-01-12T08:00:58Z" modified="2018-01-12T08:00:58Z" visited="2018-01-12T08:00:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-12T08:00:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/STFB/Bimbingan%20Tugas%20Akhir/2017-2018/References/AMPK/2014%20-%20Coughlan%20K%20-%20AMPK%20activation%20a%20therapeutic%20target%20for%20type%202%20diabetes.pdf" added="2018-01-12T08:01:21Z" modified="2018-01-12T08:01:21Z" visited="2018-01-12T08:01:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-12T08:01:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Tablet.rar" added="2018-01-12T09:14:44Z" modified="2018-01-12T09:14:44Z" visited="2018-01-12T09:14:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-rar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-01-12T09:14:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole" added="2018-01-12T09:14:53Z" modified="2018-01-12T09:15:14Z" visited="2018-01-12T09:14:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2018-01-12T09:15:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion.rar" added="2018-01-12T09:15:09Z" modified="2018-01-12T09:15:09Z" visited="2018-01-12T09:15:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-rar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-01-12T09:15:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/microcode-20180108.tgz" added="2018-01-12T17:42:28Z" modified="2018-01-12T17:42:28Z" visited="2018-01-12T17:42:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-12T17:42:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/VID_20180111_220917.mp4" added="2018-01-13T03:48:38Z" modified="2018-01-13T03:48:38Z" visited="2018-01-13T03:48:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-13T03:48:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/firefox.list" added="2018-01-13T03:56:10Z" modified="2018-01-25T15:43:13Z" visited="2018-01-13T03:56:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-25T15:43:13Z" count="25"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Howtos/ffmpeg_cheatsheet.txt" added="2018-01-13T04:56:57Z" modified="2018-01-13T04:56:57Z" visited="2018-01-13T04:56:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-13T04:56:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/QOwnNotes-1515840749.0492ed35-Build1.3.glibc2.14-x86_64.AppImage" added="2018-01-14T15:20:01Z" modified="2018-01-14T15:20:01Z" visited="2018-01-14T15:20:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-iso9660-appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-14T15:20:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Misc/qownnotes" added="2018-01-14T18:06:53Z" modified="2018-01-14T18:06:53Z" visited="2018-01-14T18:06:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="QOwnNotes" exec="&apos;QOwnNotes %u&apos;" modified="2018-01-14T18:06:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/E-Books/Pharmacy/Textbook%20of%20Pharmacoepidemiology%20-%202nd%20Edition%20(2013).pdf" added="2018-01-15T03:25:01Z" modified="2018-01-15T03:25:03Z" visited="2018-01-15T03:25:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-15T03:25:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/STFB/Bimbingan%20Tugas%20Akhir/2017-2018/Frida%20Damawulan/BAB%20I-V%20Revisi%20(11-01-2018).docx" added="2018-01-15T03:43:23Z" modified="2018-01-15T03:43:24Z" visited="2018-01-15T03:43:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-15T03:43:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/nihms473991.pdf" added="2018-01-15T04:38:49Z" modified="2018-01-15T04:38:49Z" visited="2018-01-15T04:38:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-15T04:38:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Misc/VirtualBoxVM" added="2018-01-15T06:52:37Z" modified="2018-01-15T06:56:50Z" visited="2018-01-15T06:52:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2018-01-15T06:56:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Misc/VirtualBoxVM/Win7/Win7.vdi" added="2018-01-15T06:53:49Z" modified="2018-01-15T06:59:27Z" visited="2018-01-15T06:53:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-virtualbox-vdi"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2018-01-15T06:59:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Misc" added="2018-01-15T06:55:02Z" modified="2018-01-15T06:55:02Z" visited="2018-01-15T06:55:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2018-01-15T06:55:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Misc/VirtualBoxVM/SHARED" added="2018-01-15T07:04:59Z" modified="2018-01-16T10:10:59Z" visited="2018-01-15T07:04:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2018-01-16T10:10:59Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/From%20PT%20Novell/SPC/Protium/Protium%2040%20mg%20i%20pantoprazole.pdf" added="2018-01-15T08:08:41Z" modified="2018-01-17T02:01:31Z" visited="2018-01-15T08:08:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-17T02:01:31Z" count="5"/>
+          <bookmark:application name="nautilus" exec="&apos;zathura %U&apos;" modified="2018-01-17T01:58:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/From%20PT%20Novell/SPC/Aprovel/PIL.Aprovel%20150.pdf" added="2018-01-15T08:10:02Z" modified="2018-01-15T08:49:43Z" visited="2018-01-15T08:10:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-15T08:49:43Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/From%20PT%20Novell/SPC/Losec/Losec%20I%20V.pdf" added="2018-01-15T08:10:12Z" modified="2018-01-15T08:10:12Z" visited="2018-01-15T08:10:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-15T08:10:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/From%20PT%20Novell/SPC/Tavanic/Tavanic_IV_SPC.pdf" added="2018-01-15T08:10:32Z" modified="2018-01-15T08:10:32Z" visited="2018-01-15T08:10:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-15T08:10:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/From%20PT%20Novell/SPC/Diprivan/Diprivan%201%25%20-%20(eMC)%20print%20friendly.pdf" added="2018-01-15T08:10:59Z" modified="2018-01-15T08:10:59Z" visited="2018-01-15T08:10:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-15T08:10:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/E-Books/Pharmacy/Martindale%20The%20Complete%20Drug%20Reference%20-%20Sean%20Sweetman.pdf" added="2018-01-15T08:15:38Z" modified="2018-01-15T08:36:05Z" visited="2018-01-15T08:15:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-15T08:36:05Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Pantoprazole%20Sodium%20AHFS%20DI.pdf" added="2018-01-15T08:17:39Z" modified="2018-01-15T08:20:39Z" visited="2018-01-15T08:17:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-15T08:20:37Z" count="6"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-15T08:20:39Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.4%20Nonclinical%20Overview/References/McEvoy,%202014.pdf" added="2018-01-15T08:21:34Z" modified="2018-01-16T07:43:32Z" visited="2018-01-15T08:21:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-16T07:43:32Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.4%20Nonclinical%20Overview/References/EMA,%202014.pdf" added="2018-01-15T08:21:58Z" modified="2018-01-17T01:52:05Z" visited="2018-01-15T08:21:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-17T01:52:05Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.4%20Nonclinical%20Overview/References/Sweetman,%202009.pdf" added="2018-01-15T08:22:13Z" modified="2018-01-15T08:22:13Z" visited="2018-01-15T08:22:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-15T08:22:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/E-Books/Pharmacy/a.pdf" added="2018-01-15T08:38:54Z" modified="2018-01-15T08:41:35Z" visited="2018-01-15T08:38:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-15T08:39:59Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;gimp-2.8 %U&apos;" modified="2018-01-15T08:41:15Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-15T08:41:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/E-Books/Pharmacy/Pantoprazole%20-%20Sweetman.pdf" added="2018-01-15T08:42:14Z" modified="2018-01-15T08:42:56Z" visited="2018-01-15T08:42:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-15T08:42:14Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-15T08:42:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/E-Books/Pharmacy/Pantoprazole%20-%20Sweetman.jpg" added="2018-01-15T08:42:18Z" modified="2018-01-15T08:42:24Z" visited="2018-01-15T08:42:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-15T08:42:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.5%20Clinical%20Overview/References/Goodman%20and%20Gilman,%202011.pdf" added="2018-01-15T08:43:33Z" modified="2018-01-16T07:15:49Z" visited="2018-01-15T08:43:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-16T07:15:49Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.5%20Clinical%20Overview/References/Pantoprazole%20Sodium%20AHFS%20DI%20-%20Lexicomp.pdf" added="2018-01-15T08:43:39Z" modified="2018-01-17T01:52:45Z" visited="2018-01-15T08:43:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-17T01:52:45Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.5%20Clinical%20Overview/References/Pantoprazole%20-%20Sweetman.pdf" added="2018-01-15T08:43:42Z" modified="2018-01-16T07:15:23Z" visited="2018-01-15T08:43:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-16T07:15:23Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/miner2003.pdf" added="2018-01-15T08:45:59Z" modified="2018-01-15T08:45:59Z" visited="2018-01-15T08:45:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-15T08:45:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/caro2001.pdf" added="2018-01-15T08:46:05Z" modified="2018-01-21T15:02:09Z" visited="2018-01-15T08:46:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-21T15:02:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/richter2000.pdf" added="2018-01-15T08:46:36Z" modified="2018-01-15T08:46:36Z" visited="2018-01-15T08:46:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-15T08:46:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/singh2005.pdf" added="2018-01-15T08:48:15Z" modified="2018-01-15T08:48:15Z" visited="2018-01-15T08:48:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-15T08:48:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/bardou2008.pdf" added="2018-01-15T08:49:09Z" modified="2018-01-15T08:49:09Z" visited="2018-01-15T08:49:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-15T08:49:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/con234530.pdf" added="2018-01-15T08:52:12Z" modified="2018-01-15T08:52:12Z" visited="2018-01-15T08:52:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-15T08:52:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/WC500038485.pdf" added="2018-01-15T08:54:17Z" modified="2018-01-15T08:54:17Z" visited="2018-01-15T08:54:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-15T08:54:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/con493422.pdf" added="2018-01-15T08:55:49Z" modified="2018-01-15T08:55:49Z" visited="2018-01-15T08:55:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-15T08:55:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/con423088.pdf" added="2018-01-15T08:56:07Z" modified="2018-01-15T08:56:07Z" visited="2018-01-15T08:56:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-15T08:56:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/h118339.pdf" added="2018-01-15T08:57:01Z" modified="2018-01-15T08:57:01Z" visited="2018-01-15T08:57:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-15T08:57:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/LicenseSPC_PA1122-011-001_16052017171055.pdf" added="2018-01-15T08:58:43Z" modified="2018-01-15T08:58:43Z" visited="2018-01-15T08:58:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-15T08:58:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/20988s3lbl.pdf" added="2018-01-15T08:59:51Z" modified="2018-01-15T08:59:51Z" visited="2018-01-15T08:59:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-15T08:59:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.5%20Clinical%20Overview/References/singh2005.pdf" added="2018-01-16T07:16:14Z" modified="2018-01-16T07:16:14Z" visited="2018-01-16T07:16:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-16T07:16:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.5%20Clinical%20Overview/References/richter2000.pdf" added="2018-01-16T07:16:22Z" modified="2018-01-16T07:16:22Z" visited="2018-01-16T07:16:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-16T07:16:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Irbesartan/Irbesartan%20150/2.5%20Clinical%20Overview/References/Sanofi,%202015.pdf" added="2018-01-16T07:19:17Z" modified="2018-01-16T07:30:10Z" visited="2018-01-16T07:19:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-16T07:19:17Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;zathura %U&apos;" modified="2018-01-16T07:30:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/PantoIVPM_ENG_2017Aug4.pdf" added="2018-01-16T07:35:43Z" modified="2018-01-16T07:35:43Z" visited="2018-01-16T07:35:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-16T07:35:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.5%20Clinical%20Overview/References/PantoIVPM_ENG_2017Aug4.pdf" added="2018-01-16T07:39:55Z" modified="2018-01-16T07:39:55Z" visited="2018-01-16T07:39:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-16T07:39:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.5%20Clinical%20Overview/References/Takeda.pdf" added="2018-01-16T07:40:11Z" modified="2018-01-16T07:40:11Z" visited="2018-01-16T07:40:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-16T07:40:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.5%20Clinical%20Overview/References/Sandoz.pdf" added="2018-01-16T07:41:47Z" modified="2018-01-17T01:57:56Z" visited="2018-01-16T07:41:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-16T07:42:01Z" count="2"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-17T01:51:38Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;zathura %U&apos;" modified="2018-01-17T01:57:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Tablet/Takeda,%202016%20(Pantoloc).pdf" added="2018-01-16T07:43:10Z" modified="2018-01-16T07:43:10Z" visited="2018-01-16T07:43:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-16T07:43:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.4%20Nonclinical%20Overview/References/Takeda,%202017.pdf" added="2018-01-16T07:43:26Z" modified="2018-01-16T07:43:26Z" visited="2018-01-16T07:43:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-16T07:43:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/txppanto.pdf" added="2018-01-16T07:44:50Z" modified="2018-01-16T07:44:50Z" visited="2018-01-16T07:44:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-16T07:44:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/20987lbl.pdf" added="2018-01-16T07:44:55Z" modified="2018-01-16T07:44:55Z" visited="2018-01-16T07:44:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-16T07:44:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/ff.list" added="2018-01-16T08:12:43Z" modified="2018-01-16T08:12:43Z" visited="2018-01-16T08:12:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-16T08:12:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/resi_ktp.jpg" added="2018-01-16T08:39:47Z" modified="2018-01-16T08:41:21Z" visited="2018-01-16T08:39:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-16T08:41:21Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;gimp-2.8 %U&apos;" modified="2018-01-16T08:39:56Z" count="1"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.8 %u&apos;" modified="2018-01-16T08:40:29Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/npwp.jpg" added="2018-01-16T08:42:56Z" modified="2018-01-16T08:42:56Z" visited="2018-01-16T08:42:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-16T08:42:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Remun%202017-12%20December.jpg" added="2018-01-16T08:44:09Z" modified="2018-01-16T08:44:09Z" visited="2018-01-16T08:44:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-16T08:44:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/PL-160118-00003.pdf" added="2018-01-16T08:49:40Z" modified="2018-01-16T08:49:40Z" visited="2018-01-16T08:49:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-16T08:49:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.5%20Clinical%20Overview/References/Takeda,%202017.pdf" added="2018-01-16T09:56:29Z" modified="2018-01-16T09:56:29Z" visited="2018-01-16T09:56:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-16T09:56:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///mnt/data/hubbi/Misc/VirtualBoxVM/Fed/Fed.vdi" added="2018-01-16T10:08:58Z" modified="2018-01-16T10:08:58Z" visited="2018-01-16T10:08:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-virtualbox-vdi"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2018-01-16T10:08:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Misc/OS/Fedora/Fedora-Workstation-Live-x86_64-27-1.6.iso" added="2018-01-16T10:10:16Z" modified="2018-01-16T10:10:16Z" visited="2018-01-16T10:10:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2018-01-16T10:10:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/f27.png" added="2018-01-16T10:45:27Z" modified="2018-01-16T10:45:27Z" visited="2018-01-16T10:45:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-16T10:45:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Misc/VirtualBoxVM/VBoxGuestAdditions_5.1.30.iso" added="2018-01-16T11:16:20Z" modified="2018-01-16T11:16:20Z" visited="2018-01-16T11:16:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2018-01-16T11:16:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/CRBB/Guideline%20for%20Authors/guideline_for_authors" added="2018-01-16T16:57:40Z" modified="2018-01-16T16:57:40Z" visited="2018-01-16T16:57:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-16T16:57:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.5%20Clinical%20Overview/References/txppanto.pdf" added="2018-01-16T23:05:38Z" modified="2018-01-16T23:05:38Z" visited="2018-01-16T23:05:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-16T23:05:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.5%20Clinical%20Overview/References/Takeda%202017.pdf" added="2018-01-16T23:06:29Z" modified="2018-01-17T02:07:00Z" visited="2018-01-16T23:06:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-17T02:06:55Z" count="4"/>
+          <bookmark:application name="nautilus" exec="&apos;zathura %U&apos;" modified="2018-01-17T02:07:00Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Howtos/virtualbox_install_guest_additions_fedora.txt" added="2018-01-17T01:42:49Z" modified="2018-01-17T01:42:49Z" visited="2018-01-17T01:42:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-17T01:42:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.5%20Clinical%20Overview/References/Apotex%202015.pdf" added="2018-01-17T01:43:38Z" modified="2018-01-17T01:51:35Z" visited="2018-01-17T01:43:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-17T01:51:35Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.5%20Clinical%20Overview/References/20987lbl.pdf" added="2018-01-17T01:44:59Z" modified="2018-01-17T01:48:44Z" visited="2018-01-17T01:44:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-17T01:48:44Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.5%20Clinical%20Overview/References/Panto%20IV%20Product%20Monograph%20-%20Takeda.pdf" added="2018-01-17T01:52:25Z" modified="2018-01-17T01:52:32Z" visited="2018-01-17T01:52:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-17T01:52:25Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;zathura %U&apos;" modified="2018-01-17T01:52:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/TectaPM_ENG_2017Sep13.pdf" added="2018-01-17T01:53:16Z" modified="2018-01-17T01:53:16Z" visited="2018-01-17T01:53:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-17T01:53:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Tablet/2.5%20Clinical%20Overview/References/TectaPM_ENG_2017Sep13.pdf" added="2018-01-17T01:53:59Z" modified="2018-01-17T01:54:11Z" visited="2018-01-17T01:53:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;zathura %U&apos;" modified="2018-01-17T01:54:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.5%20Clinical%20Overview/References/Protium%2040%20mg%20IV%20-%20Takeda.pdf" added="2018-01-17T02:06:38Z" modified="2018-01-17T02:06:38Z" visited="2018-01-17T02:06:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-17T02:06:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Infusion/2.5%20Clinical%20Overview/References/Takeda%202017%20-%20Panto%20IV.pdf" added="2018-01-17T02:07:42Z" modified="2018-01-17T02:07:42Z" visited="2018-01-17T02:07:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2018-01-17T02:07:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Images/Screenshot%20from%202018-01-17%2010-35-08.png" added="2018-01-17T03:35:09Z" modified="2018-01-17T03:35:09Z" visited="2018-01-17T03:35:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2018-01-17T03:35:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Images/Screenshot%20from%202018-01-17%2010-35-10.png" added="2018-01-17T03:35:10Z" modified="2018-01-17T03:35:10Z" visited="2018-01-17T03:35:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2018-01-17T03:35:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/PnP_V2.pdf" added="2018-01-17T09:12:12Z" modified="2018-01-17T09:12:12Z" visited="2018-01-17T09:12:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-17T09:12:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/rules_18.pdf" added="2018-01-17T09:12:21Z" modified="2018-01-17T09:12:21Z" visited="2018-01-17T09:12:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-17T09:12:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Howtos/cgroup_example.txt" added="2018-01-18T04:16:33Z" modified="2018-01-18T04:16:33Z" visited="2018-01-18T04:16:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-18T04:16:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/CustomElectricityBillAcknowledge18-01-2018.pdf" added="2018-01-18T04:27:07Z" modified="2018-01-18T04:27:07Z" visited="2018-01-18T04:27:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-18T04:27:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Images/Screenshot%20from%202018-01-18%2014-15-10.png" added="2018-01-18T07:15:11Z" modified="2018-01-18T07:15:11Z" visited="2018-01-18T07:15:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2018-01-18T07:15:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/simon2007.pdf" added="2018-01-18T07:37:26Z" modified="2018-01-18T07:37:26Z" visited="2018-01-18T07:37:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-18T07:37:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/mnnikes2005.pdf" added="2018-01-18T07:44:38Z" modified="2018-01-18T07:44:38Z" visited="2018-01-18T07:44:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-18T07:44:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/1ex9.pdb" added="2018-01-18T08:18:02Z" modified="2018-01-18T08:19:52Z" visited="2018-01-18T08:18:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-aportisdoc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-18T08:19:52Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/ligan.pdb" added="2018-01-18T08:19:11Z" modified="2018-01-18T08:19:12Z" visited="2018-01-18T08:19:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-18T08:19:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Postgraduate/Research/Computation/docking/autodock/5AM6_FGFR-1/redock.dlg" added="2018-01-18T09:07:28Z" modified="2018-01-18T09:07:28Z" visited="2018-01-18T09:07:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-18T09:07:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/diavcitrin2005.pdf" added="2018-01-18T10:15:21Z" modified="2018-01-18T10:15:21Z" visited="2018-01-18T10:15:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-18T10:15:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/853.full.pdf" added="2018-01-18T10:34:01Z" modified="2018-01-18T10:34:01Z" visited="2018-01-18T10:34:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-18T10:34:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/14017034055_52fce02e4f_o.jpg" added="2018-01-19T03:49:29Z" modified="2018-01-19T03:49:29Z" visited="2018-01-19T03:49:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-19T03:49:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/35399385663_f73abea36e_o.jpg" added="2018-01-19T03:50:39Z" modified="2018-01-19T03:50:39Z" visited="2018-01-19T03:50:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-19T03:50:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/36186452811_72cc6d7e23_o.jpg" added="2018-01-19T03:50:52Z" modified="2018-01-19T03:50:52Z" visited="2018-01-19T03:50:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-19T03:50:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/34592350412_227f6a4034_o.jpg" added="2018-01-19T03:51:04Z" modified="2018-01-19T03:51:04Z" visited="2018-01-19T03:51:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-19T03:51:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/CRBB/Potential%20Participants/Workshop%20Herbal.xlsx" added="2018-01-19T06:39:49Z" modified="2018-01-19T06:39:49Z" visited="2018-01-19T06:39:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xlsx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-19T06:39:49Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/CRBB/WC-CRBB.jpg" added="2018-01-19T06:52:09Z" modified="2018-01-19T07:18:32Z" visited="2018-01-19T06:52:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-19T07:18:32Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/bardhan1996.pdf" added="2018-01-19T14:55:30Z" modified="2018-01-19T14:55:30Z" visited="2018-01-19T14:55:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-19T14:55:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/master.zip" added="2018-01-19T16:43:48Z" modified="2018-01-19T16:43:48Z" visited="2018-01-19T16:43:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-01-19T16:43:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi" added="2018-01-19T16:43:59Z" modified="2018-01-19T16:43:59Z" visited="2018-01-19T16:43:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2018-01-19T16:43:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/1-s2.0-S0006295204005581-main.pdf" added="2018-01-20T04:47:03Z" modified="2018-01-20T04:47:03Z" visited="2018-01-20T04:47:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-20T04:47:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/International_Validation_of_ReQuest_in_Patients_wi.pdf" added="2018-01-21T14:51:55Z" modified="2018-01-21T14:51:55Z" visited="2018-01-21T14:51:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-21T14:51:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/ducrott2007.pdf" added="2018-01-21T14:55:34Z" modified="2018-01-21T14:55:34Z" visited="2018-01-21T14:55:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-21T14:55:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/scholten2007.pdf" added="2018-01-21T14:58:00Z" modified="2018-01-21T14:58:00Z" visited="2018-01-21T14:58:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-21T14:58:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/scholten2005.pdf" added="2018-01-21T15:00:54Z" modified="2018-01-21T15:00:54Z" visited="2018-01-21T15:00:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-21T15:00:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/adamek1998.pdf" added="2018-01-21T15:10:40Z" modified="2018-01-21T15:10:40Z" visited="2018-01-21T15:10:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-21T15:10:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/dajani1999.pdf" added="2018-01-21T15:12:31Z" modified="2018-01-21T15:12:31Z" visited="2018-01-21T15:12:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-21T15:12:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/labenz1997.pdf" added="2018-01-21T15:15:15Z" modified="2018-01-21T15:15:15Z" visited="2018-01-21T15:15:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-21T15:15:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/choi2007.pdf" added="2018-01-21T15:16:45Z" modified="2018-01-21T15:16:45Z" visited="2018-01-21T15:16:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-21T15:16:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/regula2006.pdf" added="2018-01-21T15:18:36Z" modified="2018-01-21T15:18:36Z" visited="2018-01-21T15:18:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-21T15:18:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/Screenshot-2018-1-21%20Dose-range%20finding%20study%20with%20the%20proton%20pump%20inhibitor%20pantoprazole%20in%20acute%20duodenal%20ulcer%20-%20Abstrac%5B...%5D.png" added="2018-01-21T15:24:58Z" modified="2018-01-21T15:24:58Z" visited="2018-01-21T15:24:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-21T15:24:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/TemplateFRKFEDDosen.xls" added="2018-01-22T09:22:03Z" modified="2018-01-22T09:22:03Z" visited="2018-01-22T09:22:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xls"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-22T09:22:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/FRK%20FED/FRK%20FED%202017-2018%20Semester%20II%20Hubbi.xls" added="2018-01-22T10:53:58Z" modified="2018-01-22T10:53:58Z" visited="2018-01-22T10:53:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xls"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-22T10:53:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/NPWP-card%20yuda.pdf" added="2018-01-23T10:42:22Z" modified="2018-01-23T10:42:22Z" visited="2018-01-23T10:42:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-23T10:42:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/zuki-themes-master.zip" added="2018-01-24T15:08:34Z" modified="2018-01-24T15:08:34Z" visited="2018-01-24T15:08:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-01-24T15:08:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/From%20PT%20Novell/BE/FINAL%20REPORT%20PANTOPRAZOLE%20ECT%2040%20MG_PT.%20NOVELL%20PHARM%20LABS%201.0.pdf" added="2018-01-25T04:44:47Z" modified="2018-01-25T04:44:48Z" visited="2018-01-25T04:44:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-25T04:44:48Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Misc/2018-01-22%20Rangkuman%20data%20kinerja%20SF%20ITB.pptx" added="2018-01-25T05:47:07Z" modified="2018-01-25T05:47:07Z" visited="2018-01-25T05:47:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.pptx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-25T05:47:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Misc/Jadwal%20Kegiatan%20Akademik%20Apoteker.xlsx" added="2018-01-25T05:47:44Z" modified="2018-01-25T05:47:45Z" visited="2018-01-25T05:47:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.xlsx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-25T05:47:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/CRBB/Workshop/Workshop%201%20-%20Writing%20Clinic/Nametag/Daftar%20Panitia.txt" added="2018-01-25T07:51:32Z" modified="2018-01-25T07:52:00Z" visited="2018-01-25T07:51:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-25T07:52:00Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/gnome-color.sh" added="2018-01-25T12:02:04Z" modified="2018-01-25T12:04:59Z" visited="2018-01-25T12:02:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-25T12:04:59Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Misc/Serdos" added="2018-01-25T14:26:38Z" modified="2018-01-25T14:26:38Z" visited="2018-01-25T14:26:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-25T14:26:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Misc/Serdos/1.%20Petunjuk%20Pengisian%20DD.pdf" added="2018-01-25T14:26:38Z" modified="2018-01-25T14:26:38Z" visited="2018-01-25T14:26:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-25T14:26:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Misc/Serdos/2.%20Isian%20CV.docx" added="2018-01-25T14:26:38Z" modified="2018-01-25T14:26:38Z" visited="2018-01-25T14:26:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-25T14:26:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Misc/Serdos/Template%20Isian%20DD.docx" added="2018-01-25T14:26:38Z" modified="2018-01-25T14:26:38Z" visited="2018-01-25T14:26:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-25T14:26:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/pil.484.pdf" added="2018-01-25T14:57:03Z" modified="2018-01-25T14:57:03Z" visited="2018-01-25T14:57:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-25T14:57:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/anx_136658_en.pdf" added="2018-01-25T14:59:35Z" modified="2018-01-25T14:59:35Z" visited="2018-01-25T14:59:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-25T14:59:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/KK%20Farmakologi%20&amp;%20Farmasi%20Klinik/Projects/Product%20Review/Pantoprazole/Pantoprazole%20Tablet/2.5%20Clinical%20Overview/References/Takeda%20SPC.pdf" added="2018-01-25T15:07:53Z" modified="2018-01-25T15:08:03Z" visited="2018-01-25T15:07:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-25T15:08:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/fitton1996.pdf" added="2018-01-25T15:17:13Z" modified="2018-01-25T15:17:13Z" visited="2018-01-25T15:17:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-25T15:17:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Images/Other/Pixel%20Art%20Animation/wall%20slide%20wall%20kick.gif" added="2018-01-25T15:38:38Z" modified="2018-01-25T15:38:39Z" visited="2018-01-25T15:38:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-25T15:38:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Images/Other/Pixel%20Art%20Animation/slide%20roll%20dash.gif" added="2018-01-25T15:39:01Z" modified="2018-01-25T15:39:01Z" visited="2018-01-25T15:39:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-25T15:39:01Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/308955_BIO%20DATA%20PAK%20HUBBI" added="2018-01-26T03:17:43Z" modified="2018-01-26T03:17:43Z" visited="2018-01-26T03:17:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-26T03:17:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Downloads/bittamer@gmail.com.ical.zip" added="2018-01-26T08:59:35Z" modified="2018-01-26T09:00:45Z" visited="2018-01-26T08:59:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-26T09:00:45Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Images/Screenshot%20from%202018-01-26%2017-26-37.png" added="2018-01-26T10:26:37Z" modified="2018-01-26T10:26:37Z" visited="2018-01-26T10:26:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2018-01-26T10:26:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/list_kurikulum_review" added="2018-01-27T03:02:56Z" modified="2018-01-27T03:02:56Z" visited="2018-01-27T03:02:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-27T03:02:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/Brainstorming/Australia%20-%20Monash%20University.docx" added="2018-01-27T03:03:52Z" modified="2018-01-27T03:03:52Z" visited="2018-01-27T03:03:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-27T03:03:52Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/Brainstorming/Indonesia.docx" added="2018-01-27T03:04:13Z" modified="2018-01-27T03:04:13Z" visited="2018-01-27T03:04:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-27T03:04:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/Brainstorming/Asia.docx" added="2018-01-27T03:04:22Z" modified="2018-01-27T03:04:23Z" visited="2018-01-27T03:04:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-27T03:04:23Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/Review%20Kurikulum%20per%20KK/Evaluasi%20Kurikulum%20KK%20Farmakokimia%202018.docx" added="2018-01-27T03:05:29Z" modified="2018-01-27T03:05:29Z" visited="2018-01-27T03:05:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-27T03:05:29Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/Review%20Kurikulum%20per%20KK/Evaluasi%20Kurikulum%20KK%20Olahraga%202018.pptx" added="2018-01-27T03:06:07Z" modified="2018-01-27T03:06:07Z" visited="2018-01-27T03:06:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.pptx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-27T03:06:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/Brainstorming/USA.docx" added="2018-01-27T03:06:23Z" modified="2018-01-27T03:06:23Z" visited="2018-01-27T03:06:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-27T03:06:23Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Tim%20Revisi%20Kurikulum%202018/Review%20Kurikulum%20per%20KK/Usulan%20Perubahan%20Kurikulum%202018.docx" added="2018-01-27T03:06:56Z" modified="2018-01-27T03:06:57Z" visited="2018-01-27T03:06:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-27T03:06:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Lustrum%2070th%20SF/Seminar%20Nasional%20Kurikulum/Backdrop%20and%20Spanduk" added="2018-01-28T14:47:53Z" modified="2018-01-28T14:47:53Z" visited="2018-01-28T14:47:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-28T14:47:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Lustrum%2070th%20SF/Seminar%20Nasional%20Kurikulum/Backdrop%20and%20Spanduk/spanduk%20seminar%20kurikulum%20v2%20FINAL%20Curved.cdr" added="2018-01-28T14:47:53Z" modified="2018-01-28T14:47:53Z" visited="2018-01-28T14:47:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.corel-draw"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-28T14:47:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/data/Documents/Work/ITB/Fakultas/Projects/Lustrum%2070th%20SF/Seminar%20Nasional%20Kurikulum/Backdrop%20and%20Spanduk/backdrop%20seminar%20kurikulum%20v2%20Curved.cdr" added="2018-01-28T14:47:53Z" modified="2018-01-28T14:47:53Z" visited="2018-01-28T14:47:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.corel-draw"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-01-28T14:47:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

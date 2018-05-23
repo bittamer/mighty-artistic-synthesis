@@ -1,0 +1,10 @@
+[24.819] columns StrategicViewType, TileType are not unique
+[24.819] While executing - 'INSERT INTO ArtDefine_StrategicView(StrategicViewType, TileType, Asset) VALUES(?,?,?)'
+[51.177] no such table: ContentPackage.LocalizedText
+[51.177] no such table: ContentPackage.LocalizedText
+[51.178] no such table: ContentPackage.LocalizedText
+[55.895] columns StrategicViewType, TileType are not unique
+[55.895] While executing - 'INSERT INTO ArtDefine_StrategicView(StrategicViewType, TileType, Asset) VALUES(?,?,?)'
+[57.033] no such table: ContentPackage.LocalizedText
+[57.033] no such table: ContentPackage.LocalizedText
+[57.034] no such table: ContentPackage.LocalizedText

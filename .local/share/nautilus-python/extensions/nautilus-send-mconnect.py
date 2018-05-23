@@ -1,0 +1,1 @@
+/home/hubbi/.local/share/gnome-shell/extensions/mconnect@andyholmes.github.io/nautilus-send-mconnect.py

@@ -1,0 +1,134 @@
+DebugHotloadCache: GameDebug initialized!
+Test: Test.LUA loaded!
+JoiningRoom: OnFinishedGameplayContentConfigure() g_waitingForContentConfigure=true
+LoadScreen: true
+LoadScreen: false
+LoadScreen: true
+LoadScreen: true
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_SUN_TZU', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ARTEMISIA', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JAMES_OF_ST_GEORGE', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_MARCUS_LICINIUS_CRASSUS', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_LAOZI', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_HYPATIA', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_BHASA', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_MICHELANGELO', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_WOLFGANG_AMADEUS_MOZART', using default instead.
+TutorialUIRoot: Loading bank of items for tutorial scenario: 'BASE'
+LoadScreen: OnLoadGameViewStateDone
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	3	40	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	3	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+EraCompletePopup: START EraPopupAnimation
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	3	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	8	38	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1111294549
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	8	38	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	8	38	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_SUN_TZU', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_ARTEMISIA', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_JAMES_OF_ST_GEORGE', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_MARCUS_LICINIUS_CRASSUS', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_SONGTSAN_GAMPO', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_HYPATIA', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_BHASA', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_MICHELANGELO', using default instead.
+GreatPeoplePopup: WARNING: Could not find icon atlas entry for the individual Great Person 'ICON_GREAT_PERSON_INDIVIDUAL_WOLFGANG_AMADEUS_MOZART', using default instead.
+TutorialUIRoot: ignoring queue for item which is already active item: INFLUENCE_TOKEN
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	3	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	8	38	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	3	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	8	38	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-883488896
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	8	38	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	3	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=1092515808
+TutorialUIRoot: diplo stmt type=1092515808
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	8	38	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	3	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	8	38	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=1612079318
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	3	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	8	38	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	3	40	0	true	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-2065048438
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	8	38	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+TutorialUIRoot: diplo stmt type=-1778523048
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	8	38	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	131073	0	0	0	false	false
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+InGame: Request to BulkHide( true, Diplomacy ), Show on 0 = 1
+DiplomacyActionView: Closing Diplomacy Action View
+InGame: Request to BulkHide( false, Diplomacy ), Show on 0 = 0
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	3	40	0	true	false
+ActionPanel: ERROR: ActionPanel received mismatched blocking types.  Event vs engine call: 	-148733181	-513644209
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	3	40	0	true	false
+PlotInfo: PlotInfo::OnCitySelectionChanged	0	65536	0	0	0	false	false

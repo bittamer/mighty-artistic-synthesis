@@ -1,0 +1,632 @@
+[543995.573] Status: Initializing Modding Framework.
+[543995.573] Status: C:/Emu/AppDataParent/Sid Meier's Civilization VI/Mods.sqlite
+[543995.573] Status: Connected to modding database!
+[543995.573] Status: Ensuring Foreign Key support is enabled and set to initially deferred.
+[543995.573] Status: Checking database version...
+[543995.573] Status: Modding database is up-to-date!
+[543995.573] Status: Loading Stored Procedures...
+[543995.573] Status: Checking required procedures exist...
+[543995.573] Status: Initializing database queries...
+[543995.573] Status: Initializing Services...
+[543995.573] Status: Component Discovery Service initialized.
+[543995.573] Status: File Service initialized.
+[543995.573] Status: Localization Service initialized.
+[543995.573] Status: Mod Association Service initialized
+[543995.573] Status: Mod Discovery Service initialized.
+[543995.573] Status: Mod Loader Service initialized.
+[543995.573] Status: Mod Selection Service missing. Skipping.
+[543995.573] Status: Ownership Service initialized.
+[543995.573] Status: Properties Service initialized.
+[543995.573] Status: Subscription Service - Detected 0 subscriptions
+[543995.573] Status: Subscription Service initialized.
+[543995.573] Status: User Data Service missing. Skipping.
+[543995.573] Status: Services initialized!
+[543995.573] Status: Modding Framework is initialized.
+[543995.573] Status: Initializing Modding Framework took - 33ms.
+[543995.573] Status: Verifying enabled mods can coexist.
+[543995.573] Status: Discovering new mods...
+[544995.573] Status: Mod timestamps do not match.  Will reload the mod.
+[544995.573] Status: Loading Mod - ../../../DLC/nubia_amanitore/nubia_amanitore.modinfo
+[544995.573] Status: Loaded a mod!
+[544995.573] Status: Mod timestamps do not match.  Will reload the mod.
+[544995.573] Status: Loading Mod - ../../../DLC/aztec_montezuma/aztec_montezuma.modinfo
+[544995.573] Status: Loaded a mod!
+[544995.573] Status: Loading Mod - ../../../DLC/indonesia_khmer/indonesia_khmer.modinfo
+[544995.573] Status: Loaded a mod!
+[544995.573] Status: Mod timestamps do not match.  Will reload the mod.
+[544995.573] Status: Loading Mod - ../../../DLC/poland_jadwiga/poland_jadwiga.modinfo
+[544995.573] Status: Loaded a mod!
+[544995.573] Status: Mod timestamps do not match.  Will reload the mod.
+[544995.573] Status: Loading Mod - ../../../DLC/macedonia_persia/macedonia_persia.modinfo
+[544995.573] Status: Loaded a mod!
+[544995.573] Status: Mod timestamps do not match.  Will reload the mod.
+[544995.573] Status: Loading Mod - ../../../DLC/australia/australia.modinfo
+[544995.573] Status: Loaded a mod!
+[545995.573] Status: Finished Discovery.
+[545995.573] Status: Discovery Summary:
+[545995.573] Status: Deleted 5 mods.
+[545995.573] Status: Discovered 6 mods.
+[545995.573] Status: New/Reloaded Mods:
+[545995.573] Status: 643EA320-8E1A-4CF1-A01C-00D88DDD131A (DLC: Nubia Civilization Pack)
+[545995.573] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[545995.573] Status: 1F367231-A040-4793-BDBB-088816853683 (DLC: Khmer and Indonesia Civilization Pack)
+[545995.573] Status: 3809975F-263F-40A2-A747-8BFB171D821A (DLC: Poland Civilization Pack)
+[545995.573] Status: E2749E9A-8056-45CD-901B-C368C8E83DEB (DLC: Persia and Macedon Civilization Pack)
+[545995.573] Status: E3F53C61-371C-440B-96CE-077D318B36C0 (DLC: Australia Civilization Pack)
+[545995.573] Status: Discovering Mods took - 2000ms.
+[545995.573] Status: Verifying enabled mods can coexist.
+[545995.573] Status: Bootstrapping game content
+[545995.573] Status: Loading Vanilla DLL.
+[546995.573] Status: Building gameplay database.
+[547995.573] Status: Updating gameplay database with embedded GameCore data.
+[547995.573] Status: Updated gameplay database with GameCore data.
+[547995.573] Status: Initializing Vanilla DLL.
+[547995.573] Status: Instantiate GameCore UI Manager.
+[547995.573] Status: Saving a debug version of the gameplay database.
+[548995.573] Status: Successfully bootstrapped game content.
+[548995.573] Status: Mods - Loading NapoleonScenario_Config.xml
+[548995.573] Status: Mods - Loading NapoleonScenario_Eras.xml
+[548995.573] Status: Mods - Loading NapoleonScenario_StartScript.lua
+[548995.573] Status: Mods - Loading NapoleonScenario_Units.xml
+[548995.573] Status: Mods - Loading NapoleonScenario_Victories.xml
+[548995.573] Status: Mods - Loading ReligiousCombatScenario_Civilizations.xml
+[548995.573] Status: Mods - Loading ReligiousCombatScenario_Config.xml
+[548995.573] Status: Mods - Loading ReligiousCombatScenario_Eras.xml
+[548995.573] Status: Mods - Loading ReligiousCombatScenario_Maps.xml
+[548995.573] Status: Mods - Loading ReligiousCombatScenario_Victories.xml
+[548995.573] Status: Mods - Loading AncientRivalsScenario_Config.xml
+[548995.573] Status: Mods - Loading AncientRivalsScenario_Victories.xml
+[548995.573] Status: Mods - Loading ColdWarScenario_Config.xml
+[548995.573] Status: Mods - Loading ColdWarScenario_Eras.xml
+[548995.573] Status: Mods - Loading ColdWarScenario_Features.xml
+[548995.573] Status: Mods - Loading ColdWarScenario_GlobalParameters.xml
+[548995.573] Status: Mods - Loading ColdWarScenario_Policies.xml
+[548995.573] Status: Mods - Loading ColdWarScenario_Projects.xml
+[548995.573] Status: Mods - Loading ColdWarScenario_Resources.xml
+[548995.573] Status: Mods - Loading ColdWarScenario_StartScript.lua
+[548995.573] Status: Mods - Loading ColdWarScenario_Units.xml
+[548995.573] Status: Mods - Loading ColdWarScenario_Victories.xml
+[548995.573] Status: Mods - Loading ColdWarScenario_WMDs.xml
+[548995.573] Status: Mods - Loading AustraliaScenario.dep
+[548995.573] Status: Mods - Loading Data/ARX/Civ_LEADER_QUEENSLAND.png
+[548995.573] Status: Mods - Loading Data/ARX/Civ_LEADER_SCENARIO_VICTORIA.png
+[548995.573] Status: Mods - Loading Data/ARX/Civ_LEADER_SOUTH_AUSTRALIA.png
+[548995.573] Status: Mods - Loading Data/ARX/Civ_LEADER_WESTERN_AUSTRALIA.png
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Civics.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Colors.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Config.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_DiplomacyInfo.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Districts.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_EventPopupData.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_GameSpeeds.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_GameplayData.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_GlobalParameters.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Icons_Civics.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Icons_Civilizations.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Icons_Governments.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Icons_Leaders.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Icons_Policies.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Icons_Projects.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Icons_Resources.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Icons_UnitPortraits.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Icons_Units.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Leaders.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_LoadingInfo.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_PlayerColors.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Policies.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Projects.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_RemoveData.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Resources.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Scoring.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Technologies.xml
+[548995.573] Status: Mods - Loading Data/AustraliaScenario_Victories.xml
+[548995.573] Status: Mods - Loading Maps/AustraliaMap.lua
+[548995.573] Status: Mods - Loading Scripts/AustraliaScenario.lua
+[548995.573] Status: Mods - Loading Text/AustraliaScenario_Translations_ConfigText.xml
+[548995.573] Status: Mods - Loading Text/AustraliaScenario_Translations_Text.xml
+[548995.573] Status: Mods - Loading Text/en_US/AustraliaScenario_CivilopediaText.xml
+[548995.573] Status: Mods - Loading Text/en_US/AustraliaScenario_ConfigText.xml
+[548995.573] Status: Mods - Loading Text/en_US/AustraliaScenario_EventText.xml
+[548995.573] Status: Mods - Loading Text/en_US/AustraliaScenario_Text.xml
+[548995.573] Status: Mods - Loading UI/ARXManager.lua
+[548995.573] Status: Mods - Loading UI/CivicsTreeIconLoader_AwardSettler.lua
+[548995.573] Status: Mods - Loading UI/CivicsTreeIcon_AwardSettler.lua
+[548995.573] Status: Mods - Loading UI/CivicsTreeIcon_AwardSettler.xml
+[548995.573] Status: Mods - Loading UI/NewTurnPanel.lua
+[548995.573] Status: Mods - Loading UI/NewTurnPanel.xml
+[548995.573] Status: Mods - Loading UI/PartialScreenHooks.lua
+[548995.573] Status: Mods - Loading UI/TopPanel.lua
+[548995.573] Status: Mods - Loading UI/WorldRankings.lua
+[548995.573] Status: Mods - Loading UI/WorldRankings.xml
+[548995.573] Status: Mods - Loading Data/ARX/Civ_LEADER_AL_HAKAM_II.png
+[548995.573] Status: Mods - Loading Data/ARX/Civ_LEADER_BASIL_II.png
+[548995.573] Status: Mods - Loading Data/ARX/Civ_LEADER_CHARLEMAGNE.png
+[548995.573] Status: Mods - Loading Data/ARX/Civ_LEADER_CNUT.png
+[548995.573] Status: Mods - Loading Data/ARX/Civ_LEADER_HARDRADA.png
+[548995.573] Status: Mods - Loading Data/ARX/Civ_LEADER_OLOF.png
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Beliefs.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Buildings.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Civics.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Civilizations.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Colors.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Config.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_DiplomacyInfo.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Districts.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Eras.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Features.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_GameSpeeds.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_GlobalParameters.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_GoodyHuts.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Gossip.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Governments.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_GreatPeople.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Icons_Beliefs.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Icons_Civics.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Icons_Civilizations.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Icons_Config.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Icons_Leaders.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Icons_Policies.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Icons_Technologies.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Icons_UnitPortraits.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Icons_Units.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Improvements.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Leaders.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_LoadingInfo.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Maps.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_PlayerColors.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Policies.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Projects.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_RemoveData.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Resources.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Routes.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Scoring.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Technologies.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_UnitAbilities.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Units.xml
+[548995.573] Status: Mods - Loading Data/VikingsScenario_Victories.xml
+[548995.573] Status: Mods - Loading Maps/Viking.Civ6Map
+[548995.573] Status: Mods - Loading Scripts/VikingScenario.lua
+[548995.573] Status: Mods - Loading Text/VikingsScenario_Translations_ConfigText.xml
+[548995.573] Status: Mods - Loading Text/VikingsScenario_Translations_Text.xml
+[548995.573] Status: Mods - Loading Text/en_US/VikingsScenario_CivilopediaText.xml
+[548995.573] Status: Mods - Loading Text/en_US/VikingsScenario_ConfigText.xml
+[548995.573] Status: Mods - Loading Text/en_US/VikingsScenario_Text.xml
+[548995.573] Status: Mods - Loading UI/PartialScreenHooks.lua
+[548995.573] Status: Mods - Loading UI/ReligionScreen.lua
+[548995.573] Status: Mods - Loading UI/WorldRankings.lua
+[548995.573] Status: Mods - Loading UI/WorldRankings.xml
+[548995.573] Status: Mods - Loading VikingScenario.dep
+[548995.573] Status: Mods - Loading Data/VikingsLandmarks_Abilities.xml
+[548995.573] Status: Mods - Loading Data/VikingsLandmarks_CityStates.xml
+[548995.573] Status: Mods - Loading Data/VikingsLandmarks_Features.xml
+[548995.573] Status: Mods - Loading Data/VikingsLandmarks_Icons_Civilizations.xml
+[548995.573] Status: Mods - Loading Data/VikingsLandmarks_Icons_Features.xml
+[548995.573] Status: Mods - Loading Data/VikingsLandmarks_Icons_UnitActions.xml
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC01Banks.ini
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC01_Resources_Features_3D.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC01_Resources_Features_3D.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC01_Resources_Features_3D.xml
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_2D.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_2D.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_2D.xml
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_3D.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_3D.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_3D.xml
+[548995.573] Status: Mods - Loading Text/VikingsLandmarks_Translations_Text.xml
+[548995.573] Status: Mods - Loading Text/en_US/VikingsLandmarks_CivilopediaText.xml
+[548995.573] Status: Mods - Loading Text/en_US/VikingsLandmarks_Text.xml
+[548995.573] Status: Mods - Loading VikingsLandmarks.dep
+[548995.573] Status: Mods - Loading DLC5.dep
+[548995.573] Status: Mods - Loading Data/ARX/Civ_LEADER_AMANITORE.png
+[548995.573] Status: Mods - Loading Data/Nubia_Colors.xml
+[548995.573] Status: Mods - Loading Data/Nubia_ConfigData.xml
+[548995.573] Status: Mods - Loading Data/Nubia_GameplayData.xml
+[548995.573] Status: Mods - Loading Data/Nubia_Icons_Buildings.xml
+[548995.573] Status: Mods - Loading Data/Nubia_Icons_Civilizations.xml
+[548995.573] Status: Mods - Loading Data/Nubia_Icons_Leaders.xml
+[548995.573] Status: Mods - Loading Data/Nubia_Icons_UnitActions.xml
+[548995.573] Status: Mods - Loading Data/Nubia_Icons_UnitPortraits.xml
+[548995.573] Status: Mods - Loading Data/Nubia_Icons_Units.xml
+[548995.573] Status: Mods - Loading Data/Nubia_Icons_Wonders.xml
+[548995.573] Status: Mods - Loading Data/Nubia_PlayerColors.xml
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC05Banks.ini
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Leader_SFX.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Leader_SFX.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Leader_SFX.xml
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Music_Bank.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Music_Bank.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Music_Bank.xml
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Speech.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Speech.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Speech.xml
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Unit_Bank_2D.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Unit_Bank_2D.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC05_Unit_Bank_2D.xml
+[548995.573] Status: Mods - Loading Text/Nubia_Amanitore_Translations_ConfigText.xml
+[548995.573] Status: Mods - Loading Text/Nubia_Amanitore_Translations_Text.xml
+[548995.573] Status: Mods - Loading Text/en_US/Nubia_CivilopediaText.xml
+[548995.573] Status: Mods - Loading Text/en_US/Nubia_ConfigText.xml
+[548995.573] Status: Mods - Loading Text/en_US/Nubia_Text.xml
+[548995.573] Status: Mods - Loading Data/Aztec_Montezuma_ConfigData.xml
+[548995.573] Status: Mods - Loading Data/Aztec_Montezuma_GameplayData.xml
+[548995.573] Status: Mods - Loading Data/Building_Huey_Teocalli.xml
+[548995.573] Status: Mods - Loading DLC6.dep
+[548995.573] Status: Mods - Loading Data/ARX/Civ_LEADER_GITARJA.png
+[548995.573] Status: Mods - Loading Data/ARX/Civ_LEADER_JAYAVARMAN.png
+[548995.573] Status: Mods - Loading Data/Indonesia_Khmer_ConfigData.xml
+[548995.573] Status: Mods - Loading Data/Indonesia_Khmer_GameplayData.xml
+[548995.573] Status: Mods - Loading Data/Indonesia_Khmer_Icons_Buildings.xml
+[548995.573] Status: Mods - Loading Data/Indonesia_Khmer_Icons_Civilizations.xml
+[548995.573] Status: Mods - Loading Data/Indonesia_Khmer_Icons_Features.xml
+[548995.573] Status: Mods - Loading Data/Indonesia_Khmer_Icons_Leaders.xml
+[548995.573] Status: Mods - Loading Data/Indonesia_Khmer_Icons_UnitActions.xml
+[548995.573] Status: Mods - Loading Data/Indonesia_Khmer_Icons_UnitPortraits.xml
+[548995.573] Status: Mods - Loading Data/Indonesia_Khmer_Icons_Units.xml
+[548995.573] Status: Mods - Loading Data/Indonesia_Khmer_Icons_Wonders.xml
+[548995.573] Status: Mods - Loading Maps/EastAsiaStandard.Civ6Map
+[548995.573] Status: Mods - Loading Maps/TSLEastAsiaStandard.Civ6Map
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC06Banks.ini
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Leader_SFX.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Leader_SFX.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Leader_SFX.xml
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Music_Bank.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Music_Bank.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Music_Bank.xml
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Speech.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Speech.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Speech.xml
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Unit_Bank_2D.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Unit_Bank_2D.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC06_Unit_Bank_2D.xml
+[548995.573] Status: Mods - Loading Text/Indonesia_Khmer_Translations_ConfigText.xml
+[548995.573] Status: Mods - Loading Text/Indonesia_Khmer_Translations_Text.xml
+[548995.573] Status: Mods - Loading Text/en_US/Indonesia_Khmer_CivilopediaText.xml
+[548995.573] Status: Mods - Loading Text/en_US/Indonesia_Khmer_ConfigText.xml
+[548995.573] Status: Mods - Loading Text/en_US/Indonesia_Khmer_Text.xml
+[548995.573] Status: Mods - Loading DLC2.dep
+[548995.573] Status: Mods - Loading Data/ARX/Civ_LEADER_JADWIGA.png
+[548995.573] Status: Mods - Loading Data/Poland_Jadwiga_ConfigData.xml
+[548995.573] Status: Mods - Loading Data/Poland_Jadwiga_GameplayData.xml
+[548995.573] Status: Mods - Loading Data/Poland_Jadwiga_Icons_Buildings.xml
+[548995.573] Status: Mods - Loading Data/Poland_Jadwiga_Icons_Civilizations.xml
+[548995.573] Status: Mods - Loading Data/Poland_Jadwiga_Icons_Leaders.xml
+[548995.573] Status: Mods - Loading Data/Poland_Jadwiga_Icons_UnitPortraits.xml
+[548995.573] Status: Mods - Loading Data/Poland_Jadwiga_Icons_Units.xml
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC02Banks.ini
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC02_Leader_SFX.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC02_Leader_SFX.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC02_Leader_SFX.xml
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC02_Speech.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC02_Speech.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC02_Speech.xml
+[548995.573] Status: Mods - Loading Text/Poland_Translations_ConfigText.xml
+[548995.573] Status: Mods - Loading Text/Poland_Translations_Text.xml
+[548995.573] Status: Mods - Loading Text/en_US/Poland_Jadwiga_ConfigText.xml
+[548995.573] Status: Mods - Loading Text/en_US/Poland_Jadwiga_GameplayText.xml
+[548995.573] Status: Mods - Loading DLC4.dep
+[548995.573] Status: Mods - Loading Data/ARX/Civ_LEADER_ALEXANDER.png
+[548995.573] Status: Mods - Loading Data/ARX/Civ_LEADER_CYRUS.png
+[548995.573] Status: Mods - Loading Data/Macedonia_Persia_Colors.xml
+[548995.573] Status: Mods - Loading Data/Macedonia_Persia_ConfigData.xml
+[548995.573] Status: Mods - Loading Data/Macedonia_Persia_GameplayData.xml
+[548995.573] Status: Mods - Loading Data/Macedonia_Persia_Icons_Buildings.xml
+[548995.573] Status: Mods - Loading Data/Macedonia_Persia_Icons_Civilizations.xml
+[548995.573] Status: Mods - Loading Data/Macedonia_Persia_Icons_Leaders.xml
+[548995.573] Status: Mods - Loading Data/Macedonia_Persia_Icons_UnitActions.xml
+[548995.573] Status: Mods - Loading Data/Macedonia_Persia_Icons_UnitPortraits.xml
+[548995.573] Status: Mods - Loading Data/Macedonia_Persia_Icons_Units.xml
+[548995.573] Status: Mods - Loading Data/Macedonia_Persia_Icons_Wonders.xml
+[548995.573] Status: Mods - Loading Data/Macedonia_Persia_PlayerColors.xml
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC04Banks.ini
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC04_Music_Bank.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC04_Music_Bank.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC04_Music_Bank.xml
+[548995.573] Status: Mods - Loading Text/Macedonia_Persia_Translations_ConfigText.xml
+[548995.573] Status: Mods - Loading Text/Macedonia_Persia_Translations_Text.xml
+[548995.573] Status: Mods - Loading Text/en_US/Macedonia_Persia_CivilopediaText.xml
+[548995.573] Status: Mods - Loading Text/en_US/Macedonia_Persia_ConfigText.xml
+[548995.573] Status: Mods - Loading Text/en_US/Macedonia_Persia_GameplayText.xml
+[548995.573] Status: Mods - Loading DLC3.dep
+[548995.573] Status: Mods - Loading Data/ARX/Civ_LEADER_JOHN_CURTIN.png
+[548995.573] Status: Mods - Loading Data/Australia_Civilizations.xml
+[548995.573] Status: Mods - Loading Data/Australia_Config.xml
+[548995.573] Status: Mods - Loading Data/Australia_Features.xml
+[548995.573] Status: Mods - Loading Data/Australia_Icons_Civilizations.xml
+[548995.573] Status: Mods - Loading Data/Australia_Icons_Features.xml
+[548995.573] Status: Mods - Loading Data/Australia_Icons_Leaders.xml
+[548995.573] Status: Mods - Loading Data/Australia_Icons_UnitActions.xml
+[548995.573] Status: Mods - Loading Data/Australia_Icons_UnitPortraits.xml
+[548995.573] Status: Mods - Loading Data/Australia_Icons_Units.xml
+[548995.573] Status: Mods - Loading Data/Australia_Improvements.xml
+[548995.573] Status: Mods - Loading Data/Australia_Leaders.xml
+[548995.573] Status: Mods - Loading Data/Australia_Units.xml
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC03Banks.ini
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Leader_SFX.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Leader_SFX.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Leader_SFX.xml
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Music_Bank.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Music_Bank.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Music_Bank.xml
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Speech.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Speech.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Speech.xml
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Unit_Bank_2D.bnk
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Unit_Bank_2D.txt
+[548995.573] Status: Mods - Loading Platforms/Windows/Audio/DLC03_Unit_Bank_2D.xml
+[548995.573] Status: Mods - Loading Text/Australia_Translations_ConfigText.xml
+[548995.573] Status: Mods - Loading Text/Australia_Translations_Text.xml
+[548995.573] Status: Mods - Loading Text/en_US/Australia_CivilopediaText.xml
+[548995.573] Status: Mods - Loading Text/en_US/Australia_ConfigText.xml
+[548995.573] Status: Mods - Loading Text/en_US/Australia_Text.xml
+[662995.573] Status: Configuring game content
+[662995.573] Status: Enabled Mods (in no particular order):
+[662995.573] Status: No active mods.
+[662995.573] Status: Target Mods (in no particular order):
+[662995.573] Status: {5E991A08-08FD-4774-968B-A85377ECF60D} (Multiplayer Scenario: Cavalry and Cannonades)
+[662995.573] Status: {455B6E2D-821D-4D49-9FCD-FC950AC6A521} (Multiplayer Scenario: Hallowed Ground)
+[662995.573] Status: F653805E-F7C8-44E1-8CBD-FB48D7AABCBA (Multiplayer Scenario: Ancient Rivals)
+[662995.573] Status: 648CD2A8-057A-4EB5-9E41-E1F7D86B5443 (Multiplayer Scenario: Global Thermonuclear War)
+[662995.573] Status: D70C8F1F-3954-460F-A9D9-09498BF773C9 (Scenario: Outback Tycoon)
+[662995.573] Status: 05698E46-1032-43C7-A40C-FA3D02858D2A (Scenario: Vikings, Traders, and Raiders!)
+[662995.573] Status: 2F6E858A-28EF-46B3-BEAC-B985E52E9BC1 (DLC: Vikings Content)
+[662995.573] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[662995.573] Status: E3F53C61-371C-440B-96CE-077D318B36C0 (DLC: Australia Civilization Pack)
+[662995.573] Status: Game configuration needs to change to match target config.
+[662995.573] Status: Performing pre-configure processing.
+[662995.573] Status: Rebuilding configuration database.
+[662995.573] Status: Localization database unchanged, no rollback needed.
+[662995.573] Status: Configuration database unchanged, no rollback needed.
+[662995.573] Status: Applying settings.
+[662995.573] Status: Modding Framework - Apply Settings
+[662995.573] Status: Creating database save point.
+[662995.573] Status: ModdingUpdateConfigurationDatabase - Loading NapoleonScenario_Config.xml
+[662995.573] Status: Successfully released save point.
+[662995.573] Status: Creating database save point.
+[662995.573] Status: ModdingUpdateConfigurationDatabase - Loading ReligiousCombatScenario_Config.xml
+[662995.573] Status: Successfully released save point.
+[662995.573] Status: Creating database save point.
+[662995.573] Status: ModdingUpdateConfigurationDatabase - Loading AncientRivalsScenario_Config.xml
+[662995.573] Status: Successfully released save point.
+[662995.573] Status: Creating database save point.
+[662995.573] Status: ModdingUpdateConfigurationDatabase - Loading ColdWarScenario_Config.xml
+[662995.573] Status: Successfully released save point.
+[662995.573] Status: UISettingHandler - Loading VikingsLandmarks.dep
+[662995.573] Status: Creating database save point.
+[662995.573] Status: ModdingUpdateConfigurationDatabase - Loading Data/Aztec_Montezuma_ConfigData.xml
+[662995.573] Status: Successfully released save point.
+[662995.573] Status: Creating database save point.
+[662995.573] Status: ModdingUpdateConfigurationDatabase - Loading Data/Australia_Config.xml
+[662995.573] Status: Successfully released save point.
+[662995.573] Status: UpdateIcons - Loading Data/Australia_Icons_Civilizations.xml
+[662995.573] Status: UpdateIcons - Loading Data/Australia_Icons_Features.xml
+[662995.573] Status: UpdateIcons - Loading Data/Australia_Icons_Leaders.xml
+[662995.573] Status: UpdateIcons - Loading Data/Australia_Icons_UnitActions.xml
+[662995.573] Status: UpdateIcons - Loading Data/Australia_Icons_UnitPortraits.xml
+[662995.573] Status: UpdateIcons - Loading Data/Australia_Icons_Units.xml
+[662995.573] Status: UISettingHandler - Loading DLC3.dep
+[662995.573] Status: Creating database save point.
+[662995.573] Status: LocalizedText - Loading Text/en_US/Australia_ConfigText.xml
+[662995.573] Status: LocalizedText - Loading Text/Australia_Translations_ConfigText.xml
+[662995.573] Status: Successfully released save point.
+[662995.573] Status: UpdateIcons - Loading Data/AustraliaScenario_Icons_Civilizations.xml
+[662995.573] Status: UpdateIcons - Loading Data/AustraliaScenario_Icons_Leaders.xml
+[662995.573] Status: UISettingHandler - Loading AustraliaScenario.dep
+[662995.573] Status: Creating database save point.
+[662995.573] Status: ModdingUpdateConfigurationDatabase - Loading Data/AustraliaScenario_Config.xml
+[662995.573] Status: Successfully released save point.
+[662995.573] Status: Creating database save point.
+[662995.573] Status: LocalizedText - Loading Text/en_US/AustraliaScenario_ConfigText.xml
+[662995.573] Status: LocalizedText - Loading Text/AustraliaScenario_Translations_ConfigText.xml
+[662995.573] Status: Successfully released save point.
+[662995.573] Status: UpdateIcons - Loading Data/VikingsScenario_Icons_Config.xml
+[662995.573] Status: Creating database save point.
+[662995.573] Status: ModdingUpdateConfigurationDatabase - Loading Data/VikingsScenario_Config.xml
+[662995.573] Status: Successfully released save point.
+[662995.573] Status: Creating database save point.
+[662995.573] Status: LocalizedText - Loading Text/VikingsScenario_Translations_ConfigText.xml
+[662995.573] Status: LocalizedText - Loading Text/en_US/VikingsScenario_ConfigText.xml
+[662995.573] Status: Successfully released save point.
+[662995.573] Status: UISettingHandler - Loading VikingScenario.dep
+[662995.573] Status: Modding Framework - Finished Apply Settings
+[663995.573] Status: Successfully reconfigured game.
+[693995.573] Status: Configuring game content
+[693995.573] Status: Enabled Mods (in no particular order):
+[693995.573] Status: {5E991A08-08FD-4774-968B-A85377ECF60D} (Multiplayer Scenario: Cavalry and Cannonades)
+[693995.573] Status: {455B6E2D-821D-4D49-9FCD-FC950AC6A521} (Multiplayer Scenario: Hallowed Ground)
+[693995.573] Status: F653805E-F7C8-44E1-8CBD-FB48D7AABCBA (Multiplayer Scenario: Ancient Rivals)
+[693995.573] Status: 648CD2A8-057A-4EB5-9E41-E1F7D86B5443 (Multiplayer Scenario: Global Thermonuclear War)
+[693995.573] Status: D70C8F1F-3954-460F-A9D9-09498BF773C9 (Scenario: Outback Tycoon)
+[693995.573] Status: 05698E46-1032-43C7-A40C-FA3D02858D2A (Scenario: Vikings, Traders, and Raiders!)
+[693995.573] Status: 2F6E858A-28EF-46B3-BEAC-B985E52E9BC1 (DLC: Vikings Content)
+[693995.573] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[693995.573] Status: E3F53C61-371C-440B-96CE-077D318B36C0 (DLC: Australia Civilization Pack)
+[693995.573] Status: Target Mods (in no particular order):
+[693995.573] Status: {5E991A08-08FD-4774-968B-A85377ECF60D} (Multiplayer Scenario: Cavalry and Cannonades)
+[693995.573] Status: {455B6E2D-821D-4D49-9FCD-FC950AC6A521} (Multiplayer Scenario: Hallowed Ground)
+[693995.573] Status: F653805E-F7C8-44E1-8CBD-FB48D7AABCBA (Multiplayer Scenario: Ancient Rivals)
+[693995.573] Status: 648CD2A8-057A-4EB5-9E41-E1F7D86B5443 (Multiplayer Scenario: Global Thermonuclear War)
+[693995.573] Status: D70C8F1F-3954-460F-A9D9-09498BF773C9 (Scenario: Outback Tycoon)
+[693995.573] Status: 05698E46-1032-43C7-A40C-FA3D02858D2A (Scenario: Vikings, Traders, and Raiders!)
+[693995.573] Status: 2F6E858A-28EF-46B3-BEAC-B985E52E9BC1 (DLC: Vikings Content)
+[693995.573] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[693995.573] Status: E3F53C61-371C-440B-96CE-077D318B36C0 (DLC: Australia Civilization Pack)
+[693995.573] Status: Game configuration matches target configuration.
+[693995.573] Status: Successfully reconfigured game.
+[699995.573] Status: Configuring game content
+[699995.573] Status: Enabled Mods (in no particular order):
+[699995.573] Status: {5E991A08-08FD-4774-968B-A85377ECF60D} (Multiplayer Scenario: Cavalry and Cannonades)
+[699995.573] Status: {455B6E2D-821D-4D49-9FCD-FC950AC6A521} (Multiplayer Scenario: Hallowed Ground)
+[699995.573] Status: F653805E-F7C8-44E1-8CBD-FB48D7AABCBA (Multiplayer Scenario: Ancient Rivals)
+[699995.573] Status: 648CD2A8-057A-4EB5-9E41-E1F7D86B5443 (Multiplayer Scenario: Global Thermonuclear War)
+[699995.573] Status: D70C8F1F-3954-460F-A9D9-09498BF773C9 (Scenario: Outback Tycoon)
+[699995.573] Status: 05698E46-1032-43C7-A40C-FA3D02858D2A (Scenario: Vikings, Traders, and Raiders!)
+[699995.573] Status: 2F6E858A-28EF-46B3-BEAC-B985E52E9BC1 (DLC: Vikings Content)
+[699995.573] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[699995.573] Status: E3F53C61-371C-440B-96CE-077D318B36C0 (DLC: Australia Civilization Pack)
+[699995.573] Status: Target Mods (in no particular order):
+[699995.573] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[699995.573] Status: 2F6E858A-28EF-46B3-BEAC-B985E52E9BC1 (DLC: Vikings Content)
+[699995.573] Status: E3F53C61-371C-440B-96CE-077D318B36C0 (DLC: Australia Civilization Pack)
+[699995.573] Status: Game configuration needs to change to match target config.
+[699995.573] Status: Performing pre-configure processing.
+[699995.573] Status: Rebuilding configuration database.
+[699995.573] Status: Reverted Localization database to its original state.
+[699995.573] Status: Reverted Configuration database to its original state.
+[699995.573] Status: Applying settings.
+[699995.573] Status: Modding Framework - Apply Settings
+[699995.573] Status: Creating database save point.
+[699995.573] Status: ModdingUpdateConfigurationDatabase - Loading Data/Aztec_Montezuma_ConfigData.xml
+[699995.573] Status: Successfully released save point.
+[699995.573] Status: UISettingHandler - Loading VikingsLandmarks.dep
+[699995.573] Status: Creating database save point.
+[699995.573] Status: ModdingUpdateConfigurationDatabase - Loading Data/Australia_Config.xml
+[699995.573] Status: Successfully released save point.
+[699995.573] Status: UpdateIcons - Loading Data/Australia_Icons_Civilizations.xml
+[699995.573] Status: UpdateIcons - Loading Data/Australia_Icons_Features.xml
+[699995.573] Status: UpdateIcons - Loading Data/Australia_Icons_Leaders.xml
+[699995.573] Status: UpdateIcons - Loading Data/Australia_Icons_UnitActions.xml
+[699995.573] Status: UpdateIcons - Loading Data/Australia_Icons_UnitPortraits.xml
+[699995.573] Status: UpdateIcons - Loading Data/Australia_Icons_Units.xml
+[699995.573] Status: UISettingHandler - Loading DLC3.dep
+[699995.573] Status: Creating database save point.
+[699995.573] Status: LocalizedText - Loading Text/en_US/Australia_ConfigText.xml
+[699995.573] Status: LocalizedText - Loading Text/Australia_Translations_ConfigText.xml
+[699995.573] Status: Successfully released save point.
+[699995.573] Status: Modding Framework - Finished Apply Settings
+[700995.573] Status: Successfully reconfigured game.
+[700995.573] Status: Updating game content
+[700995.573] Status: Configuring game content
+[700995.573] Status: Enabled Mods (in no particular order):
+[700995.573] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[700995.573] Status: 2F6E858A-28EF-46B3-BEAC-B985E52E9BC1 (DLC: Vikings Content)
+[700995.573] Status: E3F53C61-371C-440B-96CE-077D318B36C0 (DLC: Australia Civilization Pack)
+[700995.573] Status: Target Mods (in no particular order):
+[700995.573] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[700995.573] Status: 2F6E858A-28EF-46B3-BEAC-B985E52E9BC1 (DLC: Vikings Content)
+[700995.573] Status: E3F53C61-371C-440B-96CE-077D318B36C0 (DLC: Australia Civilization Pack)
+[700995.573] Status: Game configuration matches target configuration.
+[700995.573] Status: Successfully reconfigured game.
+[700995.573] Status: Applied in-game actions (in order of application):
+[700995.573] Status: No active mods.
+[700995.573] Status: Target in-game actions (in order of application):
+[700995.573] Status: 02A8BDDE-67EA-4D38-9540-26E685E3156E (DLC: Aztec Civilization Pack)
+[700995.573] Status:  * AztecMontezumaGameplay (UpdateDatabase)
+[700995.573] Status: 2F6E858A-28EF-46B3-BEAC-B985E52E9BC1 (DLC: Vikings Content)
+[700995.573] Status:  * VIKINGSLANDMARKS_AUDIO (UpdateAudio)
+[700995.573] Status:  * VIKINGSLANDMARKS_ART (UpdateArt)
+[700995.573] Status:  * VIKINGSLANDMARKS_DATA (UpdateDatabase)
+[700995.573] Status:  * VIKINGSLANDMARKS_ICONS (UpdateIcons)
+[700995.573] Status:  * VIKINGSLANDMARKS_TEXT (UpdateText)
+[700995.573] Status: E3F53C61-371C-440B-96CE-077D318B36C0 (DLC: Australia Civilization Pack)
+[700995.573] Status:  * AustraliaArt (ModArt)
+[700995.573] Status:  * AustraliaIcons (Icons)
+[700995.573] Status:  * AustraliaGameplay (UpdateDatabase)
+[700995.573] Status:  * AustraliaARX (UpdateLogitechARX)
+[700995.573] Status:  * AustraliaAudio (UpdateAudio)
+[700995.573] Status:  * AustraliaText (UpdateText)
+[700995.573] Status: Game content needs to change to match target config.
+[700995.573] Status: Performing pre configure processing.
+[700995.573] Status: Unloading Gameplay DLL.
+[700995.573] Status: Reloading Gameplay DLL.
+[700995.573] Status: Reverted Localization database to its original state.
+[700995.573] Status: Rebuilding gameplay database.
+[700995.573] Status: Reverted Gameplay database to its original state.
+[700995.573] Status: Updating gameplay database with embedded GameCore data.
+[700995.573] Status: Updated gameplay database with GameCore data.
+[700995.573] Status: Applying mod components.
+[700995.573] Status: Modding Framework - Applying Components
+[700995.573] Status: Applying Component - AztecMontezumaGameplay (UpdateDatabase)
+[700995.573] Status: Creating database save point.
+[700995.573] Status: UpdateDatabase - Loading Data/Aztec_Montezuma_GameplayData.xml
+[700995.573] Status: UpdateDatabase - Loading Data/Building_Huey_Teocalli.xml
+[700995.573] Status: Successfully released save point.
+[700995.573] Status: Applied component to game.
+[700995.573] Status: Applying Component - VIKINGSLANDMARKS_AUDIO (UpdateAudio)
+[700995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC01Banks.ini
+[700995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Resources_Features_3D.bnk
+[700995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Resources_Features_3D.txt
+[700995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Resources_Features_3D.xml
+[700995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_2D.bnk
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_2D.txt
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_2D.xml
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_3D.bnk
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_3D.txt
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_3D.xml
+[701995.573] Status: Applied component to game.
+[701995.573] Status: Applying Component - VIKINGSLANDMARKS_ART (UpdateArt)
+[701995.573] Status: ModArtLoader - Loading VikingsLandmarks.dep
+[701995.573] Status: Applied component to game.
+[701995.573] Status: Applying Component - VIKINGSLANDMARKS_DATA (UpdateDatabase)
+[701995.573] Status: Creating database save point.
+[701995.573] Status: UpdateDatabase - Loading Data/VikingsLandmarks_Abilities.xml
+[701995.573] Status: UpdateDatabase - Loading Data/VikingsLandmarks_CityStates.xml
+[701995.573] Status: UpdateDatabase - Loading Data/VikingsLandmarks_Features.xml
+[701995.573] Status: Successfully released save point.
+[701995.573] Status: Applied component to game.
+[701995.573] Status: Applying Component - VIKINGSLANDMARKS_ICONS (UpdateIcons)
+[701995.573] Status: UpdateIcons - Loading Data/VikingsLandmarks_Icons_Civilizations.xml
+[701995.573] Status: UpdateIcons - Loading Data/VikingsLandmarks_Icons_Features.xml
+[701995.573] Status: UpdateIcons - Loading Data/VikingsLandmarks_Icons_UnitActions.xml
+[701995.573] Status: Applied component to game.
+[701995.573] Status: Applying Component - VIKINGSLANDMARKS_TEXT (UpdateText)
+[701995.573] Status: Creating database save point.
+[701995.573] Status: LocalizedText - Loading Text/VikingsLandmarks_Translations_Text.xml
+[701995.573] Status: LocalizedText - Loading Text/en_US/VikingsLandmarks_CivilopediaText.xml
+[701995.573] Status: LocalizedText - Loading Text/en_US/VikingsLandmarks_Text.xml
+[701995.573] Status: Successfully released save point.
+[701995.573] Status: Applied component to game.
+[701995.573] Status: Applying Component - AustraliaArt (ModArt)
+[701995.573] Status: ModArtLoader - Loading DLC3.dep
+[701995.573] Status: Applied component to game.
+[701995.573] Status: Applying Component - AustraliaIcons (Icons)
+[701995.573] Status: UpdateIcons - Loading Data/Australia_Icons_Civilizations.xml
+[701995.573] Status: UpdateIcons - Loading Data/Australia_Icons_Features.xml
+[701995.573] Status: UpdateIcons - Loading Data/Australia_Icons_Leaders.xml
+[701995.573] Status: UpdateIcons - Loading Data/Australia_Icons_UnitActions.xml
+[701995.573] Status: UpdateIcons - Loading Data/Australia_Icons_UnitPortraits.xml
+[701995.573] Status: UpdateIcons - Loading Data/Australia_Icons_Units.xml
+[701995.573] Status: Applied component to game.
+[701995.573] Status: Applying Component - AustraliaGameplay (UpdateDatabase)
+[701995.573] Status: Creating database save point.
+[701995.573] Status: UpdateDatabase - Loading Data/Australia_Civilizations.xml
+[701995.573] Status: UpdateDatabase - Loading Data/Australia_Features.xml
+[701995.573] Status: UpdateDatabase - Loading Data/Australia_Improvements.xml
+[701995.573] Status: UpdateDatabase - Loading Data/Australia_Leaders.xml
+[701995.573] Status: UpdateDatabase - Loading Data/Australia_Units.xml
+[701995.573] Status: Successfully released save point.
+[701995.573] Status: Applied component to game.
+[701995.573] Status: Applying Component - AustraliaARX (UpdateLogitechARX)
+[701995.573] Status: UpdateARX - Loading Data/ARX/Civ_LEADER_JOHN_CURTIN.png
+[701995.573] Status: Applied component to game.
+[701995.573] Status: Applying Component - AustraliaAudio (UpdateAudio)
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC03Banks.ini
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Leader_SFX.bnk
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Leader_SFX.txt
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Leader_SFX.xml
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Music_Bank.bnk
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Music_Bank.txt
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Music_Bank.xml
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Speech.bnk
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Speech.txt
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Speech.xml
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Unit_Bank_2D.bnk
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Unit_Bank_2D.txt
+[701995.573] Status: UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Unit_Bank_2D.xml
+[701995.573] Status: Applied component to game.
+[701995.573] Status: Applying Component - AustraliaText (UpdateText)
+[701995.573] Status: Creating database save point.
+[701995.573] Status: LocalizedText - Loading Text/en_US/Australia_CivilopediaText.xml
+[701995.573] Status: LocalizedText - Loading Text/en_US/Australia_ConfigText.xml
+[701995.573] Status: LocalizedText - Loading Text/en_US/Australia_Text.xml
+[701995.573] Status: LocalizedText - Loading Text/Australia_Translations_ConfigText.xml
+[701995.573] Status: LocalizedText - Loading Text/Australia_Translations_Text.xml
+[701995.573] Status: Successfully released save point.
+[701995.573] Status: Applied component to game.
+[701995.573] Status: Modding Framework - Finished Apply Components
+[701995.573] Status: Applied all components of enabled mods.
+[701995.573] Status: Localization database has been updated.  Caching data.
+[702995.573] Status: Initializing Gameplay DLL.
+[702995.573] Status: Reloading Tuner states.
+[702995.573] Status: Saving a debug version of the gameplay database.
+[702995.573] Status: Performing post configure processing.
+[704995.573] Status: Successfully reconfigured game.

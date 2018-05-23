@@ -1,0 +1,1930 @@
+[2018-01-30 21:07:34]	 ,            LocalMachineEvent::AppUpdate, 908.09 ms
+[2018-01-30 21:07:34]	 ,        Civ6App_PublishLocalMachine, 908.38 ms
+[2018-01-30 21:07:34]	 ,    Civ6App_PublishEvents, 908.73 ms
+[2018-01-30 21:07:34]	 ,            UIEvent::ContextLoaded, 25.02 ms
+[2018-01-30 21:07:34]	 ,----- FRAME: 0 time: 1295.48ms Moving avg: 20.24ms 1 frames since last 
+[2018-01-30 21:07:40]	 ,                                    Civ6App_UpdateFrame, 176.81 ms
+[2018-01-30 21:07:40]	 ,----- FRAME: 405 time: 177.16ms Moving avg: 6.75ms 406 frames since last 
+[2018-01-30 21:07:52]	 ,                    Civ6App_UpdateFrame, 180.19 ms
+[2018-01-30 21:07:52]	 ,----- FRAME: 1193 time: 180.69ms Moving avg: 5.97ms 789 frames since last 
+[2018-01-30 21:07:55]	 ,Civ6App_UpdateFrame, 321.49 ms
+[2018-01-30 21:07:55]	 ,----- FRAME: 1369 time: 322.48ms Moving avg: 8.83ms 177 frames since last 
+[2018-01-30 21:07:55]	 ,        UIUpdateJob_Render, 32.91 ms
+[2018-01-30 21:07:55]	 ,----- FRAME: 1370 time: 57.61ms Moving avg: 9.70ms 2 frames since last 
+[2018-01-30 21:08:04]	 ,                Civ6App_HandleGameStateSwap, 2130.72 ms
+[2018-01-30 21:08:04]	 ,----- FRAME: 1822 time: 2134.89ms Moving avg: 36.06ms 453 frames since last 
+[2018-01-30 21:08:04]	 ,            SerialEvent::QuerySaveGames, 104.01 ms
+[2018-01-30 21:08:04]	 ,        Civ6App_PublishSerialEvents, 104.30 ms
+[2018-01-30 21:08:04]	 ,            LocalMachineEvent::AppUpdate, 11.80 ms
+[2018-01-30 21:08:04]	 ,    Civ6App_PublishEvents, 116.27 ms
+[2018-01-30 21:08:04]	 ,----- FRAME: 1823 time: 160.66ms Moving avg: 38.52ms 2 frames since last 
+[2018-01-30 21:08:15]	 ,                    SerialEvent::AfterGameplayContentChange, 1548.35 ms
+[2018-01-30 21:08:15]	 ,                Civ6App_UpdateFrame, 4562.55 ms
+[2018-01-30 21:08:15]	 ,----- FRAME: 2205 time: 4562.78ms Moving avg: 89.66ms 383 frames since last 
+[2018-01-30 21:08:18]	 ,    Civ6App_UpdateFrame, 2509.48 ms
+[2018-01-30 21:08:18]	 ,----- FRAME: 2207 time: 2509.60ms Moving avg: 128.69ms 3 frames since last 
+[2018-01-30 21:08:18]	 ,                LuaContext::LoadScreen, 231.10 ms
+[2018-01-30 21:08:18]	 ,            SequenceEvent::LoadScreenContentReady, 231.20 ms
+[2018-01-30 21:08:18]	 ,        Civ6App_SequencerEvents, 231.24 ms
+[2018-01-30 21:08:18]	 ,    Civ6App_PublishEvents, 231.30 ms
+[2018-01-30 21:08:28]	 ,    Civ6App_UpdateFrame, 10574.43 ms
+[2018-01-30 21:08:28]	 ,----- FRAME: 2208 time: 10805.92ms Moving avg: 297.44ms 2 frames since last 
+[2018-01-30 21:09:38]	 ,Civ6App_UpdateFrame, 69497.04 ms
+[2018-01-30 21:09:38]	 ,    FiraxisLive_OnStateNotify, 45.82 ms
+[2018-01-30 21:09:38]	 ,Civ6App_FiraxisLiveUpdate, 46.06 ms
+[2018-01-30 21:09:38]	 ,----- FRAME: 2209 time: 69608.77ms Moving avg: 1384.93ms 2 frames since last 
+[2018-01-30 21:09:38]	 ,                LuaContext::WorldViewIconsManager, 59.16 ms
+[2018-01-30 21:09:38]	 ,            GameCoreEvent::ResourceAddedToMap, 59.41 ms
+[2018-01-30 21:09:38]	 ,                LuaContext::CityBannerManager, 129.20 ms
+[2018-01-30 21:09:38]	 ,            GameCoreEvent::CityAddedToMap, 129.33 ms
+[2018-01-30 21:09:38]	 ,                LuaContext::CityBannerManager, 6.53 ms
+[2018-01-30 21:09:38]	 ,            GameCoreEvent::CityPopulationChanged, 6.59 ms
+[2018-01-30 21:09:38]	 ,                LuaContext::UnitFlagManager, 26.10 ms
+[2018-01-30 21:09:38]	 ,            GameCoreEvent::UnitAddedToMap, 26.91 ms
+[2018-01-30 21:09:38]	 ,            GameCoreEvent::UnitAddedToMap, 5.45 ms
+[2018-01-30 21:09:38]	 ,                LuaContext::CityBannerManager, 31.31 ms
+[2018-01-30 21:09:38]	 ,            GameCoreEvent::CityAddedToMap, 31.36 ms
+[2018-01-30 21:09:38]	 ,                LuaContext::CityBannerManager, 7.17 ms
+[2018-01-30 21:09:38]	 ,            GameCoreEvent::CityAddedToMap, 7.21 ms
+[2018-01-30 21:09:38]	 ,                LuaContext::CityBannerManager, 8.50 ms
+[2018-01-30 21:09:38]	 ,            GameCoreEvent::CityAddedToMap, 8.54 ms
+[2018-01-30 21:09:38]	 ,            GameCoreEvent::DistrictBuildingRestore, 19.25 ms
+[2018-01-30 21:09:38]	 ,                LuaContext::CityBannerManager, 7.43 ms
+[2018-01-30 21:09:38]	 ,            GameCoreEvent::CityAddedToMap, 7.48 ms
+[2018-01-30 21:09:38]	 ,                LuaContext::CityBannerManager, 7.03 ms
+[2018-01-30 21:09:38]	 ,            GameCoreEvent::CityAddedToMap, 7.07 ms
+[2018-01-30 21:09:38]	 ,                LuaContext::CityBannerManager, 8.48 ms
+[2018-01-30 21:09:38]	 ,            GameCoreEvent::CityAddedToMap, 8.52 ms
+[2018-01-30 21:09:38]	 ,                LuaContext::CityBannerManager, 7.00 ms
+[2018-01-30 21:09:38]	 ,            GameCoreEvent::CityAddedToMap, 7.05 ms
+[2018-01-30 21:09:38]	 ,                LuaContext::CityBannerManager, 8.51 ms
+[2018-01-30 21:09:38]	 ,            GameCoreEvent::CityAddedToMap, 8.56 ms
+[2018-01-30 21:09:38]	 ,                LuaContext::CityBannerManager, 6.88 ms
+[2018-01-30 21:09:38]	 ,            GameCoreEvent::CityAddedToMap, 6.91 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 11.91 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 11.96 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.71 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.74 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.81 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.86 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 8.45 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 8.49 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.78 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.81 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 9.15 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 9.20 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.66 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.70 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.62 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.66 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.76 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.81 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.68 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.72 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.68 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.72 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.65 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.69 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.64 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.69 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.79 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.84 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.68 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.76 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.68 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.72 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.82 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.87 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.72 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.77 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 38.10 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 38.15 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.93 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.97 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.66 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.71 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 7.96 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 8.00 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.60 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.64 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.71 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.75 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::CityBannerManager, 6.66 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::CityAddedToMap, 6.71 ms
+[2018-01-30 21:09:39]	 ,                LuaContext::NotificationPanel, 16.05 ms
+[2018-01-30 21:09:39]	 ,            GameCoreEvent::NotificationAdded, 16.18 ms
+[2018-01-30 21:09:39]	 ,        Civ6App_PublishGameCoreEvents, 1058.38 ms
+[2018-01-30 21:09:39]	 ,            SerialEvent::LoadComplete, 26.11 ms
+[2018-01-30 21:09:39]	 ,        Civ6App_PublishSerialEvents, 60.21 ms
+[2018-01-30 21:09:39]	 ,    Civ6App_PublishEvents, 1120.14 ms
+[2018-01-30 21:09:39]	 ,        WorldView_PostLoadUpdate, 91.45 ms
+[2018-01-30 21:09:39]	 ,    Civ6App_UpdateFrame, 171.82 ms
+[2018-01-30 21:09:39]	 ,----- FRAME: 2210 time: 1292.19ms Moving avg: 1405.04ms 2 frames since last 
+[2018-01-30 21:09:42]	 ,    UnitContext_Update, 77.82 ms
+[2018-01-30 21:09:42]	 ,WorldView_Update, 111.15 ms
+[2018-01-30 21:09:43]	 ,Civ6App_Graphics_Render, 817.46 ms
+[2018-01-30 21:09:43]	 ,Civ6App_UpdateFrame, 957.08 ms
+[2018-01-30 21:09:43]	 ,----- FRAME: 2365 time: 957.49ms Moving avg: 22.22ms 156 frames since last 
+[2018-01-30 21:09:43]	 ,            WorldView_RenderFOWJob, 162.92 ms
+[2018-01-30 21:09:43]	 ,        WorldView_Render, 164.20 ms
+[2018-01-30 21:09:43]	 ,    Civ6App_UpdateFrame, 206.47 ms
+[2018-01-30 21:09:43]	 ,----- FRAME: 2366 time: 206.83ms Moving avg: 25.36ms 2 frames since last 
+[2018-01-30 21:09:44]	 ,                LuaContext::LoadScreen, 16.98 ms
+[2018-01-30 21:09:44]	 ,            SequenceEvent::LoadGameViewStateDone, 22.16 ms
+[2018-01-30 21:09:44]	 ,----- FRAME: 2382 time: 25.34ms Moving avg: 28.91ms 17 frames since last 
+[2018-01-30 21:11:03]	 , ****GameViewState Begin****
+[2018-01-30 21:11:03]	 ,                                                                                                                                                                        UIUpdateJob_Update, 30.90 ms
+[2018-01-30 21:11:03]	 ,                                                                                                                                                                        Civ6App_Graphics_Render, 285.02 ms
+[2018-01-30 21:11:03]	 ,                                                                                                                                                                    Civ6App_UpdateFrame, 360.20 ms
+[2018-01-30 21:11:03]	 ,----- FRAME: 7113 time: 360.55ms Moving avg: 13.03ms 4732 frames since last 
+[2018-01-30 21:11:08]	 ,                    Overlays_Update, 22.75 ms
+[2018-01-30 21:11:08]	 ,----- FRAME: 7309 time: 52.77ms Moving avg: 27.49ms 197 frames since last 
+[2018-01-30 21:11:09]	 ,                Overlays_Update, 23.21 ms
+[2018-01-30 21:11:09]	 ,----- FRAME: 7323 time: 47.77ms Moving avg: 27.46ms 15 frames since last 
+[2018-01-30 21:11:11]	 ,                Overlays_Update, 23.17 ms
+[2018-01-30 21:11:11]	 ,----- FRAME: 7399 time: 51.43ms Moving avg: 26.62ms 77 frames since last 
+[2018-01-30 21:11:17]	 ,                DoGameStateSaveRequest, 552.17 ms
+[2018-01-30 21:11:17]	 ,            SerialEvent::PreTurnBegin, 586.76 ms
+[2018-01-30 21:11:17]	 ,----- FRAME: 7634 time: 27.18ms Moving avg: 26.32ms 236 frames since last 
+[2018-01-30 21:11:17]	 ,            GameCoreEvent::TurnBegin, 7.59 ms
+[2018-01-30 21:11:17]	 ,                LuaContext::WorldTracker, 7.08 ms
+[2018-01-30 21:11:17]	 ,                LuaContext::CivicsChooser, 12.37 ms
+[2018-01-30 21:11:17]	 ,                LuaContext::ResearchChooser, 15.30 ms
+[2018-01-30 21:11:17]	 ,            SerialEvent::GameCoreEventPublishComplete, 34.85 ms
+[2018-01-30 21:11:17]	 ,        Civ6App_PublishGameCoreEvents, 46.09 ms
+[2018-01-30 21:11:17]	 ,----- FRAME: 7637 time: 68.29ms Moving avg: 26.99ms 4 frames since last 
+[2018-01-30 21:11:24]	 ,                    LuaContext::CivicsChooser, 11.53 ms
+[2018-01-30 21:11:24]	 ,                    LuaContext::ResearchChooser, 15.05 ms
+[2018-01-30 21:11:24]	 ,                SerialEvent::GameCoreEventPublishComplete, 26.65 ms
+[2018-01-30 21:11:24]	 ,            Civ6App_PublishGameCoreEvents, 38.69 ms
+[2018-01-30 21:11:24]	 ,----- FRAME: 7880 time: 62.75ms Moving avg: 27.44ms 244 frames since last 
+[2018-01-30 21:11:34]	 ,            LuaContext::CityPanel, 31.29 ms
+[2018-01-30 21:11:34]	 ,        SerialEvent::CitySelectionChanged, 32.14 ms
+[2018-01-30 21:11:34]	 ,----- FRAME: 8268 time: 53.95ms Moving avg: 25.01ms 389 frames since last 
+[2018-01-30 21:19:37]	 ,                                                                LuaContext::CityPanel, 7.06 ms
+[2018-01-30 21:19:37]	 ,                                                            SerialEvent::InterfaceModeChanged, 7.33 ms
+[2018-01-30 21:19:37]	 ,                                                                LuaContext::PlotInfo, 60.99 ms
+[2018-01-30 21:19:37]	 ,                                                            SerialEvent::LensLayerOn, 61.06 ms
+[2018-01-30 21:19:37]	 ,                                                        Civ6App_PublishSerialEvents, 68.41 ms
+[2018-01-30 21:19:37]	 ,----- FRAME: 26811 time: 84.79ms Moving avg: 26.42ms 18544 frames since last 
+[2018-01-30 21:19:37]	 ,            SerialEvent::LensUpdateArea, 16.39 ms
+[2018-01-30 21:19:37]	 ,----- FRAME: 26812 time: 39.36ms Moving avg: 26.64ms 2 frames since last 
+[2018-01-30 21:19:45]	 ,                LuaContext::CityPanel, 6.38 ms
+[2018-01-30 21:19:45]	 ,            SerialEvent::InterfaceModeChanged, 6.65 ms
+[2018-01-30 21:19:45]	 ,----- FRAME: 27146 time: 26.43ms Moving avg: 25.93ms 335 frames since last 
+[2018-01-30 21:20:28]	 ,                                LuaContext::CityPanel, 6.58 ms
+[2018-01-30 21:20:28]	 ,                            SerialEvent::InterfaceModeChanged, 6.83 ms
+[2018-01-30 21:20:28]	 ,----- FRAME: 28638 time: 29.18ms Moving avg: 28.43ms 1493 frames since last 
+[2018-01-30 21:20:28]	 ,            SerialEvent::LensUpdateArea, 15.79 ms
+[2018-01-30 21:20:28]	 ,----- FRAME: 28640 time: 38.17ms Moving avg: 28.58ms 3 frames since last 
+[2018-01-30 21:20:43]	 ,            LuaContext::CityPanel, 8.00 ms
+[2018-01-30 21:20:43]	 ,        SerialEvent::InterfaceModeChanged, 8.83 ms
+[2018-01-30 21:20:43]	 ,----- FRAME: 29197 time: 25.50ms Moving avg: 26.91ms 558 frames since last 
+[2018-01-30 21:20:46]	 ,                    Overlays_Update, 24.85 ms
+[2018-01-30 21:20:46]	 ,----- FRAME: 29318 time: 61.50ms Moving avg: 32.46ms 122 frames since last 
+[2018-01-30 21:20:54]	 ,                DoGameStateSaveRequest, 499.50 ms
+[2018-01-30 21:20:54]	 ,            SerialEvent::PreTurnBegin, 500.34 ms
+[2018-01-30 21:20:54]	 ,----- FRAME: 29556 time: 30.34ms Moving avg: 31.61ms 239 frames since last 
+[2018-01-30 21:20:54]	 ,            GameCoreEvent::TurnBegin, 7.90 ms
+[2018-01-30 21:20:54]	 ,                LuaContext::CityPanel, 8.09 ms
+[2018-01-30 21:20:54]	 ,            GameCoreEvent::LocalPlayerTurnBegin, 8.81 ms
+[2018-01-30 21:20:54]	 ,                LuaContext::WorldTracker, 8.11 ms
+[2018-01-30 21:20:54]	 ,                LuaContext::CivicsChooser, 12.71 ms
+[2018-01-30 21:20:54]	 ,                LuaContext::ResearchChooser, 16.53 ms
+[2018-01-30 21:20:54]	 ,            SerialEvent::GameCoreEventPublishComplete, 37.46 ms
+[2018-01-30 21:20:54]	 ,        Civ6App_PublishGameCoreEvents, 55.17 ms
+[2018-01-30 21:20:54]	 ,----- FRAME: 29559 time: 78.26ms Moving avg: 31.97ms 4 frames since last 
+[2018-01-30 21:20:54]	 ,                LuaContext::CityPanel, 7.20 ms
+[2018-01-30 21:20:54]	 ,            GameCoreEvent::CityProductionUpdated, 7.95 ms
+[2018-01-30 21:20:54]	 ,                LuaContext::CivicsChooser, 11.96 ms
+[2018-01-30 21:20:54]	 ,                LuaContext::ResearchChooser, 15.77 ms
+[2018-01-30 21:20:54]	 ,            SerialEvent::GameCoreEventPublishComplete, 27.86 ms
+[2018-01-30 21:20:54]	 ,        Civ6App_PublishGameCoreEvents, 46.91 ms
+[2018-01-30 21:20:54]	 ,----- FRAME: 29571 time: 76.68ms Moving avg: 32.40ms 13 frames since last 
+[2018-01-30 21:21:39]	 , WONDERMOVIE: Turn number: 62. Visible mesh count: 545
+[2018-01-30 21:21:40]	 ,            Overlays_Update, 24.40 ms
+[2018-01-30 21:21:40]	 ,----- FRAME: 31292 time: 49.82ms Moving avg: 27.55ms 1722 frames since last 
+[2018-01-30 21:21:43]	 ,            LeaderScreen_Update, 191.04 ms
+[2018-01-30 21:21:43]	 ,        GameViewState_Tick, 193.28 ms
+[2018-01-30 21:21:43]	 ,    Civ6App_UpdateFrame, 210.25 ms
+[2018-01-30 21:21:43]	 ,----- FRAME: 31368 time: 212.89ms Moving avg: 29.58ms 77 frames since last 
+[2018-01-30 21:21:45]	 ,            DoGameStateSaveRequest, 544.40 ms
+[2018-01-30 21:21:45]	 ,        SerialEvent::PreTurnBegin, 545.44 ms
+[2018-01-30 21:21:45]	 ,----- FRAME: 32038 time: 1.69ms Moving avg: 1.77ms 671 frames since last 
+[2018-01-30 21:21:45]	 ,            GameCoreEvent::TurnBegin, 7.41 ms
+[2018-01-30 21:21:45]	 ,                LuaContext::CityPanel, 7.46 ms
+[2018-01-30 21:21:45]	 ,            GameCoreEvent::LocalPlayerTurnBegin, 8.14 ms
+[2018-01-30 21:21:45]	 ,                LuaContext::WorldTracker, 6.90 ms
+[2018-01-30 21:21:45]	 ,                LuaContext::CivicsChooser, 11.77 ms
+[2018-01-30 21:21:45]	 ,                LuaContext::ResearchChooser, 18.90 ms
+[2018-01-30 21:21:45]	 ,            SerialEvent::GameCoreEventPublishComplete, 37.67 ms
+[2018-01-30 21:21:45]	 ,        Civ6App_PublishGameCoreEvents, 54.15 ms
+[2018-01-30 21:21:45]	 ,----- FRAME: 32051 time: 56.32ms Moving avg: 2.62ms 14 frames since last 
+[2018-01-30 21:21:45]	 ,                LuaContext::CityPanel, 7.87 ms
+[2018-01-30 21:21:45]	 ,            GameCoreEvent::CityProductionUpdated, 8.56 ms
+[2018-01-30 21:21:45]	 ,                LuaContext::CivicsChooser, 12.98 ms
+[2018-01-30 21:21:45]	 ,                LuaContext::ResearchChooser, 16.71 ms
+[2018-01-30 21:21:45]	 ,            SerialEvent::GameCoreEventPublishComplete, 29.78 ms
+[2018-01-30 21:21:45]	 ,        Civ6App_PublishGameCoreEvents, 50.52 ms
+[2018-01-30 21:21:45]	 ,----- FRAME: 32119 time: 75.68ms Moving avg: 4.35ms 69 frames since last 
+[2018-01-30 21:22:23]	 ,Civ6App_UpdateFrame, 123.83 ms
+[2018-01-30 21:22:23]	 ,----- FRAME: 33661 time: 123.96ms Moving avg: 30.39ms 1543 frames since last 
+[2018-01-30 21:22:23]	 , WONDERMOVIE: Turn number: 63. Visible mesh count: 579
+[2018-01-30 21:22:26]	 ,                Overlays_Update, 26.51 ms
+[2018-01-30 21:22:26]	 ,----- FRAME: 33765 time: 56.27ms Moving avg: 28.39ms 105 frames since last 
+[2018-01-30 21:22:33]	 ,                    DoGameStateSaveRequest, 532.48 ms
+[2018-01-30 21:22:33]	 ,                SerialEvent::PreTurnBegin, 533.40 ms
+[2018-01-30 21:22:33]	 ,----- FRAME: 33989 time: 28.34ms Moving avg: 27.22ms 225 frames since last 
+[2018-01-30 21:22:33]	 ,            GameCoreEvent::TurnBegin, 7.53 ms
+[2018-01-30 21:22:33]	 ,                LuaContext::CityPanel, 7.68 ms
+[2018-01-30 21:22:33]	 ,            GameCoreEvent::LocalPlayerTurnBegin, 8.34 ms
+[2018-01-30 21:22:33]	 ,                LuaContext::WorldTracker, 7.02 ms
+[2018-01-30 21:22:33]	 ,                LuaContext::CivicsChooser, 11.97 ms
+[2018-01-30 21:22:33]	 ,                LuaContext::ResearchChooser, 15.16 ms
+[2018-01-30 21:22:33]	 ,            SerialEvent::GameCoreEventPublishComplete, 34.24 ms
+[2018-01-30 21:22:33]	 ,        Civ6App_PublishGameCoreEvents, 51.11 ms
+[2018-01-30 21:22:33]	 ,----- FRAME: 33991 time: 68.77ms Moving avg: 27.77ms 3 frames since last 
+[2018-01-30 21:22:33]	 ,                LuaContext::CityPanel, 7.41 ms
+[2018-01-30 21:22:33]	 ,            GameCoreEvent::CityProductionUpdated, 7.66 ms
+[2018-01-30 21:22:33]	 ,                LuaContext::CityBannerManager, 42.03 ms
+[2018-01-30 21:22:33]	 ,            GameCoreEvent::DistrictBuildProgressChanged, 42.12 ms
+[2018-01-30 21:22:33]	 ,                LuaContext::CityPanel, 19.76 ms
+[2018-01-30 21:22:33]	 ,            GameCoreEvent::CityProductionCompleted, 20.38 ms
+[2018-01-30 21:22:33]	 ,                LuaContext::CityPanel, 20.96 ms
+[2018-01-30 21:22:33]	 ,            GameCoreEvent::CityProductionCompleted, 21.65 ms
+[2018-01-30 21:22:33]	 ,                LuaContext::CivicsChooser, 16.68 ms
+[2018-01-30 21:22:33]	 ,                LuaContext::ResearchChooser, 15.03 ms
+[2018-01-30 21:22:33]	 ,            SerialEvent::GameCoreEventPublishComplete, 31.81 ms
+[2018-01-30 21:22:33]	 ,        Civ6App_PublishGameCoreEvents, 139.39 ms
+[2018-01-30 21:22:33]	 ,                LuaContext::SelectedUnit, 35.80 ms
+[2018-01-30 21:22:33]	 ,                LuaContext::UnitPanel, 75.26 ms
+[2018-01-30 21:22:33]	 ,            SerialEvent::UnitSelectionChanged, 112.12 ms
+[2018-01-30 21:22:33]	 ,        Civ6App_PublishSerialEvents, 112.71 ms
+[2018-01-30 21:22:33]	 ,    Civ6App_PublishEvents, 252.15 ms
+[2018-01-30 21:22:33]	 ,----- FRAME: 34003 time: 317.37ms Moving avg: 32.39ms 13 frames since last 
+[2018-01-30 21:22:33]	 ,                LuaContext::ModalLensPanel, 19.69 ms
+[2018-01-30 21:22:33]	 ,            SerialEvent::LensLayerOn, 20.06 ms
+[2018-01-30 21:22:33]	 ,----- FRAME: 34004 time: 56.71ms Moving avg: 32.87ms 2 frames since last 
+[2018-01-30 21:22:43]	 ,    Civ6App_UpdateFrame, 144.87 ms
+[2018-01-30 21:22:43]	 ,----- FRAME: 34369 time: 145.06ms Moving avg: 28.74ms 366 frames since last 
+[2018-01-30 21:23:42]	 ,                                LuaContext::CityPanel, 9.69 ms
+[2018-01-30 21:23:42]	 ,                            SerialEvent::CitySelectionChanged, 10.37 ms
+[2018-01-30 21:23:42]	 ,----- FRAME: 36325 time: 48.09ms Moving avg: 28.69ms 1957 frames since last 
+[2018-01-30 21:24:04]	 ,                LuaContext::CityPanel, 9.63 ms
+[2018-01-30 21:24:04]	 ,            GameCoreEvent::CityProductionChanged, 10.69 ms
+[2018-01-30 21:24:04]	 ,----- FRAME: 37155 time: 32.97ms Moving avg: 26.92ms 831 frames since last 
+[2018-01-30 21:24:07]	 ,            AsyncUpdateManager_Update, 11.84 ms
+[2018-01-30 21:24:07]	 ,            Overlays_Update, 22.90 ms
+[2018-01-30 21:24:07]	 ,----- FRAME: 37273 time: 61.21ms Moving avg: 27.10ms 119 frames since last 
+[2018-01-30 21:24:09]	 , WONDERMOVIE: Turn number: 64. Visible mesh count: 600
+[2018-01-30 21:24:18]	 ,                        DoGameStateSaveRequest, 542.08 ms
+[2018-01-30 21:24:18]	 ,                    SerialEvent::PreTurnBegin, 543.02 ms
+[2018-01-30 21:24:18]	 ,----- FRAME: 37665 time: 29.06ms Moving avg: 28.40ms 393 frames since last 
+[2018-01-30 21:24:18]	 ,            GameCoreEvent::TurnBegin, 7.41 ms
+[2018-01-30 21:24:18]	 ,                LuaContext::CityPanel, 9.62 ms
+[2018-01-30 21:24:18]	 ,            GameCoreEvent::LocalPlayerTurnBegin, 10.31 ms
+[2018-01-30 21:24:18]	 ,                LuaContext::WorldTracker, 7.16 ms
+[2018-01-30 21:24:18]	 ,                LuaContext::CivicsChooser, 12.11 ms
+[2018-01-30 21:24:18]	 ,                LuaContext::ResearchChooser, 15.80 ms
+[2018-01-30 21:24:18]	 ,            SerialEvent::GameCoreEventPublishComplete, 35.17 ms
+[2018-01-30 21:24:18]	 ,        Civ6App_PublishGameCoreEvents, 55.91 ms
+[2018-01-30 21:24:18]	 ,----- FRAME: 37667 time: 78.00ms Moving avg: 29.16ms 3 frames since last 
+[2018-01-30 21:24:19]	 ,                LuaContext::CityPanel, 9.53 ms
+[2018-01-30 21:24:19]	 ,            GameCoreEvent::CityProductionUpdated, 10.35 ms
+[2018-01-30 21:24:19]	 ,                LuaContext::CivicsChooser, 12.10 ms
+[2018-01-30 21:24:19]	 ,                LuaContext::ResearchChooser, 15.44 ms
+[2018-01-30 21:24:19]	 ,            SerialEvent::GameCoreEventPublishComplete, 27.62 ms
+[2018-01-30 21:24:19]	 ,        Civ6App_PublishGameCoreEvents, 49.52 ms
+[2018-01-30 21:24:19]	 ,----- FRAME: 37679 time: 73.95ms Moving avg: 30.01ms 13 frames since last 
+[2018-01-30 21:24:23]	 ,                Overlays_Update, 25.20 ms
+[2018-01-30 21:24:23]	 ,----- FRAME: 37835 time: 55.69ms Moving avg: 29.69ms 157 frames since last 
+[2018-01-30 21:24:24]	 ,                Overlays_Update, 25.44 ms
+[2018-01-30 21:24:24]	 ,----- FRAME: 37875 time: 53.48ms Moving avg: 30.12ms 41 frames since last 
+[2018-01-30 21:24:31]	 ,                        DoGameStateSaveRequest, 550.00 ms
+[2018-01-30 21:24:31]	 ,                    SerialEvent::PreTurnBegin, 551.17 ms
+[2018-01-30 21:24:31]	 ,----- FRAME: 38108 time: 28.10ms Moving avg: 28.47ms 234 frames since last 
+[2018-01-30 21:24:31]	 ,            GameCoreEvent::TurnBegin, 7.31 ms
+[2018-01-30 21:24:31]	 ,                LuaContext::CityPanel, 14.20 ms
+[2018-01-30 21:24:31]	 ,            GameCoreEvent::LocalPlayerTurnBegin, 14.93 ms
+[2018-01-30 21:24:31]	 ,                LuaContext::WorldTracker, 7.42 ms
+[2018-01-30 21:24:31]	 ,                LuaContext::CivicsChooser, 12.16 ms
+[2018-01-30 21:24:31]	 ,                LuaContext::ResearchChooser, 15.57 ms
+[2018-01-30 21:24:31]	 ,            SerialEvent::GameCoreEventPublishComplete, 35.26 ms
+[2018-01-30 21:24:31]	 ,        Civ6App_PublishGameCoreEvents, 58.51 ms
+[2018-01-30 21:24:31]	 ,----- FRAME: 38110 time: 81.04ms Moving avg: 29.25ms 3 frames since last 
+[2018-01-30 21:24:31]	 ,                LuaContext::CityBannerManager, 107.29 ms
+[2018-01-30 21:24:31]	 ,            SerialEvent::LensLayerOn, 107.52 ms
+[2018-01-30 21:24:31]	 ,                LuaContext::CityPanel, 8.32 ms
+[2018-01-30 21:24:31]	 ,            SerialEvent::InterfaceModeChanged, 8.61 ms
+[2018-01-30 21:24:31]	 ,        Civ6App_PublishSerialEvents, 116.96 ms
+[2018-01-30 21:24:31]	 ,    Civ6App_PublishEvents, 116.98 ms
+[2018-01-30 21:24:31]	 ,----- FRAME: 38117 time: 141.58ms Moving avg: 31.06ms 8 frames since last 
+[2018-01-30 21:24:31]	 ,                LuaContext::CivicsChooser, 12.05 ms
+[2018-01-30 21:24:32]	 ,                LuaContext::ResearchChooser, 20.01 ms
+[2018-01-30 21:24:32]	 ,            SerialEvent::GameCoreEventPublishComplete, 32.13 ms
+[2018-01-30 21:24:32]	 ,        Civ6App_PublishGameCoreEvents, 44.17 ms
+[2018-01-30 21:24:32]	 ,                LuaContext::PlotInfo, 27.67 ms
+[2018-01-30 21:24:32]	 ,            SerialEvent::CitySelectionChanged, 29.29 ms
+[2018-01-30 21:24:32]	 ,----- FRAME: 38118 time: 111.00ms Moving avg: 32.36ms 2 frames since last 
+[2018-01-30 21:24:36]	 ,                            LuaContext::CityBannerManager, 10.00 ms
+[2018-01-30 21:24:36]	 ,                        SerialEvent::LensLayerOff, 10.11 ms
+[2018-01-30 21:24:36]	 ,----- FRAME: 38270 time: 35.10ms Moving avg: 27.93ms 153 frames since last 
+[2018-01-30 21:24:56]	 ,            Overlays_Update, 31.57 ms
+[2018-01-30 21:24:56]	 ,----- FRAME: 38960 time: 49.12ms Moving avg: 30.00ms 691 frames since last 
+[2018-01-30 21:25:25]	 ,                                        DoGameStateSaveRequest, 500.83 ms
+[2018-01-30 21:25:25]	 ,                                    SerialEvent::PreTurnBegin, 501.91 ms
+[2018-01-30 21:25:25]	 ,----- FRAME: 39960 time: 27.11ms Moving avg: 27.55ms 1001 frames since last 
+[2018-01-30 21:25:25]	 ,            GameCoreEvent::TurnBegin, 8.16 ms
+[2018-01-30 21:25:25]	 ,                LuaContext::WorldTracker, 7.83 ms
+[2018-01-30 21:25:25]	 ,                LuaContext::CivicsChooser, 13.07 ms
+[2018-01-30 21:25:25]	 ,                LuaContext::ResearchChooser, 17.16 ms
+[2018-01-30 21:25:25]	 ,            SerialEvent::GameCoreEventPublishComplete, 38.19 ms
+[2018-01-30 21:25:25]	 ,        Civ6App_PublishGameCoreEvents, 47.86 ms
+[2018-01-30 21:25:25]	 ,----- FRAME: 39963 time: 69.04ms Moving avg: 28.15ms 4 frames since last 
+[2018-01-30 21:25:25]	 ,                LuaContext::TechCivicCompletedPopup, 47.65 ms
+[2018-01-30 21:25:25]	 ,            GameCoreEvent::ResearchCompleted, 58.14 ms
+[2018-01-30 21:25:25]	 ,                LuaContext::WorldTracker, 6.25 ms
+[2018-01-30 21:25:25]	 ,            GameCoreEvent::CivicChanged, 6.75 ms
+[2018-01-30 21:25:25]	 ,                LuaContext::CivicsChooser, 15.24 ms
+[2018-01-30 21:25:25]	 ,                LuaContext::ResearchChooser, 23.40 ms
+[2018-01-30 21:25:25]	 ,            SerialEvent::GameCoreEventPublishComplete, 38.75 ms
+[2018-01-30 21:25:25]	 ,        Civ6App_PublishGameCoreEvents, 127.55 ms
+[2018-01-30 21:25:25]	 ,    Civ6App_PublishEvents, 127.58 ms
+[2018-01-30 21:25:26]	 ,----- FRAME: 39976 time: 176.27ms Moving avg: 30.53ms 14 frames since last 
+[2018-01-30 21:26:07]	 ,                        GameCoreEvent::ResearchChanged, 5.40 ms
+[2018-01-30 21:26:07]	 ,                            LuaContext::ResearchChooser, 15.81 ms
+[2018-01-30 21:26:07]	 ,                        SerialEvent::GameCoreEventPublishComplete, 15.85 ms
+[2018-01-30 21:26:07]	 ,----- FRAME: 41547 time: 40.82ms Moving avg: 26.60ms 1572 frames since last 
+[2018-01-30 21:26:20]	 ,                DoGameStateSaveRequest, 496.36 ms
+[2018-01-30 21:26:20]	 ,            SerialEvent::PreTurnBegin, 497.41 ms
+[2018-01-30 21:26:20]	 ,----- FRAME: 41984 time: 26.93ms Moving avg: 28.10ms 438 frames since last 
+[2018-01-30 21:26:20]	 ,            GameCoreEvent::TurnBegin, 8.24 ms
+[2018-01-30 21:26:20]	 ,                LuaContext::WorldTracker, 8.13 ms
+[2018-01-30 21:26:20]	 ,                LuaContext::CivicsChooser, 12.98 ms
+[2018-01-30 21:26:20]	 ,                LuaContext::ResearchChooser, 15.94 ms
+[2018-01-30 21:26:20]	 ,            SerialEvent::GameCoreEventPublishComplete, 37.16 ms
+[2018-01-30 21:26:20]	 ,        Civ6App_PublishGameCoreEvents, 46.90 ms
+[2018-01-30 21:26:20]	 ,----- FRAME: 41986 time: 67.61ms Moving avg: 28.69ms 3 frames since last 
+[2018-01-30 21:26:20]	 ,                LuaContext::CivicsChooser, 12.62 ms
+[2018-01-30 21:26:20]	 ,                LuaContext::ResearchChooser, 15.84 ms
+[2018-01-30 21:26:20]	 ,            SerialEvent::GameCoreEventPublishComplete, 28.55 ms
+[2018-01-30 21:26:20]	 ,        Civ6App_PublishGameCoreEvents, 41.90 ms
+[2018-01-30 21:26:20]	 ,            SerialEvent::UnitSelectionChanged, 5.55 ms
+[2018-01-30 21:26:20]	 ,----- FRAME: 41999 time: 80.32ms Moving avg: 29.75ms 14 frames since last 
+[2018-01-30 21:27:03]	 ,                            LuaContext::CityBannerManager, 11.53 ms
+[2018-01-30 21:27:03]	 ,                        GameCoreEvent::CityAddedToMap, 11.61 ms
+[2018-01-30 21:27:03]	 ,                            LuaContext::WorldTracker, 9.04 ms
+[2018-01-30 21:27:03]	 ,                            LuaContext::CivicsChooser, 12.29 ms
+[2018-01-30 21:27:03]	 ,                            LuaContext::ResearchChooser, 15.39 ms
+[2018-01-30 21:27:03]	 ,                        SerialEvent::GameCoreEventPublishComplete, 36.87 ms
+[2018-01-30 21:27:03]	 ,                    Civ6App_PublishGameCoreEvents, 65.21 ms
+[2018-01-30 21:27:03]	 ,                            Overlays_Update, 27.40 ms
+[2018-01-30 21:27:03]	 ,----- FRAME: 43397 time: 127.58ms Moving avg: 32.94ms 1399 frames since last 
+[2018-01-30 21:27:07]	 ,            LuaContext::CityPanel, 6.84 ms
+[2018-01-30 21:27:07]	 ,        SerialEvent::CitySelectionChanged, 7.42 ms
+[2018-01-30 21:27:07]	 ,----- FRAME: 43537 time: 37.18ms Moving avg: 30.79ms 141 frames since last 
+[2018-01-30 21:27:17]	 ,                LuaContext::CityPanel, 6.16 ms
+[2018-01-30 21:27:17]	 ,            SerialEvent::InterfaceModeChanged, 6.91 ms
+[2018-01-30 21:27:17]	 ,----- FRAME: 43869 time: 29.18ms Moving avg: 28.47ms 333 frames since last 
+[2018-01-30 21:27:17]	 ,                LuaContext::DistrictPlotIconManager, 45.02 ms
+[2018-01-30 21:27:17]	 ,            SerialEvent::LensLayerOn, 45.11 ms
+[2018-01-30 21:27:17]	 ,----- FRAME: 43870 time: 75.04ms Moving avg: 29.18ms 2 frames since last 
+[2018-01-30 21:27:17]	 ,            SerialEvent::LensUpdateArea, 14.03 ms
+[2018-01-30 21:27:17]	 ,----- FRAME: 43871 time: 34.94ms Moving avg: 29.28ms 2 frames since last 
+[2018-01-30 21:27:50]	 ,            LuaContext::CityPanel, 6.83 ms
+[2018-01-30 21:27:50]	 ,        SerialEvent::InterfaceModeChanged, 7.40 ms
+[2018-01-30 21:27:50]	 ,----- FRAME: 45130 time: 26.74ms Moving avg: 26.62ms 1260 frames since last 
+[2018-01-30 21:27:53]	 ,                LuaContext::CityPanel, 6.12 ms
+[2018-01-30 21:27:53]	 ,            SerialEvent::InterfaceModeChanged, 6.38 ms
+[2018-01-30 21:27:53]	 ,----- FRAME: 45220 time: 28.12ms Moving avg: 27.92ms 91 frames since last 
+[2018-01-30 21:27:53]	 ,            SerialEvent::LensUpdateArea, 15.70 ms
+[2018-01-30 21:27:53]	 ,----- FRAME: 45221 time: 40.43ms Moving avg: 28.11ms 2 frames since last 
+[2018-01-30 21:28:03]	 ,            SerialEvent::LensUpdateArea, 16.16 ms
+[2018-01-30 21:28:03]	 ,            SerialEvent::LensUpdateArea, 16.01 ms
+[2018-01-30 21:28:03]	 ,                Overlays_Update, 26.71 ms
+[2018-01-30 21:28:03]	 ,----- FRAME: 45584 time: 89.09ms Moving avg: 27.68ms 364 frames since last 
+[2018-01-30 21:28:04]	 ,                LuaContext::CityPanel, 6.71 ms
+[2018-01-30 21:28:04]	 ,            SerialEvent::InterfaceModeChanged, 7.14 ms
+[2018-01-30 21:28:04]	 ,----- FRAME: 45614 time: 41.34ms Moving avg: 27.81ms 31 frames since last 
+[2018-01-30 21:28:08]	 ,                LuaContext::CityPanel, 6.52 ms
+[2018-01-30 21:28:08]	 ,            SerialEvent::InterfaceModeChanged, 7.38 ms
+[2018-01-30 21:28:08]	 ,----- FRAME: 45775 time: 29.64ms Moving avg: 28.99ms 162 frames since last 
+[2018-01-30 21:28:08]	 ,            SerialEvent::LensUpdateArea, 14.37 ms
+[2018-01-30 21:28:08]	 ,----- FRAME: 45777 time: 39.33ms Moving avg: 29.10ms 3 frames since last 
+[2018-01-30 21:28:14]	 ,                LuaContext::CityPanel, 6.03 ms
+[2018-01-30 21:28:14]	 ,            SerialEvent::InterfaceModeChanged, 6.38 ms
+[2018-01-30 21:28:14]	 ,----- FRAME: 45969 time: 27.27ms Moving avg: 28.79ms 193 frames since last 
+[2018-01-30 21:28:14]	 ,                LuaContext::CityPanel, 7.96 ms
+[2018-01-30 21:28:14]	 ,            GameCoreEvent::CityProductionChanged, 8.82 ms
+[2018-01-30 21:28:14]	 ,----- FRAME: 45972 time: 41.21ms Moving avg: 29.14ms 4 frames since last 
+[2018-01-30 21:28:21]	 ,                    LuaContext::CityPanel, 7.67 ms
+[2018-01-30 21:28:21]	 ,                SerialEvent::CitySelectionChanged, 7.88 ms
+[2018-01-30 21:28:21]	 ,----- FRAME: 46237 time: 30.15ms Moving avg: 26.44ms 266 frames since last 
+[2018-01-30 21:28:59]	 ,                                        LuaContext::CityPanel, 7.55 ms
+[2018-01-30 21:28:59]	 ,                                    GameCoreEvent::CityProductionChanged, 8.28 ms
+[2018-01-30 21:28:59]	 ,----- FRAME: 47759 time: 34.11ms Moving avg: 25.37ms 1523 frames since last 
+[2018-01-30 21:29:04]	 ,        LuaContext::DiplomacyActionView, 302.38 ms
+[2018-01-30 21:29:04]	 ,    GameCoreEvent::DiplomacyStatement, 302.55 ms
+[2018-01-30 21:29:04]	 ,Civ6App_PublishGameCoreEvents, 309.96 ms
+[2018-01-30 21:29:04]	 ,Civ6App_PublishEvents, 311.04 ms
+[2018-01-30 21:29:04]	 ,----- FRAME: 47932 time: 334.27ms Moving avg: 34.03ms 174 frames since last 
+[2018-01-30 21:29:05]	 ,            LeaderScreen_Update, 129.33 ms
+[2018-01-30 21:29:05]	 ,        GameViewState_Tick, 132.23 ms
+[2018-01-30 21:29:05]	 ,    Civ6App_UpdateFrame, 174.14 ms
+[2018-01-30 21:29:05]	 ,----- FRAME: 47933 time: 180.91ms Moving avg: 36.46ms 2 frames since last 
+[2018-01-30 21:29:09]	 ,WorldView_Render_Submission, 27.79 ms
+[2018-01-30 21:29:09]	 ,Civ6App_UpdateFrame, 134.01 ms
+[2018-01-30 21:29:09]	 ,----- FRAME: 50897 time: 136.77ms Moving avg: 3.62ms 2965 frames since last 
+[2018-01-30 21:29:16]	 ,                DoGameStateSaveRequest, 533.78 ms
+[2018-01-30 21:29:16]	 ,            SerialEvent::PreTurnBegin, 534.91 ms
+[2018-01-30 21:29:16]	 ,----- FRAME: 51148 time: 26.75ms Moving avg: 28.69ms 252 frames since last 
+[2018-01-30 21:29:16]	 ,            GameCoreEvent::TurnBegin, 7.54 ms
+[2018-01-30 21:29:16]	 ,                LuaContext::CityPanel, 7.47 ms
+[2018-01-30 21:29:16]	 ,            GameCoreEvent::LocalPlayerTurnBegin, 8.18 ms
+[2018-01-30 21:29:16]	 ,                LuaContext::WorldTracker, 7.55 ms
+[2018-01-30 21:29:16]	 ,                LuaContext::CivicsChooser, 11.91 ms
+[2018-01-30 21:29:16]	 ,                LuaContext::ResearchChooser, 14.61 ms
+[2018-01-30 21:29:16]	 ,            SerialEvent::GameCoreEventPublishComplete, 34.19 ms
+[2018-01-30 21:29:16]	 ,        Civ6App_PublishGameCoreEvents, 50.91 ms
+[2018-01-30 21:29:16]	 ,----- FRAME: 51151 time: 71.24ms Moving avg: 29.31ms 4 frames since last 
+[2018-01-30 21:29:17]	 ,                LuaContext::TechCivicCompletedPopup, 82.04 ms
+[2018-01-30 21:29:17]	 ,            GameCoreEvent::CivicCompleted, 95.30 ms
+[2018-01-30 21:29:17]	 ,                LuaContext::CityPanel, 21.30 ms
+[2018-01-30 21:29:17]	 ,            GameCoreEvent::CityProductionUpdated, 22.73 ms
+[2018-01-30 21:29:17]	 ,                LuaContext::CityBannerManager, 8.48 ms
+[2018-01-30 21:29:17]	 ,            GameCoreEvent::BuildingChanged, 8.62 ms
+[2018-01-30 21:29:17]	 ,            GameCoreEvent::PlayerTurnActivated, 7.67 ms
+[2018-01-30 21:29:17]	 ,                LuaContext::WorldTracker, 12.45 ms
+[2018-01-30 21:29:17]	 ,                LuaContext::CivicsChooser, 18.39 ms
+[2018-01-30 21:29:17]	 ,                LuaContext::ResearchChooser, 13.64 ms
+[2018-01-30 21:29:17]	 ,            SerialEvent::GameCoreEventPublishComplete, 44.60 ms
+[2018-01-30 21:29:17]	 ,        Civ6App_PublishGameCoreEvents, 189.66 ms
+[2018-01-30 21:29:17]	 ,    Civ6App_PublishEvents, 189.69 ms
+[2018-01-30 21:29:17]	 ,----- FRAME: 51166 time: 223.83ms Moving avg: 32.44ms 16 frames since last 
+[2018-01-30 21:32:38]	 ,            LuaContext::CivicsChooser, 11.85 ms
+[2018-01-30 21:32:38]	 ,        SerialEvent::GameCoreEventPublishComplete, 11.91 ms
+[2018-01-30 21:32:38]	 ,----- FRAME: 57760 time: 35.31ms Moving avg: 26.70ms 6595 frames since last 
+[2018-01-30 21:32:48]	 ,                LuaContext::UnitPanel, 44.54 ms
+[2018-01-30 21:32:48]	 ,            SerialEvent::UnitSelectionChanged, 45.51 ms
+[2018-01-30 21:32:48]	 ,----- FRAME: 58113 time: 71.04ms Moving avg: 32.25ms 354 frames since last 
+[2018-01-30 21:32:48]	 ,                Overlays_Update, 30.97 ms
+[2018-01-30 21:32:48]	 ,----- FRAME: 58114 time: 75.58ms Moving avg: 32.87ms 2 frames since last 
+[2018-01-30 21:32:50]	 ,                DoGameStateSaveRequest, 548.44 ms
+[2018-01-30 21:32:50]	 ,            SerialEvent::PreTurnBegin, 550.51 ms
+[2018-01-30 21:32:50]	 ,----- FRAME: 58167 time: 32.25ms Moving avg: 33.00ms 54 frames since last 
+[2018-01-30 21:32:50]	 ,            GameCoreEvent::TurnBegin, 7.65 ms
+[2018-01-30 21:32:50]	 ,                LuaContext::WorldTracker, 6.12 ms
+[2018-01-30 21:32:50]	 ,                LuaContext::CivicsChooser, 10.25 ms
+[2018-01-30 21:32:50]	 ,                LuaContext::ResearchChooser, 14.45 ms
+[2018-01-30 21:32:50]	 ,            SerialEvent::GameCoreEventPublishComplete, 30.92 ms
+[2018-01-30 21:32:50]	 ,        Civ6App_PublishGameCoreEvents, 40.12 ms
+[2018-01-30 21:32:50]	 ,----- FRAME: 58170 time: 64.25ms Moving avg: 33.46ms 4 frames since last 
+[2018-01-30 21:32:51]	 ,            GameCoreEvent::ResearchCompleted, 11.12 ms
+[2018-01-30 21:32:51]	 ,                LuaContext::WorldTracker, 5.50 ms
+[2018-01-30 21:32:51]	 ,                LuaContext::CivicsChooser, 10.78 ms
+[2018-01-30 21:32:51]	 ,                LuaContext::ResearchChooser, 14.51 ms
+[2018-01-30 21:32:51]	 ,            SerialEvent::GameCoreEventPublishComplete, 30.91 ms
+[2018-01-30 21:32:51]	 ,        Civ6App_PublishGameCoreEvents, 56.35 ms
+[2018-01-30 21:32:51]	 ,----- FRAME: 58182 time: 103.23ms Moving avg: 33.78ms 13 frames since last 
+[2018-01-30 21:32:51]	 ,                LuaContext::CityBannerManager, 25.89 ms
+[2018-01-30 21:32:51]	 ,                LuaContext::TradeRouteChooser, 136.34 ms
+[2018-01-30 21:32:51]	 ,            SerialEvent::InterfaceModeChanged, 162.49 ms
+[2018-01-30 21:32:51]	 ,        Civ6App_PublishSerialEvents, 162.51 ms
+[2018-01-30 21:32:51]	 ,    Civ6App_PublishEvents, 163.18 ms
+[2018-01-30 21:32:51]	 ,----- FRAME: 58183 time: 194.53ms Moving avg: 36.33ms 2 frames since last 
+[2018-01-30 21:33:02]	 ,                            LuaContext::CityBannerManager, 26.53 ms
+[2018-01-30 21:33:02]	 ,                        SerialEvent::InterfaceModeChanged, 27.00 ms
+[2018-01-30 21:33:02]	 ,----- FRAME: 58570 time: 53.90ms Moving avg: 30.01ms 388 frames since last 
+[2018-01-30 21:33:11]	 ,                LuaContext::ResearchChooser, 12.35 ms
+[2018-01-30 21:33:11]	 ,            SerialEvent::GameCoreEventPublishComplete, 12.40 ms
+[2018-01-30 21:33:11]	 ,----- FRAME: 58859 time: 38.11ms Moving avg: 30.14ms 290 frames since last 
+[2018-01-30 21:33:36]	 ,                                        LuaContext::UnitPanel, 62.85 ms
+[2018-01-30 21:33:36]	 ,                                    SerialEvent::UnitSelectionChanged, 63.80 ms
+[2018-01-30 21:33:36]	 ,                                Civ6App_PublishSerialEvents, 64.60 ms
+[2018-01-30 21:33:36]	 ,----- FRAME: 59668 time: 103.47ms Moving avg: 31.63ms 810 frames since last 
+[2018-01-30 21:33:46]	 ,                        LuaContext::CityBannerManager, 29.29 ms
+[2018-01-30 21:33:46]	 ,                        LuaContext::TradeRouteChooser, 39.45 ms
+[2018-01-30 21:33:46]	 ,                    SerialEvent::InterfaceModeChanged, 69.04 ms
+[2018-01-30 21:33:46]	 ,                Civ6App_PublishSerialEvents, 69.06 ms
+[2018-01-30 21:33:46]	 ,----- FRAME: 60006 time: 105.30ms Moving avg: 30.46ms 339 frames since last 
+[2018-01-30 21:34:01]	 ,            LuaContext::CityBannerManager, 24.72 ms
+[2018-01-30 21:34:01]	 ,        SerialEvent::InterfaceModeChanged, 25.53 ms
+[2018-01-30 21:34:01]	 ,----- FRAME: 60504 time: 53.35ms Moving avg: 31.97ms 499 frames since last 
+[2018-01-30 21:34:10]	 ,                    Overlays_Update, 31.70 ms
+[2018-01-30 21:34:10]	 ,----- FRAME: 60803 time: 72.73ms Moving avg: 30.60ms 300 frames since last 
+[2018-01-30 21:34:11]	 ,                Overlays_Update, 25.87 ms
+[2018-01-30 21:34:11]	 ,----- FRAME: 60817 time: 56.90ms Moving avg: 31.21ms 15 frames since last 
+[2018-01-30 21:34:11]	 ,                LuaContext::CityBannerManager, 9.26 ms
+[2018-01-30 21:34:11]	 ,            GameCoreEvent::CityAddedToMap, 9.35 ms
+[2018-01-30 21:34:11]	 ,                Overlays_Update, 31.23 ms
+[2018-01-30 21:34:11]	 ,----- FRAME: 60831 time: 89.56ms Moving avg: 32.14ms 15 frames since last 
+[2018-01-30 21:34:13]	 ,                Overlays_Update, 28.88 ms
+[2018-01-30 21:34:13]	 ,----- FRAME: 60890 time: 60.18ms Moving avg: 32.62ms 60 frames since last 
+[2018-01-30 21:34:20]	 ,            DoGameStateSaveRequest, 548.45 ms
+[2018-01-30 21:34:20]	 ,        SerialEvent::PreTurnBegin, 549.76 ms
+[2018-01-30 21:34:20]	 ,----- FRAME: 61115 time: 31.25ms Moving avg: 31.27ms 226 frames since last 
+[2018-01-30 21:34:20]	 ,            GameCoreEvent::TurnBegin, 8.00 ms
+[2018-01-30 21:34:20]	 ,                LuaContext::WorldTracker, 5.20 ms
+[2018-01-30 21:34:20]	 ,                LuaContext::CivicsChooser, 10.35 ms
+[2018-01-30 21:34:20]	 ,                LuaContext::ResearchChooser, 11.18 ms
+[2018-01-30 21:34:20]	 ,            SerialEvent::GameCoreEventPublishComplete, 26.84 ms
+[2018-01-30 21:34:20]	 ,        Civ6App_PublishGameCoreEvents, 36.50 ms
+[2018-01-30 21:34:20]	 ,----- FRAME: 61118 time: 58.12ms Moving avg: 31.67ms 4 frames since last 
+[2018-01-30 21:34:21]	 ,                LuaContext::CivicsChooser, 10.56 ms
+[2018-01-30 21:34:21]	 ,                LuaContext::ResearchChooser, 11.27 ms
+[2018-01-30 21:34:21]	 ,            SerialEvent::GameCoreEventPublishComplete, 26.91 ms
+[2018-01-30 21:34:21]	 ,        Civ6App_PublishGameCoreEvents, 41.81 ms
+[2018-01-30 21:34:21]	 ,----- FRAME: 61131 time: 83.01ms Moving avg: 32.48ms 14 frames since last 
+[2018-01-30 21:34:40]	 ,                                    LuaContext::CityPanel, 7.37 ms
+[2018-01-30 21:34:40]	 ,                                SerialEvent::CitySelectionChanged, 7.69 ms
+[2018-01-30 21:34:40]	 ,----- FRAME: 61795 time: 34.45ms Moving avg: 30.37ms 665 frames since last 
+[2018-01-30 21:35:01]	 ,                            DoGameStateSaveRequest, 514.24 ms
+[2018-01-30 21:35:01]	 ,                        SerialEvent::PreTurnBegin, 515.87 ms
+[2018-01-30 21:35:01]	 ,----- FRAME: 62483 time: 33.86ms Moving avg: 24.76ms 689 frames since last 
+[2018-01-30 21:35:01]	 ,            GameCoreEvent::TurnBegin, 8.18 ms
+[2018-01-30 21:35:01]	 ,                LuaContext::WorldTracker, 5.67 ms
+[2018-01-30 21:35:01]	 ,                LuaContext::CivicsChooser, 11.53 ms
+[2018-01-30 21:35:01]	 ,                LuaContext::ResearchChooser, 12.28 ms
+[2018-01-30 21:35:01]	 ,            SerialEvent::GameCoreEventPublishComplete, 29.61 ms
+[2018-01-30 21:35:01]	 ,        Civ6App_PublishGameCoreEvents, 39.46 ms
+[2018-01-30 21:35:01]	 ,----- FRAME: 62486 time: 52.54ms Moving avg: 25.08ms 4 frames since last 
+[2018-01-30 21:35:01]	 ,                LuaContext::WorldTracker, 5.19 ms
+[2018-01-30 21:35:01]	 ,                LuaContext::CivicsChooser, 12.11 ms
+[2018-01-30 21:35:01]	 ,                LuaContext::ResearchChooser, 12.82 ms
+[2018-01-30 21:35:01]	 ,            SerialEvent::GameCoreEventPublishComplete, 30.24 ms
+[2018-01-30 21:35:01]	 ,        Civ6App_PublishGameCoreEvents, 46.06 ms
+[2018-01-30 21:35:01]	 ,            SerialEvent::UnitSelectionChanged, 5.44 ms
+[2018-01-30 21:35:01]	 ,                Overlays_Update, 28.96 ms
+[2018-01-30 21:35:01]	 ,----- FRAME: 62500 time: 127.78ms Moving avg: 27.09ms 15 frames since last 
+[2018-01-30 21:35:08]	 ,                SerialEvent::UnitSelectionChanged, 5.23 ms
+[2018-01-30 21:35:08]	 ,----- FRAME: 62750 time: 28.54ms Moving avg: 29.49ms 251 frames since last 
+[2018-01-30 21:35:59]	 ,                        Civ6App_PublishGameCoreEvents, 43.90 ms
+[2018-01-30 21:35:59]	 ,                                Overlays_Update, 27.28 ms
+[2018-01-30 21:35:59]	 ,----- FRAME: 64492 time: 107.30ms Moving avg: 33.00ms 1743 frames since last 
+[2018-01-30 21:35:59]	 ,        FiraxisLive_OnStateNotify, 43.09 ms
+[2018-01-30 21:35:59]	 ,    Civ6App_FiraxisLiveUpdate, 43.15 ms
+[2018-01-30 21:35:59]	 ,----- FRAME: 64497 time: 73.81ms Moving avg: 33.43ms 6 frames since last 
+[2018-01-30 21:36:07]	 ,                DoGameStateSaveRequest, 566.31 ms
+[2018-01-30 21:36:07]	 ,            SerialEvent::PreTurnBegin, 567.52 ms
+[2018-01-30 21:36:07]	 ,----- FRAME: 64754 time: 25.69ms Moving avg: 29.15ms 258 frames since last 
+[2018-01-30 21:36:07]	 ,            GameCoreEvent::TurnBegin, 8.27 ms
+[2018-01-30 21:36:07]	 ,                LuaContext::WorldTracker, 5.30 ms
+[2018-01-30 21:36:07]	 ,                LuaContext::CivicsChooser, 11.09 ms
+[2018-01-30 21:36:07]	 ,                LuaContext::ResearchChooser, 11.64 ms
+[2018-01-30 21:36:07]	 ,            SerialEvent::GameCoreEventPublishComplete, 28.13 ms
+[2018-01-30 21:36:07]	 ,        Civ6App_PublishGameCoreEvents, 37.84 ms
+[2018-01-30 21:36:07]	 ,----- FRAME: 64756 time: 58.28ms Moving avg: 29.57ms 3 frames since last 
+[2018-01-30 21:36:07]	 ,                LuaContext::WorldTracker, 5.09 ms
+[2018-01-30 21:36:07]	 ,                LuaContext::CivicsChooser, 10.76 ms
+[2018-01-30 21:36:07]	 ,                LuaContext::ResearchChooser, 11.55 ms
+[2018-01-30 21:36:07]	 ,            SerialEvent::GameCoreEventPublishComplete, 27.50 ms
+[2018-01-30 21:36:07]	 ,        Civ6App_PublishGameCoreEvents, 42.66 ms
+[2018-01-30 21:36:07]	 ,                Overlays_Update, 26.71 ms
+[2018-01-30 21:36:07]	 ,----- FRAME: 64769 time: 113.67ms Moving avg: 31.28ms 14 frames since last 
+[2018-01-30 21:36:28]	 ,            LuaContext::CityPanel, 7.64 ms
+[2018-01-30 21:36:28]	 ,        SerialEvent::CitySelectionChanged, 7.92 ms
+[2018-01-30 21:36:28]	 ,----- FRAME: 65453 time: 32.57ms Moving avg: 30.36ms 685 frames since last 
+[2018-01-30 21:36:36]	 ,                    LuaContext::CityPanel, 8.03 ms
+[2018-01-30 21:36:36]	 ,                GameCoreEvent::CityProductionCompleted, 8.67 ms
+[2018-01-30 21:36:36]	 ,                    LuaContext::WorldTracker, 5.41 ms
+[2018-01-30 21:36:36]	 ,                SerialEvent::GameCoreEventPublishComplete, 5.45 ms
+[2018-01-30 21:36:36]	 ,----- FRAME: 65698 time: 49.16ms Moving avg: 31.33ms 246 frames since last 
+[2018-01-30 21:36:41]	 ,                Overlays_Update, 26.37 ms
+[2018-01-30 21:36:41]	 ,----- FRAME: 65873 time: 57.96ms Moving avg: 31.53ms 176 frames since last 
+[2018-01-30 21:36:49]	 ,                        DoGameStateSaveRequest, 560.30 ms
+[2018-01-30 21:36:49]	 ,                    SerialEvent::PreTurnBegin, 561.61 ms
+[2018-01-30 21:36:49]	 ,----- FRAME: 66113 time: 31.31ms Moving avg: 35.55ms 241 frames since last 
+[2018-01-30 21:36:49]	 ,            GameCoreEvent::TurnBegin, 8.30 ms
+[2018-01-30 21:36:49]	 ,                LuaContext::CityPanel, 8.61 ms
+[2018-01-30 21:36:49]	 ,            GameCoreEvent::LocalPlayerTurnBegin, 9.34 ms
+[2018-01-30 21:36:49]	 ,                LuaContext::WorldTracker, 5.43 ms
+[2018-01-30 21:36:49]	 ,                LuaContext::CivicsChooser, 10.93 ms
+[2018-01-30 21:36:49]	 ,                LuaContext::ResearchChooser, 11.67 ms
+[2018-01-30 21:36:49]	 ,            SerialEvent::GameCoreEventPublishComplete, 28.14 ms
+[2018-01-30 21:36:49]	 ,        Civ6App_PublishGameCoreEvents, 46.72 ms
+[2018-01-30 21:36:50]	 ,----- FRAME: 66115 time: 76.97ms Moving avg: 36.15ms 3 frames since last 
+[2018-01-30 21:36:50]	 ,                LuaContext::CityPanel, 7.90 ms
+[2018-01-30 21:36:50]	 ,            GameCoreEvent::CityProductionUpdated, 8.39 ms
+[2018-01-30 21:36:50]	 ,                LuaContext::WorldTracker, 5.08 ms
+[2018-01-30 21:36:50]	 ,                LuaContext::CivicsChooser, 10.92 ms
+[2018-01-30 21:36:50]	 ,                LuaContext::ResearchChooser, 11.82 ms
+[2018-01-30 21:36:50]	 ,            SerialEvent::GameCoreEventPublishComplete, 27.93 ms
+[2018-01-30 21:36:50]	 ,        Civ6App_PublishGameCoreEvents, 51.07 ms
+[2018-01-30 21:36:50]	 ,----- FRAME: 66127 time: 97.95ms Moving avg: 36.48ms 13 frames since last 
+[2018-01-30 21:37:02]	 ,                SerialEvent::UnitSelectionChanged, 5.44 ms
+[2018-01-30 21:37:02]	 ,----- FRAME: 66529 time: 29.10ms Moving avg: 28.43ms 403 frames since last 
+[2018-01-30 21:37:10]	 ,                SerialEvent::UnitSelectionChanged, 5.51 ms
+[2018-01-30 21:37:10]	 ,----- FRAME: 66810 time: 27.19ms Moving avg: 27.67ms 282 frames since last 
+[2018-01-30 21:37:44]	 ,                Overlays_Update, 26.78 ms
+[2018-01-30 21:37:44]	 ,----- FRAME: 67985 time: 55.13ms Moving avg: 28.51ms 1176 frames since last 
+[2018-01-30 21:37:45]	 ,                Overlays_Update, 28.72 ms
+[2018-01-30 21:37:45]	 ,----- FRAME: 68016 time: 62.02ms Moving avg: 29.47ms 32 frames since last 
+[2018-01-30 21:37:48]	 ,                LuaContext::StatusMessagePanel, 39.02 ms
+[2018-01-30 21:37:48]	 ,            GameCoreEvent::StatusMessage, 39.08 ms
+[2018-01-30 21:37:48]	 ,        Civ6App_PublishGameCoreEvents, 42.57 ms
+[2018-01-30 21:37:48]	 ,----- FRAME: 68115 time: 68.39ms Moving avg: 28.93ms 100 frames since last 
+[2018-01-30 21:37:53]	 ,                DoGameStateSaveRequest, 569.65 ms
+[2018-01-30 21:37:53]	 ,            SerialEvent::PreTurnBegin, 570.98 ms
+[2018-01-30 21:37:53]	 ,----- FRAME: 68306 time: 29.80ms Moving avg: 28.38ms 192 frames since last 
+[2018-01-30 21:37:53]	 ,            GameCoreEvent::TurnBegin, 8.28 ms
+[2018-01-30 21:37:53]	 ,                LuaContext::WorldTracker, 5.37 ms
+[2018-01-30 21:37:53]	 ,                LuaContext::CivicsChooser, 10.75 ms
+[2018-01-30 21:37:53]	 ,                LuaContext::ResearchChooser, 11.79 ms
+[2018-01-30 21:37:53]	 ,            SerialEvent::GameCoreEventPublishComplete, 28.00 ms
+[2018-01-30 21:37:53]	 ,        Civ6App_PublishGameCoreEvents, 37.74 ms
+[2018-01-30 21:37:53]	 ,----- FRAME: 68309 time: 57.82ms Moving avg: 28.73ms 4 frames since last 
+[2018-01-30 21:37:54]	 ,            GameCoreEvent::CivicCompleted, 8.51 ms
+[2018-01-30 21:37:54]	 ,                LuaContext::WorldTracker, 5.21 ms
+[2018-01-30 21:37:54]	 ,                LuaContext::CivicsChooser, 14.06 ms
+[2018-01-30 21:37:54]	 ,                LuaContext::ResearchChooser, 14.06 ms
+[2018-01-30 21:37:54]	 ,            SerialEvent::GameCoreEventPublishComplete, 33.45 ms
+[2018-01-30 21:37:54]	 ,        Civ6App_PublishGameCoreEvents, 55.22 ms
+[2018-01-30 21:37:54]	 ,                LuaContext::UnitPanel, 5.37 ms
+[2018-01-30 21:37:54]	 ,            SerialEvent::UnitSelectionChanged, 6.16 ms
+[2018-01-30 21:37:54]	 ,----- FRAME: 68322 time: 110.91ms Moving avg: 30.42ms 14 frames since last 
+[2018-01-30 21:38:35]	 ,                        LuaContext::WorldTracker, 5.79 ms
+[2018-01-30 21:38:35]	 ,                    GameCoreEvent::CivicChanged, 6.10 ms
+[2018-01-30 21:38:35]	 ,                        LuaContext::CivicsChooser, 8.49 ms
+[2018-01-30 21:38:35]	 ,                    SerialEvent::GameCoreEventPublishComplete, 8.54 ms
+[2018-01-30 21:38:35]	 ,                    SerialEvent::UnitSelectionChanged, 5.35 ms
+[2018-01-30 21:38:35]	 ,----- FRAME: 69866 time: 32.45ms Moving avg: 23.07ms 1545 frames since last 
+[2018-01-30 21:38:44]	 ,        Civ6App_UpdateFrame, 142.74 ms
+[2018-01-30 21:38:44]	 ,----- FRAME: 70223 time: 142.97ms Moving avg: 25.33ms 358 frames since last 
+[2018-01-30 21:38:58]	 ,                LuaContext::CityStates, 9.73 ms
+[2018-01-30 21:38:58]	 ,            GameCoreEvent::InfluenceGiven, 9.76 ms
+[2018-01-30 21:38:58]	 ,                LuaContext::CityStates, 8.22 ms
+[2018-01-30 21:38:58]	 ,            GameCoreEvent::InfluenceChanged, 8.34 ms
+[2018-01-30 21:38:58]	 ,----- FRAME: 70814 time: 28.74ms Moving avg: 23.81ms 592 frames since last 
+[2018-01-30 21:39:14]	 ,                            LuaContext::NotificationPanel, 34.02 ms
+[2018-01-30 21:39:14]	 ,                        GameCoreEvent::NotificationActivated, 34.06 ms
+[2018-01-30 21:39:14]	 ,                            LuaContext::ResearchChooser, 11.51 ms
+[2018-01-30 21:39:14]	 ,                        SerialEvent::GameCoreEventPublishComplete, 11.63 ms
+[2018-01-30 21:39:14]	 ,                    Civ6App_PublishGameCoreEvents, 59.51 ms
+[2018-01-30 21:39:14]	 ,                            Overlays_Update, 25.65 ms
+[2018-01-30 21:39:14]	 ,----- FRAME: 71452 time: 138.23ms Moving avg: 29.43ms 639 frames since last 
+[2018-01-30 21:39:48]	 ,            GameCoreEvent::UnitAddedToMap, 5.34 ms
+[2018-01-30 21:39:49]	 ,----- FRAME: 72538 time: 36.33ms Moving avg: 32.60ms 1087 frames since last 
+[2018-01-30 21:39:59]	 ,            DoGameStateSaveRequest, 567.47 ms
+[2018-01-30 21:39:59]	 ,        SerialEvent::PreTurnBegin, 569.04 ms
+[2018-01-30 21:39:59]	 ,----- FRAME: 72952 time: 23.55ms Moving avg: 23.51ms 415 frames since last 
+[2018-01-30 21:40:00]	 ,            GameCoreEvent::TurnBegin, 8.66 ms
+[2018-01-30 21:40:00]	 ,                LuaContext::WorldTracker, 7.85 ms
+[2018-01-30 21:40:00]	 ,                LuaContext::CivicsChooser, 8.26 ms
+[2018-01-30 21:40:00]	 ,                LuaContext::ResearchChooser, 11.79 ms
+[2018-01-30 21:40:00]	 ,            SerialEvent::GameCoreEventPublishComplete, 28.00 ms
+[2018-01-30 21:40:00]	 ,        Civ6App_PublishGameCoreEvents, 38.20 ms
+[2018-01-30 21:40:00]	 ,----- FRAME: 72955 time: 56.18ms Moving avg: 24.02ms 4 frames since last 
+[2018-01-30 21:40:00]	 ,                LuaContext::WorldTracker, 7.49 ms
+[2018-01-30 21:40:00]	 ,                LuaContext::CivicsChooser, 8.66 ms
+[2018-01-30 21:40:00]	 ,                LuaContext::ResearchChooser, 11.49 ms
+[2018-01-30 21:40:00]	 ,            SerialEvent::GameCoreEventPublishComplete, 27.74 ms
+[2018-01-30 21:40:00]	 ,        Civ6App_PublishGameCoreEvents, 44.49 ms
+[2018-01-30 21:40:00]	 ,----- FRAME: 72971 time: 77.70ms Moving avg: 25.31ms 17 frames since last 
+[2018-01-30 21:40:07]	 ,    Civ6App_UpdateFrame, 110.01 ms
+[2018-01-30 21:40:07]	 ,----- FRAME: 73233 time: 110.73ms Moving avg: 26.75ms 263 frames since last 
+[2018-01-30 21:40:07]	 ,    Civ6App_UpdateFrame, 109.16 ms
+[2018-01-30 21:40:07]	 ,----- FRAME: 73236 time: 109.91ms Moving avg: 30.39ms 4 frames since last 
+[2018-01-30 21:40:07]	 ,    Civ6App_UpdateFrame, 123.23 ms
+[2018-01-30 21:40:07]	 ,----- FRAME: 73237 time: 123.99ms Moving avg: 31.96ms 2 frames since last 
+[2018-01-30 21:40:07]	 ,    Civ6App_UpdateFrame, 116.95 ms
+[2018-01-30 21:40:07]	 ,----- FRAME: 73238 time: 117.74ms Moving avg: 33.42ms 2 frames since last 
+[2018-01-30 21:40:07]	 ,    Civ6App_UpdateFrame, 100.70 ms
+[2018-01-30 21:40:07]	 ,----- FRAME: 73241 time: 101.44ms Moving avg: 36.88ms 4 frames since last 
+[2018-01-30 21:40:08]	 ,    Civ6App_UpdateFrame, 108.98 ms
+[2018-01-30 21:40:08]	 ,----- FRAME: 73242 time: 109.71ms Moving avg: 38.22ms 2 frames since last 
+[2018-01-30 21:40:08]	 ,    Civ6App_UpdateFrame, 111.17 ms
+[2018-01-30 21:40:08]	 ,----- FRAME: 73244 time: 112.00ms Moving avg: 40.79ms 3 frames since last 
+[2018-01-30 21:40:08]	 ,    Civ6App_UpdateFrame, 103.99 ms
+[2018-01-30 21:40:08]	 ,----- FRAME: 73245 time: 104.68ms Moving avg: 42.05ms 2 frames since last 
+[2018-01-30 21:40:08]	 ,    Civ6App_UpdateFrame, 107.07 ms
+[2018-01-30 21:40:08]	 ,----- FRAME: 73246 time: 107.83ms Moving avg: 43.36ms 2 frames since last 
+[2018-01-30 21:40:08]	 ,    Civ6App_UpdateFrame, 102.36 ms
+[2018-01-30 21:40:08]	 ,----- FRAME: 73247 time: 103.06ms Moving avg: 44.59ms 2 frames since last 
+[2018-01-30 21:40:08]	 ,    Civ6App_UpdateFrame, 108.14 ms
+[2018-01-30 21:40:08]	 ,----- FRAME: 73248 time: 108.85ms Moving avg: 45.92ms 2 frames since last 
+[2018-01-30 21:40:08]	 ,    Civ6App_UpdateFrame, 102.94 ms
+[2018-01-30 21:40:08]	 ,----- FRAME: 73251 time: 103.74ms Moving avg: 49.38ms 4 frames since last 
+[2018-01-30 21:40:09]	 ,    Civ6App_UpdateFrame, 141.66 ms
+[2018-01-30 21:40:09]	 ,----- FRAME: 73252 time: 142.49ms Moving avg: 51.21ms 2 frames since last 
+[2018-01-30 21:40:09]	 ,    Civ6App_UpdateFrame, 101.78 ms
+[2018-01-30 21:40:09]	 ,----- FRAME: 73253 time: 102.52ms Moving avg: 52.45ms 2 frames since last 
+[2018-01-30 21:40:09]	 ,    Civ6App_UpdateFrame, 106.14 ms
+[2018-01-30 21:40:09]	 ,----- FRAME: 73257 time: 106.93ms Moving avg: 57.16ms 5 frames since last 
+[2018-01-30 21:40:09]	 ,    Civ6App_UpdateFrame, 113.59 ms
+[2018-01-30 21:40:09]	 ,----- FRAME: 73260 time: 114.38ms Moving avg: 60.83ms 4 frames since last 
+[2018-01-30 21:40:10]	 ,        Civ6App_Graphics_Render, 114.92 ms
+[2018-01-30 21:40:10]	 ,    Civ6App_UpdateFrame, 148.95 ms
+[2018-01-30 21:40:10]	 ,----- FRAME: 73261 time: 149.76ms Moving avg: 62.81ms 2 frames since last 
+[2018-01-30 21:40:10]	 ,    Civ6App_UpdateFrame, 100.79 ms
+[2018-01-30 21:40:10]	 ,----- FRAME: 73267 time: 101.46ms Moving avg: 69.74ms 7 frames since last 
+[2018-01-30 21:40:11]	 ,    Civ6App_UpdateFrame, 105.55 ms
+[2018-01-30 21:40:11]	 ,----- FRAME: 73271 time: 106.35ms Moving avg: 74.33ms 5 frames since last 
+[2018-01-30 21:40:11]	 ,    Civ6App_UpdateFrame, 121.14 ms
+[2018-01-30 21:40:11]	 ,----- FRAME: 73275 time: 121.95ms Moving avg: 79.26ms 5 frames since last 
+[2018-01-30 21:40:11]	 ,    Civ6App_UpdateFrame, 105.17 ms
+[2018-01-30 21:40:11]	 ,----- FRAME: 73277 time: 106.12ms Moving avg: 81.68ms 3 frames since last 
+[2018-01-30 21:40:12]	 ,    Civ6App_UpdateFrame, 107.09 ms
+[2018-01-30 21:40:12]	 ,----- FRAME: 73281 time: 107.84ms Moving avg: 86.37ms 5 frames since last 
+[2018-01-30 21:40:12]	 ,    Civ6App_UpdateFrame, 112.43 ms
+[2018-01-30 21:40:12]	 ,----- FRAME: 73282 time: 113.18ms Moving avg: 87.76ms 2 frames since last 
+[2018-01-30 21:40:12]	 ,    Civ6App_UpdateFrame, 112.22 ms
+[2018-01-30 21:40:12]	 ,----- FRAME: 73283 time: 112.90ms Moving avg: 89.16ms 2 frames since last 
+[2018-01-30 21:40:12]	 ,    Civ6App_UpdateFrame, 122.09 ms
+[2018-01-30 21:40:12]	 ,----- FRAME: 73289 time: 122.92ms Moving avg: 96.47ms 7 frames since last 
+[2018-01-30 21:40:13]	 ,    Civ6App_UpdateFrame, 119.77 ms
+[2018-01-30 21:40:13]	 ,----- FRAME: 73290 time: 120.59ms Moving avg: 97.98ms 2 frames since last 
+[2018-01-30 21:40:13]	 ,    Civ6App_UpdateFrame, 125.01 ms
+[2018-01-30 21:40:13]	 ,----- FRAME: 73296 time: 125.83ms Moving avg: 103.91ms 7 frames since last 
+[2018-01-30 21:40:14]	 ,    Civ6App_UpdateFrame, 118.77 ms
+[2018-01-30 21:40:14]	 ,----- FRAME: 73299 time: 119.47ms Moving avg: 104.01ms 4 frames since last 
+[2018-01-30 21:40:14]	 ,    Civ6App_UpdateFrame, 119.15 ms
+[2018-01-30 21:40:14]	 ,----- FRAME: 73305 time: 120.01ms Moving avg: 103.09ms 7 frames since last 
+[2018-01-30 21:40:14]	 ,    Civ6App_UpdateFrame, 103.30 ms
+[2018-01-30 21:40:14]	 ,----- FRAME: 73306 time: 104.08ms Moving avg: 103.00ms 2 frames since last 
+[2018-01-30 21:40:14]	 ,    Civ6App_UpdateFrame, 102.99 ms
+[2018-01-30 21:40:14]	 ,----- FRAME: 73307 time: 103.85ms Moving avg: 103.05ms 2 frames since last 
+[2018-01-30 21:40:14]	 ,    Civ6App_UpdateFrame, 103.16 ms
+[2018-01-30 21:40:14]	 ,----- FRAME: 73308 time: 103.94ms Moving avg: 102.93ms 2 frames since last 
+[2018-01-30 21:40:14]	 ,            LocalMachineEvent::Camera_Updated, 6.68 ms
+[2018-01-30 21:40:15]	 ,    Civ6App_UpdateFrame, 106.21 ms
+[2018-01-30 21:40:15]	 ,----- FRAME: 73309 time: 113.79ms Moving avg: 103.07ms 2 frames since last 
+[2018-01-30 21:40:15]	 ,    Civ6App_UpdateFrame, 103.42 ms
+[2018-01-30 21:40:15]	 ,----- FRAME: 73313 time: 104.20ms Moving avg: 102.63ms 5 frames since last 
+[2018-01-30 21:40:15]	 ,    Civ6App_UpdateFrame, 102.26 ms
+[2018-01-30 21:40:15]	 ,----- FRAME: 73315 time: 102.98ms Moving avg: 102.63ms 3 frames since last 
+[2018-01-30 21:40:16]	 ,    Civ6App_UpdateFrame, 105.05 ms
+[2018-01-30 21:40:16]	 ,----- FRAME: 73319 time: 105.79ms Moving avg: 101.85ms 5 frames since last 
+[2018-01-30 21:40:16]	 ,    Civ6App_UpdateFrame, 123.91 ms
+[2018-01-30 21:40:16]	 ,----- FRAME: 73320 time: 126.85ms Moving avg: 102.32ms 2 frames since last 
+[2018-01-30 21:40:16]	 ,    Civ6App_UpdateFrame, 112.98 ms
+[2018-01-30 21:40:16]	 ,----- FRAME: 73325 time: 113.75ms Moving avg: 101.34ms 6 frames since last 
+[2018-01-30 21:40:17]	 ,    Civ6App_UpdateFrame, 105.82 ms
+[2018-01-30 21:40:17]	 ,----- FRAME: 73329 time: 106.60ms Moving avg: 101.20ms 5 frames since last 
+[2018-01-30 21:40:17]	 ,                LuaContext::UnitPanel, 27.41 ms
+[2018-01-30 21:40:17]	 ,            SerialEvent::UnitSelectionChanged, 31.81 ms
+[2018-01-30 21:40:17]	 ,        UIUpdateJob_Render, 32.27 ms
+[2018-01-30 21:40:17]	 ,    Civ6App_UpdateFrame, 140.36 ms
+[2018-01-30 21:40:17]	 ,----- FRAME: 73335 time: 172.98ms Moving avg: 102.00ms 7 frames since last 
+[2018-01-30 21:40:17]	 ,                Overlays_Update, 10.31 ms
+[2018-01-30 21:40:17]	 ,    Civ6App_UpdateFrame, 110.93 ms
+[2018-01-30 21:40:17]	 ,----- FRAME: 73336 time: 111.85ms Moving avg: 102.24ms 2 frames since last 
+[2018-01-30 21:40:17]	 ,    Civ6App_UpdateFrame, 101.69 ms
+[2018-01-30 21:40:17]	 ,----- FRAME: 73337 time: 102.47ms Moving avg: 102.33ms 2 frames since last 
+[2018-01-30 21:40:18]	 ,    Civ6App_UpdateFrame, 112.01 ms
+[2018-01-30 21:40:18]	 ,----- FRAME: 73338 time: 112.93ms Moving avg: 102.59ms 2 frames since last 
+[2018-01-30 21:40:18]	 ,    Civ6App_UpdateFrame, 129.14 ms
+[2018-01-30 21:40:18]	 ,----- FRAME: 73340 time: 129.87ms Moving avg: 102.75ms 3 frames since last 
+[2018-01-30 21:40:18]	 ,    Civ6App_UpdateFrame, 111.16 ms
+[2018-01-30 21:40:18]	 ,----- FRAME: 73343 time: 111.93ms Moving avg: 102.90ms 4 frames since last 
+[2018-01-30 21:40:18]	 ,    Civ6App_UpdateFrame, 125.49 ms
+[2018-01-30 21:40:18]	 ,----- FRAME: 73345 time: 128.52ms Moving avg: 103.25ms 3 frames since last 
+[2018-01-30 21:40:18]	 ,    Civ6App_UpdateFrame, 102.55 ms
+[2018-01-30 21:40:18]	 ,----- FRAME: 73346 time: 106.58ms Moving avg: 103.14ms 2 frames since last 
+[2018-01-30 21:40:19]	 ,    Civ6App_UpdateFrame, 103.12 ms
+[2018-01-30 21:40:19]	 ,----- FRAME: 73347 time: 103.85ms Moving avg: 103.00ms 2 frames since last 
+[2018-01-30 21:40:19]	 ,    Civ6App_UpdateFrame, 102.84 ms
+[2018-01-30 21:40:19]	 ,----- FRAME: 73351 time: 103.60ms Moving avg: 102.93ms 5 frames since last 
+[2018-01-30 21:40:19]	 ,    Civ6App_UpdateFrame, 116.16 ms
+[2018-01-30 21:40:19]	 ,----- FRAME: 73353 time: 116.90ms Moving avg: 102.88ms 3 frames since last 
+[2018-01-30 21:40:20]	 ,    Civ6App_UpdateFrame, 105.84 ms
+[2018-01-30 21:40:20]	 ,----- FRAME: 73357 time: 106.59ms Moving avg: 102.64ms 5 frames since last 
+[2018-01-30 21:40:20]	 ,    Civ6App_UpdateFrame, 100.61 ms
+[2018-01-30 21:40:20]	 ,----- FRAME: 73359 time: 101.37ms Moving avg: 102.55ms 3 frames since last 
+[2018-01-30 21:40:20]	 ,                LuaContext::UnitPanel, 24.81 ms
+[2018-01-30 21:40:20]	 ,            SerialEvent::UnitSelectionChanged, 28.84 ms
+[2018-01-30 21:40:20]	 ,    Civ6App_UpdateFrame, 126.01 ms
+[2018-01-30 21:40:20]	 ,----- FRAME: 73360 time: 155.75ms Moving avg: 103.02ms 2 frames since last 
+[2018-01-30 21:40:20]	 ,                Overlays_Update, 10.14 ms
+[2018-01-30 21:40:20]	 ,    Civ6App_UpdateFrame, 106.63 ms
+[2018-01-30 21:40:20]	 ,----- FRAME: 73361 time: 107.43ms Moving avg: 103.16ms 2 frames since last 
+[2018-01-30 21:40:20]	 ,    Civ6App_UpdateFrame, 107.90 ms
+[2018-01-30 21:40:20]	 ,----- FRAME: 73362 time: 108.70ms Moving avg: 103.37ms 2 frames since last 
+[2018-01-30 21:40:20]	 ,    Civ6App_UpdateFrame, 122.88 ms
+[2018-01-30 21:40:20]	 ,----- FRAME: 73364 time: 123.62ms Moving avg: 103.50ms 3 frames since last 
+[2018-01-30 21:40:20]	 ,    Civ6App_UpdateFrame, 100.47 ms
+[2018-01-30 21:40:20]	 ,----- FRAME: 73365 time: 101.26ms Moving avg: 103.65ms 2 frames since last 
+[2018-01-30 21:40:21]	 ,    Civ6App_UpdateFrame, 101.89 ms
+[2018-01-30 21:40:21]	 ,----- FRAME: 73366 time: 102.56ms Moving avg: 103.79ms 2 frames since last 
+[2018-01-30 21:40:21]	 ,    Civ6App_UpdateFrame, 110.57 ms
+[2018-01-30 21:40:21]	 ,----- FRAME: 73372 time: 116.50ms Moving avg: 103.43ms 7 frames since last 
+[2018-01-30 21:40:21]	 ,    Civ6App_UpdateFrame, 111.24 ms
+[2018-01-30 21:40:21]	 ,----- FRAME: 73373 time: 120.33ms Moving avg: 103.53ms 2 frames since last 
+[2018-01-30 21:40:21]	 ,    Civ6App_UpdateFrame, 132.61 ms
+[2018-01-30 21:40:21]	 ,----- FRAME: 73374 time: 133.18ms Moving avg: 104.14ms 2 frames since last 
+[2018-01-30 21:40:22]	 ,    Civ6App_UpdateFrame, 111.55 ms
+[2018-01-30 21:40:22]	 ,----- FRAME: 73375 time: 112.64ms Moving avg: 104.45ms 2 frames since last 
+[2018-01-30 21:40:22]	 ,    Civ6App_UpdateFrame, 127.09 ms
+[2018-01-30 21:40:22]	 ,----- FRAME: 73376 time: 128.60ms Moving avg: 104.97ms 2 frames since last 
+[2018-01-30 21:40:22]	 ,    Civ6App_UpdateFrame, 102.56 ms
+[2018-01-30 21:40:22]	 ,----- FRAME: 73380 time: 103.32ms Moving avg: 104.99ms 5 frames since last 
+[2018-01-30 21:40:22]	 ,    Civ6App_UpdateFrame, 119.98 ms
+[2018-01-30 21:40:22]	 ,----- FRAME: 73381 time: 120.79ms Moving avg: 105.39ms 2 frames since last 
+[2018-01-30 21:40:23]	 ,    Civ6App_UpdateFrame, 105.13 ms
+[2018-01-30 21:40:23]	 ,----- FRAME: 73385 time: 105.85ms Moving avg: 104.84ms 5 frames since last 
+[2018-01-30 21:40:23]	 ,    Civ6App_UpdateFrame, 101.29 ms
+[2018-01-30 21:40:23]	 ,----- FRAME: 73387 time: 102.00ms Moving avg: 104.96ms 3 frames since last 
+[2018-01-30 21:40:23]	 ,    Civ6App_UpdateFrame, 115.02 ms
+[2018-01-30 21:40:23]	 ,----- FRAME: 73388 time: 115.72ms Moving avg: 105.34ms 2 frames since last 
+[2018-01-30 21:40:23]	 ,    Civ6App_UpdateFrame, 101.43 ms
+[2018-01-30 21:40:23]	 ,----- FRAME: 73390 time: 102.23ms Moving avg: 105.17ms 3 frames since last 
+[2018-01-30 21:40:24]	 ,    Civ6App_UpdateFrame, 169.62 ms
+[2018-01-30 21:40:24]	 ,----- FRAME: 73393 time: 170.72ms Moving avg: 106.41ms 4 frames since last 
+[2018-01-30 21:40:24]	 ,    Civ6App_UpdateFrame, 116.27 ms
+[2018-01-30 21:40:24]	 ,----- FRAME: 73394 time: 117.07ms Moving avg: 106.81ms 2 frames since last 
+[2018-01-30 21:40:24]	 ,    Civ6App_UpdateFrame, 143.16 ms
+[2018-01-30 21:40:24]	 ,----- FRAME: 73395 time: 144.05ms Moving avg: 107.61ms 2 frames since last 
+[2018-01-30 21:40:24]	 ,        Civ6App_UpdateFrame, 118.48 ms
+[2018-01-30 21:40:24]	 ,----- FRAME: 73396 time: 119.52ms Moving avg: 108.00ms 2 frames since last 
+[2018-01-30 21:40:24]	 ,            LocalMachineEvent::Camera_Updated, 6.88 ms
+[2018-01-30 21:40:24]	 ,    Civ6App_UpdateFrame, 122.82 ms
+[2018-01-30 21:40:24]	 ,----- FRAME: 73397 time: 130.63ms Moving avg: 108.57ms 2 frames since last 
+[2018-01-30 21:40:24]	 ,    Civ6App_UpdateFrame, 131.71 ms
+[2018-01-30 21:40:24]	 ,----- FRAME: 73398 time: 136.63ms Moving avg: 109.29ms 2 frames since last 
+[2018-01-30 21:40:24]	 ,    Civ6App_UpdateFrame, 127.03 ms
+[2018-01-30 21:40:24]	 ,----- FRAME: 73399 time: 127.84ms Moving avg: 108.59ms 2 frames since last 
+[2018-01-30 21:40:24]	 ,            LocalMachineEvent::Camera_Updated, 6.29 ms
+[2018-01-30 21:40:24]	 ,    Civ6App_UpdateFrame, 112.89 ms
+[2018-01-30 21:40:24]	 ,----- FRAME: 73400 time: 120.16ms Moving avg: 108.72ms 2 frames since last 
+[2018-01-30 21:40:25]	 ,    Civ6App_UpdateFrame, 169.68 ms
+[2018-01-30 21:40:25]	 ,----- FRAME: 73401 time: 170.41ms Moving avg: 109.78ms 2 frames since last 
+[2018-01-30 21:40:25]	 ,            LocalMachineEvent::Camera_Updated, 6.63 ms
+[2018-01-30 21:40:25]	 ,    Civ6App_UpdateFrame, 129.26 ms
+[2018-01-30 21:40:25]	 ,----- FRAME: 73402 time: 136.76ms Moving avg: 110.15ms 2 frames since last 
+[2018-01-30 21:40:25]	 ,    Civ6App_UpdateFrame, 135.27 ms
+[2018-01-30 21:40:25]	 ,----- FRAME: 73403 time: 141.29ms Moving avg: 110.80ms 2 frames since last 
+[2018-01-30 21:40:25]	 ,    Civ6App_UpdateFrame, 124.25 ms
+[2018-01-30 21:40:25]	 ,----- FRAME: 73404 time: 124.97ms Moving avg: 110.72ms 2 frames since last 
+[2018-01-30 21:40:25]	 ,    Civ6App_UpdateFrame, 149.43 ms
+[2018-01-30 21:40:25]	 ,----- FRAME: 73405 time: 150.48ms Moving avg: 111.53ms 2 frames since last 
+[2018-01-30 21:40:25]	 ,    Civ6App_UpdateFrame, 151.39 ms
+[2018-01-30 21:40:25]	 ,----- FRAME: 73406 time: 152.33ms Moving avg: 112.42ms 2 frames since last 
+[2018-01-30 21:40:26]	 ,    Civ6App_UpdateFrame, 150.53 ms
+[2018-01-30 21:40:26]	 ,----- FRAME: 73407 time: 151.30ms Moving avg: 113.03ms 2 frames since last 
+[2018-01-30 21:40:26]	 ,    Civ6App_UpdateFrame, 125.87 ms
+[2018-01-30 21:40:26]	 ,----- FRAME: 73408 time: 126.60ms Moving avg: 113.48ms 2 frames since last 
+[2018-01-30 21:40:26]	 ,    Civ6App_UpdateFrame, 137.51 ms
+[2018-01-30 21:40:26]	 ,----- FRAME: 73409 time: 138.37ms Moving avg: 113.64ms 2 frames since last 
+[2018-01-30 21:40:26]	 ,            LocalMachineEvent::Camera_Updated, 6.69 ms
+[2018-01-30 21:40:26]	 ,    Civ6App_UpdateFrame, 127.05 ms
+[2018-01-30 21:40:26]	 ,----- FRAME: 73410 time: 134.68ms Moving avg: 114.08ms 2 frames since last 
+[2018-01-30 21:40:26]	 ,        Civ6App_Graphics_Render, 109.08 ms
+[2018-01-30 21:40:26]	 ,    Civ6App_UpdateFrame, 153.07 ms
+[2018-01-30 21:40:26]	 ,----- FRAME: 73411 time: 154.20ms Moving avg: 114.86ms 2 frames since last 
+[2018-01-30 21:40:26]	 ,    Civ6App_UpdateFrame, 126.05 ms
+[2018-01-30 21:40:26]	 ,----- FRAME: 73412 time: 131.75ms Moving avg: 115.41ms 2 frames since last 
+[2018-01-30 21:40:26]	 ,    Civ6App_UpdateFrame, 122.63 ms
+[2018-01-30 21:40:26]	 ,----- FRAME: 73413 time: 127.20ms Moving avg: 115.91ms 2 frames since last 
+[2018-01-30 21:40:27]	 ,    Civ6App_UpdateFrame, 117.06 ms
+[2018-01-30 21:40:27]	 ,----- FRAME: 73414 time: 117.85ms Moving avg: 116.28ms 2 frames since last 
+[2018-01-30 21:40:27]	 ,    Civ6App_UpdateFrame, 126.08 ms
+[2018-01-30 21:40:27]	 ,----- FRAME: 73415 time: 126.87ms Moving avg: 116.64ms 2 frames since last 
+[2018-01-30 21:40:27]	 ,    Civ6App_UpdateFrame, 111.08 ms
+[2018-01-30 21:40:27]	 ,----- FRAME: 73416 time: 111.89ms Moving avg: 116.85ms 2 frames since last 
+[2018-01-30 21:40:27]	 ,    Civ6App_UpdateFrame, 113.08 ms
+[2018-01-30 21:40:27]	 ,----- FRAME: 73417 time: 113.79ms Moving avg: 116.80ms 2 frames since last 
+[2018-01-30 21:40:27]	 ,    Civ6App_UpdateFrame, 142.09 ms
+[2018-01-30 21:40:27]	 ,----- FRAME: 73418 time: 142.82ms Moving avg: 117.56ms 2 frames since last 
+[2018-01-30 21:40:27]	 ,    Civ6App_UpdateFrame, 140.67 ms
+[2018-01-30 21:40:27]	 ,----- FRAME: 73419 time: 141.42ms Moving avg: 118.27ms 2 frames since last 
+[2018-01-30 21:40:27]	 ,    Civ6App_UpdateFrame, 117.21 ms
+[2018-01-30 21:40:27]	 ,----- FRAME: 73420 time: 117.99ms Moving avg: 118.60ms 2 frames since last 
+[2018-01-30 21:40:27]	 ,    Civ6App_UpdateFrame, 113.63 ms
+[2018-01-30 21:40:27]	 ,----- FRAME: 73421 time: 114.42ms Moving avg: 118.72ms 2 frames since last 
+[2018-01-30 21:40:27]	 ,    Civ6App_UpdateFrame, 113.08 ms
+[2018-01-30 21:40:27]	 ,----- FRAME: 73422 time: 113.84ms Moving avg: 119.08ms 2 frames since last 
+[2018-01-30 21:40:28]	 ,    Civ6App_UpdateFrame, 128.53 ms
+[2018-01-30 21:40:28]	 ,----- FRAME: 73423 time: 129.22ms Moving avg: 119.51ms 2 frames since last 
+[2018-01-30 21:40:28]	 ,    Civ6App_UpdateFrame, 115.38 ms
+[2018-01-30 21:40:28]	 ,----- FRAME: 73424 time: 116.09ms Moving avg: 118.89ms 2 frames since last 
+[2018-01-30 21:40:28]	 ,    Civ6App_UpdateFrame, 112.83 ms
+[2018-01-30 21:40:28]	 ,----- FRAME: 73425 time: 113.55ms Moving avg: 118.99ms 2 frames since last 
+[2018-01-30 21:40:28]	 ,    Civ6App_UpdateFrame, 114.47 ms
+[2018-01-30 21:40:28]	 ,----- FRAME: 73426 time: 115.19ms Moving avg: 119.09ms 2 frames since last 
+[2018-01-30 21:40:28]	 ,    Civ6App_UpdateFrame, 122.67 ms
+[2018-01-30 21:40:28]	 ,----- FRAME: 73427 time: 123.48ms Moving avg: 119.50ms 2 frames since last 
+[2018-01-30 21:40:28]	 ,    Civ6App_UpdateFrame, 125.98 ms
+[2018-01-30 21:40:28]	 ,----- FRAME: 73428 time: 127.37ms Moving avg: 119.56ms 2 frames since last 
+[2018-01-30 21:40:28]	 ,    Civ6App_UpdateFrame, 113.96 ms
+[2018-01-30 21:40:28]	 ,----- FRAME: 73429 time: 114.63ms Moving avg: 119.77ms 2 frames since last 
+[2018-01-30 21:40:28]	 ,    Civ6App_UpdateFrame, 117.14 ms
+[2018-01-30 21:40:28]	 ,----- FRAME: 73430 time: 117.89ms Moving avg: 120.01ms 2 frames since last 
+[2018-01-30 21:40:29]	 ,    Civ6App_UpdateFrame, 146.20 ms
+[2018-01-30 21:40:29]	 ,----- FRAME: 73431 time: 146.98ms Moving avg: 120.79ms 2 frames since last 
+[2018-01-30 21:40:29]	 ,    Civ6App_UpdateFrame, 117.40 ms
+[2018-01-30 21:40:29]	 ,----- FRAME: 73432 time: 118.18ms Moving avg: 121.16ms 2 frames since last 
+[2018-01-30 21:40:29]	 ,    Civ6App_UpdateFrame, 113.67 ms
+[2018-01-30 21:40:29]	 ,----- FRAME: 73433 time: 114.38ms Moving avg: 121.46ms 2 frames since last 
+[2018-01-30 21:40:29]	 ,    Civ6App_UpdateFrame, 114.58 ms
+[2018-01-30 21:40:29]	 ,----- FRAME: 73434 time: 115.26ms Moving avg: 121.74ms 2 frames since last 
+[2018-01-30 21:40:29]	 ,    Civ6App_UpdateFrame, 112.77 ms
+[2018-01-30 21:40:29]	 ,----- FRAME: 73435 time: 113.54ms Moving avg: 122.00ms 2 frames since last 
+[2018-01-30 21:40:29]	 ,    Civ6App_UpdateFrame, 120.52 ms
+[2018-01-30 21:40:29]	 ,----- FRAME: 73436 time: 121.25ms Moving avg: 122.08ms 2 frames since last 
+[2018-01-30 21:40:29]	 ,    Civ6App_UpdateFrame, 123.71 ms
+[2018-01-30 21:40:29]	 ,----- FRAME: 73437 time: 124.41ms Moving avg: 122.14ms 2 frames since last 
+[2018-01-30 21:40:29]	 ,    Civ6App_UpdateFrame, 133.10 ms
+[2018-01-30 21:40:29]	 ,----- FRAME: 73438 time: 133.76ms Moving avg: 122.15ms 2 frames since last 
+[2018-01-30 21:40:30]	 ,    Civ6App_UpdateFrame, 135.53 ms
+[2018-01-30 21:40:30]	 ,----- FRAME: 73439 time: 136.30ms Moving avg: 122.52ms 2 frames since last 
+[2018-01-30 21:40:30]	 ,    Civ6App_UpdateFrame, 119.47 ms
+[2018-01-30 21:40:30]	 ,----- FRAME: 73440 time: 120.20ms Moving avg: 122.39ms 2 frames since last 
+[2018-01-30 21:40:30]	 ,    Civ6App_UpdateFrame, 110.06 ms
+[2018-01-30 21:40:30]	 ,----- FRAME: 73441 time: 110.87ms Moving avg: 122.59ms 2 frames since last 
+[2018-01-30 21:40:30]	 ,    Civ6App_UpdateFrame, 113.59 ms
+[2018-01-30 21:40:30]	 ,----- FRAME: 73442 time: 114.27ms Moving avg: 122.86ms 2 frames since last 
+[2018-01-30 21:40:30]	 ,    Civ6App_UpdateFrame, 111.52 ms
+[2018-01-30 21:40:30]	 ,----- FRAME: 73443 time: 112.22ms Moving avg: 123.10ms 2 frames since last 
+[2018-01-30 21:40:30]	 ,    Civ6App_UpdateFrame, 133.39 ms
+[2018-01-30 21:40:30]	 ,----- FRAME: 73444 time: 134.14ms Moving avg: 123.58ms 2 frames since last 
+[2018-01-30 21:40:30]	 ,    Civ6App_UpdateFrame, 116.82 ms
+[2018-01-30 21:40:30]	 ,----- FRAME: 73445 time: 117.58ms Moving avg: 123.53ms 2 frames since last 
+[2018-01-30 21:40:30]	 ,    Civ6App_UpdateFrame, 112.49 ms
+[2018-01-30 21:40:30]	 ,----- FRAME: 73446 time: 113.18ms Moving avg: 123.75ms 2 frames since last 
+[2018-01-30 21:40:31]	 ,    Civ6App_UpdateFrame, 124.05 ms
+[2018-01-30 21:40:31]	 ,----- FRAME: 73447 time: 124.79ms Moving avg: 124.21ms 2 frames since last 
+[2018-01-30 21:40:31]	 ,    Civ6App_UpdateFrame, 117.88 ms
+[2018-01-30 21:40:31]	 ,----- FRAME: 73448 time: 118.62ms Moving avg: 124.56ms 2 frames since last 
+[2018-01-30 21:40:31]	 ,    Civ6App_UpdateFrame, 116.99 ms
+[2018-01-30 21:40:31]	 ,----- FRAME: 73449 time: 117.72ms Moving avg: 124.75ms 2 frames since last 
+[2018-01-30 21:40:31]	 ,    Civ6App_UpdateFrame, 115.26 ms
+[2018-01-30 21:40:31]	 ,----- FRAME: 73450 time: 116.07ms Moving avg: 125.03ms 2 frames since last 
+[2018-01-30 21:40:31]	 ,    Civ6App_UpdateFrame, 115.34 ms
+[2018-01-30 21:40:31]	 ,----- FRAME: 73451 time: 116.14ms Moving avg: 125.25ms 2 frames since last 
+[2018-01-30 21:40:31]	 ,    Civ6App_UpdateFrame, 119.95 ms
+[2018-01-30 21:40:31]	 ,----- FRAME: 73452 time: 120.67ms Moving avg: 125.33ms 2 frames since last 
+[2018-01-30 21:40:31]	 ,    Civ6App_UpdateFrame, 117.37 ms
+[2018-01-30 21:40:31]	 ,----- FRAME: 73453 time: 118.12ms Moving avg: 125.71ms 2 frames since last 
+[2018-01-30 21:40:31]	 ,    Civ6App_UpdateFrame, 114.05 ms
+[2018-01-30 21:40:31]	 ,----- FRAME: 73454 time: 114.78ms Moving avg: 125.90ms 2 frames since last 
+[2018-01-30 21:40:31]	 ,    Civ6App_UpdateFrame, 115.97 ms
+[2018-01-30 21:40:31]	 ,----- FRAME: 73455 time: 116.70ms Moving avg: 126.17ms 2 frames since last 
+[2018-01-30 21:40:32]	 ,    Civ6App_UpdateFrame, 125.82 ms
+[2018-01-30 21:40:32]	 ,----- FRAME: 73456 time: 126.52ms Moving avg: 126.59ms 2 frames since last 
+[2018-01-30 21:40:32]	 ,    Civ6App_UpdateFrame, 120.80 ms
+[2018-01-30 21:40:32]	 ,----- FRAME: 73457 time: 121.47ms Moving avg: 125.82ms 2 frames since last 
+[2018-01-30 21:40:32]	 ,    Civ6App_UpdateFrame, 113.68 ms
+[2018-01-30 21:40:32]	 ,----- FRAME: 73458 time: 114.38ms Moving avg: 125.78ms 2 frames since last 
+[2018-01-30 21:40:32]	 ,    Civ6App_UpdateFrame, 111.32 ms
+[2018-01-30 21:40:32]	 ,----- FRAME: 73459 time: 112.01ms Moving avg: 125.28ms 2 frames since last 
+[2018-01-30 21:40:32]	 ,    Civ6App_UpdateFrame, 112.98 ms
+[2018-01-30 21:40:32]	 ,----- FRAME: 73460 time: 113.67ms Moving avg: 125.19ms 2 frames since last 
+[2018-01-30 21:40:32]	 ,    Civ6App_UpdateFrame, 142.56 ms
+[2018-01-30 21:40:32]	 ,----- FRAME: 73461 time: 143.30ms Moving avg: 125.39ms 2 frames since last 
+[2018-01-30 21:40:32]	 ,    Civ6App_UpdateFrame, 116.71 ms
+[2018-01-30 21:40:32]	 ,----- FRAME: 73462 time: 117.46ms Moving avg: 125.09ms 2 frames since last 
+[2018-01-30 21:40:32]	 ,    Civ6App_UpdateFrame, 116.77 ms
+[2018-01-30 21:40:32]	 ,----- FRAME: 73463 time: 117.53ms Moving avg: 124.93ms 2 frames since last 
+[2018-01-30 21:40:33]	 ,    Civ6App_UpdateFrame, 149.53 ms
+[2018-01-30 21:40:33]	 ,----- FRAME: 73464 time: 150.27ms Moving avg: 125.40ms 2 frames since last 
+[2018-01-30 21:40:33]	 ,    Civ6App_UpdateFrame, 117.08 ms
+[2018-01-30 21:40:33]	 ,----- FRAME: 73465 time: 117.81ms Moving avg: 124.58ms 2 frames since last 
+[2018-01-30 21:40:33]	 ,    Civ6App_UpdateFrame, 116.81 ms
+[2018-01-30 21:40:33]	 ,----- FRAME: 73466 time: 117.56ms Moving avg: 124.28ms 2 frames since last 
+[2018-01-30 21:40:33]	 ,    Civ6App_UpdateFrame, 114.82 ms
+[2018-01-30 21:40:33]	 ,----- FRAME: 73467 time: 115.55ms Moving avg: 123.87ms 2 frames since last 
+[2018-01-30 21:40:33]	 ,    Civ6App_UpdateFrame, 117.68 ms
+[2018-01-30 21:40:33]	 ,----- FRAME: 73468 time: 118.47ms Moving avg: 123.77ms 2 frames since last 
+[2018-01-30 21:40:33]	 ,    Civ6App_UpdateFrame, 124.03 ms
+[2018-01-30 21:40:33]	 ,----- FRAME: 73469 time: 124.83ms Moving avg: 123.37ms 2 frames since last 
+[2018-01-30 21:40:33]	 ,    Civ6App_UpdateFrame, 119.78 ms
+[2018-01-30 21:40:33]	 ,----- FRAME: 73470 time: 120.62ms Moving avg: 122.88ms 2 frames since last 
+[2018-01-30 21:40:33]	 ,    Civ6App_UpdateFrame, 125.73 ms
+[2018-01-30 21:40:33]	 ,----- FRAME: 73471 time: 126.43ms Moving avg: 122.49ms 2 frames since last 
+[2018-01-30 21:40:34]	 ,    Civ6App_UpdateFrame, 124.86 ms
+[2018-01-30 21:40:34]	 ,----- FRAME: 73472 time: 125.58ms Moving avg: 122.47ms 2 frames since last 
+[2018-01-30 21:40:34]	 ,    Civ6App_UpdateFrame, 117.54 ms
+[2018-01-30 21:40:34]	 ,----- FRAME: 73473 time: 118.37ms Moving avg: 122.16ms 2 frames since last 
+[2018-01-30 21:40:34]	 ,    Civ6App_UpdateFrame, 111.55 ms
+[2018-01-30 21:40:34]	 ,----- FRAME: 73474 time: 112.34ms Moving avg: 121.81ms 2 frames since last 
+[2018-01-30 21:40:34]	 ,    Civ6App_UpdateFrame, 115.60 ms
+[2018-01-30 21:40:34]	 ,----- FRAME: 73475 time: 116.33ms Moving avg: 121.22ms 2 frames since last 
+[2018-01-30 21:40:34]	 ,    Civ6App_UpdateFrame, 113.79 ms
+[2018-01-30 21:40:34]	 ,----- FRAME: 73476 time: 114.53ms Moving avg: 120.95ms 2 frames since last 
+[2018-01-30 21:40:34]	 ,    Civ6App_UpdateFrame, 136.17 ms
+[2018-01-30 21:40:34]	 ,----- FRAME: 73477 time: 136.86ms Moving avg: 121.10ms 2 frames since last 
+[2018-01-30 21:40:34]	 ,    Civ6App_UpdateFrame, 127.72 ms
+[2018-01-30 21:40:34]	 ,----- FRAME: 73478 time: 128.41ms Moving avg: 121.26ms 2 frames since last 
+[2018-01-30 21:40:34]	 ,    Civ6App_UpdateFrame, 112.33 ms
+[2018-01-30 21:40:34]	 ,----- FRAME: 73479 time: 113.08ms Moving avg: 121.05ms 2 frames since last 
+[2018-01-30 21:40:35]	 ,    Civ6App_UpdateFrame, 113.17 ms
+[2018-01-30 21:40:35]	 ,----- FRAME: 73480 time: 113.95ms Moving avg: 121.08ms 2 frames since last 
+[2018-01-30 21:40:35]	 ,    Civ6App_UpdateFrame, 122.64 ms
+[2018-01-30 21:40:35]	 ,----- FRAME: 73481 time: 123.38ms Moving avg: 121.23ms 2 frames since last 
+[2018-01-30 21:40:35]	 ,    Civ6App_UpdateFrame, 111.41 ms
+[2018-01-30 21:40:35]	 ,----- FRAME: 73482 time: 112.09ms Moving avg: 120.75ms 2 frames since last 
+[2018-01-30 21:40:35]	 ,    Civ6App_UpdateFrame, 113.21 ms
+[2018-01-30 21:40:35]	 ,----- FRAME: 73483 time: 113.97ms Moving avg: 120.32ms 2 frames since last 
+[2018-01-30 21:40:35]	 ,    Civ6App_UpdateFrame, 130.76 ms
+[2018-01-30 21:40:35]	 ,----- FRAME: 73484 time: 131.59ms Moving avg: 120.53ms 2 frames since last 
+[2018-01-30 21:40:35]	 ,    Civ6App_UpdateFrame, 124.42 ms
+[2018-01-30 21:40:35]	 ,----- FRAME: 73485 time: 125.23ms Moving avg: 120.70ms 2 frames since last 
+[2018-01-30 21:40:35]	 ,    Civ6App_UpdateFrame, 116.98 ms
+[2018-01-30 21:40:35]	 ,----- FRAME: 73486 time: 117.75ms Moving avg: 120.76ms 2 frames since last 
+[2018-01-30 21:40:35]	 ,    Civ6App_UpdateFrame, 117.91 ms
+[2018-01-30 21:40:35]	 ,----- FRAME: 73487 time: 118.64ms Moving avg: 120.60ms 2 frames since last 
+[2018-01-30 21:40:35]	 ,    Civ6App_UpdateFrame, 117.60 ms
+[2018-01-30 21:40:35]	 ,----- FRAME: 73488 time: 118.32ms Moving avg: 120.63ms 2 frames since last 
+[2018-01-30 21:40:36]	 ,    Civ6App_UpdateFrame, 120.47 ms
+[2018-01-30 21:40:36]	 ,----- FRAME: 73489 time: 121.22ms Moving avg: 120.75ms 2 frames since last 
+[2018-01-30 21:40:36]	 ,    Civ6App_UpdateFrame, 114.82 ms
+[2018-01-30 21:40:36]	 ,----- FRAME: 73490 time: 115.51ms Moving avg: 120.76ms 2 frames since last 
+[2018-01-30 21:40:36]	 ,    Civ6App_UpdateFrame, 110.82 ms
+[2018-01-30 21:40:36]	 ,----- FRAME: 73491 time: 111.52ms Moving avg: 120.57ms 2 frames since last 
+[2018-01-30 21:40:36]	 ,    Civ6App_UpdateFrame, 112.19 ms
+[2018-01-30 21:40:36]	 ,----- FRAME: 73492 time: 112.86ms Moving avg: 120.35ms 2 frames since last 
+[2018-01-30 21:40:36]	 ,    Civ6App_UpdateFrame, 112.50 ms
+[2018-01-30 21:40:36]	 ,----- FRAME: 73493 time: 113.19ms Moving avg: 120.32ms 2 frames since last 
+[2018-01-30 21:40:36]	 ,    Civ6App_UpdateFrame, 120.92 ms
+[2018-01-30 21:40:36]	 ,----- FRAME: 73494 time: 121.60ms Moving avg: 120.38ms 2 frames since last 
+[2018-01-30 21:40:36]	 ,    Civ6App_UpdateFrame, 111.99 ms
+[2018-01-30 21:40:36]	 ,----- FRAME: 73495 time: 112.70ms Moving avg: 119.84ms 2 frames since last 
+[2018-01-30 21:40:36]	 ,    Civ6App_UpdateFrame, 111.61 ms
+[2018-01-30 21:40:36]	 ,----- FRAME: 73496 time: 112.30ms Moving avg: 119.75ms 2 frames since last 
+[2018-01-30 21:40:37]	 ,    Civ6App_UpdateFrame, 117.57 ms
+[2018-01-30 21:40:37]	 ,----- FRAME: 73497 time: 118.32ms Moving avg: 119.81ms 2 frames since last 
+[2018-01-30 21:40:37]	 ,    Civ6App_UpdateFrame, 158.28 ms
+[2018-01-30 21:40:37]	 ,----- FRAME: 73498 time: 158.98ms Moving avg: 120.50ms 2 frames since last 
+[2018-01-30 21:40:37]	 ,    Civ6App_UpdateFrame, 113.60 ms
+[2018-01-30 21:40:37]	 ,----- FRAME: 73499 time: 114.30ms Moving avg: 120.51ms 2 frames since last 
+[2018-01-30 21:40:37]	 ,    Civ6App_UpdateFrame, 110.75 ms
+[2018-01-30 21:40:37]	 ,----- FRAME: 73500 time: 111.47ms Moving avg: 120.36ms 2 frames since last 
+[2018-01-30 21:40:37]	 ,    Civ6App_UpdateFrame, 112.47 ms
+[2018-01-30 21:40:37]	 ,----- FRAME: 73501 time: 113.16ms Moving avg: 120.18ms 2 frames since last 
+[2018-01-30 21:40:37]	 ,    Civ6App_UpdateFrame, 128.68 ms
+[2018-01-30 21:40:37]	 ,----- FRAME: 73502 time: 129.39ms Moving avg: 120.11ms 2 frames since last 
+[2018-01-30 21:40:37]	 ,    Civ6App_UpdateFrame, 114.97 ms
+[2018-01-30 21:40:37]	 ,----- FRAME: 73503 time: 115.68ms Moving avg: 119.79ms 2 frames since last 
+[2018-01-30 21:40:37]	 ,    Civ6App_UpdateFrame, 124.07 ms
+[2018-01-30 21:40:37]	 ,----- FRAME: 73504 time: 124.82ms Moving avg: 119.86ms 2 frames since last 
+[2018-01-30 21:40:38]	 ,    Civ6App_UpdateFrame, 129.17 ms
+[2018-01-30 21:40:38]	 ,----- FRAME: 73505 time: 130.02ms Moving avg: 120.16ms 2 frames since last 
+[2018-01-30 21:40:38]	 ,    Civ6App_UpdateFrame, 138.92 ms
+[2018-01-30 21:40:38]	 ,----- FRAME: 73506 time: 140.76ms Moving avg: 120.58ms 2 frames since last 
+[2018-01-30 21:40:38]	 ,    Civ6App_UpdateFrame, 114.95 ms
+[2018-01-30 21:40:38]	 ,----- FRAME: 73507 time: 115.65ms Moving avg: 120.63ms 2 frames since last 
+[2018-01-30 21:40:38]	 ,    Civ6App_UpdateFrame, 115.12 ms
+[2018-01-30 21:40:38]	 ,----- FRAME: 73508 time: 115.83ms Moving avg: 120.34ms 2 frames since last 
+[2018-01-30 21:40:38]	 ,    Civ6App_UpdateFrame, 117.80 ms
+[2018-01-30 21:40:38]	 ,----- FRAME: 73509 time: 118.57ms Moving avg: 120.36ms 2 frames since last 
+[2018-01-30 21:40:38]	 ,    Civ6App_UpdateFrame, 145.35 ms
+[2018-01-30 21:40:38]	 ,----- FRAME: 73510 time: 146.13ms Moving avg: 120.87ms 2 frames since last 
+[2018-01-30 21:40:38]	 ,    Civ6App_UpdateFrame, 129.38 ms
+[2018-01-30 21:40:38]	 ,----- FRAME: 73511 time: 130.14ms Moving avg: 120.96ms 2 frames since last 
+[2018-01-30 21:40:38]	 ,    Civ6App_UpdateFrame, 111.56 ms
+[2018-01-30 21:40:38]	 ,----- FRAME: 73512 time: 112.30ms Moving avg: 120.86ms 2 frames since last 
+[2018-01-30 21:40:38]	 ,    Civ6App_UpdateFrame, 109.84 ms
+[2018-01-30 21:40:38]	 ,----- FRAME: 73513 time: 110.64ms Moving avg: 120.75ms 2 frames since last 
+[2018-01-30 21:40:39]	 ,    Civ6App_UpdateFrame, 125.37 ms
+[2018-01-30 21:40:39]	 ,----- FRAME: 73514 time: 126.14ms Moving avg: 120.91ms 2 frames since last 
+[2018-01-30 21:40:39]	 ,    Civ6App_UpdateFrame, 112.74 ms
+[2018-01-30 21:40:39]	 ,----- FRAME: 73515 time: 113.47ms Moving avg: 120.86ms 2 frames since last 
+[2018-01-30 21:40:39]	 ,    Civ6App_UpdateFrame, 109.90 ms
+[2018-01-30 21:40:39]	 ,----- FRAME: 73516 time: 110.58ms Moving avg: 120.71ms 2 frames since last 
+[2018-01-30 21:40:39]	 ,    Civ6App_UpdateFrame, 127.73 ms
+[2018-01-30 21:40:39]	 ,----- FRAME: 73517 time: 128.49ms Moving avg: 120.87ms 2 frames since last 
+[2018-01-30 21:40:39]	 ,    Civ6App_UpdateFrame, 132.06 ms
+[2018-01-30 21:40:39]	 ,----- FRAME: 73518 time: 132.87ms Moving avg: 121.15ms 2 frames since last 
+[2018-01-30 21:40:39]	 ,    Civ6App_UpdateFrame, 117.73 ms
+[2018-01-30 21:40:39]	 ,----- FRAME: 73519 time: 118.51ms Moving avg: 121.18ms 2 frames since last 
+[2018-01-30 21:40:39]	 ,    Civ6App_UpdateFrame, 110.97 ms
+[2018-01-30 21:40:39]	 ,----- FRAME: 73520 time: 111.65ms Moving avg: 120.95ms 2 frames since last 
+[2018-01-30 21:40:39]	 ,    Civ6App_UpdateFrame, 114.35 ms
+[2018-01-30 21:40:39]	 ,----- FRAME: 73521 time: 115.09ms Moving avg: 120.85ms 2 frames since last 
+[2018-01-30 21:40:40]	 ,    Civ6App_UpdateFrame, 126.22 ms
+[2018-01-30 21:40:40]	 ,----- FRAME: 73522 time: 126.97ms Moving avg: 121.04ms 2 frames since last 
+[2018-01-30 21:40:40]	 ,    Civ6App_UpdateFrame, 112.63 ms
+[2018-01-30 21:40:40]	 ,----- FRAME: 73523 time: 113.30ms Moving avg: 121.06ms 2 frames since last 
+[2018-01-30 21:40:40]	 ,    Civ6App_UpdateFrame, 111.76 ms
+[2018-01-30 21:40:40]	 ,----- FRAME: 73524 time: 112.44ms Moving avg: 121.04ms 2 frames since last 
+[2018-01-30 21:40:40]	 ,    Civ6App_UpdateFrame, 113.51 ms
+[2018-01-30 21:40:40]	 ,----- FRAME: 73525 time: 114.20ms Moving avg: 120.59ms 2 frames since last 
+[2018-01-30 21:40:40]	 ,    Civ6App_UpdateFrame, 112.64 ms
+[2018-01-30 21:40:40]	 ,----- FRAME: 73526 time: 113.43ms Moving avg: 120.53ms 2 frames since last 
+[2018-01-30 21:40:40]	 ,    Civ6App_UpdateFrame, 115.53 ms
+[2018-01-30 21:40:40]	 ,----- FRAME: 73527 time: 116.21ms Moving avg: 120.51ms 2 frames since last 
+[2018-01-30 21:40:40]	 ,    Civ6App_UpdateFrame, 111.13 ms
+[2018-01-30 21:40:40]	 ,----- FRAME: 73528 time: 111.86ms Moving avg: 119.91ms 2 frames since last 
+[2018-01-30 21:40:40]	 ,    Civ6App_UpdateFrame, 116.24 ms
+[2018-01-30 21:40:40]	 ,----- FRAME: 73529 time: 116.99ms Moving avg: 119.89ms 2 frames since last 
+[2018-01-30 21:40:41]	 ,    Civ6App_UpdateFrame, 124.04 ms
+[2018-01-30 21:40:41]	 ,----- FRAME: 73530 time: 125.11ms Moving avg: 120.01ms 2 frames since last 
+[2018-01-30 21:40:41]	 ,    Civ6App_UpdateFrame, 141.19 ms
+[2018-01-30 21:40:41]	 ,----- FRAME: 73531 time: 141.99ms Moving avg: 120.42ms 2 frames since last 
+[2018-01-30 21:40:41]	 ,    Civ6App_UpdateFrame, 116.63 ms
+[2018-01-30 21:40:41]	 ,----- FRAME: 73532 time: 117.39ms Moving avg: 120.41ms 2 frames since last 
+[2018-01-30 21:40:41]	 ,    Civ6App_UpdateFrame, 118.17 ms
+[2018-01-30 21:40:41]	 ,----- FRAME: 73533 time: 118.90ms Moving avg: 120.31ms 2 frames since last 
+[2018-01-30 21:40:41]	 ,    Civ6App_UpdateFrame, 117.79 ms
+[2018-01-30 21:40:41]	 ,----- FRAME: 73534 time: 118.55ms Moving avg: 120.28ms 2 frames since last 
+[2018-01-30 21:40:41]	 ,    Civ6App_UpdateFrame, 131.68 ms
+[2018-01-30 21:40:41]	 ,----- FRAME: 73535 time: 132.42ms Moving avg: 120.38ms 2 frames since last 
+[2018-01-30 21:40:41]	 ,    Civ6App_UpdateFrame, 112.43 ms
+[2018-01-30 21:40:41]	 ,----- FRAME: 73536 time: 113.10ms Moving avg: 120.18ms 2 frames since last 
+[2018-01-30 21:40:41]	 ,    Civ6App_UpdateFrame, 126.23 ms
+[2018-01-30 21:40:41]	 ,----- FRAME: 73537 time: 127.06ms Moving avg: 120.32ms 2 frames since last 
+[2018-01-30 21:40:41]	 ,        Civ6App_UpdateFrame, 122.83 ms
+[2018-01-30 21:40:41]	 ,----- FRAME: 73538 time: 123.66ms Moving avg: 120.49ms 2 frames since last 
+[2018-01-30 21:40:42]	 ,    Civ6App_UpdateFrame, 127.82 ms
+[2018-01-30 21:40:42]	 ,----- FRAME: 73539 time: 128.92ms Moving avg: 120.69ms 2 frames since last 
+[2018-01-30 21:40:42]	 ,    Civ6App_UpdateFrame, 116.25 ms
+[2018-01-30 21:40:42]	 ,----- FRAME: 73540 time: 117.07ms Moving avg: 120.73ms 2 frames since last 
+[2018-01-30 21:40:42]	 ,    Civ6App_UpdateFrame, 115.03 ms
+[2018-01-30 21:40:42]	 ,----- FRAME: 73541 time: 115.79ms Moving avg: 120.40ms 2 frames since last 
+[2018-01-30 21:40:42]	 ,    Civ6App_UpdateFrame, 114.02 ms
+[2018-01-30 21:40:42]	 ,----- FRAME: 73542 time: 114.77ms Moving avg: 120.19ms 2 frames since last 
+[2018-01-30 21:40:42]	 ,    Civ6App_UpdateFrame, 121.31 ms
+[2018-01-30 21:40:42]	 ,----- FRAME: 73543 time: 122.12ms Moving avg: 120.33ms 2 frames since last 
+[2018-01-30 21:40:42]	 ,    Civ6App_UpdateFrame, 151.33 ms
+[2018-01-30 21:40:42]	 ,----- FRAME: 73544 time: 152.18ms Moving avg: 120.93ms 2 frames since last 
+[2018-01-30 21:40:42]	 ,    Civ6App_UpdateFrame, 113.20 ms
+[2018-01-30 21:40:42]	 ,----- FRAME: 73545 time: 113.98ms Moving avg: 120.78ms 2 frames since last 
+[2018-01-30 21:40:42]	 ,    Civ6App_UpdateFrame, 116.35 ms
+[2018-01-30 21:40:42]	 ,----- FRAME: 73546 time: 117.04ms Moving avg: 120.86ms 2 frames since last 
+[2018-01-30 21:40:43]	 ,    Civ6App_UpdateFrame, 133.51 ms
+[2018-01-30 21:40:43]	 ,----- FRAME: 73547 time: 134.29ms Moving avg: 121.17ms 2 frames since last 
+[2018-01-30 21:40:43]	 ,    Civ6App_UpdateFrame, 130.02 ms
+[2018-01-30 21:40:43]	 ,----- FRAME: 73548 time: 130.82ms Moving avg: 121.16ms 2 frames since last 
+[2018-01-30 21:40:43]	 ,    Civ6App_UpdateFrame, 124.65 ms
+[2018-01-30 21:40:43]	 ,----- FRAME: 73549 time: 125.49ms Moving avg: 121.17ms 2 frames since last 
+[2018-01-30 21:40:43]	 ,        Civ6App_Graphics_Render, 106.13 ms
+[2018-01-30 21:40:43]	 ,    Civ6App_UpdateFrame, 161.16 ms
+[2018-01-30 21:40:43]	 ,----- FRAME: 73550 time: 161.90ms Moving avg: 121.86ms 2 frames since last 
+[2018-01-30 21:40:43]	 ,    Civ6App_UpdateFrame, 118.49 ms
+[2018-01-30 21:40:43]	 ,----- FRAME: 73551 time: 119.30ms Moving avg: 121.87ms 2 frames since last 
+[2018-01-30 21:40:43]	 ,    Civ6App_UpdateFrame, 114.02 ms
+[2018-01-30 21:40:43]	 ,----- FRAME: 73552 time: 114.78ms Moving avg: 121.81ms 2 frames since last 
+[2018-01-30 21:40:43]	 ,    Civ6App_UpdateFrame, 114.45 ms
+[2018-01-30 21:40:43]	 ,----- FRAME: 73553 time: 115.12ms Moving avg: 121.72ms 2 frames since last 
+[2018-01-30 21:40:43]	 ,    Civ6App_UpdateFrame, 116.15 ms
+[2018-01-30 21:40:43]	 ,----- FRAME: 73554 time: 116.88ms Moving avg: 121.74ms 2 frames since last 
+[2018-01-30 21:40:44]	 ,    Civ6App_UpdateFrame, 121.48 ms
+[2018-01-30 21:40:44]	 ,----- FRAME: 73555 time: 122.18ms Moving avg: 121.90ms 2 frames since last 
+[2018-01-30 21:40:44]	 ,    Civ6App_UpdateFrame, 114.11 ms
+[2018-01-30 21:40:44]	 ,----- FRAME: 73556 time: 114.83ms Moving avg: 121.93ms 2 frames since last 
+[2018-01-30 21:40:44]	 ,    Civ6App_UpdateFrame, 113.21 ms
+[2018-01-30 21:40:44]	 ,----- FRAME: 73557 time: 113.92ms Moving avg: 121.95ms 2 frames since last 
+[2018-01-30 21:40:44]	 ,    Civ6App_UpdateFrame, 112.37 ms
+[2018-01-30 21:40:44]	 ,----- FRAME: 73558 time: 113.13ms Moving avg: 121.81ms 2 frames since last 
+[2018-01-30 21:40:44]	 ,    Civ6App_UpdateFrame, 121.77 ms
+[2018-01-30 21:40:44]	 ,----- FRAME: 73559 time: 122.57ms Moving avg: 121.97ms 2 frames since last 
+[2018-01-30 21:40:44]	 ,    Civ6App_UpdateFrame, 134.50 ms
+[2018-01-30 21:40:44]	 ,----- FRAME: 73560 time: 135.30ms Moving avg: 122.33ms 2 frames since last 
+[2018-01-30 21:40:44]	 ,    Civ6App_UpdateFrame, 115.55 ms
+[2018-01-30 21:40:44]	 ,----- FRAME: 73561 time: 116.34ms Moving avg: 122.30ms 2 frames since last 
+[2018-01-30 21:40:44]	 ,    Civ6App_UpdateFrame, 116.42 ms
+[2018-01-30 21:40:44]	 ,----- FRAME: 73562 time: 117.17ms Moving avg: 121.64ms 2 frames since last 
+[2018-01-30 21:40:45]	 ,    Civ6App_UpdateFrame, 129.36 ms
+[2018-01-30 21:40:45]	 ,----- FRAME: 73563 time: 130.07ms Moving avg: 121.89ms 2 frames since last 
+[2018-01-30 21:40:45]	 ,    Civ6App_UpdateFrame, 114.50 ms
+[2018-01-30 21:40:45]	 ,----- FRAME: 73564 time: 115.24ms Moving avg: 121.95ms 2 frames since last 
+[2018-01-30 21:40:45]	 ,    Civ6App_UpdateFrame, 116.95 ms
+[2018-01-30 21:40:45]	 ,----- FRAME: 73565 time: 117.68ms Moving avg: 122.02ms 2 frames since last 
+[2018-01-30 21:40:45]	 ,    Civ6App_UpdateFrame, 116.46 ms
+[2018-01-30 21:40:45]	 ,----- FRAME: 73566 time: 117.24ms Moving avg: 121.83ms 2 frames since last 
+[2018-01-30 21:40:45]	 ,    Civ6App_UpdateFrame, 118.00 ms
+[2018-01-30 21:40:45]	 ,----- FRAME: 73567 time: 118.77ms Moving avg: 121.88ms 2 frames since last 
+[2018-01-30 21:40:45]	 ,    Civ6App_UpdateFrame, 126.15 ms
+[2018-01-30 21:40:45]	 ,----- FRAME: 73568 time: 126.90ms Moving avg: 121.91ms 2 frames since last 
+[2018-01-30 21:40:45]	 ,    Civ6App_UpdateFrame, 110.21 ms
+[2018-01-30 21:40:45]	 ,----- FRAME: 73569 time: 111.01ms Moving avg: 121.61ms 2 frames since last 
+[2018-01-30 21:40:45]	 ,    Civ6App_UpdateFrame, 113.23 ms
+[2018-01-30 21:40:45]	 ,----- FRAME: 73570 time: 114.00ms Moving avg: 121.19ms 2 frames since last 
+[2018-01-30 21:40:46]	 ,    Civ6App_UpdateFrame, 127.98 ms
+[2018-01-30 21:40:46]	 ,----- FRAME: 73571 time: 128.74ms Moving avg: 121.40ms 2 frames since last 
+[2018-01-30 21:40:46]	 ,    Civ6App_UpdateFrame, 110.39 ms
+[2018-01-30 21:40:46]	 ,----- FRAME: 73572 time: 111.18ms Moving avg: 121.33ms 2 frames since last 
+[2018-01-30 21:40:46]	 ,    Civ6App_UpdateFrame, 115.10 ms
+[2018-01-30 21:40:46]	 ,----- FRAME: 73573 time: 115.82ms Moving avg: 121.28ms 2 frames since last 
+[2018-01-30 21:40:46]	 ,    Civ6App_UpdateFrame, 111.01 ms
+[2018-01-30 21:40:46]	 ,----- FRAME: 73574 time: 111.81ms Moving avg: 120.75ms 2 frames since last 
+[2018-01-30 21:40:46]	 ,    Civ6App_UpdateFrame, 112.72 ms
+[2018-01-30 21:40:46]	 ,----- FRAME: 73575 time: 113.45ms Moving avg: 120.49ms 2 frames since last 
+[2018-01-30 21:40:46]	 ,    Civ6App_UpdateFrame, 127.41 ms
+[2018-01-30 21:40:46]	 ,----- FRAME: 73576 time: 128.18ms Moving avg: 120.73ms 2 frames since last 
+[2018-01-30 21:40:46]	 ,    Civ6App_UpdateFrame, 139.96 ms
+[2018-01-30 21:40:46]	 ,----- FRAME: 73577 time: 140.75ms Moving avg: 121.20ms 2 frames since last 
+[2018-01-30 21:40:46]	 ,    Civ6App_UpdateFrame, 111.80 ms
+[2018-01-30 21:40:46]	 ,----- FRAME: 73578 time: 112.53ms Moving avg: 120.99ms 2 frames since last 
+[2018-01-30 21:40:46]	 ,    Civ6App_UpdateFrame, 112.71 ms
+[2018-01-30 21:40:46]	 ,----- FRAME: 73579 time: 113.38ms Moving avg: 120.99ms 2 frames since last 
+[2018-01-30 21:40:47]	 ,    Civ6App_UpdateFrame, 119.71 ms
+[2018-01-30 21:40:47]	 ,----- FRAME: 73580 time: 120.38ms Moving avg: 121.14ms 2 frames since last 
+[2018-01-30 21:40:47]	 ,    Civ6App_UpdateFrame, 118.79 ms
+[2018-01-30 21:40:47]	 ,----- FRAME: 73581 time: 119.51ms Moving avg: 121.00ms 2 frames since last 
+[2018-01-30 21:40:47]	 ,    Civ6App_UpdateFrame, 117.19 ms
+[2018-01-30 21:40:47]	 ,----- FRAME: 73582 time: 117.92ms Moving avg: 120.77ms 2 frames since last 
+[2018-01-30 21:40:47]	 ,    Civ6App_UpdateFrame, 134.87 ms
+[2018-01-30 21:40:47]	 ,----- FRAME: 73583 time: 135.57ms Moving avg: 121.04ms 2 frames since last 
+[2018-01-30 21:40:47]	 ,    Civ6App_UpdateFrame, 136.55 ms
+[2018-01-30 21:40:47]	 ,----- FRAME: 73584 time: 137.29ms Moving avg: 121.44ms 2 frames since last 
+[2018-01-30 21:40:47]	 ,    Civ6App_UpdateFrame, 118.45 ms
+[2018-01-30 21:40:47]	 ,----- FRAME: 73585 time: 119.19ms Moving avg: 121.50ms 2 frames since last 
+[2018-01-30 21:40:47]	 ,    Civ6App_UpdateFrame, 115.09 ms
+[2018-01-30 21:40:47]	 ,----- FRAME: 73586 time: 115.79ms Moving avg: 121.33ms 2 frames since last 
+[2018-01-30 21:40:47]	 ,    Civ6App_UpdateFrame, 116.94 ms
+[2018-01-30 21:40:47]	 ,----- FRAME: 73587 time: 117.64ms Moving avg: 121.39ms 2 frames since last 
+[2018-01-30 21:40:48]	 ,    Civ6App_UpdateFrame, 122.96 ms
+[2018-01-30 21:40:48]	 ,----- FRAME: 73588 time: 123.72ms Moving avg: 121.57ms 2 frames since last 
+[2018-01-30 21:40:48]	 ,    Civ6App_UpdateFrame, 123.68 ms
+[2018-01-30 21:40:48]	 ,----- FRAME: 73589 time: 124.44ms Moving avg: 121.73ms 2 frames since last 
+[2018-01-30 21:40:48]	 ,    Civ6App_UpdateFrame, 115.06 ms
+[2018-01-30 21:40:48]	 ,----- FRAME: 73590 time: 115.79ms Moving avg: 121.77ms 2 frames since last 
+[2018-01-30 21:40:48]	 ,    Civ6App_UpdateFrame, 111.78 ms
+[2018-01-30 21:40:48]	 ,----- FRAME: 73591 time: 112.50ms Moving avg: 121.71ms 2 frames since last 
+[2018-01-30 21:40:48]	 ,    Civ6App_UpdateFrame, 118.40 ms
+[2018-01-30 21:40:48]	 ,----- FRAME: 73592 time: 119.10ms Moving avg: 121.82ms 2 frames since last 
+[2018-01-30 21:40:48]	 ,    Civ6App_UpdateFrame, 138.61 ms
+[2018-01-30 21:40:48]	 ,----- FRAME: 73593 time: 139.35ms Moving avg: 122.17ms 2 frames since last 
+[2018-01-30 21:40:48]	 ,    Civ6App_UpdateFrame, 111.98 ms
+[2018-01-30 21:40:48]	 ,----- FRAME: 73594 time: 112.74ms Moving avg: 121.98ms 2 frames since last 
+[2018-01-30 21:40:48]	 ,    Civ6App_UpdateFrame, 115.50 ms
+[2018-01-30 21:40:48]	 ,----- FRAME: 73595 time: 116.27ms Moving avg: 121.58ms 2 frames since last 
+[2018-01-30 21:40:49]	 ,    Civ6App_UpdateFrame, 129.34 ms
+[2018-01-30 21:40:49]	 ,----- FRAME: 73596 time: 130.15ms Moving avg: 121.78ms 2 frames since last 
+[2018-01-30 21:40:49]	 ,    Civ6App_UpdateFrame, 114.32 ms
+[2018-01-30 21:40:49]	 ,----- FRAME: 73597 time: 115.04ms Moving avg: 121.72ms 2 frames since last 
+[2018-01-30 21:40:49]	 ,    Civ6App_UpdateFrame, 110.63 ms
+[2018-01-30 21:40:49]	 ,----- FRAME: 73598 time: 111.32ms Moving avg: 121.60ms 2 frames since last 
+[2018-01-30 21:40:49]	 ,    Civ6App_UpdateFrame, 110.95 ms
+[2018-01-30 21:40:49]	 ,----- FRAME: 73599 time: 111.62ms Moving avg: 121.28ms 2 frames since last 
+[2018-01-30 21:40:49]	 ,Civ6App_UpdateFrame, 115.57 ms
+[2018-01-30 21:40:49]	 ,----- FRAME: 73600 time: 116.31ms Moving avg: 121.33ms 2 frames since last 
+[2018-01-30 21:40:49]	 ,    Civ6App_UpdateFrame, 119.26 ms
+[2018-01-30 21:40:49]	 ,----- FRAME: 73601 time: 119.98ms Moving avg: 121.22ms 2 frames since last 
+[2018-01-30 21:40:49]	 ,    Civ6App_UpdateFrame, 112.73 ms
+[2018-01-30 21:40:49]	 ,----- FRAME: 73602 time: 113.53ms Moving avg: 121.06ms 2 frames since last 
+[2018-01-30 21:40:49]	 ,    Civ6App_UpdateFrame, 128.35 ms
+[2018-01-30 21:40:49]	 ,----- FRAME: 73603 time: 129.04ms Moving avg: 121.06ms 2 frames since last 
+[2018-01-30 21:40:49]	 ,    Civ6App_UpdateFrame, 120.58 ms
+[2018-01-30 21:40:49]	 ,----- FRAME: 73604 time: 121.31ms Moving avg: 121.13ms 2 frames since last 
+[2018-01-30 21:40:50]	 ,    Civ6App_UpdateFrame, 121.46 ms
+[2018-01-30 21:40:50]	 ,----- FRAME: 73605 time: 122.23ms Moving avg: 121.23ms 2 frames since last 
+[2018-01-30 21:40:50]	 ,    Civ6App_UpdateFrame, 113.94 ms
+[2018-01-30 21:40:50]	 ,----- FRAME: 73606 time: 114.65ms Moving avg: 121.23ms 2 frames since last 
+[2018-01-30 21:40:50]	 ,    Civ6App_UpdateFrame, 121.64 ms
+[2018-01-30 21:40:50]	 ,----- FRAME: 73607 time: 122.38ms Moving avg: 121.23ms 2 frames since last 
+[2018-01-30 21:40:50]	 ,    Civ6App_UpdateFrame, 112.93 ms
+[2018-01-30 21:40:50]	 ,----- FRAME: 73608 time: 113.64ms Moving avg: 120.63ms 2 frames since last 
+[2018-01-30 21:40:50]	 ,    Civ6App_UpdateFrame, 131.67 ms
+[2018-01-30 21:40:50]	 ,----- FRAME: 73609 time: 132.39ms Moving avg: 120.92ms 2 frames since last 
+[2018-01-30 21:40:50]	 ,    Civ6App_UpdateFrame, 171.66 ms
+[2018-01-30 21:40:50]	 ,----- FRAME: 73610 time: 172.48ms Moving avg: 121.78ms 2 frames since last 
+[2018-01-30 21:40:50]	 ,    Civ6App_UpdateFrame, 114.06 ms
+[2018-01-30 21:40:50]	 ,----- FRAME: 73611 time: 114.80ms Moving avg: 121.48ms 2 frames since last 
+[2018-01-30 21:40:51]	 ,    Civ6App_UpdateFrame, 115.51 ms
+[2018-01-30 21:40:51]	 ,----- FRAME: 73612 time: 116.21ms Moving avg: 121.25ms 2 frames since last 
+[2018-01-30 21:40:51]	 ,    Civ6App_UpdateFrame, 118.93 ms
+[2018-01-30 21:40:51]	 ,----- FRAME: 73613 time: 119.64ms Moving avg: 121.16ms 2 frames since last 
+[2018-01-30 21:40:51]	 ,    Civ6App_UpdateFrame, 117.77 ms
+[2018-01-30 21:40:51]	 ,----- FRAME: 73614 time: 118.45ms Moving avg: 120.48ms 2 frames since last 
+[2018-01-30 21:40:51]	 ,    Civ6App_UpdateFrame, 115.08 ms
+[2018-01-30 21:40:51]	 ,----- FRAME: 73615 time: 115.82ms Moving avg: 120.43ms 2 frames since last 
+[2018-01-30 21:40:51]	 ,    Civ6App_UpdateFrame, 150.07 ms
+[2018-01-30 21:40:51]	 ,----- FRAME: 73616 time: 150.98ms Moving avg: 120.99ms 2 frames since last 
+[2018-01-30 21:40:51]	 ,    Civ6App_UpdateFrame, 134.55 ms
+[2018-01-30 21:40:51]	 ,----- FRAME: 73617 time: 135.34ms Moving avg: 121.31ms 2 frames since last 
+[2018-01-30 21:40:51]	 ,    Civ6App_UpdateFrame, 114.71 ms
+[2018-01-30 21:40:51]	 ,----- FRAME: 73618 time: 115.54ms Moving avg: 121.29ms 2 frames since last 
+[2018-01-30 21:40:51]	 ,    Civ6App_UpdateFrame, 112.83 ms
+[2018-01-30 21:40:51]	 ,----- FRAME: 73619 time: 113.63ms Moving avg: 121.15ms 2 frames since last 
+[2018-01-30 21:40:51]	 ,    Civ6App_UpdateFrame, 119.96 ms
+[2018-01-30 21:40:51]	 ,----- FRAME: 73620 time: 120.74ms Moving avg: 121.24ms 2 frames since last 
+[2018-01-30 21:40:52]	 ,    Civ6App_UpdateFrame, 128.56 ms
+[2018-01-30 21:40:52]	 ,----- FRAME: 73621 time: 129.34ms Moving avg: 121.49ms 2 frames since last 
+[2018-01-30 21:40:52]	 ,    Civ6App_UpdateFrame, 118.62 ms
+[2018-01-30 21:40:52]	 ,----- FRAME: 73622 time: 119.34ms Moving avg: 121.58ms 2 frames since last 
+[2018-01-30 21:40:52]	 ,    Civ6App_UpdateFrame, 111.61 ms
+[2018-01-30 21:40:52]	 ,----- FRAME: 73623 time: 112.53ms Moving avg: 121.43ms 2 frames since last 
+[2018-01-30 21:40:52]	 ,    Civ6App_UpdateFrame, 114.15 ms
+[2018-01-30 21:40:52]	 ,----- FRAME: 73624 time: 114.83ms Moving avg: 121.11ms 2 frames since last 
+[2018-01-30 21:40:52]	 ,    Civ6App_UpdateFrame, 121.38 ms
+[2018-01-30 21:40:52]	 ,----- FRAME: 73625 time: 122.05ms Moving avg: 121.19ms 2 frames since last 
+[2018-01-30 21:40:52]	 ,    Civ6App_UpdateFrame, 116.34 ms
+[2018-01-30 21:40:52]	 ,----- FRAME: 73626 time: 117.09ms Moving avg: 121.19ms 2 frames since last 
+[2018-01-30 21:40:52]	 ,    Civ6App_UpdateFrame, 118.60 ms
+[2018-01-30 21:40:52]	 ,----- FRAME: 73627 time: 119.34ms Moving avg: 121.03ms 2 frames since last 
+[2018-01-30 21:40:52]	 ,    Civ6App_UpdateFrame, 117.03 ms
+[2018-01-30 21:40:52]	 ,----- FRAME: 73628 time: 117.76ms Moving avg: 121.07ms 2 frames since last 
+[2018-01-30 21:40:53]	 ,        Civ6App_Graphics_Render, 104.30 ms
+[2018-01-30 21:40:53]	 ,    Civ6App_UpdateFrame, 152.05 ms
+[2018-01-30 21:40:53]	 ,----- FRAME: 73629 time: 152.77ms Moving avg: 121.61ms 2 frames since last 
+[2018-01-30 21:40:53]	 ,    Civ6App_UpdateFrame, 121.51 ms
+[2018-01-30 21:40:53]	 ,----- FRAME: 73630 time: 122.39ms Moving avg: 121.69ms 2 frames since last 
+[2018-01-30 21:40:53]	 ,    Civ6App_UpdateFrame, 112.89 ms
+[2018-01-30 21:40:53]	 ,----- FRAME: 73631 time: 113.62ms Moving avg: 121.61ms 2 frames since last 
+[2018-01-30 21:40:53]	 ,    Civ6App_UpdateFrame, 111.64 ms
+[2018-01-30 21:40:53]	 ,----- FRAME: 73632 time: 112.38ms Moving avg: 121.39ms 2 frames since last 
+[2018-01-30 21:40:53]	 ,    Civ6App_UpdateFrame, 118.73 ms
+[2018-01-30 21:40:53]	 ,----- FRAME: 73633 time: 119.54ms Moving avg: 121.52ms 2 frames since last 
+[2018-01-30 21:40:53]	 ,    Civ6App_UpdateFrame, 123.99 ms
+[2018-01-30 21:40:53]	 ,----- FRAME: 73634 time: 124.78ms Moving avg: 121.69ms 2 frames since last 
+[2018-01-30 21:40:53]	 ,    Civ6App_UpdateFrame, 124.04 ms
+[2018-01-30 21:40:53]	 ,----- FRAME: 73635 time: 124.72ms Moving avg: 121.63ms 2 frames since last 
+[2018-01-30 21:40:53]	 ,    Civ6App_UpdateFrame, 113.37 ms
+[2018-01-30 21:40:53]	 ,----- FRAME: 73636 time: 114.09ms Moving avg: 121.67ms 2 frames since last 
+[2018-01-30 21:40:54]	 ,    Civ6App_UpdateFrame, 125.76 ms
+[2018-01-30 21:40:54]	 ,----- FRAME: 73637 time: 126.44ms Moving avg: 121.84ms 2 frames since last 
+[2018-01-30 21:40:54]	 ,    Civ6App_UpdateFrame, 112.37 ms
+[2018-01-30 21:40:54]	 ,----- FRAME: 73638 time: 113.11ms Moving avg: 121.86ms 2 frames since last 
+[2018-01-30 21:41:04]	 ,                Overlays_Update, 26.04 ms
+[2018-01-30 21:41:04]	 ,----- FRAME: 73996 time: 61.60ms Moving avg: 27.94ms 359 frames since last 
+[2018-01-30 21:41:09]	 ,                Overlays_Update, 28.38 ms
+[2018-01-30 21:41:09]	 ,----- FRAME: 74152 time: 77.93ms Moving avg: 32.77ms 157 frames since last 
+[2018-01-30 21:41:12]	 ,        GameCoreEvent::CivicCompleted, 5.03 ms
+[2018-01-30 21:41:13]	 ,----- FRAME: 74274 time: 35.96ms Moving avg: 32.14ms 123 frames since last 
+[2018-01-30 21:41:21]	 ,                DoGameStateSaveRequest, 589.11 ms
+[2018-01-30 21:41:21]	 ,            SerialEvent::PreTurnBegin, 590.45 ms
+[2018-01-30 21:41:21]	 ,----- FRAME: 74553 time: 31.67ms Moving avg: 31.39ms 280 frames since last 
+[2018-01-30 21:41:21]	 ,            GameCoreEvent::TurnBegin, 9.73 ms
+[2018-01-30 21:41:21]	 ,                LuaContext::WorldTracker, 7.13 ms
+[2018-01-30 21:41:21]	 ,                LuaContext::CivicsChooser, 7.63 ms
+[2018-01-30 21:41:21]	 ,                LuaContext::ResearchChooser, 10.75 ms
+[2018-01-30 21:41:21]	 ,            SerialEvent::GameCoreEventPublishComplete, 25.60 ms
+[2018-01-30 21:41:21]	 ,        Civ6App_PublishGameCoreEvents, 36.97 ms
+[2018-01-30 21:41:22]	 ,----- FRAME: 74555 time: 79.32ms Moving avg: 32.24ms 3 frames since last 
+[2018-01-30 21:41:22]	 ,                LuaContext::WorldTracker, 6.45 ms
+[2018-01-30 21:41:22]	 ,                LuaContext::CivicsChooser, 7.91 ms
+[2018-01-30 21:41:22]	 ,                LuaContext::ResearchChooser, 10.66 ms
+[2018-01-30 21:41:22]	 ,            SerialEvent::GameCoreEventPublishComplete, 25.11 ms
+[2018-01-30 21:41:22]	 ,        Civ6App_PublishGameCoreEvents, 51.61 ms
+[2018-01-30 21:41:22]	 ,----- FRAME: 74567 time: 118.19ms Moving avg: 34.27ms 13 frames since last 
+[2018-01-30 21:41:46]	 ,                LuaContext::CityPanel, 7.35 ms
+[2018-01-30 21:41:46]	 ,            SerialEvent::CitySelectionChanged, 7.94 ms
+[2018-01-30 21:41:46]	 ,----- FRAME: 75485 time: 34.69ms Moving avg: 25.26ms 919 frames since last 
+[2018-01-30 21:42:02]	 ,                    LuaContext::CityPanel, 7.98 ms
+[2018-01-30 21:42:02]	 ,                GameCoreEvent::CityProductionChanged, 8.93 ms
+[2018-01-30 21:42:03]	 ,----- FRAME: 76125 time: 40.04ms Moving avg: 26.15ms 641 frames since last 
+[2018-01-30 21:42:37]	 ,                    Overlays_Update, 28.93 ms
+[2018-01-30 21:42:37]	 ,----- FRAME: 77332 time: 66.86ms Moving avg: 32.30ms 1208 frames since last 
+[2018-01-30 21:42:47]	 ,    DoGameStateSaveRequest, 561.81 ms
+[2018-01-30 21:42:47]	 ,SerialEvent::PreTurnBegin, 563.26 ms
+[2018-01-30 21:42:47]	 ,----- FRAME: 77657 time: 30.42ms Moving avg: 31.18ms 326 frames since last 
+[2018-01-30 21:42:47]	 ,            GameCoreEvent::TurnBegin, 9.37 ms
+[2018-01-30 21:42:47]	 ,                LuaContext::CityPanel, 8.44 ms
+[2018-01-30 21:42:47]	 ,            GameCoreEvent::LocalPlayerTurnBegin, 9.23 ms
+[2018-01-30 21:42:47]	 ,                LuaContext::WorldTracker, 57.20 ms
+[2018-01-30 21:42:47]	 ,                LuaContext::CivicsChooser, 10.93 ms
+[2018-01-30 21:42:47]	 ,                LuaContext::ResearchChooser, 19.05 ms
+[2018-01-30 21:42:47]	 ,            SerialEvent::GameCoreEventPublishComplete, 87.32 ms
+[2018-01-30 21:42:47]	 ,        Civ6App_PublishGameCoreEvents, 106.99 ms
+[2018-01-30 21:42:47]	 ,    Civ6App_PublishEvents, 107.30 ms
+[2018-01-30 21:42:47]	 ,----- FRAME: 77660 time: 148.03ms Moving avg: 33.05ms 4 frames since last 
+[2018-01-30 21:42:48]	 ,            GameCoreEvent::ResearchCompleted, 10.16 ms
+[2018-01-30 21:42:48]	 ,                LuaContext::CityPanel, 7.89 ms
+[2018-01-30 21:42:48]	 ,            GameCoreEvent::CityProductionUpdated, 8.59 ms
+[2018-01-30 21:42:48]	 ,                LuaContext::WorldTracker, 11.06 ms
+[2018-01-30 21:42:48]	 ,                LuaContext::CivicsChooser, 12.92 ms
+[2018-01-30 21:42:48]	 ,                LuaContext::ResearchChooser, 21.91 ms
+[2018-01-30 21:42:48]	 ,            SerialEvent::GameCoreEventPublishComplete, 46.02 ms
+[2018-01-30 21:42:48]	 ,        Civ6App_PublishGameCoreEvents, 95.99 ms
+[2018-01-30 21:42:48]	 ,    Civ6App_PublishEvents, 100.67 ms
+[2018-01-30 21:42:48]	 ,----- FRAME: 77674 time: 148.99ms Moving avg: 35.25ms 15 frames since last 
+[2018-01-30 21:43:19]	 ,                LuaContext::ResearchChooser, 15.94 ms
+[2018-01-30 21:43:19]	 ,            SerialEvent::GameCoreEventPublishComplete, 16.00 ms
+[2018-01-30 21:43:19]	 ,----- FRAME: 78758 time: 41.45ms Moving avg: 28.50ms 1085 frames since last 
+[2018-01-30 21:43:47]	 ,            LuaContext::CityPanel, 8.16 ms
+[2018-01-30 21:43:47]	 ,        SerialEvent::CitySelectionChanged, 8.46 ms
+[2018-01-30 21:43:47]	 ,----- FRAME: 79689 time: 37.08ms Moving avg: 31.68ms 932 frames since last 
+[2018-01-30 21:44:13]	 ,            LuaContext::CityPanel, 8.39 ms
+[2018-01-30 21:44:13]	 ,        SerialEvent::CitySelectionChanged, 9.11 ms
+[2018-01-30 21:44:13]	 ,----- FRAME: 80516 time: 30.87ms Moving avg: 28.60ms 828 frames since last 
+[2018-01-30 21:44:33]	 ,                    LuaContext::CityPanel, 15.58 ms
+[2018-01-30 21:44:33]	 ,                SerialEvent::CitySelectionChanged, 15.81 ms
+[2018-01-30 21:44:33]	 ,----- FRAME: 81195 time: 43.43ms Moving avg: 32.94ms 680 frames since last 
+[2018-01-30 21:44:41]	 ,                Overlays_Update, 35.05 ms
+[2018-01-30 21:44:41]	 ,----- FRAME: 81444 time: 72.73ms Moving avg: 34.36ms 250 frames since last 
+[2018-01-30 21:44:45]	 ,                Overlays_Update, 26.79 ms
+[2018-01-30 21:44:45]	 ,----- FRAME: 81568 time: 67.34ms Moving avg: 33.48ms 125 frames since last 
+[2018-01-30 21:44:49]	 ,                ClutterContext_Update, 14.63 ms
+[2018-01-30 21:44:49]	 ,----- FRAME: 81698 time: 57.73ms Moving avg: 32.38ms 131 frames since last 
+[2018-01-30 21:45:02]	 ,                DoGameStateSaveRequest, 543.14 ms
+[2018-01-30 21:45:02]	 ,            SerialEvent::PreTurnBegin, 544.69 ms
+[2018-01-30 21:45:02]	 ,----- FRAME: 82098 time: 29.62ms Moving avg: 30.15ms 401 frames since last 
+[2018-01-30 21:45:02]	 ,            GameCoreEvent::TurnBegin, 9.35 ms
+[2018-01-30 21:45:02]	 ,                LuaContext::CityPanel, 9.11 ms
+[2018-01-30 21:45:02]	 ,            GameCoreEvent::LocalPlayerTurnBegin, 9.95 ms
+[2018-01-30 21:45:02]	 ,                LuaContext::WorldTracker, 7.88 ms
+[2018-01-30 21:45:02]	 ,                LuaContext::CivicsChooser, 9.26 ms
+[2018-01-30 21:45:02]	 ,                LuaContext::ResearchChooser, 17.52 ms
+[2018-01-30 21:45:02]	 ,            SerialEvent::GameCoreEventPublishComplete, 34.78 ms
+[2018-01-30 21:45:02]	 ,        Civ6App_PublishGameCoreEvents, 55.08 ms
+[2018-01-30 21:45:02]	 ,----- FRAME: 82100 time: 79.93ms Moving avg: 30.91ms 3 frames since last 
+[2018-01-30 21:45:02]	 ,            GameCoreEvent::CivicChanged, 5.21 ms
+[2018-01-30 21:45:02]	 ,                LuaContext::CityPanel, 8.63 ms
+[2018-01-30 21:45:02]	 ,            GameCoreEvent::CityProductionUpdated, 9.24 ms
+[2018-01-30 21:45:02]	 ,                LuaContext::WorldTracker, 7.85 ms
+[2018-01-30 21:45:02]	 ,                LuaContext::CivicsChooser, 9.48 ms
+[2018-01-30 21:45:02]	 ,                LuaContext::ResearchChooser, 17.05 ms
+[2018-01-30 21:45:02]	 ,            SerialEvent::GameCoreEventPublishComplete, 34.48 ms
+[2018-01-30 21:45:02]	 ,        Civ6App_PublishGameCoreEvents, 64.34 ms
+[2018-01-30 21:45:03]	 ,----- FRAME: 82113 time: 128.17ms Moving avg: 33.05ms 14 frames since last 
+[2018-01-30 21:45:27]	 ,                                LuaContext::DiplomacyActionView, 35.42 ms
+[2018-01-30 21:45:27]	 ,                            GameCoreEvent::DiplomacyStatement, 35.63 ms
+[2018-01-30 21:45:27]	 ,                        Civ6App_PublishGameCoreEvents, 36.16 ms
+[2018-01-30 21:45:27]	 ,----- FRAME: 83518 time: 48.96ms Moving avg: 14.78ms 1406 frames since last 
+[2018-01-30 21:45:31]	 ,            LuaContext::DiplomacyActionView, 8.65 ms
+[2018-01-30 21:45:31]	 ,        GameCoreEvent::DiplomacySessionClosed, 9.76 ms
+[2018-01-30 21:45:31]	 ,----- FRAME: 83806 time: 20.63ms Moving avg: 13.47ms 289 frames since last 
+[2018-01-30 21:45:38]	 ,        LuaContext::DiplomacyActionView, 102.70 ms
+[2018-01-30 21:45:38]	 ,    GameCoreEvent::DiplomacyStatement, 102.94 ms
+[2018-01-30 21:45:38]	 ,Civ6App_PublishGameCoreEvents, 103.03 ms
+[2018-01-30 21:45:38]	 ,Civ6App_PublishEvents, 103.08 ms
+[2018-01-30 21:45:38]	 ,----- FRAME: 84293 time: 125.36ms Moving avg: 15.84ms 488 frames since last 
+[2018-01-30 21:45:46]	 ,                                            LuaContext::DiplomacyActionView, 9.40 ms
+[2018-01-30 21:45:46]	 ,                                        GameCoreEvent::DiplomacySessionClosed, 10.65 ms
+[2018-01-30 21:45:46]	 ,----- FRAME: 85282 time: 19.32ms Moving avg: 2.36ms 990 frames since last 
+[2018-01-30 21:45:52]	 ,                                                        LuaContext::DiplomacyActionView, 17.91 ms
+[2018-01-30 21:45:52]	 ,                                                    GameCoreEvent::DiplomacyStatement, 18.03 ms
+[2018-01-30 21:45:52]	 ,----- FRAME: 85894 time: 33.78ms Moving avg: 14.40ms 613 frames since last 
+[2018-01-30 21:46:01]	 ,                LuaContext::DiplomacyActionView, 9.82 ms
+[2018-01-30 21:46:01]	 ,            GameCoreEvent::DiplomacySessionClosed, 11.03 ms
+[2018-01-30 21:46:01]	 ,----- FRAME: 86505 time: 22.73ms Moving avg: 13.41ms 612 frames since last 
+[2018-01-30 21:46:12]	 ,                    LuaContext::CityPanel, 7.73 ms
+[2018-01-30 21:46:12]	 ,                SerialEvent::CitySelectionChanged, 8.02 ms
+[2018-01-30 21:46:12]	 ,----- FRAME: 86873 time: 38.57ms Moving avg: 33.55ms 369 frames since last 
+[2018-01-30 21:46:31]	 ,                    Overlays_Update, 27.96 ms
+[2018-01-30 21:46:31]	 ,----- FRAME: 87429 time: 62.27ms Moving avg: 32.10ms 557 frames since last 
+[2018-01-30 21:46:34]	 ,                Overlays_Update, 32.50 ms
+[2018-01-30 21:46:34]	 ,----- FRAME: 87512 time: 73.55ms Moving avg: 33.15ms 84 frames since last 
+[2018-01-30 21:46:34]	 ,                Overlays_Update, 35.83 ms
+[2018-01-30 21:46:34]	 ,----- FRAME: 87525 time: 75.78ms Moving avg: 33.90ms 14 frames since last 
+[2018-01-30 21:46:49]	 ,                        DoGameStateSaveRequest, 592.62 ms
+[2018-01-30 21:46:49]	 ,                    SerialEvent::PreTurnBegin, 594.33 ms
+[2018-01-30 21:46:49]	 ,----- FRAME: 87982 time: 31.76ms Moving avg: 31.22ms 458 frames since last 
+[2018-01-30 21:46:49]	 ,            GameCoreEvent::TurnBegin, 8.83 ms
+[2018-01-30 21:46:49]	 ,                LuaContext::WorldTracker, 7.33 ms
+[2018-01-30 21:46:49]	 ,                LuaContext::CivicsChooser, 8.44 ms
+[2018-01-30 21:46:49]	 ,                LuaContext::ResearchChooser, 16.12 ms
+[2018-01-30 21:46:49]	 ,            SerialEvent::GameCoreEventPublishComplete, 32.00 ms
+[2018-01-30 21:46:49]	 ,        Civ6App_PublishGameCoreEvents, 42.34 ms
+[2018-01-30 21:46:49]	 ,----- FRAME: 87985 time: 66.59ms Moving avg: 31.76ms 4 frames since last 
+[2018-01-30 21:46:49]	 ,                LuaContext::WorldTracker, 6.88 ms
+[2018-01-30 21:46:49]	 ,                LuaContext::CivicsChooser, 8.39 ms
+[2018-01-30 21:46:49]	 ,                LuaContext::ResearchChooser, 16.23 ms
+[2018-01-30 21:46:49]	 ,            SerialEvent::GameCoreEventPublishComplete, 31.60 ms
+[2018-01-30 21:46:49]	 ,        Civ6App_PublishGameCoreEvents, 51.34 ms
+[2018-01-30 21:46:50]	 ,                Overlays_Update, 31.07 ms
+[2018-01-30 21:46:50]	 ,----- FRAME: 87999 time: 127.64ms Moving avg: 33.44ms 15 frames since last 
+[2018-01-30 21:47:05]	 ,                LuaContext::CityPanel, 7.74 ms
+[2018-01-30 21:47:05]	 ,            SerialEvent::CitySelectionChanged, 8.50 ms
+[2018-01-30 21:47:05]	 ,----- FRAME: 88451 time: 36.10ms Moving avg: 34.04ms 453 frames since last 
+[2018-01-30 21:47:09]	 ,                    LuaContext::CityPanel, 6.43 ms
+[2018-01-30 21:47:09]	 ,                SerialEvent::InterfaceModeChanged, 6.74 ms
+[2018-01-30 21:47:09]	 ,----- FRAME: 88618 time: 28.21ms Moving avg: 28.18ms 168 frames since last 
+[2018-01-30 21:47:40]	 ,            LuaContext::DiplomacyActionView, 295.70 ms
+[2018-01-30 21:47:40]	 ,        GameCoreEvent::DiplomacyStatement, 295.91 ms
+[2018-01-30 21:47:40]	 ,    Civ6App_PublishGameCoreEvents, 302.85 ms
+[2018-01-30 21:47:40]	 ,Civ6App_PublishEvents, 303.57 ms
+[2018-01-30 21:47:40]	 ,----- FRAME: 89768 time: 326.51ms Moving avg: 31.57ms 1151 frames since last 
+[2018-01-30 21:47:40]	 ,            LeaderScreen_Update, 113.14 ms
+[2018-01-30 21:47:40]	 ,        GameViewState_Tick, 115.63 ms
+[2018-01-30 21:47:40]	 ,    Civ6App_UpdateFrame, 145.10 ms
+[2018-01-30 21:47:40]	 ,----- FRAME: 89769 time: 147.41ms Moving avg: 33.47ms 2 frames since last 
+[2018-01-30 21:47:48]	 ,                        Overlays_Update, 26.69 ms
+[2018-01-30 21:47:48]	 ,----- FRAME: 90348 time: 58.20ms Moving avg: 23.87ms 580 frames since last 
+[2018-01-30 21:48:14]	 ,                            DoGameStateSaveRequest, 545.50 ms
+[2018-01-30 21:48:14]	 ,                        SerialEvent::PreTurnBegin, 549.17 ms
+[2018-01-30 21:48:14]	 ,----- FRAME: 91114 time: 31.80ms Moving avg: 32.72ms 767 frames since last 
+[2018-01-30 21:48:14]	 ,            GameCoreEvent::TurnBegin, 9.20 ms
+[2018-01-30 21:48:14]	 ,                LuaContext::WorldTracker, 7.74 ms
+[2018-01-30 21:48:14]	 ,                LuaContext::CivicsChooser, 8.95 ms
+[2018-01-30 21:48:14]	 ,                LuaContext::ResearchChooser, 17.52 ms
+[2018-01-30 21:48:14]	 ,            SerialEvent::GameCoreEventPublishComplete, 34.35 ms
+[2018-01-30 21:48:14]	 ,        Civ6App_PublishGameCoreEvents, 45.22 ms
+[2018-01-30 21:48:14]	 ,----- FRAME: 91117 time: 72.60ms Moving avg: 33.36ms 4 frames since last 
+[2018-01-30 21:48:14]	 ,            GameCoreEvent::CivicChanged, 5.22 ms
+[2018-01-30 21:48:14]	 ,            GameCoreEvent::PlayerTurnActivated, 6.20 ms
+[2018-01-30 21:48:14]	 ,                LuaContext::WorldTracker, 7.43 ms
+[2018-01-30 21:48:14]	 ,                LuaContext::CivicsChooser, 9.17 ms
+[2018-01-30 21:48:14]	 ,                LuaContext::ResearchChooser, 16.98 ms
+[2018-01-30 21:48:14]	 ,            SerialEvent::GameCoreEventPublishComplete, 33.68 ms
+[2018-01-30 21:48:14]	 ,        Civ6App_PublishGameCoreEvents, 57.54 ms
+[2018-01-30 21:48:15]	 ,----- FRAME: 91130 time: 100.50ms Moving avg: 34.81ms 14 frames since last 
+[2018-01-30 21:48:42]	 ,                        LuaContext::CityPanel, 6.88 ms
+[2018-01-30 21:48:42]	 ,                    SerialEvent::CitySelectionChanged, 7.13 ms
+[2018-01-30 21:48:42]	 ,----- FRAME: 92048 time: 38.72ms Moving avg: 31.03ms 919 frames since last 
+[2018-01-30 21:48:49]	 ,                LuaContext::CityPanel, 9.25 ms
+[2018-01-30 21:48:49]	 ,                LuaContext::ProductionPanel, 52.87 ms
+[2018-01-30 21:48:49]	 ,            SerialEvent::CitySelectionChanged, 62.86 ms
+[2018-01-30 21:48:49]	 ,        Civ6App_PublishSerialEvents, 63.15 ms
+[2018-01-30 21:48:49]	 ,----- FRAME: 92261 time: 85.75ms Moving avg: 31.75ms 214 frames since last 
+[2018-01-30 21:49:00]	 ,            LuaContext::CityPanel, 6.64 ms
+[2018-01-30 21:49:00]	 ,            LuaContext::ProductionPanel, 37.56 ms
+[2018-01-30 21:49:00]	 ,        SerialEvent::CitySelectionChanged, 44.43 ms
+[2018-01-30 21:49:00]	 ,----- FRAME: 92626 time: 70.97ms Moving avg: 31.26ms 366 frames since last 
+[2018-01-30 21:49:31]	 ,            LuaContext::CityPanel, 5.98 ms
+[2018-01-30 21:49:31]	 ,        SerialEvent::InterfaceModeChanged, 6.71 ms
+[2018-01-30 21:49:31]	 ,----- FRAME: 93593 time: 31.65ms Moving avg: 31.70ms 968 frames since last 
+[2018-01-30 21:49:31]	 ,            SerialEvent::LensUpdateArea, 15.83 ms
+[2018-01-30 21:49:31]	 ,----- FRAME: 93595 time: 40.19ms Moving avg: 31.80ms 3 frames since last 
+[2018-01-30 21:49:36]	 ,                        LuaContext::CityPanel, 8.80 ms
+[2018-01-30 21:49:36]	 ,                    SerialEvent::InterfaceModeChanged, 9.16 ms
+[2018-01-30 21:49:36]	 ,----- FRAME: 93799 time: 23.45ms Moving avg: 24.31ms 205 frames since last 
+[2018-01-30 21:49:36]	 ,                LuaContext::CityBannerManager, 44.10 ms
+[2018-01-30 21:49:36]	 ,                LuaContext::CityPanel, 32.27 ms
+[2018-01-30 21:49:36]	 ,            GameCoreEvent::CityProductionChanged, 76.53 ms
+[2018-01-30 21:49:36]	 ,        Civ6App_PublishGameCoreEvents, 78.56 ms
+[2018-01-30 21:49:36]	 , WONDERMOVIE: Turn number: 81. Visible mesh count: 9
+[2018-01-30 21:49:36]	 ,----- FRAME: 93802 time: 130.71ms Moving avg: 25.95ms 4 frames since last 
+[2018-01-30 21:49:50]	 , WONDERMOVIE: Turn number: 81. Visible mesh count: 9
+[2018-01-30 21:49:50]	 ,                    Overlays_Update, 27.81 ms
+[2018-01-30 21:49:50]	 ,----- FRAME: 94257 time: 68.39ms Moving avg: 33.98ms 456 frames since last 
+[2018-01-30 21:50:18]	 ,                        DoGameStateSaveRequest, 566.29 ms
+[2018-01-30 21:50:18]	 ,                    SerialEvent::PreTurnBegin, 567.96 ms
+[2018-01-30 21:50:18]	 ,----- FRAME: 95084 time: 31.85ms Moving avg: 34.56ms 828 frames since last 
+[2018-01-30 21:50:18]	 ,            GameCoreEvent::TurnBegin, 8.82 ms
+[2018-01-30 21:50:18]	 ,                LuaContext::WorldTracker, 7.34 ms
+[2018-01-30 21:50:18]	 ,                LuaContext::CivicsChooser, 8.35 ms
+[2018-01-30 21:50:18]	 ,                LuaContext::ResearchChooser, 16.34 ms
+[2018-01-30 21:50:18]	 ,            SerialEvent::GameCoreEventPublishComplete, 32.13 ms
+[2018-01-30 21:50:18]	 ,        Civ6App_PublishGameCoreEvents, 42.43 ms
+[2018-01-30 21:50:18]	 ,----- FRAME: 95087 time: 72.39ms Moving avg: 34.97ms 4 frames since last 
+[2018-01-30 21:50:19]	 ,            GameCoreEvent::ResearchCompleted, 10.90 ms
+[2018-01-30 21:50:19]	 ,            GameCoreEvent::CivicChanged, 5.29 ms
+[2018-01-30 21:50:19]	 ,            GameCoreEvent::PlayerTurnActivated, 6.84 ms
+[2018-01-30 21:50:19]	 ,                LuaContext::WorldTracker, 7.17 ms
+[2018-01-30 21:50:19]	 ,                LuaContext::CivicsChooser, 9.34 ms
+[2018-01-30 21:50:19]	 ,                LuaContext::ResearchChooser, 19.94 ms
+[2018-01-30 21:50:19]	 ,            SerialEvent::GameCoreEventPublishComplete, 36.56 ms
+[2018-01-30 21:50:19]	 ,        Civ6App_PublishGameCoreEvents, 72.37 ms
+[2018-01-30 21:50:19]	 , WONDERMOVIE: Turn number: 82. Visible mesh count: 17
+[2018-01-30 21:50:19]	 ,----- FRAME: 95098 time: 133.64ms Moving avg: 36.62ms 12 frames since last 
+[2018-01-30 21:50:33]	 ,        Civ6App_Graphics_Present, 1225.49 ms
+[2018-01-30 21:50:33]	 ,    Civ6App_UpdateFrame, 1269.09 ms
+[2018-01-30 21:50:33]	 ,----- FRAME: 95444 time: 1269.25ms Moving avg: 54.57ms 347 frames since last 
+[2018-01-30 21:50:33]	 ,        Civ6App_Graphics_Render, 160.67 ms
+[2018-01-30 21:50:33]	 ,    Civ6App_UpdateFrame, 172.23 ms
+[2018-01-30 21:50:33]	 ,----- FRAME: 95445 time: 172.41ms Moving avg: 56.69ms 2 frames since last 
+[2018-01-30 21:51:09]	 ,                        LuaContext::ResearchChooser, 15.83 ms
+[2018-01-30 21:51:09]	 ,                    SerialEvent::GameCoreEventPublishComplete, 15.89 ms
+[2018-01-30 21:51:09]	 ,----- FRAME: 96545 time: 45.89ms Moving avg: 32.74ms 1101 frames since last 
+[2018-01-30 21:51:20]	 ,                            LuaContext::CityBannerManager, 7.85 ms
+[2018-01-30 21:51:20]	 ,                        GameCoreEvent::CityAddedToMap, 7.91 ms
+[2018-01-30 21:51:20]	 ,                            Overlays_Update, 30.86 ms
+[2018-01-30 21:51:20]	 ,----- FRAME: 96881 time: 87.09ms Moving avg: 35.77ms 337 frames since last 
+[2018-01-30 21:51:20]	 , WONDERMOVIE: Turn number: 82. Visible mesh count: 17
+[2018-01-30 21:51:25]	 ,                Overlays_Update, 51.45 ms
+[2018-01-30 21:51:25]	 ,            WorldView_Update, 52.48 ms
+[2018-01-30 21:51:25]	 ,----- FRAME: 97022 time: 94.58ms Moving avg: 33.83ms 142 frames since last 
+[2018-01-30 21:51:36]	 ,                    DoGameStateSaveRequest, 622.54 ms
+[2018-01-30 21:51:36]	 ,                SerialEvent::PreTurnBegin, 624.04 ms
+[2018-01-30 21:51:36]	 ,----- FRAME: 97363 time: 32.82ms Moving avg: 31.31ms 342 frames since last 
+[2018-01-30 21:51:36]	 ,            GameCoreEvent::TurnBegin, 9.49 ms
+[2018-01-30 21:51:36]	 ,                LuaContext::WorldTracker, 6.41 ms
+[2018-01-30 21:51:36]	 ,                LuaContext::CivicsChooser, 8.24 ms
+[2018-01-30 21:51:36]	 ,                LuaContext::ResearchChooser, 16.08 ms
+[2018-01-30 21:51:36]	 ,            SerialEvent::GameCoreEventPublishComplete, 30.84 ms
+[2018-01-30 21:51:36]	 ,        Civ6App_PublishGameCoreEvents, 41.81 ms
+[2018-01-30 21:51:36]	 ,----- FRAME: 97365 time: 69.92ms Moving avg: 31.60ms 3 frames since last 
+[2018-01-30 21:51:36]	 ,                LuaContext::WorldTracker, 6.33 ms
+[2018-01-30 21:51:36]	 ,                LuaContext::CivicsChooser, 8.46 ms
+[2018-01-30 21:51:36]	 ,                LuaContext::ResearchChooser, 15.93 ms
+[2018-01-30 21:51:36]	 ,            SerialEvent::GameCoreEventPublishComplete, 30.83 ms
+[2018-01-30 21:51:36]	 ,        Civ6App_PublishGameCoreEvents, 49.64 ms
+[2018-01-30 21:51:36]	 , WONDERMOVIE: Turn number: 83. Visible mesh count: 23
+[2018-01-30 21:51:36]	 ,----- FRAME: 97376 time: 81.90ms Moving avg: 33.49ms 12 frames since last 
+[2018-01-30 21:51:56]	 ,                Overlays_Update, 36.64 ms
+[2018-01-30 21:51:56]	 ,----- FRAME: 98046 time: 78.21ms Moving avg: 30.09ms 671 frames since last 
+[2018-01-30 21:51:56]	 , WONDERMOVIE: Turn number: 83. Visible mesh count: 23
+[2018-01-30 21:51:56]	 ,                Overlays_Update, 27.15 ms
+[2018-01-30 21:51:56]	 ,----- FRAME: 98060 time: 56.88ms Moving avg: 30.16ms 15 frames since last 
+[2018-01-30 21:51:59]	 ,                LuaContext::UnitFlagManager, 19.31 ms
+[2018-01-30 21:51:59]	 ,            GameCoreEvent::UnitAddedToMap, 19.65 ms
+[2018-01-30 21:51:59]	 ,        Civ6App_PublishGameCoreEvents, 39.43 ms
+[2018-01-30 21:51:59]	 ,----- FRAME: 98136 time: 65.60ms Moving avg: 30.96ms 77 frames since last 
+[2018-01-30 21:51:59]	 ,                LuaContext::CityBannerManager, 8.04 ms
+[2018-01-30 21:51:59]	 ,            GameCoreEvent::CityAddedToMap, 8.09 ms
+[2018-01-30 21:51:59]	 ,                Overlays_Update, 40.57 ms
+[2018-01-30 21:51:59]	 ,----- FRAME: 98148 time: 90.16ms Moving avg: 32.20ms 13 frames since last 
+[2018-01-30 21:52:01]	 ,            GameCoreEvent::CivicCompleted, 5.17 ms
+[2018-01-30 21:52:01]	 ,----- FRAME: 98197 time: 31.44ms Moving avg: 33.85ms 50 frames since last 
+[2018-01-30 21:52:19]	 ,                            DoGameStateSaveRequest, 593.76 ms
+[2018-01-30 21:52:19]	 ,                        SerialEvent::PreTurnBegin, 595.33 ms
+[2018-01-30 21:52:19]	 ,----- FRAME: 98770 time: 32.46ms Moving avg: 32.24ms 574 frames since last 
+[2018-01-30 21:52:19]	 ,            GameCoreEvent::TurnBegin, 9.05 ms
+[2018-01-30 21:52:19]	 ,                LuaContext::WorldTracker, 6.75 ms
+[2018-01-30 21:52:19]	 ,                LuaContext::CivicsChooser, 8.29 ms
+[2018-01-30 21:52:19]	 ,                LuaContext::ResearchChooser, 16.59 ms
+[2018-01-30 21:52:19]	 ,            SerialEvent::GameCoreEventPublishComplete, 31.72 ms
+[2018-01-30 21:52:19]	 ,        Civ6App_PublishGameCoreEvents, 42.38 ms
+[2018-01-30 21:52:19]	 ,----- FRAME: 98772 time: 68.29ms Moving avg: 32.81ms 3 frames since last 
+[2018-01-30 21:52:20]	 ,            GameCoreEvent::CivicChanged, 5.24 ms
+[2018-01-30 21:52:20]	 ,                LuaContext::WorldTracker, 6.86 ms
+[2018-01-30 21:52:20]	 ,                LuaContext::CivicsChooser, 8.96 ms
+[2018-01-30 21:52:20]	 ,                LuaContext::ResearchChooser, 17.50 ms
+[2018-01-30 21:52:20]	 ,            SerialEvent::GameCoreEventPublishComplete, 33.43 ms
+[2018-01-30 21:52:20]	 ,        Civ6App_PublishGameCoreEvents, 53.36 ms
+[2018-01-30 21:52:20]	 , WONDERMOVIE: Turn number: 84. Visible mesh count: 36
+[2018-01-30 21:52:20]	 ,----- FRAME: 98785 time: 98.19ms Moving avg: 34.01ms 14 frames since last 
+[2018-01-30 21:52:41]	 , WONDERMOVIE: Turn number: 84. Visible mesh count: 36
+[2018-01-30 21:52:41]	 ,            Overlays_Update, 37.52 ms
+[2018-01-30 21:52:41]	 ,----- FRAME: 99487 time: 74.91ms Moving avg: 30.97ms 703 frames since last 
+[2018-01-30 21:52:43]	 ,                Overlays_Update, 30.27 ms
+[2018-01-30 21:52:43]	 ,----- FRAME: 99535 time: 66.26ms Moving avg: 31.59ms 49 frames since last 
+[2018-01-30 21:52:48]	 ,                ClutterContext_Update, 15.90 ms
+[2018-01-30 21:52:48]	 ,----- FRAME: 99705 time: 38.27ms Moving avg: 30.48ms 171 frames since last 
+[2018-01-30 21:52:50]	 ,                        DoGameStateSaveRequest, 612.39 ms
+[2018-01-30 21:52:50]	 ,                    SerialEvent::PreTurnBegin, 613.75 ms
+[2018-01-30 21:52:50]	 ,----- FRAME: 99766 time: 30.50ms Moving avg: 30.26ms 62 frames since last 
+[2018-01-30 21:52:50]	 ,            GameCoreEvent::TurnBegin, 9.17 ms
+[2018-01-30 21:52:50]	 ,                LuaContext::WorldTracker, 6.57 ms
+[2018-01-30 21:52:50]	 ,                LuaContext::CivicsChooser, 8.36 ms
+[2018-01-30 21:52:50]	 ,                LuaContext::ResearchChooser, 16.25 ms
+[2018-01-30 21:52:50]	 ,            SerialEvent::GameCoreEventPublishComplete, 31.28 ms
+[2018-01-30 21:52:50]	 ,        Civ6App_PublishGameCoreEvents, 41.91 ms
+[2018-01-30 21:52:50]	 ,----- FRAME: 99768 time: 72.54ms Moving avg: 30.76ms 3 frames since last 
+[2018-01-30 21:52:51]	 ,                LuaContext::TechCivicCompletedPopup, 5.83 ms
+[2018-01-30 21:52:51]	 ,            GameCoreEvent::CivicCompleted, 14.20 ms
+[2018-01-30 21:52:51]	 ,            GameCoreEvent::PlayerTurnActivated, 6.33 ms
+[2018-01-30 21:52:51]	 ,                LuaContext::DiplomacyActionView, 245.23 ms
+[2018-01-30 21:52:51]	 ,            GameCoreEvent::DiplomacyStatement, 245.45 ms
+[2018-01-30 21:52:51]	 ,                LuaContext::WorldTracker, 17.56 ms
+[2018-01-30 21:52:51]	 ,                LuaContext::CivicsChooser, 21.62 ms
+[2018-01-30 21:52:51]	 ,                LuaContext::ResearchChooser, 15.81 ms
+[2018-01-30 21:52:51]	 ,            SerialEvent::GameCoreEventPublishComplete, 55.16 ms
+[2018-01-30 21:52:51]	 ,        Civ6App_PublishGameCoreEvents, 336.67 ms
+[2018-01-30 21:52:51]	 ,    Civ6App_PublishEvents, 336.77 ms
+[2018-01-30 21:52:51]	 , WONDERMOVIE: Turn number: 85. Visible mesh count: 50
+[2018-01-30 21:52:51]	 ,----- FRAME: 99781 time: 353.96ms Moving avg: 37.37ms 14 frames since last 
+[2018-01-30 21:52:51]	 ,            LeaderScreen_Update, 211.38 ms
+[2018-01-30 21:52:51]	 ,                ClutterContext_Update, 13.48 ms
+[2018-01-30 21:52:51]	 ,        GameViewState_Tick, 238.11 ms
+[2018-01-30 21:52:51]	 ,    Civ6App_UpdateFrame, 250.06 ms
+[2018-01-30 21:52:51]	 ,----- FRAME: 99782 time: 250.92ms Moving avg: 40.81ms 2 frames since last 
+[2018-01-30 21:54:12]	 ,LuaContext::GovernmentScreen, 57.87 ms
+[2018-01-30 21:54:12]	 ,GameCoreEvent::GovernmentChanged, 58.02 ms
+[2018-01-30 21:54:12]	 ,Civ6App_PublishGameCoreEvents, 62.10 ms
+[2018-01-30 21:54:12]	 ,----- FRAME: 103432 time: 89.04ms Moving avg: 37.06ms 3651 frames since last 
+[2018-01-30 21:55:39]	 ,            GameCoreEvent::CivicChanged, 5.24 ms
+[2018-01-30 21:55:39]	 ,                LuaContext::CivicsChooser, 6.10 ms
+[2018-01-30 21:55:39]	 ,            SerialEvent::GameCoreEventPublishComplete, 6.15 ms
+[2018-01-30 21:55:39]	 ,----- FRAME: 105939 time: 31.18ms Moving avg: 29.23ms 2508 frames since last 
+[2018-01-30 21:55:41]	 ,                    LuaContext::CityPanel, 7.54 ms
+[2018-01-30 21:55:41]	 ,                SerialEvent::CitySelectionChanged, 8.19 ms
+[2018-01-30 21:55:41]	 ,----- FRAME: 106017 time: 36.95ms Moving avg: 28.88ms 79 frames since last 
+[2018-01-30 21:55:47]	 ,                LuaContext::CityPanel, 9.06 ms
+[2018-01-30 21:55:47]	 ,            GameCoreEvent::CityProductionChanged, 10.02 ms
+[2018-01-30 21:55:47]	 ,----- FRAME: 106241 time: 36.41ms Moving avg: 29.41ms 225 frames since last 
+[2018-01-30 21:56:10]	 ,                LuaContext::CityPanel, 8.39 ms
+[2018-01-30 21:56:10]	 ,            SerialEvent::CitySelectionChanged, 8.68 ms
+[2018-01-30 21:56:10]	 ,----- FRAME: 107036 time: 35.42ms Moving avg: 32.42ms 796 frames since last 
+[2018-01-30 21:56:21]	 ,            LuaContext::CityPanel, 8.73 ms
+[2018-01-30 21:56:21]	 ,        SerialEvent::CitySelectionChanged, 9.49 ms
+[2018-01-30 21:56:21]	 ,----- FRAME: 107357 time: 31.29ms Moving avg: 30.99ms 322 frames since last 
+[2018-01-30 21:56:34]	 ,                        LeaderScreen_Update, 155.62 ms
+[2018-01-30 21:56:34]	 ,                    GameViewState_Tick, 158.01 ms
+[2018-01-30 21:56:34]	 ,                Civ6App_UpdateFrame, 172.52 ms
+[2018-01-30 21:56:34]	 ,----- FRAME: 107794 time: 173.57ms Moving avg: 30.66ms 438 frames since last 
+[2018-01-30 21:56:37]	 ,            LuaContext::DiplomacyActionView, 18.55 ms
+[2018-01-30 21:56:37]	 ,        GameCoreEvent::DiplomacyStatement, 18.71 ms
+[2018-01-30 21:56:37]	 ,----- FRAME: 108021 time: 33.56ms Moving avg: 14.54ms 228 frames since last 
+[2018-01-30 21:56:43]	 ,ModelContext_updateVises, 10.20 ms
+[2018-01-30 21:56:43]	 ,----- FRAME: 108532 time: 14.52ms Moving avg: 3.50ms 512 frames since last 
+[2018-01-30 21:56:44]	 ,                    LuaContext::DiplomacyActionView, 10.43 ms
+[2018-01-30 21:56:44]	 ,                GameCoreEvent::DiplomacySessionClosed, 12.30 ms
+[2018-01-30 21:56:44]	 ,----- FRAME: 108658 time: 21.83ms Moving avg: 2.37ms 127 frames since last 
+[2018-01-30 21:56:52]	 ,                                                                        LuaContext::DiplomacyActionView, 17.56 ms
+[2018-01-30 21:56:52]	 ,                                                                    GameCoreEvent::DiplomacyStatement, 17.69 ms
+[2018-01-30 21:56:52]	 ,----- FRAME: 109602 time: 32.87ms Moving avg: 14.73ms 945 frames since last 
+[2018-01-30 21:56:58]	 ,            LuaContext::DiplomacyActionView, 9.84 ms
+[2018-01-30 21:56:58]	 ,        GameCoreEvent::DiplomacySessionClosed, 11.29 ms
+[2018-01-30 21:56:58]	 ,----- FRAME: 110012 time: 20.91ms Moving avg: 15.00ms 411 frames since last 
+[2018-01-30 21:57:02]	 ,                LuaContext::CityPanel, 8.18 ms
+[2018-01-30 21:57:02]	 ,            SerialEvent::CitySelectionChanged, 8.39 ms
+[2018-01-30 21:57:02]	 ,----- FRAME: 110169 time: 30.05ms Moving avg: 28.49ms 158 frames since last 
+[2018-01-30 21:57:25]	 ,                    Overlays_Update, 49.26 ms
+[2018-01-30 21:57:25]	 ,                WorldView_Update, 51.04 ms
+[2018-01-30 21:57:25]	 ,----- FRAME: 110925 time: 93.97ms Moving avg: 30.87ms 757 frames since last 
+[2018-01-30 21:57:35]	 ,                LuaContext::DiplomacyActionView, 171.51 ms
+[2018-01-30 21:57:35]	 ,            GameCoreEvent::DiplomacyStatement, 171.74 ms
+[2018-01-30 21:57:35]	 ,        Civ6App_PublishGameCoreEvents, 179.67 ms
+[2018-01-30 21:57:35]	 ,    Civ6App_PublishEvents, 180.70 ms
+[2018-01-30 21:57:35]	 ,----- FRAME: 111262 time: 207.75ms Moving avg: 29.25ms 338 frames since last 
+[2018-01-30 21:57:37]	 , WONDERMOVIE: Turn number: 85. Visible mesh count: 50
+[2018-01-30 21:57:37]	 ,    Overlays_Update, 35.37 ms
+[2018-01-30 21:57:37]	 ,----- FRAME: 112272 time: 79.82ms Moving avg: 11.69ms 1011 frames since last 
+[2018-01-30 21:57:37]	 ,                Overlays_Update, 31.26 ms
+[2018-01-30 21:57:37]	 ,----- FRAME: 112289 time: 61.89ms Moving avg: 19.32ms 18 frames since last 
+[2018-01-30 21:57:41]	 ,        GameCoreEvent::ResearchCompleted, 6.05 ms
+[2018-01-30 21:57:41]	 ,----- FRAME: 112500 time: 12.99ms Moving avg: 2.47ms 212 frames since last 
+[2018-01-30 21:57:42]	 ,                DoGameStateSaveRequest, 569.09 ms
+[2018-01-30 21:57:42]	 ,            SerialEvent::PreTurnBegin, 570.65 ms
+[2018-01-30 21:57:42]	 ,----- FRAME: 112904 time: 27.31ms Moving avg: 15.54ms 405 frames since last 
+[2018-01-30 21:57:42]	 ,            GameCoreEvent::TurnBegin, 9.64 ms
+[2018-01-30 21:57:43]	 ,                LuaContext::WorldTracker, 11.56 ms
+[2018-01-30 21:57:43]	 ,                LuaContext::CivicsChooser, 6.56 ms
+[2018-01-30 21:57:43]	 ,                LuaContext::ResearchChooser, 17.80 ms
+[2018-01-30 21:57:43]	 ,            SerialEvent::GameCoreEventPublishComplete, 36.02 ms
+[2018-01-30 21:57:43]	 ,        Civ6App_PublishGameCoreEvents, 47.23 ms
+[2018-01-30 21:57:43]	 ,----- FRAME: 112907 time: 70.75ms Moving avg: 17.32ms 4 frames since last 
+[2018-01-30 21:57:43]	 ,                LuaContext::WorldTracker, 5.17 ms
+[2018-01-30 21:57:43]	 ,                LuaContext::CivicsChooser, 6.24 ms
+[2018-01-30 21:57:43]	 ,                LuaContext::ResearchChooser, 16.36 ms
+[2018-01-30 21:57:43]	 ,            SerialEvent::GameCoreEventPublishComplete, 27.87 ms
+[2018-01-30 21:57:43]	 ,        Civ6App_PublishGameCoreEvents, 42.95 ms
+[2018-01-30 21:57:43]	 , WONDERMOVIE: Turn number: 86. Visible mesh count: 65
+[2018-01-30 21:57:43]	 ,----- FRAME: 112921 time: 50.65ms Moving avg: 23.35ms 15 frames since last 
+[2018-01-30 21:57:57]	 ,                                        Civ6App_PublishGameCoreEvents, 41.41 ms
+[2018-01-30 21:57:57]	 ,----- FRAME: 113983 time: 86.82ms Moving avg: 29.06ms 1063 frames since last 
+[2018-01-30 21:58:03]	 ,                LuaContext::CityPanel, 8.47 ms
+[2018-01-30 21:58:03]	 ,            SerialEvent::CitySelectionChanged, 8.75 ms
+[2018-01-30 21:58:03]	 ,----- FRAME: 114200 time: 34.76ms Moving avg: 29.08ms 218 frames since last 
+[2018-01-30 21:58:17]	 ,                DoGameStateSaveRequest, 603.31 ms
+[2018-01-30 21:58:17]	 ,            SerialEvent::PreTurnBegin, 604.95 ms
+[2018-01-30 21:58:17]	 ,----- FRAME: 114635 time: 30.27ms Moving avg: 29.92ms 436 frames since last 
+[2018-01-30 21:58:17]	 ,                LuaContext::TopPanel, 5.31 ms
+[2018-01-30 21:58:17]	 ,            GameCoreEvent::TurnBegin, 13.42 ms
+[2018-01-30 21:58:17]	 ,                LuaContext::CityPanel, 11.47 ms
+[2018-01-30 21:58:17]	 ,            GameCoreEvent::LocalPlayerTurnBegin, 12.28 ms
+[2018-01-30 21:58:17]	 ,                LuaContext::WorldTracker, 5.90 ms
+[2018-01-30 21:58:17]	 ,                LuaContext::CivicsChooser, 7.18 ms
+[2018-01-30 21:58:17]	 ,                LuaContext::ResearchChooser, 18.57 ms
+[2018-01-30 21:58:17]	 ,            SerialEvent::GameCoreEventPublishComplete, 31.75 ms
+[2018-01-30 21:58:17]	 ,        Civ6App_PublishGameCoreEvents, 58.85 ms
+[2018-01-30 21:58:17]	 ,----- FRAME: 114638 time: 85.29ms Moving avg: 30.79ms 4 frames since last 
+[2018-01-30 21:58:18]	 ,            GameCoreEvent::ResearchCompleted, 9.14 ms
+[2018-01-30 21:58:18]	 ,                LuaContext::CityPanel, 9.31 ms
+[2018-01-30 21:58:18]	 ,            GameCoreEvent::CityProductionUpdated, 9.87 ms
+[2018-01-30 21:58:18]	 ,                LuaContext::WorldTracker, 5.28 ms
+[2018-01-30 21:58:18]	 ,                LuaContext::CivicsChooser, 7.00 ms
+[2018-01-30 21:58:18]	 ,                LuaContext::ResearchChooser, 17.34 ms
+[2018-01-30 21:58:18]	 ,            SerialEvent::GameCoreEventPublishComplete, 29.74 ms
+[2018-01-30 21:58:18]	 ,        Civ6App_PublishGameCoreEvents, 64.20 ms
+[2018-01-30 21:58:18]	 , WONDERMOVIE: Turn number: 87. Visible mesh count: 64
+[2018-01-30 21:58:18]	 ,----- FRAME: 114651 time: 105.22ms Moving avg: 32.86ms 14 frames since last 
+[2018-01-30 21:58:50]	 ,                LuaContext::ResearchChooser, 15.41 ms
+[2018-01-30 21:58:50]	 ,            SerialEvent::GameCoreEventPublishComplete, 15.46 ms
+[2018-01-30 21:58:50]	 ,----- FRAME: 115837 time: 42.67ms Moving avg: 27.12ms 1187 frames since last 
+[2018-01-30 21:59:25]	 , WONDERMOVIE: Turn number: 87. Visible mesh count: 64
+[2018-01-30 21:59:46]	 ,                                                            DoGameStateSaveRequest, 626.05 ms
+[2018-01-30 21:59:46]	 ,                                                        SerialEvent::PreTurnBegin, 627.61 ms
+[2018-01-30 21:59:46]	 ,----- FRAME: 119129 time: 2.31ms Moving avg: 2.10ms 3293 frames since last 
+[2018-01-30 21:59:46]	 ,            GameCoreEvent::TurnBegin, 9.48 ms
+[2018-01-30 21:59:46]	 ,                LuaContext::WorldTracker, 6.38 ms
+[2018-01-30 21:59:46]	 ,                LuaContext::CivicsChooser, 6.51 ms
+[2018-01-30 21:59:46]	 ,                LuaContext::ResearchChooser, 14.59 ms
+[2018-01-30 21:59:46]	 ,            SerialEvent::GameCoreEventPublishComplete, 27.59 ms
+[2018-01-30 21:59:46]	 ,        Civ6App_PublishGameCoreEvents, 38.81 ms
+[2018-01-30 21:59:46]	 ,----- FRAME: 119140 time: 41.14ms Moving avg: 2.73ms 12 frames since last 
+[2018-01-30 21:59:46]	 ,    Civ6App_UpdateFrame, 130.36 ms
+[2018-01-30 21:59:46]	 ,----- FRAME: 119175 time: 131.17ms Moving avg: 5.66ms 36 frames since last 
+[2018-01-30 21:59:46]	 ,                LuaContext::WorldTracker, 5.35 ms
+[2018-01-30 21:59:46]	 ,                LuaContext::CivicsChooser, 6.43 ms
+[2018-01-30 21:59:46]	 ,                LuaContext::ResearchChooser, 14.90 ms
+[2018-01-30 21:59:46]	 ,            SerialEvent::GameCoreEventPublishComplete, 26.78 ms
+[2018-01-30 21:59:46]	 ,        Civ6App_PublishGameCoreEvents, 45.40 ms
+[2018-01-30 21:59:46]	 , WONDERMOVIE: Turn number: 88. Visible mesh count: 81
+[2018-01-30 21:59:46]	 ,----- FRAME: 119178 time: 77.51ms Moving avg: 7.53ms 4 frames since last 
+[2018-01-30 21:59:53]	 ,                LuaContext::CityPanel, 8.76 ms
+[2018-01-30 21:59:53]	 ,            SerialEvent::CitySelectionChanged, 9.48 ms
+[2018-01-30 21:59:53]	 ,----- FRAME: 119477 time: 26.02ms Moving avg: 22.61ms 300 frames since last 
+[2018-01-30 22:00:20]	 , WONDERMOVIE: Turn number: 88. Visible mesh count: 81
+[2018-01-30 22:00:30]	 ,                DoGameStateSaveRequest, 591.08 ms
+[2018-01-30 22:00:30]	 ,            SerialEvent::PreTurnBegin, 592.57 ms
+[2018-01-30 22:00:30]	 ,----- FRAME: 120838 time: 26.82ms Moving avg: 28.33ms 1362 frames since last 
+[2018-01-30 22:00:30]	 ,            GameCoreEvent::TurnBegin, 9.31 ms
+[2018-01-30 22:00:30]	 ,                LuaContext::CityPanel, 8.90 ms
+[2018-01-30 22:00:30]	 ,            GameCoreEvent::LocalPlayerTurnBegin, 9.59 ms
+[2018-01-30 22:00:30]	 ,                LuaContext::WorldTracker, 6.03 ms
+[2018-01-30 22:00:30]	 ,                LuaContext::CivicsChooser, 6.29 ms
+[2018-01-30 22:00:30]	 ,                LuaContext::ResearchChooser, 14.65 ms
+[2018-01-30 22:00:30]	 ,            SerialEvent::GameCoreEventPublishComplete, 27.08 ms
+[2018-01-30 22:00:30]	 ,        Civ6App_PublishGameCoreEvents, 46.96 ms
+[2018-01-30 22:00:30]	 ,----- FRAME: 120841 time: 66.98ms Moving avg: 28.91ms 4 frames since last 
+[2018-01-30 22:00:31]	 ,                LuaContext::CityPanel, 7.83 ms
+[2018-01-30 22:00:31]	 ,            GameCoreEvent::CityProductionUpdated, 8.11 ms
+[2018-01-30 22:00:31]	 ,                LuaContext::CityPanel, 7.58 ms
+[2018-01-30 22:00:31]	 ,            GameCoreEvent::CityProductionCompleted, 7.86 ms
+[2018-01-30 22:00:31]	 ,                LuaContext::WorldTracker, 5.63 ms
+[2018-01-30 22:00:31]	 ,                LuaContext::CivicsChooser, 6.09 ms
+[2018-01-30 22:00:31]	 ,                LuaContext::ResearchChooser, 14.88 ms
+[2018-01-30 22:00:31]	 ,            SerialEvent::GameCoreEventPublishComplete, 26.69 ms
+[2018-01-30 22:00:31]	 ,        Civ6App_PublishGameCoreEvents, 61.49 ms
+[2018-01-30 22:00:31]	 , WONDERMOVIE: Turn number: 89. Visible mesh count: 95
+[2018-01-30 22:00:31]	 ,----- FRAME: 120855 time: 109.49ms Moving avg: 30.29ms 15 frames since last 
+[2018-01-30 22:00:40]	 ,                LuaContext::CityBannerManager, 27.28 ms
+[2018-01-30 22:00:40]	 ,                LuaContext::TradeRouteChooser, 21.93 ms
+[2018-01-30 22:00:40]	 ,            SerialEvent::InterfaceModeChanged, 49.59 ms
+[2018-01-30 22:00:40]	 ,        Civ6App_PublishSerialEvents, 50.25 ms
+[2018-01-30 22:00:40]	 ,----- FRAME: 121169 time: 87.67ms Moving avg: 30.86ms 315 frames since last 
+[2018-01-30 22:00:52]	 ,                LuaContext::CityBannerManager, 27.64 ms
+[2018-01-30 22:00:52]	 ,            SerialEvent::InterfaceModeChanged, 28.10 ms
+[2018-01-30 22:00:52]	 ,----- FRAME: 121547 time: 56.78ms Moving avg: 29.61ms 379 frames since last 
+[2018-01-30 22:00:55]	 ,                LuaContext::CityPanel, 7.85 ms
+[2018-01-30 22:00:55]	 ,            SerialEvent::CitySelectionChanged, 8.51 ms
+[2018-01-30 22:00:55]	 ,----- FRAME: 121654 time: 39.16ms Moving avg: 28.24ms 108 frames since last 
+[2018-01-30 22:01:31]	 ,                LuaContext::CityPanel, 8.78 ms
+[2018-01-30 22:01:31]	 ,            GameCoreEvent::CityProductionChanged, 9.91 ms
+[2018-01-30 22:01:31]	 ,----- FRAME: 122967 time: 37.69ms Moving avg: 27.38ms 1314 frames since last 
+[2018-01-30 22:02:30]	 ,                LuaContext::CityStates, 14.26 ms
+[2018-01-30 22:02:30]	 ,            GameCoreEvent::InfluenceGiven, 14.30 ms
+[2018-01-30 22:02:30]	 ,                LuaContext::CityStates, 9.00 ms
+[2018-01-30 22:02:30]	 ,            GameCoreEvent::InfluenceChanged, 9.18 ms
+[2018-01-30 22:02:30]	 ,                Overlays_Update, 28.08 ms
+[2018-01-30 22:02:30]	 ,----- FRAME: 125015 time: 88.99ms Moving avg: 33.73ms 2049 frames since last 
+[2018-01-30 22:02:35]	 , WONDERMOVIE: Turn number: 89. Visible mesh count: 95
+[2018-01-30 22:02:47]	 ,                    DoGameStateSaveRequest, 586.88 ms
+[2018-01-30 22:02:47]	 ,                SerialEvent::PreTurnBegin, 588.41 ms
+[2018-01-30 22:02:47]	 ,----- FRAME: 125524 time: 31.66ms Moving avg: 33.21ms 510 frames since last 
+[2018-01-30 22:02:47]	 ,            GameCoreEvent::TurnBegin, 8.88 ms
+[2018-01-30 22:02:47]	 ,                LuaContext::CityPanel, 7.92 ms
+[2018-01-30 22:02:47]	 ,            GameCoreEvent::LocalPlayerTurnBegin, 8.64 ms
+[2018-01-30 22:02:47]	 ,                LuaContext::WorldTracker, 5.78 ms
+[2018-01-30 22:02:47]	 ,                LuaContext::CivicsChooser, 5.89 ms
+[2018-01-30 22:02:47]	 ,                LuaContext::ResearchChooser, 14.29 ms
+[2018-01-30 22:02:47]	 ,            SerialEvent::GameCoreEventPublishComplete, 26.05 ms
+[2018-01-30 22:02:47]	 ,        Civ6App_PublishGameCoreEvents, 44.67 ms
+[2018-01-30 22:02:47]	 ,----- FRAME: 125527 time: 69.10ms Moving avg: 33.79ms 4 frames since last 
+[2018-01-30 22:02:47]	 ,                LuaContext::CityPanel, 7.95 ms
+[2018-01-30 22:02:47]	 ,            GameCoreEvent::CityProductionUpdated, 8.71 ms
+[2018-01-30 22:02:47]	 ,                LuaContext::WorldTracker, 5.50 ms
+[2018-01-30 22:02:47]	 ,                LuaContext::CivicsChooser, 6.12 ms
+[2018-01-30 22:02:47]	 ,                LuaContext::ResearchChooser, 14.43 ms
+[2018-01-30 22:02:47]	 ,            SerialEvent::GameCoreEventPublishComplete, 26.16 ms
+[2018-01-30 22:02:47]	 ,        Civ6App_PublishGameCoreEvents, 52.32 ms
+[2018-01-30 22:02:47]	 , WONDERMOVIE: Turn number: 90. Visible mesh count: 100
+[2018-01-30 22:02:47]	 ,----- FRAME: 125539 time: 89.78ms Moving avg: 35.44ms 13 frames since last 
+[2018-01-30 22:03:13]	 , WONDERMOVIE: Turn number: 90. Visible mesh count: 100
+[2018-01-30 22:03:13]	 ,                    Overlays_Update, 30.24 ms
+[2018-01-30 22:03:13]	 ,----- FRAME: 126361 time: 71.80ms Moving avg: 34.54ms 823 frames since last 
+[2018-01-30 22:03:14]	 ,                Overlays_Update, 29.52 ms
+[2018-01-30 22:03:14]	 ,----- FRAME: 126391 time: 68.85ms Moving avg: 35.35ms 31 frames since last 
+[2018-01-30 22:03:20]	 ,                AsyncUpdateManager_Update, 43.33 ms
+[2018-01-30 22:03:20]	 ,    Civ6App_UpdateFrame, 100.90 ms
+[2018-01-30 22:03:20]	 ,----- FRAME: 126572 time: 105.62ms Moving avg: 35.54ms 182 frames since last 
+[2018-01-30 22:03:27]	 ,                DoGameStateSaveRequest, 592.68 ms
+[2018-01-30 22:03:27]	 ,            SerialEvent::PreTurnBegin, 622.75 ms
+[2018-01-30 22:03:27]	 ,----- FRAME: 126780 time: 32.63ms Moving avg: 33.40ms 209 frames since last 
+[2018-01-30 22:03:27]	 ,            GameCoreEvent::TurnBegin, 10.30 ms
+[2018-01-30 22:03:27]	 ,                LuaContext::WorldTracker, 6.44 ms
+[2018-01-30 22:03:27]	 ,                LuaContext::CivicsChooser, 6.44 ms
+[2018-01-30 22:03:27]	 ,                LuaContext::ResearchChooser, 19.59 ms
+[2018-01-30 22:03:27]	 ,            SerialEvent::GameCoreEventPublishComplete, 32.59 ms
+[2018-01-30 22:03:27]	 ,        Civ6App_PublishGameCoreEvents, 44.61 ms
+[2018-01-30 22:03:28]	 ,----- FRAME: 126783 time: 83.39ms Moving avg: 34.15ms 4 frames since last 
+[2018-01-30 22:03:28]	 ,            GameCoreEvent::PlayerTurnActivated, 8.03 ms
+[2018-01-30 22:03:28]	 ,                LuaContext::WorldTracker, 5.90 ms
+[2018-01-30 22:03:28]	 ,                LuaContext::CivicsChooser, 6.60 ms
+[2018-01-30 22:03:28]	 ,                LuaContext::ResearchChooser, 15.91 ms
+[2018-01-30 22:03:28]	 ,            SerialEvent::GameCoreEventPublishComplete, 28.50 ms
+[2018-01-30 22:03:28]	 ,        Civ6App_PublishGameCoreEvents, 53.36 ms
+[2018-01-30 22:03:28]	 , WONDERMOVIE: Turn number: 91. Visible mesh count: 94
+[2018-01-30 22:03:28]	 ,                Overlays_Update, 32.73 ms
+[2018-01-30 22:03:28]	 ,----- FRAME: 126796 time: 125.24ms Moving avg: 35.84ms 14 frames since last 
+[2018-01-30 22:03:35]	 ,            SerialEvent::QuerySaveGames, 51.67 ms
+[2018-01-30 22:03:35]	 ,        Civ6App_PublishSerialEvents, 51.72 ms
+[2018-01-30 22:03:35]	 ,----- FRAME: 127000 time: 94.73ms Moving avg: 35.25ms 205 frames since last 
+[2018-01-30 22:03:38]	 ,            DoGameStateSaveRequest, 589.88 ms
+[2018-01-30 22:03:38]	 ,        GameViewState_Tick, 598.42 ms
+[2018-01-30 22:03:38]	 ,    Civ6App_UpdateFrame, 614.92 ms
+[2018-01-30 22:03:38]	 ,----- FRAME: 127074 time: 615.08ms Moving avg: 43.51ms 75 frames since last 
+[2018-01-30 22:03:43]	 ,            DoGameStateSaveRequest, 544.76 ms
+[2018-01-30 22:03:43]	 ,        GameViewState_Tick, 552.78 ms
+[2018-01-30 22:03:43]	 ,    Civ6App_UpdateFrame, 572.48 ms
+[2018-01-30 22:03:43]	 ,----- FRAME: 127206 time: 572.62ms Moving avg: 43.03ms 133 frames since last 
+[2018-01-30 22:03:43]	 ,            SerialEvent::SaveComplete, 5.63 ms
+[2018-01-30 22:03:43]	 ,----- FRAME: 127207 time: 27.80ms Moving avg: 42.94ms 2 frames since last 
+[2018-01-30 22:23:58]	 ,            Civ6App_FiraxisLiveUpdate, 6.42 ms
+[2018-01-30 22:23:58]	 ,----- FRAME: 163035 time: 40.02ms Moving avg: 34.29ms 35829 frames since last 
+[2018-01-30 22:29:25]	 ,                    LuaContext::SelectedUnit, 48.76 ms
+[2018-01-30 22:29:25]	 ,                    LuaContext::UnitPanel, 9.18 ms
+[2018-01-30 22:29:25]	 ,                SerialEvent::UnitSelectionChanged, 63.78 ms
+[2018-01-30 22:29:25]	 ,            Civ6App_PublishSerialEvents, 64.36 ms
+[2018-01-30 22:29:25]	 ,----- FRAME: 172676 time: 97.00ms Moving avg: 33.71ms 9642 frames since last 
+[2018-01-30 22:29:27]	 ,                    LuaContext::UnitPanel, 5.57 ms
+[2018-01-30 22:29:27]	 ,                SerialEvent::UnitSelectionChanged, 6.47 ms
+[2018-01-30 22:29:27]	 ,----- FRAME: 172737 time: 33.36ms Moving avg: 33.69ms 62 frames since last 
+[2018-01-30 22:29:41]	 ,            SerialEvent::UnitSelectionChanged, 5.19 ms
+[2018-01-30 22:29:41]	 ,----- FRAME: 173164 time: 33.43ms Moving avg: 30.53ms 428 frames since last 
+[2018-01-30 22:29:51]	 ,            LuaContext::CityBannerManager, 7.76 ms
+[2018-01-30 22:29:51]	 ,        GameCoreEvent::CityAddedToMap, 7.82 ms
+[2018-01-30 22:29:51]	 ,            Overlays_Update, 29.36 ms
+[2018-01-30 22:29:51]	 ,----- FRAME: 173579 time: 75.26ms Moving avg: 24.68ms 416 frames since last 
+[2018-01-30 22:29:52]	 ,            GameCoreEvent::CivicCompleted, 5.36 ms
+[2018-01-30 22:29:52]	 , WONDERMOVIE: Turn number: 91. Visible mesh count: 94
+[2018-01-30 22:29:52]	 ,----- FRAME: 173606 time: 57.68ms Moving avg: 27.25ms 28 frames since last 
+[2018-01-30 22:29:53]	 ,                Overlays_Update, 29.66 ms
+[2018-01-30 22:29:53]	 ,----- FRAME: 173635 time: 77.26ms Moving avg: 32.73ms 30 frames since last 
+[2018-01-30 22:29:57]	 ,                Overlays_Update, 30.57 ms
+[2018-01-30 22:29:57]	 ,----- FRAME: 173743 time: 70.87ms Moving avg: 32.61ms 109 frames since last 
+[2018-01-30 22:30:07]	 ,                DoGameStateSaveRequest, 641.82 ms
+[2018-01-30 22:30:07]	 ,            SerialEvent::PreTurnBegin, 669.11 ms
+[2018-01-30 22:30:07]	 ,----- FRAME: 174043 time: 28.81ms Moving avg: 31.87ms 301 frames since last 
+[2018-01-30 22:30:07]	 ,            GameCoreEvent::TurnBegin, 9.99 ms
+[2018-01-30 22:30:07]	 ,                LuaContext::WorldTracker, 6.30 ms
+[2018-01-30 22:30:07]	 ,                LuaContext::CivicsChooser, 6.51 ms
+[2018-01-30 22:30:07]	 ,                LuaContext::ResearchChooser, 15.54 ms
+[2018-01-30 22:30:07]	 ,            SerialEvent::GameCoreEventPublishComplete, 28.44 ms
+[2018-01-30 22:30:07]	 ,        Civ6App_PublishGameCoreEvents, 40.08 ms
+[2018-01-30 22:30:07]	 ,----- FRAME: 174046 time: 67.42ms Moving avg: 32.32ms 4 frames since last 
+[2018-01-30 22:30:07]	 ,                LuaContext::WorldTracker, 5.41 ms
+[2018-01-30 22:30:07]	 ,                LuaContext::CivicsChooser, 6.34 ms
+[2018-01-30 22:30:07]	 ,                LuaContext::ResearchChooser, 14.66 ms
+[2018-01-30 22:30:07]	 ,            SerialEvent::GameCoreEventPublishComplete, 26.51 ms
+[2018-01-30 22:30:07]	 ,        Civ6App_PublishGameCoreEvents, 44.92 ms
+[2018-01-30 22:30:07]	 , WONDERMOVIE: Turn number: 92. Visible mesh count: 87
+[2018-01-30 22:30:07]	 ,                Overlays_Update, 28.98 ms
+[2018-01-30 22:30:07]	 ,----- FRAME: 174059 time: 113.80ms Moving avg: 34.19ms 14 frames since last 
+[2018-01-30 22:30:31]	 ,                ModelContext_updateVises, 12.05 ms
+[2018-01-30 22:30:31]	 ,----- FRAME: 174955 time: 33.40ms Moving avg: 25.95ms 897 frames since last 
+[2018-01-30 22:30:44]	 ,    Civ6App_FiraxisLiveUpdate, 9507.41 ms
