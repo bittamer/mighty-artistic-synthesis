@@ -1,0 +1,62 @@
+1526538750644	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1526539030266	Sync.SyncScheduler	DEBUG	Network link status changed to "down". Offline?: false
+1526539030267	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1526539030280	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1526539031236	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1526539551814	Sync.SyncScheduler	DEBUG	Network link status changed to "up". Offline?: false
+1526539551814	Sync.SyncScheduler	DEBUG	Network link looks up. Syncing.
+1526539551816	Sync.Service	DEBUG	User-Agent: Firefox/60.0 (Linux x86_64) FxSync/1.62.0.20180509234620.desktop
+1526539551816	Sync.Service	INFO	Starting sync at 2018-05-17 13:45:51 in browser session 8IYZaSGUJ7Gm
+1526539551817	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1526539551822	Sync.Status	INFO	Resetting Status.
+1526539551822	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1526539551824	Sync.BrowserIDManager	INFO	Getting keys
+1526539551825	Sync.BrowserIDManager	INFO	Getting an assertion from: https://token.services.mozilla.com/1.0/sync/1.5
+1526539551825	FirefoxAccounts	DEBUG	enter getAssertion()
+1526539551826	FirefoxAccounts	DEBUG	getKeypairAndCertificate: already have keyPair and certificate
+1526539551826	FirefoxAccounts	DEBUG	getAssertionFromCert
+1526539551828	FirefoxAccounts	DEBUG	getAssertionFromCert returning signed: true
+1526539551828	Sync.BrowserIDManager	DEBUG	Getting a token
+1526539551828	Services.Common.TokenServerClient	DEBUG	Beginning BID assertion exchange: https://token.services.mozilla.com/1.0/sync/1.5
+1526539551829	Services.Common.RESTRequest	DEBUG	GET request to https://token.services.mozilla.com/1.0/sync/1.5
+1526539551829	Services.Common.RESTRequest	TRACE	HTTP Header accept: application/json
+1526539551829	Services.Common.RESTRequest	TRACE	HTTP Header authorization: ***** (suppressed)
+1526539551829	Services.Common.RESTRequest	TRACE	HTTP Header x-client-state: 0da151c5e63248d19ebc6b4e7f9624af
+1526539551832	Services.Common.RESTRequest	TRACE	onStartRequest: GET https://token.services.mozilla.com/1.0/sync/1.5
+1526539551832	Services.Common.RESTRequest	TRACE	Channel for GET https://token.services.mozilla.com/1.0/sync/1.5 returned status code 2152398920
+1526539551832	Services.Common.RESTRequest	DEBUG	GET https://token.services.mozilla.com/1.0/sync/1.5 failed: 2152398920 - NS_ERROR_PROXY_CONNECTION_REFUSED
+1526539551832	Sync.BrowserIDManager	ERROR	Non-authentication error in _fetchTokenForUser: TokenServerClientNetworkError({"error":{}}) (resource://services-common/tokenserverclient.js:36:36) JS Stack trace: TokenServerClientNetworkError@tokenserverclient.js:59:16
+getTokenFromBrowserIDAssertion/response</<@tokenserverclient.js:245:22
+onStopRequest@rest.js:483:7
+1526539551833	Sync.Status	DEBUG	Status.login: success.login => error.login.reason.network
+1526539551833	Sync.Status	DEBUG	Status.service: success.status_ok => error.login.failed
+1526539551834	Sync.BrowserIDManager	ERROR	Failed to fetch a token for authentication: TokenServerClientNetworkError({"error":{}}) (resource://services-common/tokenserverclient.js:36:36) JS Stack trace: TokenServerClientNetworkError@tokenserverclient.js:59:16
+getTokenFromBrowserIDAssertion/response</<@tokenserverclient.js:245:22
+onStopRequest@rest.js:483:7
+1526539551837	FirefoxAccounts	DEBUG	FxAccountsProfileClient: Requested profile
+1526539551837	FirefoxAccounts	DEBUG	getOAuthToken enter
+1526539551838	FirefoxAccounts	TRACE	getCachedToken returning cached token
+1526539551838	FirefoxAccounts	DEBUG	getOAuthToken returning a cached token
+1526539551839	Services.Common.RESTRequest	DEBUG	GET request to https://profile.accounts.firefox.com/v1/profile
+1526539551839	Services.Common.RESTRequest	TRACE	HTTP Header authorization: ***** (suppressed)
+1526539551839	Services.Common.RESTRequest	TRACE	HTTP Header accept: application/json
+1526539551839	Services.Common.RESTRequest	TRACE	HTTP Header if-none-match: "e2de6c39f5d8d3a243f4a0d516c140fd912fa518-gzip"
+1526539551841	Services.Common.RESTRequest	TRACE	onStartRequest: GET https://profile.accounts.firefox.com/v1/profile
+1526539551841	Services.Common.RESTRequest	TRACE	Channel for GET https://profile.accounts.firefox.com/v1/profile returned status code 2152398920
+1526539551841	Services.Common.RESTRequest	DEBUG	GET https://profile.accounts.firefox.com/v1/profile failed: 2152398920 - NS_ERROR_PROXY_CONNECTION_REFUSED
+1526539551842	FirefoxAccounts	ERROR	Background refresh of profile failed: {"name":"FxAccountsProfileClientError","code":null,"errno":998,"error":"NETWORK_ERROR","message":"[Exception... \"NS_ERROR_PROXY_CONNECTION_REFUSED\"  nsresult: \"0x804b0048 (NS_ERROR_PROXY_CONNECTION_REFUSED)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 481\"  data: no]"}
+1526539551843	Sync.Resource	WARN	GET request to https://sync-600-us-west-2.sync.services.mozilla.com/1.5/92728811/info/collections failed: [Exception... "The connection to the proxy server was refused"  nsresult: "0x804b0048 (NS_ERROR_PROXY_CONNECTION_REFUSED)"  location: "<unknown>"  data: no] No traceback available
+1526539551844	Sync.Status	DEBUG	Status.sync: success.sync => error.login.reason.network
+1526539551844	Sync.Status	DEBUG	Status.service: error.login.failed => error.sync.failed
+1526539551844	Sync.ErrorHandler	ERROR	Sync encountered an error: [Exception... "The connection to the proxy server was refused"  nsresult: "0x804b0048 (NS_ERROR_PROXY_CONNECTION_REFUSED)"  location: "<unknown>"  data: no] No traceback available
+1526539551844	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=reschedule)
+1526539551851	Sync.Service	DEBUG	Exception calling anonymous function: [Exception... "The connection to the proxy server was refused"  nsresult: "0x804b0048 (NS_ERROR_PROXY_CONNECTION_REFUSED)"  location: "<unknown>"  data: no] No traceback available
+1526539551853	Sync.ErrorHandler	DEBUG	Addons installed: 8
+1526539551853	Sync.ErrorHandler	DEBUG	 - Firefox Multi-Account Containers, version 6.0.0, id @testpilot-containers
+1526539551853	Sync.ErrorHandler	DEBUG	 - GNOME Shell integration, version 10.1, id chrome-gnome-shell@gnome.org
+1526539551853	Sync.ErrorHandler	DEBUG	 - Web Extension for Shaarli, version 2.0.0, id shaarli@imirhil.fr
+1526539551853	Sync.ErrorHandler	DEBUG	 - DuckDuckGo Privacy Essentials, version 2018.5.1, id jid1-ZAdIEUB7XOzOJw@jetpack
+1526539551853	Sync.ErrorHandler	DEBUG	 - FoxyProxy Standard, version 6.2, id foxyproxy@eric.h.jung
+1526539551853	Sync.ErrorHandler	DEBUG	 - Zotero Connector, version 5.0.39, id zotero@chnm.gmu.edu
+1526539551854	Sync.ErrorHandler	DEBUG	 - Sync Tab Groups, version 0.6.9, id sync-tab-groups@eric.masseran
+1526539551854	Sync.ErrorHandler	DEBUG	 - uBlock Origin, version 1.16.6, id uBlock0@raymondhill.net

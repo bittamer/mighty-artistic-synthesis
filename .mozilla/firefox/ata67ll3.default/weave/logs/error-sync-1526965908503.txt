@@ -1,0 +1,27 @@
+1526965687606	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1526965717614	Sync.SyncScheduler	DEBUG	Network link status changed to "down". Offline?: false
+1526965717615	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1526965717625	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1526965718576	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1526965908464	Sync.SyncScheduler	DEBUG	Network link status changed to "up". Offline?: false
+1526965908464	Sync.SyncScheduler	DEBUG	Network link looks up. Syncing.
+1526965908488	Sync.Service	DEBUG	User-Agent: Firefox/60.0 (Linux x86_64) FxSync/1.62.0.20180509234620.desktop
+1526965908488	Sync.Service	INFO	Starting sync at 2018-05-22 12:11:48 in browser session 8IYZaSGUJ7Gm
+1526965908488	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1526965908490	Sync.Status	INFO	Resetting Status.
+1526965908490	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1526965908497	Sync.Resource	WARN	GET request to https://sync-600-us-west-2.sync.services.mozilla.com/1.5/92728811/info/collections failed: [Exception... "The lookup of the hostname failed"  nsresult: "0x804b001e (NS_ERROR_UNKNOWN_HOST)"  location: "<unknown>"  data: no] No traceback available
+1526965908497	Sync.Status	DEBUG	Status.sync: success.sync => error.login.reason.network
+1526965908497	Sync.Status	DEBUG	Status.service: success.status_ok => error.sync.failed
+1526965908498	Sync.ErrorHandler	ERROR	Sync encountered an error: [Exception... "The lookup of the hostname failed"  nsresult: "0x804b001e (NS_ERROR_UNKNOWN_HOST)"  location: "<unknown>"  data: no] No traceback available
+1526965908498	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=reschedule)
+1526965908501	Sync.Service	DEBUG	Exception calling anonymous function: [Exception... "The lookup of the hostname failed"  nsresult: "0x804b001e (NS_ERROR_UNKNOWN_HOST)"  location: "<unknown>"  data: no] No traceback available
+1526965908502	Sync.ErrorHandler	DEBUG	Addons installed: 8
+1526965908502	Sync.ErrorHandler	DEBUG	 - Firefox Multi-Account Containers, version 6.0.0, id @testpilot-containers
+1526965908502	Sync.ErrorHandler	DEBUG	 - GNOME Shell integration, version 10.1, id chrome-gnome-shell@gnome.org
+1526965908502	Sync.ErrorHandler	DEBUG	 - Web Extension for Shaarli, version 2.0.0, id shaarli@imirhil.fr
+1526965908502	Sync.ErrorHandler	DEBUG	 - DuckDuckGo Privacy Essentials, version 2018.5.1, id jid1-ZAdIEUB7XOzOJw@jetpack
+1526965908503	Sync.ErrorHandler	DEBUG	 - FoxyProxy Standard, version 6.2, id foxyproxy@eric.h.jung
+1526965908503	Sync.ErrorHandler	DEBUG	 - Zotero Connector, version 5.0.39, id zotero@chnm.gmu.edu
+1526965908503	Sync.ErrorHandler	DEBUG	 - Sync Tab Groups, version 0.6.9, id sync-tab-groups@eric.masseran
+1526965908503	Sync.ErrorHandler	DEBUG	 - uBlock Origin, version 1.16.6, id uBlock0@raymondhill.net

@@ -1,0 +1,1 @@
+{"url":"http://toconquer.space:8000/","pageAction":false,"popupWidth":800,"popupHeight":900}

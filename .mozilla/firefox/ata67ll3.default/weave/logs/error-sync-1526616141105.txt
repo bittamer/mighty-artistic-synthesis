@@ -1,0 +1,27 @@
+1526615545198	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1526616139197	Sync.SyncScheduler	DEBUG	Network link status changed to "down". Offline?: false
+1526616139197	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1526616139205	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=schedule)
+1526616139607	Sync.SyncScheduler	DEBUG	Network link status changed to "up". Offline?: false
+1526616139607	Sync.SyncScheduler	DEBUG	Network link looks up. Syncing.
+1526616139610	Sync.Service	DEBUG	User-Agent: Firefox/60.0 (Linux x86_64) FxSync/1.62.0.20180509234620.desktop
+1526616139610	Sync.Service	INFO	Starting sync at 2018-05-18 11:02:19 in browser session 8IYZaSGUJ7Gm
+1526616139611	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1526616139619	Sync.Status	INFO	Resetting Status.
+1526616139619	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1526616140173	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1526616141077	Sync.Resource	WARN	GET request to https://sync-600-us-west-2.sync.services.mozilla.com/1.5/92728811/info/collections failed: [Exception... "The connection was established, but no data was ever received"  nsresult: "0x804b0014 (NS_ERROR_NET_RESET)"  location: "<unknown>"  data: no] No traceback available
+1526616141078	Sync.Status	DEBUG	Status.sync: success.sync => error.login.reason.network
+1526616141078	Sync.Status	DEBUG	Status.service: success.status_ok => error.sync.failed
+1526616141079	Sync.ErrorHandler	ERROR	Sync encountered an error: [Exception... "The connection was established, but no data was ever received"  nsresult: "0x804b0014 (NS_ERROR_NET_RESET)"  location: "<unknown>"  data: no] No traceback available
+1526616141081	Sync.SyncScheduler	DEBUG	Next sync in 600000 ms. (why=reschedule)
+1526616141098	Sync.Service	DEBUG	Exception calling anonymous function: [Exception... "The connection was established, but no data was ever received"  nsresult: "0x804b0014 (NS_ERROR_NET_RESET)"  location: "<unknown>"  data: no] No traceback available
+1526616141102	Sync.ErrorHandler	DEBUG	Addons installed: 8
+1526616141102	Sync.ErrorHandler	DEBUG	 - Firefox Multi-Account Containers, version 6.0.0, id @testpilot-containers
+1526616141103	Sync.ErrorHandler	DEBUG	 - GNOME Shell integration, version 10.1, id chrome-gnome-shell@gnome.org
+1526616141104	Sync.ErrorHandler	DEBUG	 - Web Extension for Shaarli, version 2.0.0, id shaarli@imirhil.fr
+1526616141104	Sync.ErrorHandler	DEBUG	 - DuckDuckGo Privacy Essentials, version 2018.5.1, id jid1-ZAdIEUB7XOzOJw@jetpack
+1526616141104	Sync.ErrorHandler	DEBUG	 - FoxyProxy Standard, version 6.2, id foxyproxy@eric.h.jung
+1526616141105	Sync.ErrorHandler	DEBUG	 - Zotero Connector, version 5.0.39, id zotero@chnm.gmu.edu
+1526616141105	Sync.ErrorHandler	DEBUG	 - Sync Tab Groups, version 0.6.9, id sync-tab-groups@eric.masseran
+1526616141105	Sync.ErrorHandler	DEBUG	 - uBlock Origin, version 1.16.6, id uBlock0@raymondhill.net

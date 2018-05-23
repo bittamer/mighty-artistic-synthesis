@@ -1,0 +1,177 @@
+1526568115754	Sync.LogManager	DEBUG	Flushing file log
+1526568115757	Services.Common.RESTRequest	TRACE	onStartRequest: GET https://profile.accounts.firefox.com/v1/profile
+1526568115758	Services.Common.RESTRequest	TRACE	Channel for GET https://profile.accounts.firefox.com/v1/profile returned status code 2152398878
+1526568115758	Services.Common.RESTRequest	DEBUG	GET https://profile.accounts.firefox.com/v1/profile failed: 2152398878 - NS_ERROR_UNKNOWN_HOST
+1526568115758	FirefoxAccounts	ERROR	Background refresh of profile failed: {"name":"FxAccountsProfileClientError","code":null,"errno":998,"error":"NETWORK_ERROR","message":"[Exception... \"NS_ERROR_UNKNOWN_HOST\"  nsresult: \"0x804b001e (NS_ERROR_UNKNOWN_HOST)\"  location: \"JS frame :: resource://services-common/rest.js :: onStopRequest :: line 481\"  data: no]"}
+1526568116084	Sync.LogManager	DEBUG	Log cleanup threshold time: 1525704116084
+1526570220265	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1526570221033	Sync.LogManager	DEBUG	Done deleting files.
+1526570224036	Sync.SyncScheduler	DEBUG	Network link status changed to "up". Offline?: false
+1526570224036	Sync.SyncScheduler	DEBUG	Network link looks up. Syncing.
+1526570225032	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1526570226108	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1526570806210	Sync.Service	DEBUG	User-Agent: Firefox/60.0 (Linux x86_64) FxSync/1.62.0.20180509234620.desktop
+1526570806210	Sync.Service	INFO	Starting sync at 2018-05-17 22:26:46 in browser session 8IYZaSGUJ7Gm
+1526570806211	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1526570806213	Sync.Status	INFO	Resetting Status.
+1526570806213	Sync.Status	DEBUG	Status.service: error.sync.failed => success.status_ok
+1526570806214	Sync.BrowserIDManager	INFO	Getting keys
+1526570806214	Sync.BrowserIDManager	INFO	Getting an assertion from: https://token.services.mozilla.com/1.0/sync/1.5
+1526570806214	FirefoxAccounts	DEBUG	enter getAssertion()
+1526570806215	FirefoxAccounts	DEBUG	getKeypairAndCertificate: already have keyPair and certificate
+1526570806215	FirefoxAccounts	DEBUG	getAssertionFromCert
+1526570806216	FirefoxAccounts	DEBUG	getAssertionFromCert returning signed: true
+1526570806216	Sync.BrowserIDManager	DEBUG	Getting a token
+1526570806216	Services.Common.TokenServerClient	DEBUG	Beginning BID assertion exchange: https://token.services.mozilla.com/1.0/sync/1.5
+1526570806216	Services.Common.RESTRequest	DEBUG	GET request to https://token.services.mozilla.com/1.0/sync/1.5
+1526570806216	Services.Common.RESTRequest	TRACE	HTTP Header accept: application/json
+1526570806216	Services.Common.RESTRequest	TRACE	HTTP Header authorization: ***** (suppressed)
+1526570806216	Services.Common.RESTRequest	TRACE	HTTP Header x-client-state: 0da151c5e63248d19ebc6b4e7f9624af
+1526570807072	Services.Common.RESTRequest	TRACE	onStartRequest: GET https://token.services.mozilla.com/1.0/sync/1.5
+1526570807073	Services.Common.RESTRequest	TRACE	Channel for GET https://token.services.mozilla.com/1.0/sync/1.5 returned status code 0
+1526570807074	Services.Common.RESTRequest	DEBUG	GET https://token.services.mozilla.com/1.0/sync/1.5 200
+1526570807074	Services.Common.RESTRequest	TRACE	GET body: {"uid": 92728811, "hashalg": "sha256", "api_endpoint": "https://sync-600-us-west-2.sync.services.mozilla.com/1.5/92728811", "duration": 3600, "key": "HpryGZXTvcvxanS7GVgHDz4AWv1rTwxeug1Bv1mgy9o=", "hashed_fxa_uid": "4bbbb9895d930bae0304b34472d46e7f", "id": "eyJub2RlIjogImh0dHBzOi8vc3luYy02MDAtdXMtd2VzdC0yLnN5bmMuc2VydmljZXMubW96aWxsYS5jb20iLCAidWlkIjogOTI3Mjg4MTEsICJleHBpcmVzIjogMTUyNjU3NDQwNywgImZ4YV91aWQiOiAiNGJiYmI5ODk1ZDkzMGJhZTAzMDRiMzQ0NzJkNDZlN2YiLCAic2FsdCI6ICI0YjQzNDQiLCAiZGV2aWNlX2lkIjogImEwYTQxNjc3MTllZTJmNzNhZGQwNDY0NGFjZDA2Y2ExIn0ytKao48XDhnzowsVN9A0fvSbk4v9Vh7stxdaNlOxlWQ=="}
+1526570807074	Services.Common.TokenServerClient	DEBUG	Got token response: 200
+1526570807074	Services.Common.RESTResponse	TRACE	Processing response headers.
+1526570807076	Services.Common.TokenServerClient	DEBUG	Successful token response
+1526570807076	Sync.Status	DEBUG	Status.login: success.login => success.login
+1526570807077	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1526570807084	FirefoxAccounts	DEBUG	FxAccountsProfileClient: Requested profile
+1526570807085	FirefoxAccounts	DEBUG	getOAuthToken enter
+1526570807089	FirefoxAccounts	TRACE	getCachedToken returning cached token
+1526570807089	FirefoxAccounts	DEBUG	getOAuthToken returning a cached token
+1526570807091	Services.Common.RESTRequest	DEBUG	GET request to https://profile.accounts.firefox.com/v1/profile
+1526570807091	Services.Common.RESTRequest	TRACE	HTTP Header authorization: ***** (suppressed)
+1526570807091	Services.Common.RESTRequest	TRACE	HTTP Header accept: application/json
+1526570807091	Services.Common.RESTRequest	TRACE	HTTP Header if-none-match: "e2de6c39f5d8d3a243f4a0d516c140fd912fa518-gzip"
+1526570807894	Sync.Resource	DEBUG	GET success 200 https://sync-600-us-west-2.sync.services.mozilla.com/1.5/92728811/info/collections
+1526570807895	Sync.Service	DEBUG	Fetching server configuration: https://sync-600-us-west-2.sync.services.mozilla.com/1.5/92728811/info/configuration
+1526570808002	Services.Common.RESTRequest	TRACE	onStartRequest: GET https://profile.accounts.firefox.com/v1/profile
+1526570808003	Services.Common.RESTRequest	TRACE	Channel for GET https://profile.accounts.firefox.com/v1/profile returned status code 0
+1526570808003	Services.Common.RESTRequest	DEBUG	GET https://profile.accounts.firefox.com/v1/profile 304
+1526570808003	Services.Common.RESTRequest	TRACE	GET body: 
+1526570808109	Sync.Resource	DEBUG	GET success 200 https://sync-600-us-west-2.sync.services.mozilla.com/1.5/92728811/info/configuration
+1526570808110	Sync.Service	DEBUG	Fetching global metadata record
+1526570808111	Sync.Service	DEBUG	Weave Version: 1.62.0 Local Storage: 5 Remote Storage: 5
+1526570808111	Sync.Service	DEBUG	Fetching and verifying -- or generating -- symmetric keys.
+1526570808111	Sync.Service	INFO	Testing info/collections: {"prefs":1523939069.79,"clients":1526430947,"crypto":1519961513.21,"forms":1526561923.21,"meta":1523939073.35,"bookmarks":1526545738.41,"addons":1525682799.08,"history":1526566992.68}
+1526570808111	Sync.CollectionKeyManager	INFO	Testing for updateNeeded. Last modified: 1519961513.21
+1526570808111	Sync.Synchronizer	DEBUG	Refreshing client list.
+1526570808117	Sync.Engine.Clients	INFO	0 outgoing items pre-reconciliation
+1526570809325	Sync.Collection	DEBUG	GET success 200 https://sync-600-us-west-2.sync.services.mozilla.com/1.5/92728811/storage/clients?full=1&limit=1000
+1526570809341	Sync.Engine.Clients	INFO	Records: 0 applied, 0 successfully, 0 failed to apply, 0 newly failed to apply, 3 reconciled.
+1526570809357	Sync.EngineManager	DEBUG	Could not get engine: clients
+1526570809357	Sync.EngineManager	DEBUG	Engines are: ["addons","forms","history","passwords","prefs","tabs","extension-storage","bookmarks"]
+1526570809358	Sync.Synchronizer	INFO	Updating enabled engines: 3 clients.
+1526570809359	Sync.Synchronizer	INFO	Syncing all enabled engines.
+1526570809361	Sync.Engine.Prefs	INFO	0 outgoing items pre-reconciliation
+1526570809362	Sync.Engine.Prefs	INFO	Records: 0 applied, 0 successfully, 0 failed to apply, 0 newly failed to apply, 0 reconciled.
+1526570809371	Sync.Engine.Bookmarks	INFO	0 outgoing items pre-reconciliation
+1526570809372	Sync.Engine.Bookmarks	INFO	Records: 0 applied, 0 successfully, 0 failed to apply, 0 newly failed to apply, 0 reconciled.
+1526570809375	Sync.Engine.Bookmarks.BookmarkSyncUtils	DEBUG	pushChanges: Processed change records: {"weak":0,"skipped":0,"updated":0}
+1526570809376	Sync.Engine.Addons	DEBUG	Refreshing reconciler state
+1526570809376	Sync.AddonsReconciler	INFO	Refreshing global state from AddonManager.
+1526570809378	Sync.AddonsReconciler	DEBUG	Rectifying state for addon Firefox Multi-Account Containers (version=6.0.0, id=@testpilot-containers)
+1526570809378	Sync.AddonsReconciler	DEBUG	Rectifying state for addon GNOME Shell integration (version=10.1, id=chrome-gnome-shell@gnome.org)
+1526570809378	Sync.AddonsReconciler	DEBUG	Rectifying state for addon Web Extension for Shaarli (version=2.0.0, id=shaarli@imirhil.fr)
+1526570809378	Sync.AddonsReconciler	DEBUG	Rectifying state for addon DuckDuckGo Privacy Essentials (version=2018.5.1, id=jid1-ZAdIEUB7XOzOJw@jetpack)
+1526570809378	Sync.AddonsReconciler	DEBUG	Rectifying state for addon FoxyProxy Standard (version=6.2, id=foxyproxy@eric.h.jung)
+1526570809378	Sync.AddonsReconciler	DEBUG	Rectifying state for addon Zotero Connector (version=5.0.39, id=zotero@chnm.gmu.edu)
+1526570809378	Sync.AddonsReconciler	DEBUG	Rectifying state for addon Sync Tab Groups (version=0.6.9, id=sync-tab-groups@eric.masseran)
+1526570809378	Sync.AddonsReconciler	DEBUG	Rectifying state for addon Activity Stream (version=2018.04.20.1103-b3b95672, id=activity-stream@mozilla.org)
+1526570809378	Sync.AddonsReconciler	DEBUG	Rectifying state for addon Application Update Service Helper (version=2.0, id=aushelper@mozilla.org)
+1526570809378	Sync.AddonsReconciler	DEBUG	Rectifying state for addon Pocket (version=1.0.5, id=firefox@getpocket.com)
+1526570809378	Sync.AddonsReconciler	DEBUG	Rectifying state for addon Follow-on Search Telemetry (version=0.9.6, id=followonsearch@mozilla.com)
+1526570809378	Sync.AddonsReconciler	DEBUG	Rectifying state for addon Form Autofill (version=1.0, id=formautofill@mozilla.org)
+1526570809378	Sync.AddonsReconciler	DEBUG	Rectifying state for addon Photon onboarding (version=1.0, id=onboarding@mozilla.org)
+1526570809378	Sync.AddonsReconciler	DEBUG	Rectifying state for addon Firefox Screenshots (version=30.1.0, id=screenshots@mozilla.org)
+1526570809379	Sync.AddonsReconciler	DEBUG	Rectifying state for addon Web Compat (version=1.1, id=webcompat@mozilla.org)
+1526570809379	Sync.AddonsReconciler	DEBUG	Rectifying state for addon English (GB) Language Pack (version=60.0, id=langpack-en-GB@firefox.mozilla.org)
+1526570809379	Sync.AddonsReconciler	DEBUG	Rectifying state for addon English (South Africa) Language Pack (version=60.0, id=langpack-en-ZA@firefox.mozilla.org)
+1526570809379	Sync.AddonsReconciler	DEBUG	Rectifying state for addon Default (version=60.0, id={972ce4c6-7e08-4474-a285-3208198ce6fd})
+1526570809379	Sync.AddonsReconciler	DEBUG	Rectifying state for addon uBlock Origin (version=1.16.6, id=uBlock0@raymondhill.net)
+1526570809379	Sync.AddonsReconciler	DEBUG	Rectifying state for addon Light (version=, id=firefox-compact-light@mozilla.org@personas.mozilla.org)
+1526570809379	Sync.AddonsReconciler	DEBUG	Rectifying state for addon Dark (version=, id=firefox-compact-dark@mozilla.org@personas.mozilla.org)
+1526570809379	Sync.AddonsReconciler	DEBUG	Rectifying state for addon OpenH264 Video Codec provided by Cisco Systems, Inc. (version=1.7.1, id=gmp-gmpopenh264)
+1526570809379	Sync.AddonsReconciler	DEBUG	Rectifying state for addon Widevine Content Decryption Module provided by Google Inc. (version=1.4.8.1008, id=gmp-widevinecdm)
+1526570809380	Sync.AddonsReconciler	INFO	Saving reconciler state to file: addonsreconciler
+1526570809383	Sync.Engine.Addons.Store	DEBUG	shield-recipe-client@mozilla.org not syncable: vetoed by the addon manager.
+1526570809383	Sync.Engine.Addons	INFO	0 outgoing items pre-reconciliation
+1526570809383	Sync.Engine.Addons	INFO	Records: 0 applied, 0 successfully, 0 failed to apply, 0 newly failed to apply, 0 reconciled.
+1526570809386	Sync.Engine.Forms	INFO	0 outgoing items pre-reconciliation
+1526570809387	Sync.Engine.Forms	INFO	Records: 0 applied, 0 successfully, 0 failed to apply, 0 newly failed to apply, 0 reconciled.
+1526570809388	Sync.Engine.History	INFO	0 outgoing items pre-reconciliation
+1526570809735	Sync.Collection	DEBUG	GET success 200 https://sync-600-us-west-2.sync.services.mozilla.com/1.5/92728811/storage/history?newer=1526561920.34&full=1&sort=newest&limit=1000
+1526570809745	Sync.Engine.History.Store	DEBUG	adding 1 records to history
+1526570809990	Sync.Engine.History	INFO	Records: 1 applied, 1 successfully, 0 failed to apply, 0 newly failed to apply, 0 reconciled.
+1526570809997	Sync.Engine.Extension-Storage	DEBUG	Syncing extension settings for ["foxyproxy@eric.h.jung","chrome-gnome-shell@gnome.org"]
+1526570810024	Sync.CollectionKeyManager	INFO	Setting collection keys contents. Our last modified: 0, input modified: 1508123161910.
+1526570810025	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for [default]
+1526570810025	Sync.CollectionKeyManager	INFO	Processing downloaded per-collection keys.
+1526570810025	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for chrome-gnome-shell@gnome.org
+1526570810025	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for https-everywhere@eff.org
+1526570810025	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for foxyproxy@eric.h.jung
+1526570810025	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for treestyletab@piro.sakura.ne.jp
+1526570810026	Sync.CollectionKeyManager	INFO	Clearing collection keys...
+1526570810026	Sync.CollectionKeyManager	INFO	Saving downloaded keys.
+1526570810026	Sync.CollectionKeyManager	INFO	Bumping last modified to 1508123161910
+1526570810144	FirefoxAccounts	DEBUG	getOAuthToken enter
+1526570810144	FirefoxAccounts	TRACE	getCachedToken returning cached token
+1526570810144	FirefoxAccounts	DEBUG	getOAuthToken returning a cached token
+1526570810147	FirefoxAccounts	DEBUG	getOAuthToken enter
+1526570810147	FirefoxAccounts	TRACE	getCachedToken returning cached token
+1526570810147	FirefoxAccounts	DEBUG	getOAuthToken returning a cached token
+1526570811264	Sync.CollectionKeyManager	INFO	Setting collection keys contents. Our last modified: 0, input modified: 1508123161910.
+1526570811264	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for [default]
+1526570811265	Sync.CollectionKeyManager	INFO	Processing downloaded per-collection keys.
+1526570811265	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for chrome-gnome-shell@gnome.org
+1526570811265	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for https-everywhere@eff.org
+1526570811265	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for foxyproxy@eric.h.jung
+1526570811265	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for treestyletab@piro.sakura.ne.jp
+1526570811266	Sync.CollectionKeyManager	INFO	Clearing collection keys...
+1526570811266	Sync.CollectionKeyManager	INFO	Saving downloaded keys.
+1526570811266	Sync.CollectionKeyManager	INFO	Bumping last modified to 1508123161910
+1526570811281	Sync.CollectionKeyManager	INFO	Setting collection keys contents. Our last modified: 0, input modified: 1508123161910.
+1526570811281	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for [default]
+1526570811282	Sync.CollectionKeyManager	INFO	Processing downloaded per-collection keys.
+1526570811282	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for chrome-gnome-shell@gnome.org
+1526570811282	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for https-everywhere@eff.org
+1526570811286	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for foxyproxy@eric.h.jung
+1526570811286	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for treestyletab@piro.sakura.ne.jp
+1526570811287	Sync.CollectionKeyManager	INFO	Clearing collection keys...
+1526570811287	Sync.CollectionKeyManager	INFO	Saving downloaded keys.
+1526570811287	Sync.CollectionKeyManager	INFO	Bumping last modified to 1508123161910
+1526570811292	Sync.CollectionKeyManager	INFO	Setting collection keys contents. Our last modified: 0, input modified: 1508123161910.
+1526570811292	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for [default]
+1526570811293	Sync.CollectionKeyManager	INFO	Processing downloaded per-collection keys.
+1526570811293	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for chrome-gnome-shell@gnome.org
+1526570811293	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for https-everywhere@eff.org
+1526570811293	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for foxyproxy@eric.h.jung
+1526570811293	Sync.BulkKeyBundle	INFO	BulkKeyBundle being created for treestyletab@piro.sakura.ne.jp
+1526570811293	Sync.CollectionKeyManager	INFO	Clearing collection keys...
+1526570811294	Sync.CollectionKeyManager	INFO	Saving downloaded keys.
+1526570811294	Sync.CollectionKeyManager	INFO	Bumping last modified to 1508123161910
+1526570811607	Sync.Doctor	INFO	Skipping check of prefs - disabled via preferences
+1526570811608	Sync.Doctor	INFO	Skipping check of bookmarks - disabled via preferences
+1526570811608	Sync.Doctor	INFO	Skipping check of addons - disabled via preferences
+1526570811608	Sync.Doctor	INFO	Skipping check of forms - disabled via preferences
+1526570811608	Sync.Doctor	INFO	Skipping check of history - disabled via preferences
+1526570811608	Sync.Doctor	INFO	Skipping check of extension-storage - disabled via preferences
+1526570811608	Sync.Doctor	INFO	Skipping validation: no engines qualify
+1526570811609	Sync.Status	DEBUG	Status.sync: success.sync => success.sync
+1526570811609	Sync.Status	DEBUG	Status.service: success.status_ok => success.status_ok
+1526570811610	Sync.Synchronizer	INFO	Sync completed at 2018-05-17 22:26:51 after 5.40 secs.
+1526570811611	Sync.Declined	DEBUG	Handling remote declined: ["tabs","passwords"]
+1526570811611	Sync.Declined	DEBUG	Handling local declined: ["tabs","passwords"]
+1526570811611	Sync.Declined	DEBUG	Declined changed? false
+1526570811611	Sync.Service	INFO	No change to declined engines. Not reuploading meta/global.
+1526570811614	Sync.SyncScheduler	DEBUG	Next sync in 90000 ms. (why=schedule)
+1526570811621	Sync.ErrorHandler	DEBUG	Addons installed: 8
+1526570811621	Sync.ErrorHandler	DEBUG	 - Firefox Multi-Account Containers, version 6.0.0, id @testpilot-containers
+1526570811622	Sync.ErrorHandler	DEBUG	 - GNOME Shell integration, version 10.1, id chrome-gnome-shell@gnome.org
+1526570811622	Sync.ErrorHandler	DEBUG	 - Web Extension for Shaarli, version 2.0.0, id shaarli@imirhil.fr
+1526570811622	Sync.ErrorHandler	DEBUG	 - DuckDuckGo Privacy Essentials, version 2018.5.1, id jid1-ZAdIEUB7XOzOJw@jetpack
+1526570811622	Sync.ErrorHandler	DEBUG	 - FoxyProxy Standard, version 6.2, id foxyproxy@eric.h.jung
+1526570811622	Sync.ErrorHandler	DEBUG	 - Zotero Connector, version 5.0.39, id zotero@chnm.gmu.edu
+1526570811622	Sync.ErrorHandler	DEBUG	 - Sync Tab Groups, version 0.6.9, id sync-tab-groups@eric.masseran
+1526570811622	Sync.ErrorHandler	DEBUG	 - uBlock Origin, version 1.16.6, id uBlock0@raymondhill.net

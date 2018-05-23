@@ -1,0 +1,3 @@
+# PSM Certificate Override Settings file
+# This is a generated file!  Do not edit.
+toconquer.space:9090	OID.2.16.840.1.101.3.4.2.1	2E:C6:07:A0:AE:84:C5:D0:AA:96:CF:44:DE:F0:AE:E5:07:22:9E:AC:09:C9:D9:59:A8:63:5E:67:33:6B:69:5E	MU	AAAAAAAAAAAAAAAJAAAAPwDsWTvbsEjpqzA9MSkwJwYDVQQKDCBiOGI5Y2ZkOTA5MTE0NGFmOGJmNjFmZjMyODgyM2YzNjEQMA4GA1UEAwwHdi1uZXh1cw==

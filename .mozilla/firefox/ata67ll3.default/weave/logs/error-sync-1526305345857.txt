@@ -1,0 +1,31 @@
+1526305249486	Sync.LogManager	DEBUG	Flushing file log
+1526305249609	Sync.LogManager	DEBUG	Log cleanup threshold time: 1525441249609
+1526305249868	Sync.LogManager	DEBUG	Done deleting files.
+1526305250403	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1526305251618	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1526305339971	Sync.SyncScheduler	DEBUG	Network link status changed to "down". Offline?: false
+1526305339975	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1526305339997	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms. (why=schedule)
+1526305340968	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1526305345750	Sync.SyncScheduler	DEBUG	Network link status changed to "up". Offline?: false
+1526305345751	Sync.SyncScheduler	DEBUG	Network link looks up. Syncing.
+1526305345772	Sync.Service	DEBUG	User-Agent: Firefox/60.0 (Linux x86_64) FxSync/1.62.0.20180509234620.desktop
+1526305345773	Sync.Service	INFO	Starting sync at 2018-05-14 20:42:25 in browser session _WZxsG0LqHq7
+1526305345775	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1526305345786	Sync.Status	INFO	Resetting Status.
+1526305345787	Sync.Status	DEBUG	Status.service: error.sync.failed => success.status_ok
+1526305345806	Sync.Resource	WARN	GET request to https://sync-600-us-west-2.sync.services.mozilla.com/1.5/92728811/info/collections failed: [Exception... "The lookup of the hostname failed"  nsresult: "0x804b001e (NS_ERROR_UNKNOWN_HOST)"  location: "<unknown>"  data: no] No traceback available
+1526305345809	Sync.Status	DEBUG	Status.sync: success.sync => error.login.reason.network
+1526305345810	Sync.Status	DEBUG	Status.service: success.status_ok => error.sync.failed
+1526305345811	Sync.ErrorHandler	ERROR	Sync encountered an error: [Exception... "The lookup of the hostname failed"  nsresult: "0x804b001e (NS_ERROR_UNKNOWN_HOST)"  location: "<unknown>"  data: no] No traceback available
+1526305345815	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms. (why=reschedule)
+1526305345837	Sync.Service	DEBUG	Exception calling anonymous function: [Exception... "The lookup of the hostname failed"  nsresult: "0x804b001e (NS_ERROR_UNKNOWN_HOST)"  location: "<unknown>"  data: no] No traceback available
+1526305345845	Sync.ErrorHandler	DEBUG	Addons installed: 8
+1526305345846	Sync.ErrorHandler	DEBUG	 - Firefox Multi-Account Containers, version 6.0.0, id @testpilot-containers
+1526305345849	Sync.ErrorHandler	DEBUG	 - GNOME Shell integration, version 10.1, id chrome-gnome-shell@gnome.org
+1526305345852	Sync.ErrorHandler	DEBUG	 - Web Extension for Shaarli, version 2.0.0, id shaarli@imirhil.fr
+1526305345854	Sync.ErrorHandler	DEBUG	 - DuckDuckGo Privacy Essentials, version 2018.5.1, id jid1-ZAdIEUB7XOzOJw@jetpack
+1526305345855	Sync.ErrorHandler	DEBUG	 - uBlock Origin, version 1.16.4, id uBlock0@raymondhill.net
+1526305345856	Sync.ErrorHandler	DEBUG	 - FoxyProxy Standard, version 6.2, id foxyproxy@eric.h.jung
+1526305345856	Sync.ErrorHandler	DEBUG	 - Zotero Connector, version 5.0.39, id zotero@chnm.gmu.edu
+1526305345857	Sync.ErrorHandler	DEBUG	 - Sync Tab Groups, version 0.6.9, id sync-tab-groups@eric.masseran
