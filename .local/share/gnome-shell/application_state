@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="thunderbird.desktop" open-window-count="1" score="15694.5556640625" last-seen="1527076271"/>
+    <application id="thunderbird.desktop" open-window-count="1" score="15704.5556640625" last-seen="1527100080"/>
     <application id="zenkit_zenkit.desktop" open-window-count="0" score="5.625" last-seen="1526283154"/>
     <application id="filezilla.desktop" open-window-count="0" score="1489" last-seen="1526539679"/>
     <application id="libreoffice_impress.desktop" open-window-count="0" score="40" last-seen="1526887012"/>
@@ -15,14 +15,14 @@
     <application id="apport-gtk.desktop" open-window-count="0" score="0" last-seen="1526564201"/>
     <application id="libreoffice_writer.desktop" open-window-count="0" score="229" last-seen="1527075280"/>
     <application id="software-properties-gtk.desktop" open-window-count="0" score="0.828125" last-seen="1525958303"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="14920.217792669553" last-seen="1527077235"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="18032.217792669551" last-seen="1527100041"/>
     <application id="inkscape_inkscape.desktop" open-window-count="0" score="871.859375" last-seen="1526888818"/>
     <application id="org.gnome.Shell.Extensions.GSConnect.desktop" open-window-count="0" score="2" last-seen="1526343872"/>
     <application id="libreoffice_calc.desktop" open-window-count="0" score="63.5" last-seen="1526656043"/>
     <application id="gnome-control-center.desktop" open-window-count="0" score="26.769574359699618" last-seen="1526999352"/>
     <application id="telegram-desktop_telegramdesktop.desktop" open-window-count="0" score="146.0556640625" last-seen="1527076051"/>
-    <application id="firefox.desktop" open-window-count="2" score="24772.90185546875" last-seen="1527077152"/>
-    <application id="calibre-gui.desktop" open-window-count="1" score="45.625" last-seen="1527075877"/>
+    <application id="firefox.desktop" open-window-count="2" score="24834.90185546875" last-seen="1527100073"/>
+    <application id="calibre-gui.desktop" open-window-count="0" score="45.625" last-seen="1527077508"/>
     <application id="eog.desktop" open-window-count="0" score="63.12783504884878" last-seen="1527049106"/>
     <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="104.43034639586509" last-seen="1527075284"/>
     <application id="calibre-ebook-viewer.desktop" open-window-count="0" score="0" last-seen="1526965392"/>
