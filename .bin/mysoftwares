@@ -24,7 +24,7 @@ alias gotop="/home/hubbi/Software/gotop/gotop"
 source /home/hubbi/Software/gromacs/bin/GMXRC.bash
 
 # Joplin
-alias joplin="/home/hubbi/Software/joplin/Joplin-1.0.70-x86_64.AppImage"
+alias joplin="/home/hubbi/Software/joplin/Joplin-1.0.94-x86_64.AppImage"
 
 # Leanote
 alias leanote="/home/hubbi/Software/leanote/Leanote"

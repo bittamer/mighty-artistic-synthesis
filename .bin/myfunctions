@@ -73,10 +73,10 @@ function tms {
 
 # backup my Work and Documents folder to toconquer.space via borg
 function backup.work {
-  /usr/bin/borg create -v --stats --progress --compression lz4 --exclude-from /home/hubbi/.bin/borg_exclude vnexus:borgbackup/Work::Weekly_$(date +%y%m%d) /home/hubbi/Documents/Work/
+  /usr/bin/borg create -v --stats --progress --compression lz4 --exclude-from /home/hubbi/.bin/borg_exclude vn:borgbackup/Work::Weekly_$(date +%y%m%d) /home/hubbi/Documents/Work/
   }
 function backup.postgraduate {
-  /usr/bin/borg create -v --stats --progress --compression lz4 --exclude-from /home/hubbi/.bin/borg_exclude vnexus:borgbackup/Postgraduate::Weekly_$(date +%y%m%d) /home/hubbi/Documents/Postgraduate/
+  /usr/bin/borg create -v --stats --progress --compression lz4 --exclude-from /home/hubbi/.bin/borg_exclude vn:borgbackup/Postgraduate::Weekly_$(date +%y%m%d) /home/hubbi/Documents/Postgraduate/
 }
 function backup.zotero {
   cd /home/hubbi/Misc/Zotero

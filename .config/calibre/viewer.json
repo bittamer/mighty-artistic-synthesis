@@ -1,15 +1,15 @@
 {
   "main_window_state": {
     "__class__": "bytearray", 
-    "__value__": "AAAA/wAAAAL9AAAAAwAAAAAAAAAAAAAAAPwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAAyQD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABmAG8AbwB0AG4AbwB0AGUAcwAtAGQAbwBjAGsAAAAAAP////8AAAA6AP///wAAAlEAAALDAAAAAQAAAAIAAAABAAAAAvwAAAACAAAAAAAAAAEAAAAQAHQAbwBvAGwAXwBiAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAASAHQAbwBvAGwAXwBiAGEAcgAyAQAAAAD/////AAAAAAAAAAA="
+    "__value__": "AAAA/wAAAAL9AAAAAwAAAAAAAAAAAAAAAPwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAAyQD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABmAG8AbwB0AG4AbwB0AGUAcwAtAGQAbwBjAGsAAAAAAP////8AAAA6AP///wAABZQAAAMMAAAAAQAAAAIAAAABAAAAAvwAAAACAAAAAAAAAAEAAAAQAHQAbwBvAGwAXwBiAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAASAHQAbwBvAGwAXwBiAGEAcgAyAQAAAAD/////AAAAAAAAAAA="
   }, 
   "in_paged_mode": true, 
   "viewer_window_geometry": {
     "__class__": "bytearray", 
-    "__value__": "AdnQywACAAAAAABDAAAAGwAAAs8AAAMiAAAAQwAAADkAAALPAAADIgAAAAAAAAAAB4A="
+    "__value__": "AdnQywACAAAAAADNAAAApQAABpwAAAP1AAAAzQAAAMMAAAacAAAD9QAAAAAAAAAAB4A="
   }, 
   "viewer_toc_isvisible": false, 
-  "multiplier": 0.800000011920929, 
+  "multiplier": 1.8000001907348633, 
   "custom_colors_for_color_dialog": [
     [
       255, 
@@ -109,6 +109,11 @@
     ]
   ], 
   "viewer_open_history": [
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/Abstract_117042_Yuda Prasetya Nugraha.docx", 
+    "/home/hubbi/Documents/Work/STFB/Bimbingan Tugas Akhir/2017-2018/Topik TA1 Virtual Screening.docx", 
+    "/home/hubbi/Documents/Work/STFB/Bimbingan Tugas Akhir/2016-2017/Topik TA1 Virtual Screening.docx", 
+    "/home/hubbi/Documents/Work/STFB/Bimbingan Tugas Akhir/2016-2017/Meigha Fajar/ABSTRACT_REV.docx", 
+    "/home/hubbi/Documents/Work/STFB/Bimbingan Tugas Akhir/2016-2017/Ida Laili Hasanah/Draft Skripsi/ABSTRAK.docx", 
     "/home/hubbi/Documents/Work/ITB/KK Farmakologi & Farmasi Klinik/Bimbingan Tugas Akhir/2017-2018/Rara Amita/Abstrak Bahas Inggris - rev Hubbi.odt", 
     "/home/hubbi/Documents/E-Books/Calibre Library/Larry Niven/Ringworld (80)/Ringworld - Larry Niven.epub", 
     "/mnt/data/hubbi/Documents/E-Books/Calibre Library/Orson Scott Card/Ender's Game (6)/Ender's Game - Orson Scott Card.epub", 

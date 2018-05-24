@@ -3398,7 +3398,7 @@
     <id>activityAppLauncher_rastersoft.com</id>
     <name>Activity App Launcher</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Integrates a category-based application launcher in the activities window. IMPORTANT: requires &quot;libgnome-menu-3-dev&quot;. It must be installed BEFORE trying to install this extension.</p></description>
+    <description><p>Integrates a category-based application launcher in the activities window. IMPORTANT: requires &quot;libgnome-menu-3-dev&quot; and &quot;gnome-menus&quot;. They must be installed BEFORE trying to install this extension.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -13899,7 +13899,7 @@
     <id>putWindow_clemens.lab21.org</id>
     <name>Put Windows</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Fully customizable replacement for the old compiz put plugin.   * Move windows to left/right side, bottom/top, center or corner   * Move window to other screen   * Select focused window using the keyboard   * Application based window placement</p><p>Please check github if you gnome-shell version is not supported</p><p></p></description>
+    <description><p>Fully customizable replacement for the old compiz put plugin.   * Move windows to left/right side, bottom/top, center or corner   * Move window to other screen   * Select focused window using the keyboard   * Application based window placement </p><p> Please check github if your gnome-shell version is not supported</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -14823,7 +14823,7 @@
     <id>run-or-raise_edvard.cz</id>
     <name>Run or raise</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Launch or focus the window or define custom shortcuts in a text file.</p><p>Run-or-raise ============</p><p>About project =============</p><p>I assume the run-or-raise style as the most efficient way of launching window. No more searching for your favourite program in a long menu, no more clicking on the icons. If the program already runs it&apos;ll get focus, else we launch it. Several years ago, OS creators finally realized that efficiency and let the users run-or-raise programs on the taskbar or dock by `&amp;amp;amp;amp;lt;Super&amp;amp;amp;amp;gt;+number` shortcuts. But what if you use more programs than nine? What if you don&apos;t want the unnecessary taskbar to occupy precious place on your screen?   With the emergence of Wayland over X.org in Ubuntu 17.10, we can&apos;t reliably use good old `xbindkeys` and `jumpapp` to master shortcuts. Here is a gnome-shell extension that let you migrate your favourite shortcuts to `shortcuts.conf` file.</p><p>Configuration =============</p><p>On the first run, `shortcuts.conf` gets created from `shortcuts.default` if not exists. There you define your own shortcuts. The shortcuts may be defined in two ways:</p><p></p><p>## Run or raise form</p><p>This form let you cycle between open instances of the application or if not found, launches a new instance.</p><p> Run-or-raise form: `shortcut,command,[wm_class],[title]`    * wm_class and title are optional and case sensitive    * if none is set, lowercased launch-command is compared with lowercased windows wm_classes and titles</p><p>### Examples:</p><p></p><p>This line cycles any firefox window (matched by &quot;firefox&quot; in the window title) OR if not found, launches a new firefox instance:</p><p>``` &lt;Super&gt;f,firefox,, ```</p><p>This line cycles any open gnome-terminal (matched by `wm_class = Gnome-terminal`) OR if not found, launches a new one.</p><p>``` &lt;Super&gt;r,gnome-terminal,Gnome-terminal, ```</p><p>You may use **regular expressions** in title or wm_class. Just put the expression between slashes.    E.g. to jump to pidgin conversation window you may use this line (that mean any windows of wm_class Pidgin, not containing the title Buddy List)&quot;</p><p>``` &lt;Super&gt;KP_1,pidgin,Pidgin,/^((?!Buddy List).)*$/ ```</p><p></p><p>## Run only form</p><p>Since it is very convenient to use a single file for all of your shortcuts (backup, migration to another system...), you can define standard shortcuts as well. These commands just get launched whenever the keys are hit.</p><p>Run only form: `shortcut,command`</p><p>### Examples:</p><p>This line will launch notify-send command.</p><p>``` &lt;Super&gt;h,notify-send Hello world ```</p><p></p><p>Tips === * For the examples, see [shortcuts.default](shortcuts.default) file. * How to know wm_class? Alt+f2, lg, &quot;windows&quot; tab (at least on Ubuntu 17.10) * You may change the configuration file on the fly. Just disable &amp; enable the extension, shortcuts load again from scratch.</p><p></p></description>
+    <description><p>Launch or focus the window or define custom shortcuts in a text file</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
