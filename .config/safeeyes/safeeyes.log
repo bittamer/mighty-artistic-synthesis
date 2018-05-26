@@ -1030,3 +1030,137 @@
 2018-05-24 15:06:19,192 [INFO]:[MainThread] Playing audible alert
 2018-05-24 15:06:19,224 [INFO]:[Thread-279] Update next break information
 2018-05-24 15:06:19,230 [INFO]:[Thread-279] Waiting for 15 minutes until next break
+2018-05-25 13:51:02,963 [INFO]:[MainThread] Starting Safe Eyes
+2018-05-25 13:51:03,270 [INFO]:[MainThread] Initialize the break screen
+2018-05-25 13:51:03,270 [INFO]:[MainThread] Load all the plugins
+2018-05-25 13:51:03,270 [INFO]:[MainThread] Initialize the core
+2018-05-25 13:51:03,304 [INFO]:[MainThread] Successfully loaded <module 'donotdisturb.plugin' from '/usr/lib/python3/dist-packages/safeeyes/plugins/donotdisturb/plugin.py'>
+2018-05-25 13:51:03,322 [INFO]:[MainThread] Successfully loaded <module 'notification.plugin' from '/usr/lib/python3/dist-packages/safeeyes/plugins/notification/plugin.py'>
+2018-05-25 13:51:03,336 [INFO]:[MainThread] Successfully loaded <module 'audiblealert.plugin' from '/usr/lib/python3/dist-packages/safeeyes/plugins/audiblealert/plugin.py'>
+2018-05-25 13:51:03,347 [INFO]:[MainThread] Successfully loaded <module 'trayicon.plugin' from '/usr/lib/python3/dist-packages/safeeyes/plugins/trayicon/plugin.py'>
+2018-05-25 13:51:03,348 [INFO]:[MainThread] Successfully loaded <module 'screensaver.plugin' from '/usr/lib/python3/dist-packages/safeeyes/plugins/screensaver/plugin.py'>
+2018-05-25 13:51:03,349 [INFO]:[MainThread] Successfully loaded <module 'healthstats.plugin' from '/usr/lib/python3/dist-packages/safeeyes/plugins/healthstats/plugin.py'>
+2018-05-25 13:51:03,382 [INFO]:[MainThread] Setting up an RPC server on port 7200
+2018-05-25 13:51:03,383 [INFO]:[MainThread] Start the RPC server
+2018-05-25 13:51:03,383 [INFO]:[MainThread] Start Safe Eyes core
+2018-05-25 13:51:03,383 [INFO]:[Thread-2] Update next break information
+2018-05-25 13:51:03,587 [INFO]:[Thread-2] Waiting for 15 minutes until next break
+2018-05-25 13:57:32,440 [INFO]:[MainThread] Stop Safe Eyes due to system suspend
+2018-05-25 13:57:32,440 [INFO]:[MainThread] Disable Safe Eyes
+2018-05-25 13:57:32,441 [INFO]:[MainThread] Stop Safe Eye core
+2018-05-25 13:57:32,445 [INFO]:[Thread-2] Pre-break waiting is over
+2018-05-25 14:05:44,750 [INFO]:[MainThread] Resume Safe Eyes after system wakeup
+2018-05-25 14:05:44,751 [INFO]:[MainThread] Enable Safe Eyes
+2018-05-25 14:05:44,794 [INFO]:[MainThread] Start Safe Eyes core
+2018-05-25 14:05:44,806 [INFO]:[Thread-4] Update next break information
+2018-05-25 14:05:44,812 [INFO]:[Thread-4] Waiting for 15 minutes until next break
+2018-05-25 14:20:44,812 [INFO]:[Thread-4] Pre-break waiting is over
+2018-05-25 14:20:44,812 [INFO]:[MainThread] Show the notification
+2018-05-25 14:20:44,816 [ERROR]:[MainThread] Failed to show the notification
+2018-05-25 14:20:44,816 [INFO]:[Thread-5] Wait for 10 seconds before the break
+2018-05-25 14:20:54,818 [INFO]:[MainThread] Searching for full-screen application
+2018-05-25 14:20:54,845 [INFO]:[MainThread] Close pre-break notification
+2018-05-25 14:20:54,853 [INFO]:[Thread-7] Lock the keyboard
+2018-05-25 14:20:54,853 [INFO]:[MainThread] Show break screens in all displays
+2018-05-25 14:20:56,760 [INFO]:[MainThread] User skipped the break
+2018-05-25 14:20:56,760 [INFO]:[MainThread] User skipped the break
+2018-05-25 14:20:56,760 [INFO]:[MainThread] Close the break screen(s)
+2018-05-25 14:20:56,760 [INFO]:[MainThread] Unlock the keyboard
+2018-05-25 14:20:56,855 [INFO]:[Thread-8] Update next break information
+2018-05-25 14:20:56,855 [INFO]:[Thread-8] Waiting for 15 minutes until next break
+2018-05-25 14:35:56,856 [INFO]:[Thread-8] Pre-break waiting is over
+2018-05-25 14:35:56,857 [INFO]:[MainThread] Show the notification
+2018-05-25 14:35:56,862 [ERROR]:[MainThread] Failed to show the notification
+2018-05-25 14:35:56,863 [INFO]:[Thread-9] Wait for 10 seconds before the break
+2018-05-25 14:36:06,864 [INFO]:[MainThread] Searching for full-screen application
+2018-05-25 14:36:06,871 [INFO]:[MainThread] Close pre-break notification
+2018-05-25 14:36:06,873 [INFO]:[Thread-11] Lock the keyboard
+2018-05-25 14:36:06,874 [INFO]:[MainThread] Show break screens in all displays
+2018-05-25 14:36:26,904 [INFO]:[MainThread] Break is terminated automatically
+2018-05-25 14:36:26,906 [INFO]:[MainThread] Close the break screen(s)
+2018-05-25 14:36:26,906 [INFO]:[MainThread] Unlock the keyboard
+2018-05-25 14:36:26,907 [INFO]:[MainThread] Playing audible alert
+2018-05-25 14:36:26,980 [INFO]:[Thread-12] Update next break information
+2018-05-25 14:36:26,982 [INFO]:[Thread-12] Waiting for 15 minutes until next break
+2018-05-25 14:51:26,983 [INFO]:[Thread-12] Pre-break waiting is over
+2018-05-25 14:51:26,984 [INFO]:[MainThread] Show the notification
+2018-05-25 14:51:26,992 [ERROR]:[MainThread] Failed to show the notification
+2018-05-25 14:51:26,994 [INFO]:[Thread-13] Wait for 10 seconds before the break
+2018-05-25 14:51:36,996 [INFO]:[MainThread] Searching for full-screen application
+2018-05-25 14:51:37,031 [INFO]:[MainThread] Close pre-break notification
+2018-05-25 14:51:37,043 [INFO]:[Thread-15] Lock the keyboard
+2018-05-25 14:51:37,044 [INFO]:[MainThread] Show break screens in all displays
+2018-05-25 14:51:57,070 [INFO]:[MainThread] Break is terminated automatically
+2018-05-25 14:51:57,070 [INFO]:[MainThread] Close the break screen(s)
+2018-05-25 14:51:57,071 [INFO]:[MainThread] Unlock the keyboard
+2018-05-25 14:51:57,072 [INFO]:[MainThread] Playing audible alert
+2018-05-25 14:51:57,092 [INFO]:[Thread-16] Update next break information
+2018-05-25 14:51:57,096 [INFO]:[Thread-16] Waiting for 15 minutes until next break
+2018-05-25 15:06:57,097 [INFO]:[Thread-16] Pre-break waiting is over
+2018-05-25 15:06:57,098 [INFO]:[MainThread] Show the notification
+2018-05-25 15:06:57,132 [ERROR]:[MainThread] Failed to show the notification
+2018-05-25 15:06:57,147 [INFO]:[Thread-17] Wait for 10 seconds before the break
+2018-05-25 15:07:07,152 [INFO]:[MainThread] Searching for full-screen application
+2018-05-25 15:07:07,175 [INFO]:[MainThread] Close pre-break notification
+2018-05-25 15:07:07,184 [INFO]:[Thread-19] Lock the keyboard
+2018-05-25 15:07:07,184 [INFO]:[MainThread] Show break screens in all displays
+2018-05-25 15:07:27,208 [INFO]:[MainThread] Break is terminated automatically
+2018-05-25 15:07:27,209 [INFO]:[MainThread] Close the break screen(s)
+2018-05-25 15:07:27,210 [INFO]:[MainThread] Unlock the keyboard
+2018-05-25 15:07:27,212 [INFO]:[MainThread] Playing audible alert
+2018-05-25 15:07:27,230 [INFO]:[Thread-20] Update next break information
+2018-05-25 15:07:27,233 [INFO]:[Thread-20] Waiting for 15 minutes until next break
+2018-05-25 15:22:27,235 [INFO]:[Thread-20] Pre-break waiting is over
+2018-05-25 15:22:27,236 [INFO]:[MainThread] Show the notification
+2018-05-25 15:22:27,241 [ERROR]:[MainThread] Failed to show the notification
+2018-05-25 15:22:27,243 [INFO]:[Thread-21] Wait for 10 seconds before the break
+2018-05-25 15:22:37,244 [INFO]:[MainThread] Searching for full-screen application
+2018-05-25 15:22:37,266 [INFO]:[MainThread] Close pre-break notification
+2018-05-25 15:22:37,274 [INFO]:[Thread-23] Lock the keyboard
+2018-05-25 15:22:37,277 [INFO]:[MainThread] Show break screens in all displays
+2018-05-25 15:23:37,357 [INFO]:[MainThread] Break is terminated automatically
+2018-05-25 15:23:37,358 [INFO]:[MainThread] Close the break screen(s)
+2018-05-25 15:23:37,359 [INFO]:[MainThread] Unlock the keyboard
+2018-05-25 15:23:37,360 [INFO]:[MainThread] Playing audible alert
+2018-05-25 15:23:37,377 [INFO]:[Thread-24] Update next break information
+2018-05-25 15:23:37,380 [INFO]:[Thread-24] Waiting for 15 minutes until next break
+2018-05-25 15:38:18,634 [INFO]:[MainThread] Stop Safe Eyes due to system suspend
+2018-05-25 15:38:18,634 [INFO]:[MainThread] Disable Safe Eyes
+2018-05-25 15:38:18,635 [INFO]:[MainThread] Stop Safe Eye core
+2018-05-25 15:38:18,638 [INFO]:[Thread-24] Pre-break waiting is over
+2018-05-25 18:57:52,588 [INFO]:[MainThread] Resume Safe Eyes after system wakeup
+2018-05-25 18:57:52,588 [INFO]:[MainThread] Enable Safe Eyes
+2018-05-25 18:57:52,589 [INFO]:[MainThread] Start Safe Eyes core
+2018-05-25 18:57:52,590 [INFO]:[Thread-25] Update next break information
+2018-05-25 18:57:52,590 [INFO]:[Thread-25] Waiting for 15 minutes until next break
+2018-05-25 19:12:52,591 [INFO]:[Thread-25] Pre-break waiting is over
+2018-05-25 19:12:52,594 [INFO]:[MainThread] Show the notification
+2018-05-25 19:12:52,604 [ERROR]:[MainThread] Failed to show the notification
+2018-05-25 19:12:52,606 [INFO]:[Thread-26] Wait for 10 seconds before the break
+2018-05-25 19:13:02,608 [INFO]:[MainThread] Searching for full-screen application
+2018-05-25 19:13:02,639 [INFO]:[MainThread] Close pre-break notification
+2018-05-25 19:13:02,647 [INFO]:[Thread-28] Lock the keyboard
+2018-05-25 19:13:02,648 [INFO]:[MainThread] Show break screens in all displays
+2018-05-25 19:13:22,674 [INFO]:[MainThread] Break is terminated automatically
+2018-05-25 19:13:22,675 [INFO]:[MainThread] Close the break screen(s)
+2018-05-25 19:13:22,675 [INFO]:[MainThread] Unlock the keyboard
+2018-05-25 19:13:22,676 [INFO]:[MainThread] Playing audible alert
+2018-05-25 19:13:22,688 [INFO]:[Thread-29] Update next break information
+2018-05-25 19:13:22,690 [INFO]:[Thread-29] Waiting for 15 minutes until next break
+2018-05-25 19:28:22,691 [INFO]:[Thread-29] Pre-break waiting is over
+2018-05-25 19:28:22,691 [INFO]:[MainThread] Show the notification
+2018-05-25 19:28:22,693 [ERROR]:[MainThread] Failed to show the notification
+2018-05-25 19:28:22,694 [INFO]:[Thread-30] Wait for 10 seconds before the break
+2018-05-25 19:28:32,695 [INFO]:[MainThread] Searching for full-screen application
+2018-05-25 19:28:32,708 [INFO]:[MainThread] Close pre-break notification
+2018-05-25 19:28:32,710 [INFO]:[Thread-32] Lock the keyboard
+2018-05-25 19:28:32,710 [INFO]:[MainThread] Show break screens in all displays
+2018-05-25 19:28:52,739 [INFO]:[MainThread] Break is terminated automatically
+2018-05-25 19:28:52,739 [INFO]:[MainThread] Close the break screen(s)
+2018-05-25 19:28:52,739 [INFO]:[MainThread] Unlock the keyboard
+2018-05-25 19:28:52,740 [INFO]:[MainThread] Playing audible alert
+2018-05-25 19:28:52,747 [INFO]:[Thread-33] Update next break information
+2018-05-25 19:28:52,748 [INFO]:[Thread-33] Waiting for 15 minutes until next break
+2018-05-25 19:41:44,099 [INFO]:[MainThread] Disable Safe Eyes
+2018-05-25 19:41:44,104 [INFO]:[MainThread] Stop Safe Eye core
+2018-05-25 19:41:44,104 [INFO]:[Thread-33] Pre-break waiting is over

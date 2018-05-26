@@ -13,9 +13,9 @@ alias adt="/home/hubbi/Software/mgltools/bin/adt"
 #alias calibre="/home/hubbi/Software/calibre/calibre/calibre"
 
 # Gaussian
-#export g09root="/home/hubbi/data/Software/gaussian"
-#export GAUSS_SCRDIR="/home/hubbi/data/Software/gaussian/scr"
-#. $g09root/g09/bsd/g09.profile
+export g09root="/home/hubbi/Software/gaussian"
+export GAUSS_SCRDIR="/home/hubbi/Software/gaussian/scr"
+. $g09root/g09/bsd/g09.profile
 
 # Gotop
 alias gotop="/home/hubbi/Software/gotop/gotop"

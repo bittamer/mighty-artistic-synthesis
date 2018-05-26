@@ -1,12 +1,12 @@
 {
   "main_window_state": {
     "__class__": "bytearray", 
-    "__value__": "AAAA/wAAAAL9AAAAAwAAAAAAAAAAAAAAAPwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAAyQD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABmAG8AbwB0AG4AbwB0AGUAcwAtAGQAbwBjAGsAAAAAAP////8AAAA6AP///wAABZQAAAMMAAAAAQAAAAIAAAABAAAAAvwAAAACAAAAAAAAAAEAAAAQAHQAbwBvAGwAXwBiAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAASAHQAbwBvAGwAXwBiAGEAcgAyAQAAAAD/////AAAAAAAAAAA="
+    "__value__": "AAAA/wAAAAL9AAAAAwAAAAAAAAAAAAAAAPwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAAyQD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABmAG8AbwB0AG4AbwB0AGUAcwAtAGQAbwBjAGsAAAAAAP////8AAAA6AP///wAAAzMAAANdAAAAAQAAAAIAAAABAAAAAvwAAAACAAAAAAAAAAEAAAAQAHQAbwBvAGwAXwBiAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAASAHQAbwBvAGwAXwBiAGEAcgAyAQAAAAD/////AAAAAAAAAAA="
   }, 
   "in_paged_mode": true, 
   "viewer_window_geometry": {
     "__class__": "bytearray", 
-    "__value__": "AdnQywACAAAAAADNAAAApQAABpwAAAP1AAAAzQAAAMMAAAacAAAD9QAAAAAAAAAAB4A="
+    "__value__": "AdnQywACAAAAAABsAAAAPgAAA9oAAAPbAAAAbAAAAFgAAAPaAAAD2wAAAAAAAAAAB4A="
   }, 
   "viewer_toc_isvisible": false, 
   "multiplier": 1.8000001907348633, 
@@ -109,6 +109,17 @@
     ]
   ], 
   "viewer_open_history": [
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/Vietnam/TRAN VAN THANH ABSTRACT  Asia Pharm III 2018 _ invited speaker.docx", 
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/Vietnam/ABSTRACT_Asia Pharm 2018 _ Phuoc Dien PHAM_0525018.docx", 
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/Vietnam/ABSTRACT_Asia Pharm 2018 _ Huy Truong Nguyen_05252018.docx", 
+    "/home/hubbi/.cache/.fr-1A1Kep/abstrak asiapharm/Abstract_117041_Hubbi Nashrullah Muhammad.docx", 
+    "/tmp/mozilla_hubbi0/ABSTRACT_Asia Pharm 2018_Tomi Hendrayana-1.docx", 
+    "/tmp/mozilla_hubbi0/ABSTRACT_Asia Pharm 2018_Tomi Hendrayana.docx", 
+    "/home/hubbi/Documents/Work/AlfaLC/Students/Minkyu/2017-11-16/Limiting reagent Lab.docx", 
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/Abstract_117006_Cintya Nurul Apsari.docx", 
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/Abstract_117037_Yoonmi Yoon.docx", 
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/Abstract_117041_Hubbi Nashrullah Muhammad2.docx", 
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/Abstract_117041_Hubbi Nashrullah Muhammad.docx", 
     "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/Abstract_117042_Yuda Prasetya Nugraha.docx", 
     "/home/hubbi/Documents/Work/STFB/Bimbingan Tugas Akhir/2017-2018/Topik TA1 Virtual Screening.docx", 
     "/home/hubbi/Documents/Work/STFB/Bimbingan Tugas Akhir/2016-2017/Topik TA1 Virtual Screening.docx", 
