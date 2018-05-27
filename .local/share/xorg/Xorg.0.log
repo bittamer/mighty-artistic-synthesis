@@ -1762,3 +1762,308 @@ Release Date: 2017-12-20
 [100639.375] (WW) Option "xkb_options" requires a string value
 [100639.379] (II) event17 - USB2.0 UVC HD Webcam: USB2.0 UV: is tagged by udev as: Keyboard
 [100639.379] (II) event17 - USB2.0 UVC HD Webcam: USB2.0 UV: device is a keyboard
+[132272.601] (EE) client bug: timer event5 debounce: offset negative (-16ms)
+[132307.005] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[132307.005] (II) modeset(0): Printing DDC gathered Modelines:
+[132307.005] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[132307.005] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[132349.165] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[132349.165] (II) modeset(0): Printing DDC gathered Modelines:
+[132349.165] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[132349.165] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[154390.074] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[154390.100] (II) modeset(0): Printing DDC gathered Modelines:
+[154390.100] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[154390.100] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[154425.282] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[154425.282] (II) modeset(0): Printing DDC gathered Modelines:
+[154425.282] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[154425.282] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[154514.277] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[154514.277] (II) modeset(0): Printing DDC gathered Modelines:
+[154514.277] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[154514.277] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[154515.547] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[154515.547] (II) modeset(0): Printing DDC gathered Modelines:
+[154515.547] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[154515.547] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[158640.980] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[158641.005] (II) modeset(0): Printing DDC gathered Modelines:
+[158641.005] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[158641.005] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[158645.365] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[158645.365] (II) modeset(0): Printing DDC gathered Modelines:
+[158645.365] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[158645.365] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[158659.995] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[158659.995] (II) modeset(0): Printing DDC gathered Modelines:
+[158659.995] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[158659.995] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[158966.692] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[158966.713] (II) modeset(0): Printing DDC gathered Modelines:
+[158966.713] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[158966.713] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159055.653] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159055.653] (II) modeset(0): Printing DDC gathered Modelines:
+[159055.653] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159055.653] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159065.901] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159065.901] (II) modeset(0): Printing DDC gathered Modelines:
+[159065.902] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159065.902] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159090.905] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159090.905] (II) modeset(0): Printing DDC gathered Modelines:
+[159090.905] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159090.905] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159092.839] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159092.839] (II) modeset(0): Printing DDC gathered Modelines:
+[159092.839] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159092.839] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159100.886] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159100.886] (II) modeset(0): Printing DDC gathered Modelines:
+[159100.886] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159100.886] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159102.896] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159102.896] (II) modeset(0): Printing DDC gathered Modelines:
+[159102.896] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159102.896] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159106.931] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159106.931] (II) modeset(0): Printing DDC gathered Modelines:
+[159106.931] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159106.931] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159308.249] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159308.249] (II) modeset(0): Printing DDC gathered Modelines:
+[159308.249] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159308.249] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159317.861] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159317.861] (II) modeset(0): Printing DDC gathered Modelines:
+[159317.861] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159317.861] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159380.348] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159380.348] (II) modeset(0): Printing DDC gathered Modelines:
+[159380.348] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159380.348] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159386.603] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159386.603] (II) modeset(0): Printing DDC gathered Modelines:
+[159386.603] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159386.603] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159445.153] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159445.153] (II) modeset(0): Printing DDC gathered Modelines:
+[159445.154] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159445.154] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159457.639] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159457.639] (II) modeset(0): Printing DDC gathered Modelines:
+[159457.639] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159457.639] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159609.051] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159609.051] (II) modeset(0): Printing DDC gathered Modelines:
+[159609.051] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159609.051] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159622.701] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159622.702] (II) modeset(0): Printing DDC gathered Modelines:
+[159622.702] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159622.702] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159623.795] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159623.795] (II) modeset(0): Printing DDC gathered Modelines:
+[159623.795] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159623.795] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159637.641] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159637.641] (II) modeset(0): Printing DDC gathered Modelines:
+[159637.641] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159637.641] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159651.812] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159651.812] (II) modeset(0): Printing DDC gathered Modelines:
+[159651.812] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159651.812] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159660.199] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159660.199] (II) modeset(0): Printing DDC gathered Modelines:
+[159660.199] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159660.199] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159772.678] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159772.678] (II) modeset(0): Printing DDC gathered Modelines:
+[159772.678] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159772.678] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[159779.145] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[159779.145] (II) modeset(0): Printing DDC gathered Modelines:
+[159779.145] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[159779.145] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[160041.765] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[160041.765] (II) modeset(0): Printing DDC gathered Modelines:
+[160041.765] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[160041.765] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[160054.651] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[160054.651] (II) modeset(0): Printing DDC gathered Modelines:
+[160054.651] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[160054.651] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[160299.981] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[160299.981] (II) modeset(0): Printing DDC gathered Modelines:
+[160299.981] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[160299.981] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[160316.727] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[160316.727] (II) modeset(0): Printing DDC gathered Modelines:
+[160316.727] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[160316.727] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[160338.538] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[160338.539] (II) modeset(0): Printing DDC gathered Modelines:
+[160338.539] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[160338.539] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[160347.829] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[160347.829] (II) modeset(0): Printing DDC gathered Modelines:
+[160347.829] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[160347.829] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[160432.280] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[160432.281] (II) modeset(0): Printing DDC gathered Modelines:
+[160432.281] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[160432.281] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[160435.340] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[160435.340] (II) modeset(0): Printing DDC gathered Modelines:
+[160435.341] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[160435.341] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[160439.671] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[160439.671] (II) modeset(0): Printing DDC gathered Modelines:
+[160439.671] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[160439.671] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[160446.846] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[160446.846] (II) modeset(0): Printing DDC gathered Modelines:
+[160446.847] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[160446.847] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[160737.131] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[160737.131] (II) modeset(0): Printing DDC gathered Modelines:
+[160737.131] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[160737.131] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[160743.713] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[160743.713] (II) modeset(0): Printing DDC gathered Modelines:
+[160743.713] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[160743.713] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[160843.932] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[160843.932] (II) modeset(0): Printing DDC gathered Modelines:
+[160843.932] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[160843.932] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[160850.558] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[160850.558] (II) modeset(0): Printing DDC gathered Modelines:
+[160850.558] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[160850.558] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[160962.324] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[160962.324] (II) modeset(0): Printing DDC gathered Modelines:
+[160962.324] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[160962.324] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[160969.553] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[160969.553] (II) modeset(0): Printing DDC gathered Modelines:
+[160969.553] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[160969.553] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[161390.827] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[161390.827] (II) modeset(0): Printing DDC gathered Modelines:
+[161390.828] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[161390.828] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[161471.839] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[161471.839] (II) modeset(0): Printing DDC gathered Modelines:
+[161471.839] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[161471.839] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[161601.063] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[161601.063] (II) modeset(0): Printing DDC gathered Modelines:
+[161601.063] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[161601.063] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[161606.683] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[161606.683] (II) modeset(0): Printing DDC gathered Modelines:
+[161606.683] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[161606.683] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[161628.137] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[161628.137] (II) modeset(0): Printing DDC gathered Modelines:
+[161628.137] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[161628.137] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[161631.399] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[161631.399] (II) modeset(0): Printing DDC gathered Modelines:
+[161631.399] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[161631.399] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[162262.862] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[162262.862] (II) modeset(0): Printing DDC gathered Modelines:
+[162262.862] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[162262.862] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[162272.665] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[162272.665] (II) modeset(0): Printing DDC gathered Modelines:
+[162272.665] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[162272.665] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[162292.683] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[162292.683] (II) modeset(0): Printing DDC gathered Modelines:
+[162292.683] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[162292.683] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[162296.424] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[162296.424] (II) modeset(0): Printing DDC gathered Modelines:
+[162296.424] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[162296.424] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[162299.864] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[162299.864] (II) modeset(0): Printing DDC gathered Modelines:
+[162299.864] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[162299.864] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[162305.191] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[162305.192] (II) modeset(0): Printing DDC gathered Modelines:
+[162305.192] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[162305.192] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[162646.534] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[162646.534] (II) modeset(0): Printing DDC gathered Modelines:
+[162646.534] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[162646.534] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[162659.488] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[162659.488] (II) modeset(0): Printing DDC gathered Modelines:
+[162659.488] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[162659.488] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[162879.263] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[162879.263] (II) modeset(0): Printing DDC gathered Modelines:
+[162879.263] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[162879.263] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[162891.413] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[162891.413] (II) modeset(0): Printing DDC gathered Modelines:
+[162891.414] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[162891.414] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[164029.449] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[164029.449] (II) modeset(0): Printing DDC gathered Modelines:
+[164029.449] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[164029.449] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[164034.489] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[164034.489] (II) modeset(0): Printing DDC gathered Modelines:
+[164034.489] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[164034.489] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[164042.801] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[164042.801] (II) modeset(0): Printing DDC gathered Modelines:
+[164042.801] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[164042.801] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[164055.716] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[164055.716] (II) modeset(0): Printing DDC gathered Modelines:
+[164055.716] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[164055.716] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[164144.124] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[164144.124] (II) modeset(0): Printing DDC gathered Modelines:
+[164144.124] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[164144.124] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[164149.503] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[164149.503] (II) modeset(0): Printing DDC gathered Modelines:
+[164149.503] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[164149.503] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[164151.352] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[164151.353] (II) modeset(0): Printing DDC gathered Modelines:
+[164151.353] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[164151.353] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[164158.067] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[164158.067] (II) modeset(0): Printing DDC gathered Modelines:
+[164158.067] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[164158.067] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[164177.838] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[164177.838] (II) modeset(0): Printing DDC gathered Modelines:
+[164177.838] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[164177.838] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[164182.016] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[164182.016] (II) modeset(0): Printing DDC gathered Modelines:
+[164182.016] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[164182.016] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[164197.792] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[164197.793] (II) modeset(0): Printing DDC gathered Modelines:
+[164197.793] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[164197.793] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[164201.249] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[164201.249] (II) modeset(0): Printing DDC gathered Modelines:
+[164201.249] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[164201.249] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)
+[165707.787] (II) modeset(0): EDID vendor "SHP", prod id 5186
+[165707.787] (II) modeset(0): Printing DDC gathered Modelines:
+[165707.787] (II) modeset(0): Modeline "1920x1080"x0.0  138.50  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (66.6 kHz eP)
+[165707.787] (II) modeset(0): Modeline "1920x1080"x0.0  110.92  1920 1968 2000 2080  1080 1083 1088 1111 -hsync -vsync (53.3 kHz e)

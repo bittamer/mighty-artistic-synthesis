@@ -1,8 +1,9 @@
-name="Better UI 1.23"
+name="Better UI 1.25"
 archive="mod/betterui2.0.zip"
 tags={
 	"graphics"
 	"fixes"
 }
 picture="betterui2.1.jpg"
-supported_version="1.24.*.*"
+remote_file_id="329756290"
+supported_version="1.25.*.*"

@@ -1262,6 +1262,39 @@ SUPPORTHEIR={
 		icon=no
 	}
 }
+KNOWLEDGE_SHARING={
+	msg_icontype="diplo"
+	category="cat_diplomacy"
+	option=no
+	from_me={
+		log=yes
+		onmap=no
+		popup=yes
+		pausepopup=no
+		icon=no
+	}
+	to_me={
+		log=yes
+		onmap=no
+		popup=yes
+		pausepopup=no
+		icon=no
+	}
+	interesting={
+		log=yes
+		onmap=no
+		popup=yes
+		pausepopup=no
+		icon=no
+	}
+	default={
+		log=yes
+		onmap=no
+		popup=no
+		pausepopup=no
+		icon=no
+	}
+}
 FLEETBASING={
 	msg_icontype="diplo"
 	category="cat_diplomacy"
@@ -5397,6 +5430,25 @@ ENDWARSUBSIDIES={
 		icon=no
 	}
 }
+ENDKNOWLEDGESHARE={
+	msg_icontype="diplo"
+	category="cat_diplomacy"
+	option=no
+	from_me={
+		log=yes
+		onmap=no
+		popup=yes
+		pausepopup=no
+		icon=no
+	}
+	to_me={
+		log=yes
+		onmap=no
+		popup=yes
+		pausepopup=no
+		icon=no
+	}
+}
 OTHERCANCELWARSUBSIDIES={
 	msg_icontype="diplo"
 	category="cat_diplomacy"
@@ -7143,6 +7195,51 @@ TRADE_RELATION_ACCEPT={
 		icon=yes
 	}
 }
+STEER_TRADE_RELATION_CANCEL={
+	msg_icontype="adm"
+	category="cat_diplomacy"
+	option=no
+	from_me={
+		log=yes
+		onmap=no
+		popup=yes
+		pausepopup=no
+		icon=yes
+	}
+	to_me={
+		log=yes
+		onmap=no
+		popup=yes
+		pausepopup=no
+		icon=yes
+	}
+	interesting={
+		log=yes
+		onmap=no
+		popup=no
+		pausepopup=no
+		icon=yes
+	}
+}
+STEER_TRADE_RELATION_ACCEPT={
+	msg_icontype="adm"
+	category="cat_diplomacy"
+	option=no
+	to_me={
+		log=yes
+		onmap=no
+		popup=yes
+		pausepopup=no
+		icon=yes
+	}
+	interesting={
+		log=yes
+		onmap=no
+		popup=no
+		pausepopup=no
+		icon=yes
+	}
+}
 ASK_PROT_ACCEPT={
 	msg_icontype="adm"
 	category="cat_diplomacy"
@@ -7912,6 +8009,18 @@ NEW_ARMY_PROFESSIONALISM_ABILITY={
 	go_to="military"
 	to_me={
 		log=yes
+		onmap=no
+		popup=yes
+		pausepopup=no
+		icon=no
+	}
+}
+MISSION_COMPLETED={
+	msg_icontype="event"
+	category="cat_event"
+	option=no
+	to_me={
+		log=no
 		onmap=no
 		popup=yes
 		pausepopup=no

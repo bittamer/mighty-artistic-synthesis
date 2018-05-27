@@ -5030,3 +5030,5 @@ cd nssdb/
 ls
 cat pkcs11.txt 
 exit
+du -s .bash_history 
+exit

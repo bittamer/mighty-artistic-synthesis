@@ -3,188 +3,6 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/hubbi/Misc/Private/CELEBS/Rachel%20McAdams/the-family-stone-rachel.jpg" added="2018-05-07T00:25:11Z" modified="2018-05-18T16:32:29Z" visited="2018-05-07T00:25:11Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2018-05-18T16:32:29Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/hubbi/Misc/Private/CELEBS/Rachel%20McAdams/x-1-e1428331444830-1940x1090.jpg" added="2018-05-07T00:25:12Z" modified="2018-05-18T16:32:29Z" visited="2018-05-07T00:25:13Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2018-05-18T16:32:29Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/hubbi/Misc/Private/CELEBS/Natalie%20Dormer/1506253368459.jpg" added="2018-05-07T00:25:19Z" modified="2018-05-07T00:25:19Z" visited="2018-05-07T00:25:19Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2018-05-07T00:25:19Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/hubbi/Misc/Private/CELEBS/Natalie%20Dormer/1507662799161.jpg" added="2018-05-07T00:25:19Z" modified="2018-05-07T00:25:19Z" visited="2018-05-07T00:25:20Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2018-05-07T00:25:19Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/hubbi/Misc/Private/CELEBS/Natalie%20Dormer/1508785183221.jpg" added="2018-05-07T00:25:20Z" modified="2018-05-07T00:25:20Z" visited="2018-05-07T00:25:21Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2018-05-07T00:25:20Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/hubbi/Misc/Private/CELEBS/Melissa%20Benoist/EWWFE.jpg" added="2018-05-07T00:25:26Z" modified="2018-05-07T00:25:36Z" visited="2018-05-07T00:25:26Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2018-05-07T00:25:36Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/hubbi/Misc/Private/CELEBS/Melissa%20Benoist/image3_temp-1358.jpg" added="2018-05-07T00:25:29Z" modified="2018-05-07T00:25:29Z" visited="2018-05-07T00:25:30Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2018-05-07T00:25:29Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/hubbi/Misc/Private/CELEBS/Melissa%20Benoist/Melissa_Benoist_(cropped).jpg" added="2018-05-07T00:25:30Z" modified="2018-05-07T00:25:30Z" visited="2018-05-07T00:25:30Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2018-05-07T00:25:30Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/hubbi/Misc/Private/CELEBS/Melissa%20Benoist/Melissa-Benoist:-Supergirl-Promos-on-The-Empire-State-Building--05.jpg" added="2018-05-07T00:25:31Z" modified="2018-05-07T00:25:31Z" visited="2018-05-07T00:25:31Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2018-05-07T00:25:31Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/hubbi/Misc/Private/CELEBS/Melissa%20Benoist/melissa_benoist_supergirl_season_2-wide.jpg" added="2018-05-07T00:25:32Z" modified="2018-05-07T00:25:32Z" visited="2018-05-07T00:25:33Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2018-05-07T00:25:32Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/hubbi/Misc/Private/CELEBS/Melissa%20Benoist/Melissa-Benoist:-The-CW-Upfront-Presentation-2016--04.jpg" added="2018-05-07T00:25:33Z" modified="2018-05-07T00:25:33Z" visited="2018-05-07T00:25:34Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2018-05-07T00:25:33Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/hubbi/Misc/Private/CELEBS/Melissa%20Benoist/Melissa-Benoist-Wallpapers.jpg" added="2018-05-07T00:25:35Z" modified="2018-05-07T00:25:35Z" visited="2018-05-07T00:25:35Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2018-05-07T00:25:35Z" count="1"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/hubbi/Misc/Private/CELEBS/Kat%20Dennings/1508753388462.jpg" added="2018-05-07T00:25:40Z" modified="2018-05-07T00:25:42Z" visited="2018-05-07T00:25:41Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2018-05-07T00:25:42Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/hubbi/Misc/Private/CELEBS/Kat%20Dennings/1508753419353.jpg" added="2018-05-07T00:25:41Z" modified="2018-05-07T00:25:43Z" visited="2018-05-07T00:25:41Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/jpeg"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2018-05-07T00:25:43Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/hubbi/Misc/Private/CELEBS/Kat%20Dennings/1508780483961.jpg" added="2018-05-07T00:25:43Z" modified="2018-05-07T00:25:43Z" visited="2018-05-07T00:25:43Z">
     <info>
       <metadata owner="http://freedesktop.org">
@@ -12198,6 +12016,152 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2018-05-26T20:44:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Abstract_117069_Elin%20Julianti_done.docx" added="2018-05-27T03:49:43Z" modified="2018-05-27T03:49:43Z" visited="2018-05-27T03:49:44Z">
+    <title>Abstract_117069_Elin Julianti_done.docx</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Abstract_117069_Elin%20Julianti.docx&apos;" modified="2018-05-27T03:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Abstract_117068_Jessie%20Sofia%20Pamudji_done.docx" added="2018-05-27T03:51:00Z" modified="2018-05-27T03:51:00Z" visited="2018-05-27T03:51:00Z">
+    <title>Abstract_117068_Jessie Sofia Pamudji_done.docx</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Abstract_117068_Jessie%20Sofia%20Pamudji.docx&apos;" modified="2018-05-27T03:51:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Vietnam" added="2018-05-27T03:51:22Z" modified="2018-05-27T03:51:22Z" visited="2018-05-27T03:51:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-05-27T03:51:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Vietnam/ABSTRACT_Asia%20Pharm%202018%20_%20Huy%20Truong%20Nguyen_05252018_done.docx" added="2018-05-27T03:52:57Z" modified="2018-05-27T03:52:57Z" visited="2018-05-27T03:52:57Z">
+    <title>ABSTRACT_Asia Pharm 2018 _ Huy Truong Nguyen_05252018_done.docx</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Vietnam/ABSTRACT_Asia%20Pharm%202018%20_%20Huy%20Truong%20Nguyen_05252018.docx&apos;" modified="2018-05-27T03:52:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Vietnam/ABSTRACT_Asia%20Pharm%202018%20_%20Phuoc%20Dien%20PHAM_0525018_done.docx" added="2018-05-27T03:52:59Z" modified="2018-05-27T03:52:59Z" visited="2018-05-27T03:53:00Z">
+    <title>ABSTRACT_Asia Pharm 2018 _ Phuoc Dien PHAM_0525018_done.docx</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Vietnam/ABSTRACT_Asia%20Pharm%202018%20_%20Phuoc%20Dien%20PHAM_0525018.docx&apos;" modified="2018-05-27T03:52:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Vietnam/ABSTRACT_Asia%20Pharm%202018_Thi%20Mong%20Ngoc%20Nguyen_05252018_done.docx" added="2018-05-27T03:53:02Z" modified="2018-05-27T03:53:02Z" visited="2018-05-27T03:53:02Z">
+    <title>ABSTRACT_Asia Pharm 2018_Thi Mong Ngoc Nguyen_05252018_done.docx</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Vietnam/ABSTRACT_Asia%20Pharm%202018_Thi%20Mong%20Ngoc%20Nguyen_05252018.docx&apos;" modified="2018-05-27T03:53:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Vietnam/ABSTRACT_Asia%20Pharm%20III%202018_Phuoc%20Thien%20Tran_05252018_done.docx" added="2018-05-27T03:53:04Z" modified="2018-05-27T03:53:04Z" visited="2018-05-27T03:53:05Z">
+    <title>ABSTRACT_Asia Pharm III 2018_Phuoc Thien Tran_05252018_done.docx</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Vietnam/ABSTRACT_Asia%20Pharm%20III%202018_Phuoc%20Thien%20Tran_05252018.docx&apos;" modified="2018-05-27T03:53:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/Thailand/Abstract_117076_Assoc.%20Prof.%20Dr.%20Souwalak%20Phongpaichit.docx" added="2018-05-27T05:35:51Z" modified="2018-05-27T05:35:52Z" visited="2018-05-27T05:35:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-05-27T05:35:52Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Vietnam/ABSTRACT%20Template%20Asia%20Pharm%202018%20_%20Prof.%20Nam%20-%20GS%20Duc.docx" added="2018-05-27T08:02:51Z" modified="2018-05-27T08:02:52Z" visited="2018-05-27T08:02:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-05-27T08:02:52Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Vietnam/THAI%20KHAC%20MINH%20ABSTRACT%20Asia%20Pharm%20III%202018%20_%20invited%20speaker.docx" added="2018-05-27T08:02:55Z" modified="2018-05-27T08:02:56Z" visited="2018-05-27T08:02:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-05-27T08:02:56Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Vietnam/TRAN%20VAN%20THANH%20ABSTRACT%20%20Asia%20Pharm%20III%202018%20_%20invited%20speaker.docx" added="2018-05-27T08:02:59Z" modified="2018-05-27T08:02:59Z" visited="2018-05-27T08:02:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-05-27T08:02:59Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Vietnam/ABSTRACT%20Template%20Asia%20Pharm%202018%20_%20Assoc%20Prof%20Hoang%20-%20GS%20Duc.docx" added="2018-05-27T08:03:01Z" modified="2018-05-27T08:03:02Z" visited="2018-05-27T08:03:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-05-27T08:03:02Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Abstract_117062_Debbie%20Soefie%20Retnoningrum.docx" added="2018-05-27T08:04:18Z" modified="2018-05-27T08:04:19Z" visited="2018-05-27T08:04:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-05-27T08:04:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia%20Pharm%203/Abstracts/EDITED/Abstract_117075_Oki%20Nugraha%20Putra.docx" added="2018-05-27T08:04:32Z" modified="2018-05-27T08:04:33Z" visited="2018-05-27T08:04:33.399570Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2018-05-27T08:04:33Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

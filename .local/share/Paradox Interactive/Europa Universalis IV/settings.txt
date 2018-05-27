@@ -84,3 +84,4 @@ primary_mapmode_names={
 	{ GFX_mapmode_terrain } { GFX_mapmode_political GFX_mapmode_diplomatic GFX_mapmode_opinion } { GFX_mapmode_trade GFX_mapmode_tradevalue } { GFX_mapmode_economical } { GFX_mapmode_religion } { GFX_mapmode_trade_goods } { GFX_mapmode_fortlevel } { GFX_mapmode_devastation } { GFX_mapmode_rebel } { GFX_mapmode_colonial } 
 }
 been_told_of_low_vram=no
+dismissed_news_banner=1

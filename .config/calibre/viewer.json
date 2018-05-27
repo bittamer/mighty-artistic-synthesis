@@ -1,12 +1,12 @@
 {
   "main_window_state": {
     "__class__": "bytearray", 
-    "__value__": "AAAA/wAAAAL9AAAAAwAAAAAAAAAAAAAAAPwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAAyQD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABmAG8AbwB0AG4AbwB0AGUAcwAtAGQAbwBjAGsAAAAAAP////8AAAA6AP///wAAAzMAAANdAAAAAQAAAAIAAAABAAAAAvwAAAACAAAAAAAAAAEAAAAQAHQAbwBvAGwAXwBiAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAASAHQAbwBvAGwAXwBiAGEAcgAyAQAAAAD/////AAAAAAAAAAA="
+    "__value__": "AAAA/wAAAAL9AAAAAwAAAAAAAAAAAAAAAPwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAAyQD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABmAG8AbwB0AG4AbwB0AGUAcwAtAGQAbwBjAGsAAAAAAP////8AAAA6AP///wAAAlEAAALDAAAAAQAAAAIAAAABAAAAAvwAAAACAAAAAAAAAAEAAAAQAHQAbwBvAGwAXwBiAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAASAHQAbwBvAGwAXwBiAGEAcgAyAQAAAAD/////AAAAAAAAAAA="
   }, 
   "in_paged_mode": true, 
   "viewer_window_geometry": {
     "__class__": "bytearray", 
-    "__value__": "AdnQywACAAAAAABsAAAAPgAAA9oAAAPbAAAAbAAAAFgAAAPaAAAD2wAAAAAAAAAAB4A="
+    "__value__": "AdnQywACAAAAAACrAAAAfQAAAzcAAAOAAAAAqwAAAJcAAAM3AAADgAAAAAAAAAAAB4A="
   }, 
   "viewer_toc_isvisible": false, 
   "multiplier": 1.8000001907348633, 
@@ -109,6 +109,18 @@
     ]
   ], 
   "viewer_open_history": [
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/EDITED/Abstract_117075_Oki Nugraha Putra.docx", 
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/EDITED/Abstract_117062_Debbie Soefie Retnoningrum.docx", 
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/EDITED/Vietnam/TRAN VAN THANH ABSTRACT  Asia Pharm III 2018 _ invited speaker.docx", 
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/EDITED/Vietnam/THAI KHAC MINH ABSTRACT Asia Pharm III 2018 _ invited speaker.docx", 
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/EDITED/Vietnam/ABSTRACT Template Asia Pharm 2018 _ Prof. Nam - GS Duc.docx", 
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/EDITED/Vietnam/ABSTRACT Template Asia Pharm 2018 _ Assoc Prof Hoang - GS Duc.docx", 
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/EDITED/Vietnam/ABSTRACT_Asia Pharm III 2018_Phuoc Thien Tran_05252018.docx", 
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/EDITED/Vietnam/ABSTRACT_Asia Pharm 2018_Thi Mong Ngoc Nguyen_05252018.docx", 
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/EDITED/Vietnam/ABSTRACT_Asia Pharm 2018 _ Phuoc Dien PHAM_0525018.docx", 
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/EDITED/Vietnam/ABSTRACT_Asia Pharm 2018 _ Huy Truong Nguyen_05252018.docx", 
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/EDITED/Abstract_117068_Jessie Sofia Pamudji_done.docx", 
+    "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/EDITED/Abstract_117069_Elin Julianti_done.docx", 
     "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/Vietnam/TRAN VAN THANH ABSTRACT  Asia Pharm III 2018 _ invited speaker.docx", 
     "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/Vietnam/ABSTRACT_Asia Pharm 2018 _ Phuoc Dien PHAM_0525018.docx", 
     "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/Vietnam/ABSTRACT_Asia Pharm 2018 _ Huy Truong Nguyen_05252018.docx", 

@@ -2,35 +2,36 @@
 <application-state>
   <context id="">
     <application id="discord_discord.desktop" open-window-count="0" score="67.5" last-seen="1527264637"/>
-    <application id="firefox.desktop" open-window-count="3" score="24575.450927734375" last-seen="1527363933"/>
+    <application id="firefox.desktop" open-window-count="2" score="24701.450927734375" last-seen="1527409241"/>
     <application id="calibre-gui.desktop" open-window-count="0" score="22.8125" last-seen="1527077508"/>
     <application id="org.gnome.Shell.Extensions.GSConnect.desktop" open-window-count="0" score="3" last-seen="1527180606"/>
     <application id="libreoffice_impress.desktop" open-window-count="0" score="20" last-seen="1526887012"/>
     <application id="gnome-control-center.desktop" open-window-count="0" score="17.384787179849809" last-seen="1527278460"/>
     <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="13" last-seen="1527263628"/>
     <application id="update-manager.desktop" open-window-count="0" score="0.0625" last-seen="1526962656"/>
+    <application id="steam.desktop" open-window-count="0" score="3381" last-seen="1527403633"/>
     <application id="spotify_spotify.desktop" open-window-count="0" score="250.125" last-seen="1527363943"/>
     <application id="lutris.desktop" open-window-count="0" score="304" last-seen="1527253778"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="22096.608896334776" last-seen="1527363930"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="23783.608896334776" last-seen="1527409256"/>
     <application id="mpv.desktop" open-window-count="0" score="1119.828125" last-seen="1527101367"/>
     <application id="org.gnome.gedit.desktop" open-window-count="0" score="13.7578125" last-seen="1527175873"/>
     <application id="edrawmax.desktop" open-window-count="0" score="5.5" last-seen="1527109227"/>
     <application id="gravit-designer_gravit-designer.desktop" open-window-count="0" score="75" last-seen="1527359989"/>
-    <application id="evince.desktop" open-window-count="3" score="468.05841367750691" last-seen="1527364181"/>
+    <application id="evince.desktop" open-window-count="0" score="468.05841367750691" last-seen="1527396503"/>
     <application id="gnome-shell-extension-prefs.desktop" open-window-count="0" score="5" last-seen="1527180560"/>
-    <application id="eog.desktop" open-window-count="0" score="65.563917524424397" last-seen="1527360518"/>
+    <application id="eog.desktop" open-window-count="0" score="66.563917524424397" last-seen="1527367483"/>
     <application id="libreoffice_writer.desktop" open-window-count="0" score="609.5" last-seen="1527226501"/>
     <application id="gnome-calculator_gnome-calculator.desktop" open-window-count="0" score="1" last-seen="1527139074"/>
-    <application id="zotero.desktop" open-window-count="1" score="130" last-seen="1527362334"/>
-    <application id="telegram-desktop_telegramdesktop.desktop" open-window-count="0" score="92.02783203125" last-seen="1527359331"/>
+    <application id="zotero.desktop" open-window-count="1" score="130" last-seen="1527408394"/>
+    <application id="telegram-desktop_telegramdesktop.desktop" open-window-count="0" score="93.02783203125" last-seen="1527392976"/>
     <application id="org.gnome.tweaks.desktop" open-window-count="0" score="29" last-seen="1527180076"/>
-    <application id="calibre-ebook-viewer.desktop" open-window-count="0" score="103" last-seen="1527263913"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="313.21517319793253" last-seen="1527360533"/>
+    <application id="calibre-ebook-viewer.desktop" open-window-count="0" score="114" last-seen="1527408283"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="333.21517319793253" last-seen="1527408292"/>
     <application id="libreoffice_calc.desktop" open-window-count="0" score="786.75" last-seen="1527313605"/>
     <application id="gimp_gimp.desktop" open-window-count="0" score="145" last-seen="1527321381"/>
     <application id="apport-gtk.desktop" open-window-count="0" score="3" last-seen="1527181398"/>
     <application id="inkscape_inkscape.desktop" open-window-count="0" score="435.9296875" last-seen="1526888818"/>
-    <application id="thunderbird.desktop" open-window-count="1" score="8975.27783203125" last-seen="1527363939"/>
+    <application id="thunderbird.desktop" open-window-count="1" score="9043.27783203125" last-seen="1527408390"/>
     <application id="safeeyes.desktop" open-window-count="0" score="0.5" last-seen="1526571169"/>
   </context>
 </application-state>

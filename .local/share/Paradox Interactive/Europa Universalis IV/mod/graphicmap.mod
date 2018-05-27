@@ -5,4 +5,4 @@ tags={
 	"Graphics"
 }
 picture="graphicsmap.jpg"
-supported_version="1.24.*.*"
+supported_version="1.25.*.*"
