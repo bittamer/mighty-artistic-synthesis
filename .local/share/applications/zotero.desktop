@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Zotero
-Comment=Zotero
-Exec="/home/hubbi/Software/zotero/zotero" %U
-Terminal=false
-Type=Application
-Icon=/home/hubbi/Software/zotero/zotero-icon.png
-Categories=Office;
-TryExec=/home/hubbi/Software/zotero/zotero

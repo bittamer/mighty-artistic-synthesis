@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/x-crossover-mam">
-  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
-  <generic-icon name="cxoffice-09402874-aebc-4bb3-be2c-79e60d91238f_application_x-crossover-mam"/>
-  <comment>Microsoft Access Macro Shortcut</comment>
-  <glob pattern="*.mam"/>
-</mime-type>

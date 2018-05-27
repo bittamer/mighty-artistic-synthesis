@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="text/x-ms-odc">
-  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
-  <generic-icon name="cxoffice-09402874-aebc-4bb3-be2c-79e60d91238f_text_x-ms-odc"/>
-  <generic-icon name="cxoffice-4f6efa6d-583e-45f2-b88f-f945fa928d8d_text_x-ms-odc"/>
-  <comment>Microsoft Office Data Connection</comment>
-</mime-type>
