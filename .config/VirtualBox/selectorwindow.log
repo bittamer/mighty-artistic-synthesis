@@ -1,16 +1,17 @@
-VirtualBox GUI VM Selector Window 5.1.30_Ubuntu r118389 linux.amd64 (Oct 17 2017 06:50:29) release log
-00:00:04.972498 Log opened 2018-02-27T06:42:30.826348000Z
-00:00:04.972502 Build Type: release
-00:00:04.972510 OS Product: Linux
-00:00:04.972514 OS Release: 4.13.0-36-generic
-00:00:04.972519 OS Version: #40-Ubuntu SMP Fri Feb 16 20:07:48 UTC 2018
-00:00:04.972588 DMI Product Name: UX303UB
-00:00:04.972617 DMI Product Version: 1.0       
-00:00:04.972755 Host RAM: 7404MB (7.2GB) total, 5000MB (4.8GB) available
-00:00:04.972768 Executable: /usr/lib/virtualbox/VirtualBox
-00:00:04.972771 Process ID: 5655
-00:00:04.972774 Package type: LINUX_64BITS_GENERIC (OSE)
-00:00:04.972843 Qt version: 5.9.1
-00:00:05.234024 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:00:06.134668 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:00:06.140457 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 67x27 x 1853x1053
+VirtualBox GUI VM Selector Window 5.2.10_Ubuntu r121806 linux.amd64 (Jun 15 2018 16:14:07) release log
+00:00:00.651958 Log opened 2018-07-20T03:24:39.407605000Z
+00:00:00.651959 Build Type: release
+00:00:00.651962 OS Product: Linux
+00:00:00.651964 OS Release: 4.15.0-23-generic
+00:00:00.651965 OS Version: #25-Ubuntu SMP Wed May 23 18:02:16 UTC 2018
+00:00:00.651991 DMI Product Name: UX303UB
+00:00:00.652002 DMI Product Version: 1.0       
+00:00:00.652061 Host RAM: 11436MB (11.1GB) total, 8220MB (8.0GB) available
+00:00:00.652067 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.652067 Process ID: 12666
+00:00:00.652068 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.652097 Qt version: 5.9.5
+00:00:00.671159 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.890160 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.913554 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 78x36 x 1842x1044
+00:01:01.528624 GUI: UIMediumEnumerator: Medium-enumeration finished!

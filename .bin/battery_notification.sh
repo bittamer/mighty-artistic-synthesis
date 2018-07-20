@@ -1,7 +1,7 @@
 #!/bin/bash
 while true
 do
-    battery_level=`acpi -b | grep -P -o '[0-9]+(?=%)'`
+    battery_level=`acpi -b | grep -P -o '[0-9]+(?=%)' | awk '{if (NR==1) print $0;}'`
     if [ $battery_level -ge 80 ]; then
        notify-send "Battery is above 80%!" "Charging: ${battery_level}%";
     elif [ $battery_level -le 25 ]; then

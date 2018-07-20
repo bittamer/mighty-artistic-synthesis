@@ -85,3 +85,8 @@ function backup.zotero {
   git push vn master
   cd -
 }
+
+# Check running programs currently connected to the Internet
+function cn {
+  ss -lantp | grep ESTAB | awk '{print $6}' | awk 'BEGIN{FS="\""} {print $2}' | sort | uniq
+}

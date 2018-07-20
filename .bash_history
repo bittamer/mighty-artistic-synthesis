@@ -5032,3 +5032,3737 @@ cat pkcs11.txt
 exit
 du -s .bash_history 
 exit
+cd .gnome/
+ls
+cd apps/
+ls
+cd
+cd .local/
+ls
+du -sh .
+cd
+ncdu .
+exit
+vim .yadm/encrypt 
+exit
+cd /media/hubbi/My\ Book/IMAGES/Adventure/
+ncdu 
+exit
+man rclone
+exit
+tmux attach
+exit
+cd Misc/borgbackup/
+ls
+backup.work 
+borg list Work/
+borg list Postgraduate/
+ls
+rclone lsd gdriveme:backups
+rclone lsd gdriveme:backups/borgbackup
+rclone sync ./Work/ gdriveme:backups/borgbackup/Work/
+rclone sync ./Postgraduate/ gdriveme:backups/borgbackup/Postgraduate/
+du -sh .
+cd
+rclone lsd gdriveme:backups/direct/Images/Adventure
+type rsync
+\rsync -havP /media/hubbi/My\ Book/IMAGES/Adventure/2016-01\ Jogja\ Trip\ \(30-31\ Jan\)/ ./"2016-01 Jogja Trip (30-31 Jan)"/
+du -sh 2016-01\ Jogja\ Trip\ \(30-31\ Jan\)/
+rclone copy ./2016-01\ Jogja\ Trip\ \(30-31\ Jan\)/ gdriveme:backups/direct/Images/Adventure/"2016-01 Jogja Trip (30-31 Jan)"/
+rm -rf 2016-01\ Jogja\ Trip\ \(30-31\ Jan\)/
+\rsync -havP /media/hubbi/My\ Book/IMAGES/Adventure/2014-11\ Ujung\ Kulon\ \(14-16\ Nov\) ./
+ls
+rclone copy ./"2014-11 Ujung Kulon (14-16 Nov)"/ gdriveme:backups/direct/Images/Adventure/"2014-11 Ujung Kulon (14-16 Nov)"/
+rclone lsd gdriveme:backups/direct/Images/Adventure
+rclone lsd gdriveme:backups/direct/Images/Adventure > adv.list
+cat adv.list 
+vim adv.list 
+cat adv.list | awk 'BEGIN {FS="-"} { print $1 }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ print $1}'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ print $1 $2}'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ print $1; print $2}'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ print $1, $2}'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ print $0}'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ print $NF}'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ print $0}'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ for (i=1;i<$NF;i++) print $i }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ i=1 print $i }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ i=1; print $i }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ print $0}'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ for (i=2;i==$NF;i++) print $i }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ for (i=2;i<$NF;i++) print $i }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ for (i=2;i>$NF;i++) print $i }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ for (i=2;i==$NF;i++) print $i }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ echo "hello" }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ print hello }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ print "hello" }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ print $0 }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ print i }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ i=2 print i }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ i=2; print i }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ i=2; print NF }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ for (i=2;i<NF;i++) print i }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ for (i=2;i<NF;i++) print $i }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ for (i=2;i<NF;i++) print  }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ for (i=2;i<=NF;i++) {print $i " "}  }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ for (i=2;i<=NF;i++) {printf $i " "}  }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ for (i=2;i<=NF;i++) {printf $i " "}; printf "\n"  }'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ $0}'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ print $0}'
+cat adv.list | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ for (i=2;i<=NF;i++) {printf $i " "}; printf "\n"  }'
+rclone lsd gdriveme:backups/direct/Images/Adventure | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ for (i=2;i<=NF;i++) {printf $i " "}; printf "\n"  }'
+rclone lsd gdriveme:backups/direct/Images/Adventure | awk 'BEGIN {FS="-"} { print $6 }' | awk '{ for (i=2;i<=NF;i++) {printf $i " "}; printf "\n"  }' | sort
+rclone lsd gdriveme:backups/direct/Images/Adventure | awk 'BEGIN {FS="-"} { print $5 $6 }' | awk '{ for (i=2;i<=NF;i++) {printf $i " "}; printf "\n"  }' | sort
+rclone lsd gdriveme:backups/direct/Images/Adventure | awk 'BEGIN {FS="-"} { print $5 "-" $6 }' | awk '{ for (i=2;i<=NF;i++) {printf $i " "}; printf "\n"  }' | sort
+rclone lsd gdriveme:backups/direct/Images/Adventure | awk 'BEGIN {FS="-"} { print $5 "-" $6 $7}' | awk '{ for (i=2;i<=NF;i++) {printf $i " "}; printf "\n"  }' | sort
+rclone copy ./"2014-12 CADD Penang, Malaysia (1-7 Dec)"/ gdriveme:backups/direct/Images/Adventure/"2014-12 CADD Penang, Malaysia (1-7 Dec)"/
+rclone lsd gdriveme:backups/direct/Images/Adventure | awk 'BEGIN {FS="-"} { print $5 "-" $6 $7}' | awk '{ for (i=2;i<=NF;i++) {printf $i " "}; printf "\n"  }' | sort
+rclone copy ./2016-05\ Ciwidey\ \(8\ May\)/ gdriveme:backups/direct/Images/Adventure/"2016-05 Ciwidey (8 May)"/
+rclone copy ./2014-10\ Tasikmalaya\ \(25-26\ Oct\)/ gdriveme:backups/direct/Images/Adenture/"2014-10 Tasikmalaya (25-26 Oct)"/
+rm -rf 2014-10\ Tasikmalaya\ \(25-26\ Oct\)/
+rclone copy ./2015-03\ Banjarmasin\ \(5-8\ Mar\)/ gdriveme:backups/direct/Images/Adventure/"2015-03 Banjarmasin (5-8 Mar)"/
+rclone copy ./2015-04\ Tebing\ Keraton/ gdriveme:backups/direct/Images/Adventure/"2015-04 Tebing Keraton"/
+rm -rf 2015-04\ Tebing\ Keraton/
+rclone copy ./2015-10\ Jeju\ Seoul\ Korea\ \(15-25\ Oct\)/ gdriveme:backups/direct/Images/Adventure/"2015-10 Jeju Seoul Korea (15-25 Oct)"/
+rclone size ./2015-10\ Jeju\ Seoul\ Korea\ \(15-25\ Oct\)/
+rclone size gdriveme:backups/direct/Images/Adventure/"2015-10 Jeju Seoul Korea (15-25 Oct)"/
+rm -rf 2015-10\ Jeju\ Seoul\ Korea\ \(15-25\ Oct\)/
+cd Misc/linux_apps/
+vim software.list 
+cd
+rclone lsd gdriveme:backups/direct/Images/Adventure | awk 'BEGIN {FS="-"} { print $5 "-" $6 $7}' | awk '{ for (i=2;i<=NF;i++) {printf $i " "}; printf "\n"  }' | sort
+rclone copy ./2015-01\ Sabang\,\ Banda\ Aceh\,\ Medan\ \(19-26\ Jan\)/ gdriveme:backups/direct/Images/Adventure/"2015-01 Sabang, Banda Aceh, Medan (19-26 Jan)"/
+fg
+rclone size 2015-01\ Sabang\,\ Banda\ Aceh\,\ Medan\ \(19-26\ Jan\)/
+rclone size gdriveme:backups/direct/Images/Adventure/"2015-01 Sabang, Banda Aceh, Medan (19-26 Jan)"/
+rm -rf 2015-01\ Sabang\,\ Banda\ Aceh\,\ Medan\ \(19-26\ Jan\)/
+rclone copy ./2014-09\ Lombok\ Adventure\ \(25-28\ Sep\)/ gdriveme:backups/direct/Images/Adventure/"2014-09 Lombok Adventure (25-28 Sep)"/
+du -sh 2014-09\ Lombok\ Adventure\ \(25-28\ Sep\)/
+rclone copy ./2014-09\ Lombok\ Adventure\ \(25-28\ Sep\)/ gdriveme:backups/direct/Images/Adventure/"2014-09 Lombok Adventure (25-28 Sep)"/
+rclone size gdriveme:backups/direct/Images/Adventure/"2014-09 Lombok Adventure (25-28 Sep)"/
+rclone size 2014-09\ Lombok\ Adventure\ \(25-28\ Sep\)/
+rm -rf 2014-09\ Lombok\ Adventure\ \(25-28\ Sep\)/
+exit
+ll
+ll -a
+cd .themes/
+ls
+..
+yadm add .themes/
+yadm commit -m "GTK Themes"
+yadm push -u origin master
+yadm push -u vn master
+yadm add .bash_history 
+yadm commit -m ".bash_history"
+yadm add .cups/
+yadm commit -m "CUPS"
+cd .mailcap
+cat .mailcpa
+cat .mailcap 
+cd .matlab/
+ls
+cd R2017a_licenses/
+ls
+...
+cd
+du -sh .matlab/
+yadm add .matlab/
+yadm rm --cached -r .matlab/
+cd .matlab/
+ls
+..
+yadm encrypt
+vim .mime.types 
+yadm add .nload 
+yadm commit -m "nload"
+du -sh .password-store/
+cd .pki
+ls
+..
+cd .public_html/
+ls
+..
+cat .selected_editor 
+yadm add .xbindkeysrc 
+yadm commit -m "XBindKeys"
+yadm encrypt
+yadm add .yadm/encrypt 
+yadm status
+yadm add .yadm/files.gpg 
+yadm status
+yadm commit -m "Updated encrypted files"
+man git-commit
+yadm status
+man git-commit
+yadm commit -a -m "Update all"
+yadm push -u origin master
+du -sh .local
+yadm rm --cached -r .local/
+yadm commit -m "Removed .local (too large)"
+yadm push -u origin master
+yadm push -u vn master
+exit
+ls ^.
+ll -a | grep -e ^.
+ll -a | grep -e ^\.
+ll -a | grep -e ^\d
+ll -a | awk '{ print $0 }'
+ll -a | awk '{ print $9 }'
+ll -a | awk '{ print $9 }' | grep -e ^\.
+ll -a | awk '{ print $9 }' | grep -e ^.
+ll -a | awk '{ print $9 }' | grep -e ^d
+ll -a | awk '{ print $9 }' | grep -e ^\.
+ll -a | awk '{ print $9 }' | grep -e \.
+ll -a | awk '{ print $9 }' | grep -e \h
+ll -a | awk '{ print $9 }' | grep -e \d
+ll -a | awk '{ print $9 }' | grep -e .
+ll -a | awk '{ print $9 }' | grep -e \.
+ll -a | awk '{ print $9 }' | grep -e "\."
+ll -a | awk '{ print $9 }' | grep -e "^\."
+ll -a | awk '{ print $9 }' | grep -e "^\." | less
+type grep
+ll -a | awk '{ print $9 }' | grep -e "^\." --color=no
+ll -a | awk '{ print $9 }' | grep -e "^\." --color=no | less
+exit
+groups
+lxc image list
+sudo lxd init
+lxc image list
+lxc image list images:
+lxc remote list
+lxc image list images:
+lxc image list images: amd64 ubuntu
+lxc image list images: amd64 arch
+rxg ibafe
+lxc image list
+lxc image copy images:archlinux local:
+lxc image list
+lxc launch local:e3ccc513fc2c myarch
+lxc list
+lxc exec myarch pwd
+lxc exec myarch ls /
+lxc exec myarch bash
+lxc list
+lxc info myarch
+lxc exec myarch -- sudo --login --user arch
+exit
+ip link
+ip addr
+exit
+vpn
+rm -rf Misc/qownnotes/
+ps aux | grep wine
+pulsemixer 
+pass -c linkedin.com 
+pass -c2 linkedin.com 
+pass -c linkedin.com 
+pass edit linkedin.com 
+pass -c linkedin.com 
+pass -c hubbinash@gmail.com 
+ps aux | grep -i gravit
+lsblk
+sudo umount /dev/sdb1
+df
+yadm commit -a -m "Update $(date +%d-%m-%y %H:%M)"
+yadm commit -a -m "Update $(date +%d-%m-%y\ %H:%M)"
+yadm push -u origin master
+yadm push -u vn master
+tasks
+vim Misc/my.ledger 
+snap list
+snap info gnome-mines
+gnome-m
+gnome-mines
+exit
+lxc image list
+exit
+groups
+exit
+cd Documents/Howtos/
+o bash_colors.png 
+exit
+groups
+lxc file push .bashrc myubuntu/home/ubuntu/
+lxc exec myubunut -- sudo --login --user ubuntu
+lxc exec myubuntu -- sudo --login --user ubuntu
+df -h
+exit
+lxc file push .bashrc myubuntu/home/ubuntu/
+newgrp lxd
+exit
+man useradd
+exit
+lxc exec myubuntu -- sudo --login --user ubuntu
+lxc file pull myubuntu/home/ubuntu/.bashrc ./Misc/bashrc-myubuntu-lxd
+vim Misc/bashrc-myubuntu-lxd 
+lxc list
+lxc exec myfedora bash
+lxc exec myfedora -- sudo --login --user hubbi
+exit
+tail .bashrc
+lxc exec myubuntu -- sudo --login --user ubuntu
+nwgrp lxd
+newgrp lxd
+groups
+exit
+lxc list
+lxc stop myfedora
+lxc list
+lxc rm myfedora
+lxc list
+lxc image list
+exit
+o Documents/Howtos/bash_colors.png 
+exit
+source .bashrc
+exit
+newgrp lxd
+groups
+vim .bashrc
+source .bashrc
+vim .bashrc
+source .bashrc
+vim .bashrc
+exit
+lxc exec myubuntu -- sudo --login --user ubuntu
+exit
+newgrp lxd
+exit
+lxc file pull myubuntu/home/hubbi/.bashrc Misc/bashrc-myubuntu-lxd 
+sudo lxc file pull myubuntu/home/hubbi/.bashrc Misc/bashrc-myubuntu-lxd 
+sudo usermod -a -G lxd hubbi
+exit
+groups
+apup
+accio zfsutils-linux
+sudo lxd init
+lxc list
+lxc image list ubuntu:
+lxc image list ubuntu: amd64 16.04
+lxc launch ubuntu:x myubuntu
+lxc list
+ip link
+ip addr
+lxc exec myubuntu bash
+lxc list
+lxc launch archlinux myarch
+lxc image list
+lxc image list arch:
+lxc image list archlinux:
+lxc image list images: amd64 arch
+lxc image list images: amd64 fedora
+lxc launch images:fedora/27 myfedora
+lxc list
+lxc exec myubuntu -- sudo --login --user ubuntu
+lxc list
+lxd lst
+lxd lxst
+lxd list
+sudo lxd list
+lxc list
+curl http://10.151.95.166
+lxc list
+lxc exec myubuntu -- sudo --login --user ubuntu
+exit
+apup
+apt list --upgradable
+apgrade
+ssh vn
+locate libnss3.so
+evince
+type zotero
+cd Software/zotero/
+ls
+ll
+locate libnss3.so
+cp /usr/lib/firefox/libnss3.so .
+ll libnss.*
+ll libnss*
+ll libnss3*
+zotero 
+locate libnssutil3.so
+cp /usr/lib/firefox/libnssutil3.so .
+zotero 
+cd
+cd Music/
+ls
+cd
+pass -c asiapharm3/cpanel 
+task
+task 14 done
+task
+ls Downloads/*php
+rm Downloads/user_profile\(1\).php 
+cd $itb
+cd Fakultas/Projects/Asia\ Pharm\ 3/Website/
+ls
+..
+ls
+cd Website/
+ls
+cd assets/
+ls
+..
+cd material/
+ls
+..
+mkdir scripts
+cd scripts/
+mv ~/Downloads/*php .
+ls
+cd
+tm sum
+tm start 15min ago ITB "ITB/Research"
+tm stop
+tm start ITB "ITB/AsiaPharm3"
+pass -c asiapharm3/cpanel 
+task
+task 14 done
+task
+tm stop
+snap list
+sudo snap remove chromium
+sudo snap remove snapcraft
+speed-test 
+tasksel
+accio tasksel
+man tasksel
+apt search tilix
+accio tilix
+apt purge tilix
+sudo apt purge tilix
+sudo apt autoremove
+apt search hyperjs
+apt search arc-gtk-theme
+apt search arc-theme
+accio arc-theme
+apt search adapta-nokto
+apt search adapta
+sudo apt-add-repository ppa:tista/adapta
+accio adapta-gtk-theme
+watch "ps aux | grep firefox"
+cd Misc/Linux_Apps/
+ls
+cd ../Themes/
+ls
+cd ../Linux_Apps/
+..
+mv Linux_Apps/ linux_apps
+cd linux_apps/
+vim software.list 
+cd
+accio tilix
+cd .config/tilix
+cd .config/
+mkdir tilix
+cd tilix/
+mkdir schemes
+cd
+wget -qO $HOME"/.config/tilix/schemes/belafonte-day.json" https://git.io/v7Q25
+sudo apt purge tilix
+task
+tasks
+task
+tm sum
+pass -c2 ubuntu 
+accio sshfs
+vainfo
+accio vainfo
+vainfo
+sudo snap install stress-ng
+man stress-ng
+apt search stress-ng
+stress-ng -h
+stress-ng -h | grep video
+sudo snap remove stress-ng
+task
+task add tag:ITB project:Academic Nilai MK Epidemiologi
+task 
+task 15 modify due:tomorrow
+task
+task 15 start
+task
+man ubuntu-bug
+ubuntu-bug display
+man ubuntu-bug
+ubuntu-bug
+ubuntu-bug gnome
+ubuntu-bug gnome-desktop
+pass -c asiapharm3/cpanel 
+pass -c steam 
+sudo dd if=/dev/urandom of=./abstrak.docx bs=1k count=18
+sudo rm abstrak.docx 
+proxyon2
+task
+cd Software
+ls
+cd gaussian/
+ls
+cd bin/
+ls
+gmx
+g09
+..
+rm -rf *
+cd ~/Misc/Computational\ Chemistry/Gaussian/unix/temp/
+ls
+cd tar/
+ls
+cd
+mkdir temp
+cd temp
+ls
+cd
+vim .bin/mysoftwares 
+source .basharc
+source .bashrc
+vim .bin/mysoftwares 
+source .bashrc
+g09
+sudo umount temp
+rm -r temp
+g09 -h
+type gmx
+task
+tm start ITB "ITB/Academic"
+tm stop
+tm sum
+gimp Downloads/Backup\ Architecture.jpg 
+mv Downloads/Backup\ Architecture.jpg Misc/Backup\ Architecture.jpg 
+o Misc/Backup\ Architecture.jpg 
+proxyoff
+cd Misc/linux_apps/
+ls
+git clone https://github.com/lutris/lutris.git
+ls
+vim software.list 
+cd lutris/
+ls
+less INSTALL.rst 
+..
+vim software.list 
+cd
+lsb_release -sr
+ver=$(lsb_release -sr); if [ $ver != "18.04" -a $ver != "17.10" -a $ver != "17.04" -a $ver != "16.04" ]; then ver=18.04; fi
+echo $ver
+echo "deb http://download.opensuse.org/repositories/home:/strycore/xUbuntu_$ver/ ./" | sudo tee /etc/apt/sources.list.d/lutris.list
+wget -q http://download.opensuse.org/repositories/home:/strycore/xUbuntu_$ver/Release.key -O- | sudo apt-key add -
+apup
+apt list --upgradable
+accio lutris
+apgrade
+pass add -m romulation.net
+pass rm romulation.net 
+pass generate -n romulation.net 20
+pass -c romulation.net 
+pass edit romulation.net 
+cd Misc/lutris/Games/
+ls
+cd
+mv Downloads/Pokemon\ -\ Fire\ Red\ Version\ \(U\)\ \(V1.1\).zip .
+unzip Pokemon\ -\ Fire\ Red\ Version\ \(U\)\ \(V1.1\).zip 
+rm Pokemon\ -\ Fire\ Red\ Version\ \(U\)\ \(V1.1\).zip
+apt search libcg
+accio libcg
+tm start 21:44 ITB "ITB/AsiaPharm3"
+tm stop
+tm sum
+mount-private 
+umount-private 
+mv Downloads/cerqueira2015.pdf /home/hubbi/Documents/Postgraduate/Research/Articles/Virtual\ Screening/
+mv Downloads/fchem-06-00014.pdf /home/hubbi/Documents/Postgraduate/Research/Articles/Virtual\ Screening/
+mount-private 
+keyctl link @u @s
+mount-private 
+umount-private 
+task
+pass -c asiapharm3/cpanel 
+pass -c asiapharm3/wp-admin 
+tm start 10min ago ITB "ITB/Academic"
+cd "/home/hubbi/Documents/Work/ITB/KK Farmakologi & Farmasi Klinik/Kuliah/Epidemiologi & Kesmas/PBL"
+ll
+touch -t 201805231745 Nilai\ PBL\ 2018.xlsx 
+ll
+cd
+task
+task 15 done
+tm stop
+mv Downloads/Backup\ Architecture.jpg Misc/Backup\ Architecture.jpg 
+gimp Misc/Backup\ Architecture.jpg 
+speed-test 
+snap list
+snap info speed-test
+snap info core
+snap find zotero
+sudo snap install slack-term
+sudo snap install qownnotes
+qown
+qownnotes 
+cd snap
+ls
+rm -rf slack-term/
+sudo snap remove qownnotes
+sudo snap install gravit-designer
+gravit-designer
+ls
+cd
+snap list
+task
+task 4 start
+task 4 modify due:tomorrow
+task 5 modify due:2018-06-03
+task 6 modify due:2018-07-01
+task
+taskl
+task 12 delete
+taskl
+task 12 done
+taskl
+task add tag:ITB project:Research Machine Learning VS - Literature Review
+taskl
+accio steam
+snap find alacritty
+snap find ledger
+apt show ledger
+accio ledger
+ledger
+man ledger
+type ledger
+ledger balance
+ledger bal
+ledger bal ^inc ^exp
+man ledger
+snap find mines
+sudo snap install gnome-mines
+sudo snap remove gnome-mines
+snap list
+sudo snap install gnome-mines
+sudo snap remove gnome-mines
+pass -c indodax.com 
+snap find alacritty
+accio alacritty
+apt search alacritty
+apt search terminator
+accio terminator
+apt purge terminator
+sudo apt purge terminator
+mount-private 
+cd Misc/Private/
+ls
+cd 
+task
+umount-private 
+snap find --section=server
+accio lxd
+newgrp lxd
+ip list
+ip addr
+lxc list
+sudo lxc list
+lxc list
+sudo lxc stop myarch
+sudo lxc list
+sudo lxc delete myarch
+sudo lxc list
+lxc images
+lxc image list
+sudo lxc image list
+proxyoff
+proxyon2
+task
+sudo lxc list
+sudo lxc images list
+sudo lxc image list
+sudo lxc image list images:
+proxyoff
+sudo lxc image list images:
+sudo lxc list
+sudo lxc image list
+sudo lxc image list images: amd64 arch
+sudo lxc launch images:archlinux myarch
+sudo lxc list
+sudo lxc exec myarch /bin/bash
+ifconfig lxcbr0
+ip link
+ifconfig lxdbr0
+sudo lxc exec myarch bash
+sudo lxc list
+sudo dpkg-reconfigure lxc
+sudo dpkg-reconfigure lxd
+lxc list
+sudo lxc list
+sudo lxc stop myarch
+sudo lxc rm myarch
+sudo lxc list
+sudo apt remove --purge lxd
+accio lxd
+groups
+sudo usermod -aG lxd hubbi
+newgrp lxd
+exit
+lxc file pull myubuntu/home/hubbi/.bashrc ./Misc/bashrc-myubuntu-lxd 
+lxc list
+lxc file pull myubuntu/home/ubuntu/.bashrc ./Misc/bashrc-myubuntu-lxd 
+cat Misc/bashrc-myubuntu-lxd 
+lxc list
+apt search neofetch
+neofetch 
+ls -a
+cd .config/lxc/
+ls
+cat config.yml 
+cd
+man lxc
+lxc -h
+lxc config
+lxc config show
+lxc config get
+lxc config get myubuntu
+lxc config get myubuntu:
+lxc -h
+lxc storage
+lxc storage show
+lxc storage info
+lxc storage list
+lxc storage show default
+lxc -h
+lxc network list
+lxc info myubuntu
+vim .bashrc
+exit
+groups
+newgrp lxd
+exit
+lxc config set ubuntu-01 raw.idmap "both $UID 1000"
+exit
+newgrp lxd
+exit
+users
+exit
+man groupadd
+exit
+sudo lxc file push /etc/sudoers myfedora/etc/sudoers
+exit
+accio espeak
+espeak "Hello, world! Good afternoon Mr. Bond"
+espeak "Hubbi Nashrullah Muhammad"
+espeak 
+espeak -h
+espeak -p 30 -s 150 "Hello, world! Good afternoon Mr. Bond"
+espeak -p 30 -s 150 "Hello, world! Good afternoon Mr. Bond" --ipa
+espeak -p 30 -s 150 "Hello, world! Good afternoon Mr. Bond" --ipa=2
+espeak -p 30 -s 150 "Hello, world! Good afternoon Mr. Bond" --ipa=2 --stdout
+espeak -p 30 -s 150 "Hello, world! Good afternoon Mr. Bond" --ipa=2 
+echo "Hello" | espeak
+fortune
+accio fortune-mod
+fortune 
+fortune | espeak -p 30
+fortune | espeak -p 30 -s 160
+fortune | espeak -p 30 -s 160 --ipa
+exit
+lxc list
+proxyon2
+cd $itb
+ls
+cd Fakultas/Projects/
+ls
+cd
+tm
+tm start 12:00 ITB "ITB/AsiaPharm3"
+pass -c asiapharm3/wp-admin 
+cd $itb
+cd Fakultas/Projects/Asia\ Pharm\ 3/Abstracts/
+ls
+mkdir FINAL
+cd FINAL/
+ls
+mkdir "3 Poster"
+cd 3\ Poster/
+mv ~/Downloads/Abstract_117069_Elin\ Julianti.docx .
+cd
+proxyoff
+pass -c asiapharm3/cpanel 
+lxc list
+lxc image list
+lxc image list images: amd64 arch
+lxc launch images:archlinux myarch
+lxc list
+lxc exec myarch bash
+lxc list
+lxc images list
+lxc image list
+lxc launch images:fedora/27 myfedora
+lxc list
+lxc exec myfedora bash
+lxc exec myfedora -- sudo --login -u hubbi
+lxc exec myfedora bash
+lxc exec myfedora -- sudo --login -u hubbi
+lxc exec myfedora bash
+lxc exec myfedora -- sudo --login -u hubbi
+lxc exec myfedora bash
+lxc exec myfedora -- sudo --login -u hubbi
+exit
+source .bashrc
+newgrp lxd
+exit
+vpn
+exit
+lxc exec myubuntu -- sudo --login -u ubuntu
+lxc list
+lxc image list
+lxc run local:08bbf441bb73 ubuntu-01
+lxc launch local:08bbf441bb73 ubuntu-01
+lxc list
+lxc exec ubuntu-01 -- sudo --login -u ubuntu
+lxc restart ubuntu-01 
+lxc info --show-log ubuntu-01 
+lxc list
+lxc delete ubuntu-01 
+lxc list
+lxc launch ubuntu:x guiapps
+lxc list
+lxc exec guiapps -- sudo --login -u ubuntu
+echo "root:$UID:1" | sudo tee -a /etc/subuid /etc/subgid
+lxc config set guiapps raw.idmap "both $UID 1000"
+lxc restart guiapps 
+lxc list
+lxc exec guiapps -- sudo --login -u ubuntu
+lxc config device add guiapps X0 disk path=/tmp/.X11-unix/X0 source=/tmp/.X11-unix/X0 
+lxc config device add guiapps Xauthority disk path=/home/ubuntu/.Xauthority source=${XAUTHORITY}
+echo $XAUTHORITY 
+lxc config device add guiapps mygpu gpu
+lxc config device add guiapps mygpu uid 1000
+lxc config device set guiapps mygpu uid 1000
+lxc config device set guiapps mygpu gid 1000
+lxd --version
+lxc exec guiapps -- sudo --login -u ubuntu
+accio paprefs
+ip show
+ip link show
+ip addr
+paprefs 
+lxc exec guiapps -- sudo --login -u ubuntu
+lxc config device add guiapps PACookie disk path=/home/ubuntu/.config/pulse/cookie source=/home/$(USER)/.config/pulse/cookie
+lxc config device add guiapps PACookie disk path=/home/ubuntu/.config/pulse/cookie source=/home/hubbi/.config/pulse/cookie
+lxc exec guiapps -- sudo --login -u ubuntu
+vim .config/pulse/cookie 
+lxc exec guiapps -- sudo --login -u ubuntu
+lxc list
+lxc stop guiapps
+lxc list
+lxc exec myubuntu -- sudo --login -u ubuntu
+lxc list
+lxc stop myarch
+lxc delete myarch
+lxc list
+aprem --purge paprefs
+lxc list
+lxc config get
+lxc config get core.https_address
+lxc config get myubuntu core.https_address
+lxc profile list
+lxc config show myubuntu
+lxc snapshot myubuntu myubuntu-snap-1
+lxc list
+lxc info myubuntu
+lxc config get myubuntu limits.cpu
+lxc config set myubuntu limits.cpu 2
+lxc config get myubuntu limits.cpu
+lxc config set myubuntu limits.cpu
+lxc config set myubuntu limits.memory 2GB
+lxc config
+lxc config edit myubuntu 
+groups
+exit
+lxc exec myubuntu -- sudo --login -u ubuntu
+lxc list
+groups
+exit
+nautilus .
+exit
+nautilus .
+exit
+lxc list
+newgrp lxd
+vim .bashrc
+source .bashrc
+echo $DIGITALOCEAN_TOKEN 
+groups
+exit
+cd /media/hubbi/My\ Book/
+ncdu .
+exit
+acpi
+acpi -b | grep -P -o
+acpi -b | grep -P -o [0-9]+(?=%)'
+acpi -b | grep -P -o [0-9]+(?=%)
+acpi -b
+battery_level="acpi -b | grep -P -o [0-9]+(?=%)"
+echo $battery_level 
+battery_level=`acpi -b | grep -P -o [0-9]+(?=%)`
+echo $battery_level 
+battery_level=`acpi -b | grep -P -o [0-9]+(?=%) | awk '{ print $1 }'`
+echo $battery_level 
+echo $battery_level | awk '{print $1}'
+battery_level=`echo $battery_level | awk '{print $1}'`
+echo $battery_level 
+acpi -b | grep -P -o [0-9]+(?=%)
+acpi -b | grep -P -o [0-9]+(?=%) | awk '{if (NR=1) print "haha"; print $0}'
+acpi -b | grep -P -o [0-9]+(?=%) | awk '{if (NR==1) print "haha"; print $0}'
+acpi -b | grep -P -o [0-9]+(?=%) | awk '{if (NR==1) print $0;}'
+notify-send "battery is above 80%!"
+notify-send "battery is above 80%!" "Charging"
+notify-send 
+notify-send a
+exit
+cd .bin
+ls
+tail ~/Misc/battery_condition 
+vim ~/Misc/battery_condition 
+vim battery_notification.sh 
+./battery_notification.sh 
+vim battery_notification.sh 
+./battery_notification.sh &
+cat battery_notification.sh 
+notify-send "Hello"
+fg
+bg
+exit
+cat Misc/bashrc-myubuntu-lxd 
+exit
+man sudo
+exit
+lxc exec myubuntu -- sudo --login -u ubuntu
+exit
+lxc exec myubuntu cat /home/ubuntu/.bashrc
+sudo lxc exec myubuntu cat /home/ubuntu/.bashrc
+sudo lxc exec myubu
+newgrp lxd
+exit
+lxc list
+lxc stop myfedora
+lxc list
+lxc image list remote
+lxc image list local
+lxc image list local:
+lxc image list images: amd64
+lxc lxst
+lxc list
+lxc image local:
+lxc image local
+lxc image list local
+lxc image list local:
+lxc launch 
+lxc launch images:archlinux myarch
+lxc list
+lxc exec myarch bash
+lxc exec myarch -- sudo --login -u hubbi
+lxc file push Misc/bashrc-myubuntu-lxd myarch/home/hubbi/.bashrc
+lxc exec myarch -- sudo --login -u hubbi
+lxc exec myarch bash
+lxc exec myarch -- sudo -iu hubbi
+lxc exec myarch bash
+lxc exec myarch -- sudo -iu hubbi
+lxc list
+lxc exec myarch -- sudo -iu hubbi
+exit
+cd .bin
+ls
+cat mopidy_setup.sh 
+rm mopidy_setup.sh 
+cat feh_browser.sh 
+cat steam_startup.sh 
+rm steam_startup.sh 
+cat powertop_startup.sh 
+rm powertop_startup.sh 
+ls
+cat plot_battery.sh 
+cd
+tail Misc/battery_charge 
+task
+task add tag:STFB project:KTI Revise Pendahuluan dan Metode Hana
+task add tag:STFB project:KTI Revise Pendahuluan dan Metode Puji
+task 14 modify due:today
+task 15 modify due:today
+task
+task 14 15 start
+task
+task 4 stop
+task
+task 14 15 done
+task
+tasks
+tms
+lxc list
+newgrp lxd
+exit
+lxc list
+lxc exec myubuntu -- sudo --login -u ubuntu
+man dhcpcd
+dhcpcd
+lxc list
+exit
+wget -qO $HOME"/.config/tilix/schemes/3024-day.json" https://git.io/v7QVI
+rm -rf .config/tilix/
+tmux attach
+gf
+fg
+proxyon2
+steam
+exit
+proxyon2
+pass -c asiapharm3/wp-admin 
+pass -c asiapharm3/cpanel 
+tm sum
+tm start 10:40 ITB "ITB/Academic"
+tm stop 12:15
+tm tags
+tm start 12:30 STFB "STFB/Bimbingan"
+tm stop
+tm sum
+tm week
+pass -c asiapharm3/cpanel 
+proxyoff
+rm reminder.csv 
+proxyoff
+./.bin/battery_notification.sh &
+exit
+du -sh 1.mpeg 
+mpv 1.mpeg 
+exit
+lxc exec myubuntu vim /home/ubuntu/.bashrc
+lxc exec myubuntu cat /home/ubuntu/.bashrc
+exit
+lxc exec myubuntu -- sudo --login -u ubuntu
+exit
+vpn
+exit
+cd .ssh
+ls
+exit
+pass -c asiapharm3/wp-admin 
+pass -c asiapharm3/cpanel 
+ip addr
+speed-test 
+pip
+speed-test 
+pip3
+cd Documents/Howtos/
+ls | grep tunnel
+less ssh_tunneling.txt 
+exit
+ssh vn
+exit
+ssh vn
+exit
+sexit
+exit
+vim .inputrc 
+vim .bin/myaliases 
+source .bashrc
+rsync Misc/bashrc-myubuntu-lxd vn:~/
+ssh vn
+exit
+ssh vn
+exit
+ssh vn
+ls
+exit
+ssh vn
+exit
+ssh vn
+exit
+man tar
+man gzip
+ssh vn
+exit
+accio bzip2
+exit
+ssh hubbi@toconquer.space -p 9796 -i .ssh/toconquer.space
+ssh hubbi@toconquer.space -p 9796 -i .ssh/toconquer.space -vvv
+ssh vn
+speed-test 
+cd Misc/Computational\ Chemistry/Gaussian/unix/
+ls
+cd gauss
+ls
+..
+sudo mount ./Gaussian09D_Intel.iso ./gauss -o rw,uid=1000
+cd gauss/
+ls
+less README.binary 
+cd
+man gzip
+man bzip2
+man gzip
+exit
+ssh vn
+exit
+cd Misc/Computational\ Chemistry/Gaussian/unix/
+ls
+cd gauss/
+ls
+less README.binary 
+exit
+cd Misc/Computational\ Chemistry/Gaussian/unix/
+ls
+sudo umount gauss
+exit
+cat .inputrc 
+exit
+cd snap/timew-spirotot/current
+ls
+cd .timewarrior/
+ls
+cd data
+ls
+vim 2018-06.data 
+exit
+ssh vn
+exit
+ssh vn
+exit
+ssh vn
+exit
+ssh vn
+exit
+ssh vn
+exit
+ssh vn
+exit
+ssh vn
+ssh gitvn
+exit
+cd Misc/Computational\ Chemistry/gromacs/
+ls
+exit
+man modprobe
+less /proc/modules 
+exit
+cd $res
+cd Computation/top2a_etoposide/
+ls
+cd md
+ls
+cd monopyp/
+ls
+du -sh .
+..
+cd monoimp/
+ls
+cd ..
+find . -iname c_box.gro
+cd bispyp/
+ls
+type rsync
+rsync -cz f_em.* vn:~/temp/
+rsync -cz mdptpr/*mdp vn:~/temp/
+rsync -cz posre_* vn:~/temp/
+rsync -cz topol* vn:~/temp/
+ls
+gmx make_ndx -f f_em.gro -o index.ndx -
+gmx make_ndx -f f_em.gro -o index.ndx
+rsync -cz index.ndx vn:~/temp/
+exit
+lxc list
+lxc exec myubuntu -- sudo --login -u ubuntu
+exit
+cd Misc/Private/
+ls
+nautilus CELEBS/
+nautilus Clover/
+cd
+umount-private 
+cd -
+ls
+cd
+exit
+cd snap/timew-spirotot/current/.timewarrior/
+ls
+vim data/2018-06.data 
+exit
+watch -n 1 "dmesg | tail"
+exit
+htop
+exit
+cd Images/
+ls
+exit
+vpnitb
+exit
+rclone sizu Images/Phone\ Camera/
+rclone size Images/"Phone Camera"
+exit
+vim
+ls -a
+ll .v*
+ll -a
+rm -rf .SpaceVim
+rm .vim
+cp -R .vim.sunaku/ .vim/
+vim
+exit
+cd Images/
+rclone size Phone
+rclone size Phone\ Camera/
+exit
+cd Images/
+ls
+exit
+ps aux | grep steam
+man rsync
+speed-test 
+cd Misc/linux_apps/
+mkdir geotag
+cd geotag/
+mv ~/Downloads/geotag-0.103.jar .
+vim ../software.list 
+ls
+java
+apup
+accio default-jre exiftool
+man exiftool 
+ls
+java -jar geotag-0.103.jar 
+java -Xmx256M -jar geotag-0.103.jar 
+cd
+exit
+cd Documents/Howtos/
+ls *
+ls * | grep bash
+vim bash_options.txt 
+exit
+aaa=$(exiftool IMG_20180618_124511.jpg | grep "GPS Position")
+cd Images/Phone/Batu/
+aaa=$(exiftool IMG_20180618_124511.jpg | grep "GPS Position")
+echo $aaa 
+exit
+cd Images/Phone/Batu/
+vim test_gps.sh
+chmod +x test_gps.sh 
+vim test_gps.sh
+mv test_gps.sh test_no_gps.sh
+vim test_no_gps.sh 
+exit
+cd Images/Phone/Batu/
+exiftool IMG_20180617_231543_HHT.jpg | grep GPS
+exiftool IMG_20180617_23156.jpg | grep GPS
+exiftool IMG_20180617_231556.jpg | grep GPS
+exiftool IMG_20180617_201710.jpg | grep GPS
+exiftool IMG_20180617_120244.jpg | grep GPS
+exiftool IMG_20180617_120443.jpg | grep GPS
+exiftool IMG_20180617_125339.jpg | grep GPS
+exit
+cd Images/Phone/Batu/
+o IMG_20180617_231600.jpg 
+o IMG_20180618_110223.jpg 
+o IMG_20180618_110229.jpg 
+o IMG_20180618_131113.jpg 
+o IMG_20180618_211939.jpg 
+o IMG_20180618_131113.jpg 
+o IMG_20180618_110223.jpg 
+ls IMG_20180618_1*
+for i in 1,2,3,a,hello; do echo $i; done
+for i in 1 2 3 a hello; do echo $i; done
+for i in IMG_20180618_110223.jpg IMG_20180618_110229.jpg IMG_20180618_113340.jpg IMG_20180618_113342.jpg IMG_20180618_113348.jpg IMG_20180618_113351.jpg IMG_20180618_124454.jpg IMG_20180618_124459.jpg IMG_20180618_124523_HHT.jpg IMG_20180618_124529_HHT.jpg IMG_20180618_124615.jpg IMG_20180618_124705_HHT.jpg IMG_20180618_124718_HHT.jpg IMG_20180618_124813.jpg IMG_20180618_124925_HHT.jpg IMG_20180618_124930_HHT.jpg IMG_20180618_124935_HHT.jpg IMG_20180618_124939_HHT.jpg IMG_20180618_125247.jpg IMG_20180618_125256_HHT.jpg IMG_20180618_130934.jpg IMG_20180618_130935.jpg IMG_20180618_130937.jpg IMG_20180618_131112.jpg IMG_20180618_131113.jpg; do exiftool -GPSLongitudeRef=E -GPSLongitude=112.529586 -GPSLatitudeRef=S -GPSLatitude=7.888364 $i; done
+for i in IMG_20180617_120244.jpg IMG_20180617_120443.jpg IMG_20180617_120449.jpg IMG_20180617_124858.jpg IMG_20180617_132246.jpg; do exiftool -GPSLongitudeRef=E -GPSLongitude=112.528419 -GPSLatitudeRef=S -GPSLatitude=7.826925 $i; done
+ls *original
+rm *original
+ls
+exit
+cd Images/Phone/batu
+cd Images/Phone/Batu/
+./test_gps.sh 
+./test_no_gps.sh 
+o IMG_20180618_211939.jpg 
+o IMG_20180618_214006_HHT.jpg 
+exiftool IMG_20180618_214006_HHT.jpg | grep GPS
+./test_no_gps.sh 
+exit
+watch -n 1 "dmesg | tail"
+exit
+pass -c me@hubbinash.org 
+exit
+df
+ncdu
+du -sh .Private/
+exit
+ls
+mpv Bandung.mpg 
+ls
+exit
+ls
+exit
+mount-private 
+cd Misc/Private/
+ls
+mkdir SUTISNA
+cd SUTISNA/
+rsync /media/hubbi/eMovies/Atr ./
+du -sh .
+ls
+cd Atr/
+ncdu
+du -sh .
+ncdu
+ls
+du -sh .
+ls
+du -sh .
+..
+rm -rf Atr/
+
+ls
+rsync /media/hubbi/eMovies/eSutisna/TorrentDONE ./
+rsync /media/hubbi/eMovies/eSutisna/Compiler ./
+ls
+cd
+umount-private 
+exit
+lsblk
+cd /media/hubbi/eMovies/
+ls
+ncdu
+exit
+df
+watch -n 1 df
+watch -n 1 df -h
+df
+exit
+sudo rm lock 
+exit
+proxyon2
+sudo vim /etc/NetworkManager/system-connections/Hotspot\ SF 
+proxyon
+proxyon2
+proxyoff
+exit
+snap info wekan
+exit
+ssh vn
+exit
+curl toconquer.space:2018
+exit
+curl toconquer.space:2000
+curl toconquer.space:2018
+exit
+ssh vn
+exit
+ssh vn
+exit
+ssh vn
+exit
+cd Documents/Howtos/
+ls | grep iptab
+vim iptables_cheatsheet.txt 
+exit
+mount-private 
+cd Misc/Pr
+cd Misc/Private/
+ncdu
+cd
+umount-private 
+exit
+cd snap/timew-spirotot/current
+ls
+cd .timewarrior/
+ls
+cd data
+ls
+vim 2018-06.data 
+exit
+mkdir cetak
+cd cetak/
+mv ~/Downloads/IMG_1576.jpg .
+mv ~/Downloads/IMG_1730.jpg .
+mv ~/Downloads/IMG_1874.jpg .
+ls
+watch -n 1 "dmesg | tail"
+tm sum :week
+exit
+curl localhost:8080
+tm
+tm stop
+pass -c asiapharm3/wp-admin 
+tm start ITB "ITB/Academic"
+tm stop
+tm sum
+tm delete @1
+tm sum
+tm start ITB "ITB/AsiaPharm3"
+pass -c asiapharm3/cpanel 
+exit
+cd Images/Phone/Batu/
+ls
+mv ../test_no_gps.sh .
+./test_no_gps.sh 
+mv test_no_gps.sh ..
+ls
+mv * ..
+..
+rm -r Batu/
+..
+rclone size Phone
+rclone check Phone/ gdriveme:backups/direct/Images/Phone/
+rclone copy Phone/ gdriveme:backups/direct/Images/Phone/
+cd
+df
+ncdu
+exit
+pass gog.com 
+pass -c2 gog.com 
+pass -c gog.com 
+exit
+cd Misc/linux_apps/crossover/
+ls
+wget https://media.codeweavers.com/pub/crossover/cxlinux/demo/crossover_17.5.0-1.deb
+ls
+accio ./crossover_17.5.0-1.deb 
+exit
+proxyoff
+cd Downloads.old/videos/
+ls
+wget http://toconquer.space:1405/The.Graham.Norton.Show.s23e01.EN.SUB.HEVC.x265.WEBRIP.%5bMPup%5d/The.Graham.Norton.Show.s23e01.EN.SUB.HEVC.x265.WEBRIP.%5bMPup%5d.mkv
+wget "http://toconquer.space:1405/The.Graham.Norton.Show.S23E02.720p.HDTV.x264-worldmkv.mkv"
+wget "http://toconquer.space:1405/The.Graham.Norton.Show.s23e03.EN.SUB.HEVC.x265.WEBRIP.%5bMPup%5d/The.Graham.Norton.Show.s23e03.EN.SUB.HEVC.x265.WEBRIP.%5bMPup%5d.mkv"
+wget "http://toconquer.space:1405/The.Graham.Norton.Show.s23e04.EN.SUB.HEVC.x265.WEBRIP.%5bMPup%5d/The.Graham.Norton.Show.s23e04.EN.SUB.HEVC.x265.WEBRIP.%5bMPup%5d.mkv"
+wget "http://toconquer.space:1405/The.Graham.Norton.Show.S23E05.720p.HDTV.x264-worldmkv.mkv"
+wget "http://toconquer.space:1405/The.Graham.Norton.Show.S23E06.720p.HDTV.x264-worldmkv.mkv"
+wget "http://toconquer.space:1405/The.Graham.Norton.Show.S23E07.720p.WEB.x264-worldmkv.mkv"
+wget "http://toconquer.space:1405/The.Graham.Norton.Show.S23E08.720p.HDTV.x264-worldmkv.mkv"
+cd ../winapps/
+ls
+mkdir "Microsoft Office 2010 SP2 Pro Plus"
+cd Microsoft\ Office\ 2010\ SP2\ Pro\ Plus/
+wget "http://toconquer.space:1405/Microsoft%20Office%202010%20SP2%20Pro%20Plus%20VL%20X64%20MULTi-15%20NOV%202017%20%7bGen2%7d/Office14.X64.en-US.iso"
+ls
+mkdir mnt
+sudo mount ./Office14.X64.en-US.iso ./mnt/
+cd mnt
+ls
+..
+ls
+sudo umount ./mnt
+..
+cd -
+ls
+rm -r mnt/
+exit
+dstat
+accio dstat
+cd /var/lib/dpkg/
+ls
+sudo mv lock ~/
+accio dstat
+cd
+sudo mv /var/cache/apt/archives/lock .
+accio dstat
+dstat
+smem --pie=name
+snap find smem
+apt show smem
+snap info smem
+snap find smem
+sudo snap install smemstat
+accio smem
+smem --pie=name
+syst stop lxd
+syst disable lxd
+exit
+cd Misc/VirtualBoxVM/SHARED/Asia\ Pharm\ 3/
+o done.pdf 
+exit
+meson
+ninja
+proxyon2
+cd Misc/linux_apps/
+mkdir suru
+cd suru/
+accio meson
+..
+rm -r suru/
+git clone https://github.com/snwh/suru-icon-theme
+vim software.list 
+cd DO_TinFoil/
+ls
+less README.md 
+..
+vim software.list 
+tm
+exit
+cd /usr/share/icons/Suru/48x48
+ls
+cd apps/
+ls | grep firefox
+ll
+ls | grep firefox
+sudo rm firefox*
+..
+ls
+..
+ls
+vim index.theme 
+vim icon-theme.cache 
+sudo mv icon-theme.cache ~/
+ls
+sudo mv ~/icon-theme.cache .
+sudo mv icon-theme.cache ~/
+cd ../Papirus
+ls
+cd 64x64
+ls
+cd apps/
+ls | grep firefox
+cd ../../../Suru/
+ls
+cd 256x256
+ls
+cd apps/
+ls
+l
+ll
+..
+ls
+..
+ls
+cd scalable
+ls
+cd apps/
+ls
+..
+find . -iname gthumb
+find . -iname mpv
+find . -iname *gthumb*
+find . -iname *calc*
+cd ../Papirus
+ls
+cd 128x128/
+ls
+cd ../64x64
+ls
+cd apps/
+sudo cp firefox* ../../../Suru/256x256/apps/
+sudo cp thunderbird* ../../../Suru/256x256/apps/
+sudo cp calibre-* ../../../Suru/256x256/apps/
+sudo cp steam* ../../../Suru/256x256/apps/
+sudo cp mpv* ../../../Suru/256x256/apps/
+sudo cp spotify* ../../../Suru/256x256/apps/
+sudo cp slack.svg ../../../Suru/256x256/apps/
+sudo cp htop.svg ../../../Suru/256x256/apps/
+sudo cp gthumb.svg ../../../Suru/256x256/apps/
+sudo cp virtualbox* ../../../Suru/256x256/apps/
+exit
+speed-test 
+apup
+apt list --upgradable
+apgrade
+cd Documents/
+ll
+rm Desktop
+rm Downloads
+rm Music
+cd
+syst restart lxi
+syst restart lxd
+sys
+snap find brave
+apt show brave
+apt search brave
+sudo snap install brave
+pass -c2 chrono.gg 
+pass -c chrono.gg 
+pass -c humblebundle.com 
+pass -c steam 
+pass steam
+sudo snap install gog-galaxy-wine --edge
+pass -c2 gog.com 
+pass -c gog.com 
+snap list
+sudo snap remove gog-galaxy-wine
+snap list
+apt show crossover
+pass -c2 codeweavers.com 
+pass -c codeweavers.com 
+sudo apt remove --purge crossover
+pass -c2 codeweavers.com 
+pass -c codeweavers.com 
+accio virtualbox
+pass -c asiapharm3/cpanel 
+pass -c asiapharm3/wp-admin 
+proxyon
+proxyon2
+pass slack.com 
+proxyoff
+flatpak install flathub com.github.mdh34.hackup
+locate -i aller
+locate -i aller.ttf
+cd .fonts/
+ls
+find . -iname *aller*
+cd google-apache
+ls
+find . -iname *aller*
+find . -iname *lato*
+..
+cd google-ofl
+find . -iname *lato*
+find . -iname *aller*
+ls
+cd allerta
+ls
+cd ../allertastencil/
+ls
+cd
+proxyon2
+apup
+cn
+task
+task 14 done
+task
+task 13 done
+task
+task 13 done
+task undo 13
+task 13 undo
+task undo
+taskl
+task 13 start
+taskl
+task add tag:ITB project:"Asia Pharm 3" Print booklet
+task add tag:ITB project:"Asia Pharm 3" Print sertifikat indonesia
+task add tag:ITB project:"Asia Pharm 3" MY POSTER
+taskl
+task 13 modify due:2018-06-29
+task 14 15 modify due:tomorrow
+task 16 modify due:tomorrow
+taskl
+task 14 15 16 start
+taskl
+task
+cd $work
+cd AlfaLC/Students/Minkyu/Extended\ Essay/sources/
+mv ~/Downloads/opioid-addiction-disease-facts-figures.pdf .
+lt ~/Downloads/
+ls ~/Downloads/*pdf
+mv ~/Downloads/-\ Pharmacology\ and\ Physiology\ for\ Anesthesia\ \(2013\,\ Saunders\).pdf .
+mv "- Pharmacology and Physiology for Anesthesia (2013, Saunders).pdf" "Pharmacology and Physiology for Anesthesia.pdf"
+mv ~/Downloads/\[\]_Pharmacology_and_Physiology_for_Anesthesia\(b-ok.xyz\).pdf book.pdf
+o book
+o book.pdf 
+mv book.pdf "Pharmacology and Physiology for Anesthesia.pdf"
+tm
+tm sum
+tm stop
+tm sum
+proxyoff
+tm
+cd
+cd Misc/linux_apps/suru-icon-theme/
+ls
+ninja
+accio meson ninja-build
+mkdir ~/.themes/suru
+meson "build" --prefix=/home/hubbi/.themes/suru
+ninja -C "build" install
+cd ~/.themes/
+ls
+cd suru
+ls
+cd share/
+ls
+cd
+cd -
+ls
+cd icons/
+ls
+cd Suru/
+ls
+..
+mv Suru/ ~/.themes/
+cd ~/.themes/
+ls
+rm -r suru
+cd Suru/
+ls
+cd ..
+ls
+cd Zukitwo/
+ls
+..
+cd Suru/
+ls
+vim index.theme 
+..
+rm -rf Suru/
+cd ~/Misc/linux_apps/suru-icon-theme/
+ls
+meson "build" --prefix=/usr
+rm -rf build/
+meson "build" --prefix=/usr
+sudo ninja -C "build" install
+cd
+aprem ninja-build meson
+cd /usr/share/icons/
+ls
+cd Suru/
+ls
+..
+nautilus Suru/ &
+nautilus Papirus-Adapta-Nokto/ &
+cd Papirus-Adapta-Nokto/
+ll
+nautilus . &
+cd 48x48
+ls
+ll
+...
+cd ../..
+cd Papirus
+ls
+cd 48x48
+ls
+cd apps/
+ls
+ls | grep firefox
+cp firefox* ../../../Suru/48x48/apps/
+sudo cp firefox* ../../../Suru/48x48/apps/
+ls | grep thunderbird
+sudo cp thunderbird* ../../../Suru/48x48/apps/
+ls | grep calibre
+sudo mv calibre* ../../../Suru/48x48/apps/
+sudo cp ../../../Suru/48x48/apps/calibre-* .
+ls | grep calibre
+sudo cp ../../../Suru/48x48/apps/calibre-gui.svg .
+sudo mv ../../../Suru/48x48/apps/calibre-gui.svg .
+sudo cp calibre-* ../../../Suru/48x48/apps/
+ls | grep steam
+sudo cp steam* ../../../Suru/48x48/apps/
+ls | grep mpv
+sudo cp mpv* ../../../Suru/48x48/apps/
+ls | grep discord
+ls *discord*
+sudo copy *discord* ../../../Suru/48x48/apps/
+ls | grep spotify
+sudo copy *spotify* ../../../Suru/48x48/apps/
+ls | grep slack
+sudo copy *slack* ../../../Suru/48x48/apps/
+sudo cp *slack* ../../../Suru/48x48/apps/
+ls | grep htop
+o htop.svg 
+sudo copy htop.svg ../../../Suru/48x48/apps/
+sudo cp htop.svg ../../../Suru/48x48/apps/
+ls | grep gthumb
+sudo cp gthumb.svg ../../../Suru/48x48/apps/
+ls | grep virtualbox
+sudo cp virtualbox* ../../../Suru/48x48/apps/
+cd
+cd /usr/share/icons/Suru/
+ls
+sudo mv ~/icon-theme.cache .
+cd
+exit
+pass -c me@hubbinash.org 
+exit
+cd Misc/Private/SUTISNA/
+ls
+cd Compiler/
+ls
+ll
+cd _NEW_/
+ls
+..
+ls
+exit
+mount-private 
+cd Misc/Private/SUTISNA/
+ls
+cd Compiler/
+ls
+ll
+..
+chmod -R 644 ./
+sudo chmod -R 644 ./
+ls
+ll
+sudo chmod -R 755 ./
+cd Compiler/
+ls
+..
+ls
+..
+ls
+cd Other/
+ls
+cd ../..
+ls
+cd TorrentDONE/
+ls
+cd TeenyLovers\ Linda/
+ls
+..
+ls
+cd hn7.ntch3r12dvd.hnmovies_com/
+ls
+..
+ls
+cd X-Art/
+ls
+cd FAV/
+ls
+cd ../../..
+cd TorrentDONE/
+ls
+..
+ls
+cd Compiler/
+ls
+cd iX3/
+ls
+..
+rm -rf SUTISNA/
+cd
+umount-private 
+cd -
+ls
+cd
+exit
+cd "/home/hubbi/Audio/Music/artists/Muse/Muse - The 2nd Law (Deluxe Edition)"
+file 01\ Supremacy.mp3 
+exit
+cd Videos/Youtube/
+ls
+youtube-dl https://www.youtube.com/watch?v=Hg8Fa_EUQqY
+exit
+cd Audio/Music/artists/Vanessa\ Mae/
+ls
+cd Vanessa\ Mae\ -\ Unknown\ Year\ -\ Greatest\ Hits\ \[CD\ -\ FLAC\ -\ Lossless\]/
+ls
+cd CD1/
+ls
+file 01\ -\ Storm.flac 
+exiftool 01\ -\ Storm.flac 
+ls
+..
+cd ..
+ls
+cd Nightowl/
+ls
+cd Nightowl\ -\ Unknown\ Year\ -\ The\ View\ From\ the\ Top/
+ls
+exiftool sir_nightowl-the_view_from_the_top-01_genesis.mp3 
+..
+cd Muse/
+ls
+cd Muse\ -\ 2012\ -\ The\ 2nd\ Law\ \[320\]/
+ls
+exiftool 01\ Supremacy.mp3 
+..
+cd
+cd -
+cd Vanessa\ Mae/
+ls
+cd Vanessa\ Mae\ -\ 2008\ -\ Greatest\ Hits\ \[CD\ -\ FLAC\ -\ Lossless\]/
+ls
+cd CD1/
+ls
+mpv 01\ -\ Storm.flac 
+mpv 02\ -\ Toccata\ and\ Fugue\ in\ D\ Minor.flac 
+ls
+mpv 03\ -\ Sabre\ Dance.flac 
+mpv 04\ -\ Yantra.flac 
+mpv 05\ -\ Bach\ Street\ Prelude.flac 
+mpv 02\ -\ Toccata\ and\ Fugue\ in\ D\ Minor.flac 
+cd
+cd "/home/hubbi/Literature/Comics/Injustice Gods Among Us/Year Two"
+ls
+for i in $(ls); do ls $i; done
+for i in $(ls); do mv $i/* .; done
+ls
+exit
+cd $res
+cd Computation/
+ls
+cd drug_targets/
+ls
+cd KDM1A\ LSD1\ -\ lysine-specific\ histone\ demethylase\ 1/
+ls
+pymol 2dw4.pdb 
+ls
+mv 2dw4.png /home/hubbi/Documents/Work/ITB/Research/2018.1\ Machine\ Learning\ VS/images/
+ls
+cp * /home/hubbi/Documents/Work/ITB/Research/2018.1\ Machine\ Learning\ VS/images/
+exit
+cd Documents/Howtos/
+ls | grep grace
+gedit xmgrace_histograms.txt 
+exit
+cd $itb
+cd Research/2018.1\ Machine\ Learning\ VS/
+ls
+mkdir images
+cd images/
+ls
+pymol 2z3y.pdb 
+ls
+pymol 2dw4.pse 
+speed-test 
+ls
+pymol 2dw4.pse 
+ls
+pymol 2dw4.pse 
+ls
+pdb 2z3y.pdb 
+pymol 2z3y.pdb 
+ls
+pymol 3zn0.pdb 
+ls
+pymol 4uxn.pdb 
+pymol 5h6r.pdb 
+cd ../plots/
+ls
+xmgrace
+accio grace
+ls
+xmgrace docking_decoy.csv 
+bg
+ls
+xmgrace docking_actives.csv 
+2222222222222222222222222222222222222222222222222222222222222222222222222222222222
+exit
+cd $itb/
+cd Fakultas/Projects/Asia\ Pharm\ 3/
+ls
+cd Abstracts/
+ls
+proxyon2
+rclone sync gdrive:Work/ITB/Fakultas/Projects/"Asia Pharm 3"/Abstracts/"3 Final"/ ./3\ Final/
+exit
+proxyon2
+getpdb 2qmf
+rm 2qmf.pdb 
+cd $itb
+cd Research/2018.1\ Machine\ Learning\ VS/
+ls
+cd plots/
+ls
+xmgrace docking_decoy_hist.agr 
+cd
+exiftool Asia\ Pharm\ 3\ -\ Abstract\ Book.pdf 
+proxyoff
+exit
+pulsemixer 
+exit
+nautilus 
+nautilus .
+exit
+cd Interactive/Video\ Games/Emulation/
+ls
+wget https://the-eye.eu/public/rom/Sega%20Genesis/Shining%20Force%20%28U%29%20%5B%21%5D.bin
+cd ROMS/
+mkdir "Sega Genesis"
+cd Sega\ Genesis/
+mv ../../Shining\ Force\ \(U\)\ \[\!\].bin .
+ls
+wget https://the-eye.eu/public/rom/Sega%20Genesis/Shining%20Force%20II%20%28E%29%20%5B%21%5D.bin
+wget https://the-eye.eu/public/rom/Sega%20Genesis/Sonic%20the%20Hedgehog%20%28JUE%29%20%5B%21%5D.bin
+wget https://the-eye.eu/public/rom/Sega%20Genesis/Sonic%20the%20Hedgehog%202%20%28JUE%29%20%5B%21%5D.bin
+wget https://the-eye.eu/public/rom/Sega%20Genesis/Golden%20Axe%20%28JU%29%20%28REV%2000%29%20%5B%21%5D.bin
+wget https://the-eye.eu/public/rom/Sega%20Genesis/Earthworm%20Jim%202%20%28U%29.bin
+wget https://the-eye.eu/public/rom/Sega%20Genesis/Sonic%20%26%20Knuckles.bin
+ls
+exit
+vpn
+ssh vn
+pn
+vpn
+exit
+ping reddit.com
+curl reddit.com
+exit
+proxyon2
+cd $itb
+ls
+cd Misc/
+cd ../Surat\ Lain/
+ls
+cd ../Misc/
+ls
+cd Formulir\ K3L/
+ls
+rm ~/Downloads/Formulir-parkir-inap..docx 
+cd
+tm
+tm sum
+task
+task 14 done
+task
+task 16 done
+task 17 done
+task
+task 13 done
+task
+lsblk
+sudo umount /media/hubbi/FlashNexus 
+lsblk
+essful meetings, Asia Pharm I (2016) in Ho Chi Minh City,
+Vietnam, and Asia Pharm II (2017) in Seoul, South Korea, this
+conference program aims to further foster and stimulate international
+scientific exchange and collaboration.
+The purpose of performing Asia Pharm 3 are still consistent such as: (i) to build and
+strengthen international networking between researchers, institutions, as well as
+related industries; (ii) to share informati
+cd "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts"
+ls
+exiftool Asia\ Pharm\ 3\ -\ Abstract\ Book\ RC\ 1_final_secured.pdf 
+exiftool Asia\ Pharm\ 3\ -\ Abstract\ Book\ RC\ 1_final.pdf 
+ls
+proxyoff
+proxyon2
+tm
+tm sum :yesterday
+tm stop 2018-06-28T18:00
+tm sum :yesterday
+tm track 2018-06-28T18:30 - 2018-06-28T20:30
+tm sum :yesterday
+tm start ITB "ITB/ISNPM2018"
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+pass -c asiapharm3/cpanel 
+proxyoff
+proxyon
+
+proxyon2
+cd Misc/OS/
+ls
+mkdir Kubuntu
+cd Kubuntu/
+wget http://cdimage.ubuntu.com/kubuntu/releases/18.04/release/kubuntu-18.04-desktop-amd64.iso
+ls
+proxyoff
+exit
+rclone lsd gdriveme:backups/direct/Images/
+rclone size gdriveme:backups/direct/Images/Friends
+rclone copy Friends/ gdriveme:backups/direct/Images/Friends/
+rclone size gdriveme:backups/direct/Images/Friends
+exit
+rclone size Friends/
+exit
+cd /media/hubbi/My\ Book/
+ncdu
+cd
+exit
+rclone lsd gdriveme:backups/direct/Images/Adventure > a.list
+cat a
+cat a.list 
+cat a.list | awk '{ print $0}'
+cat a.list | awk '{ print $5}'
+cat a.list | awk '{ print $0}'
+cat a.list | awk '{ if (1) print $0; else $5}'
+cat a.list | awk '{ if (1) print $5; else $0}'
+cat a.list | awk '{ a = $NF - 1; print a}'
+cat a.list | awk '{ print $0}'
+cat a.list | awk '{ print NF }'
+cat a.list | awk '{ for (i=5; i==NF; i++) print $i }'
+cat a.list | awk '{ for (i=5; i<NF; i++) print $i }'
+cat a.list | awk '{ for (i=5; i<NF; i++) printf $i }'
+cat a.list | awk '{ for (i=5; i<NF; i++) printf $i; print "" }'
+cat a.list | awk '{ for (i=5; i<NF; i++) printf $i; print " " }'
+cat a.list | awk '{ for (i=5; i<NF; i++) printf $i printf " "; print " " }'
+cat a.list | awk '{ for (i=5; i<NF; i++) printf $i " "; print " " }'
+cat a.list | awk '{ print $0}'
+cat a.list | awk '{ for (i=5; i<=NF; i++) printf $i " "; print " " }'
+cat a.list | awk '{ for (i=5; i<=NF; i++) printf $i " "; print " " }' | sort
+rclone lsd gdriveme:backups/direct/Images/Family > a.list
+cat a.list | awk '{ for (i=5; i<=NF; i++) printf $i " "; print " " }' | sort
+rclone lsd gdriveme:backups/direct/Images/Friends > a.list
+cat a.list | awk '{ for (i=5; i<=NF; i++) printf $i " "; print " " }' | sort
+exit
+steam
+exit
+cd Interactive/Video\ Games/Emulation/ROMS/Sega\ Genesis/
+wget https://the-eye.eu/public/rom/Sega%20Genesis/Golden%20Axe%20II%20%28JUE%29%20%5B%21%5D.bin
+wget https://the-eye.eu/public/rom/Sega%20Genesis/Earthworm%20Jim%20%28E%29%20%5B%21%5D.bin
+wget https://the-eye.eu/public/rom/Sega%20Genesis/Sonic%20the%20Hedgehog%203%20%28E%29.bin
+wget https://the-eye.eu/public/rom/Sega%20Genesis/Sonic%20and%20Knuckles%20%26%20Sonic%203%20%28JUE%29%20%5B%21%5D.bin
+ls
+..
+ls
+rclone size .
+exit
+ssh vn
+exit
+ls
+mkdir Interactive
+cd Interactive/
+mkdir "Video Games"
+cd Video\ Games/
+mkdir Emulation
+cd Emulation/
+mkdir ROMS
+cd ROMS/
+rclone size gdrive:roms
+df
+rclone copy gdrive:roms ./
+rclone size gdrive:roms
+ls
+rclone sie .
+ls
+rclone size .
+exit
+cd Misc/VirtualBoxVM/SHARED/
+ls
+cd Asia\ Pharm\ 3/
+ls
+gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=done.pdf program\ book_front.pdf Asia\ Pharm\ 3\ -\ Programme\ Booklet.pdf program\ book_back.pdf 
+mv done.pdf Asia\ Pharm\ 3\ -\ Programme\ Booklet_with\ cover.pdf 
+tm start 14:00 ITB "ITB/AsiaPharm3"
+tm stop 15:00
+tm start 40min ago ITB "ITB/AsiaPharm3"
+taskl
+task
+task add tag:ITB project="Asia Pharm 3" Buy pens, tali nametag due:tomorrow
+task 19 start
+task
+tm stop
+task
+tm
+tm continue
+pass -c asiapharm3/wp-admin 
+ls
+cd Abstract\ Book/
+mkdir abstracts
+cd abstracts/
+proxyon2
+rclone lsd gdrive:Work/ITB/Fakultas/Projects/"Asia Pharm 3"/Abstracts/"3 Final#
+rclone lsd gdrive:Work/ITB/Fakultas/Projects/"Asia Pharm 3"/Abstracts/"3 Final"
+rclone copy gdrive:Work/ITB/Fakultas/Projects/"Asia Pharm 3"/Abstracts/"3 Final" ./
+tm
+tm sum
+tm stop 10:45
+taskl
+task 13 14 done
+task
+task 13 done
+task
+exit
+type backup.work 
+exit
+man rsync
+exit
+pass -c2 codeweavers.com 
+pass -c codeweavers.com 
+cd Misc/linux_apps/crossover/
+ls
+apt show crossover
+aprem crossover
+accio ./crossover_17.1.0-1.deb 
+cd
+cd -
+aprem crossover
+accio ./crossover_17.5.0-1.deb 
+cd
+sudo snop disable wekan
+sudo snap disable wekan
+snap list
+snap find shotwell
+apt search shotwell
+flatpak search shotwell
+pass discordapp.com 
+pass -c2 discordapp.com 
+pass -c discordapp.com 
+pass -c2 discordapp.com 
+pass -c discordapp.com 
+pass -c kickstarter.com 
+cd Literature/
+ls
+mkdir TEMP
+cd TEMP/
+df
+wget -m -np -c -R "index.html*" https://the-eye.eu/public/Books/HumbleBundle/
+du -sh .
+cd
+ls
+cd Images/
+ls
+cd Wallpapers/
+ls
+mkdir mojave
+cd mojave/
+wget https://files.rb.gd/mojave_dynamic.zip
+du -sh .
+nautilus .
+unzip mojave_dynamic.zip 
+ls
+nautilus .
+ls
+vim mojave.xml 
+cd
+pass -c2 zalora.co.id 
+pass -c zalora.co.id 
+speed-test 
+pulsemixer 
+exit
+cd Downloads/Downloads.old/videos/
+ls -i *graham*
+ls *Graham*
+mpv The.Graham.Norton.Show.S23E02.720p.HDTV.x264-worldmkv.mkv 
+mpv The.Graham.Norton.Show.s23e03.EN.SUB.HEVC.x265.WEBRIP.\[MPup\].mkv 
+cd ../TOWATCH/
+ls
+mpv Jack\ Reacher\ \(2012\).
+mpv Doctor\ Who\ S10E11\ -\ World\ Enough\ and\ Time.mkv 
+vpn
+exit
+nload
+exit
+htop
+exit
+rclone size Documents/Postgraduate/Research/Computation/top2a_etoposide/
+rclone size Documents/Postgraduate/Research/Computation/chemical_databases/
+backup.work 
+backup.postgraduate 
+cd Images/Phone/
+ls VID*
+type rsync
+rsync /home/hubbi/Cruft/VIDTEMP/ ./
+rsync -c /home/hubbi/Cruft/VIDTEMP/ ./
+rsync -chavP /home/hubbi/Cruft/VIDTEMP/ ./
+mpv VID_20170813_094538.mp4 
+cd
+mv Cruft/md_test/ /home/hubbi/Documents/Postgraduate/Research/Computation/
+ls /home/hubbi/Documents/Postgraduate/Research/Computation/
+du -sh /home/hubbi/Documents/Postgraduate/Research/Computation/md_test/
+cd Images/ITB/
+cd Lokakarya\ Penanganan\ Hewan\ Percobaan/
+exiftool IMG_3457.JPG 
+cd
+exit
+ncdu
+exit
+rclone lsd gdriveme:backups/direct/Images/Family
+rclone lsd gdriveme:backups/direct/Images/Family > a.list
+cat a.list | awk '{ for (i=5; i<=NF; i++) printf $i " "; print " " }' | sort
+rclone lsd gdriveme:backups/direct/Images/
+rclone size gdriveme:backups/direct/Images/
+rclone size gdriveme:backups/direct/Images/Phone
+rclone size Images/Phone/
+rclone lsd gdriveme:backups/direct/Documents/Postgraduate/Research/Computation
+rclone size gdriveme:backups/direct/Documents/Postgraduate/Research/Computation/top2a_etoposide
+rclone copy Documents/Postgraduate/Research/Computation/top2b_etoposide/ gdriveme:backups/direct/Documents/Postgraduate/Research/Computation/top2b_etoposide/
+rclone size gdriveme:backups/direct/Documents/Postgraduate/Research/Computation/chemical_databases
+rclone lsd gdriveme:backups
+rclone lsd gdriveme:backups/borgbackup
+rclone sync Misc/borgbackup/ gdriveme:backups/borgbackup/
+rclone copy $res/Computation/md_test/ gdriveme:backups/direct/Documents/Postgraduate/Research/Computation/md_test/
+rclone lsd gdriveme:backups/direct/Images
+rclone lsd gdriveme:backups/direct/Images/ITB
+rclone copy Images/ITB/ gdriveme:backups/direct/Images/ITB/
+rclone lsd gdriveme:backups/direct/Videos
+rclone lsd gdriveme:backups/direct/Videos/"TV Series"
+rclone lsd bb:Direct-Videos
+rclone copy Downloads/Downloads.old/videos/MOTD_OLD/ gdriveme:backups/direct/Videos/Football/"Match of the Day"/"Season 2016"/
+rclone size gdriveme:backups/direct/Videos/Football/"Match of the Day"
+exit
+vim .config/user-dirs.dirs 
+ls
+rm -r Desktop/
+ps aux | grep gimp
+sl
+ls
+df
+ls
+cd Cruft/
+ls
+cd Desktop/
+ls
+cd
+vim .config/user-dirs.dirs 
+ls
+rm -rf Friends/
+df
+umount-private 
+df
+cd gPodder/
+ls
+cd Downloads/
+ls
+cd LINUX\ Unplugged/
+ls
+exiftool 79921eec-c55f-4a63-9655-67241bc035be.mp3 
+exit
+cd Audio/Podcasts/
+ls
+mkdir "Linux Unplugged"
+cd ../lat
+cd Late\ Night\ Linux/
+ls
+cd ../Linux\ Unplugged/
+ls
+wget --random-wait -r -A=.mp3 http://linuxunplugged.com/rss
+ls
+rm -rf linuxunplugged.com/
+snap find gpodder
+apt search gpodder
+accio gpodder
+ls
+exit
+tmux
+exit
+cd $work
+cd AlfaLC/Students/Minkyu/Extended\ Essay/
+ls
+cd sources/
+mv ~/Downloads/1922-the-neurobiology-of-drug-addiction_1.pdf .
+mv ~/Downloads/1-s2.0-S0376871613000197-main.pdf .
+exit
+apup
+apt list --upgradable
+lsblk
+sudo mkfs.ntfs --quick -L FlashN /dev/sdb1
+sudo umount /dev/sdb1
+sudo mkfs.ntfs --quick -L FlashN /dev/sdb1
+rm -r fd_backup/
+df
+umount-private 
+speed-test 
+proxyon2
+speed-test 
+pass -c2 boardgamegeek.com 
+pass -c boardgamegeek.com 
+proxyoff
+apup
+apt list --upgradable
+apgrade
+sudo snap install winds
+pass generate -n winds.getstream.io 15
+pass -c winds.getstream.io 
+pass edit winds.getstream.io 
+pass git push -u vn master
+pass git push -u origin master
+accio ffmpeg zlib* libjpeg* python3-setuptools
+exit
+vpn
+exit
+htop
+exit
+nload
+exit
+tmux
+exit
+cd Documents/Howtos/
+ls | grep borg
+gedit borg_backup_tutorial.txt 
+vim borg_backup_tutorial.txt 
+man borg
+man borg-init
+man borg
+pass generate -n borg/thunderbird 10
+pass -c borg/thunderbird 
+man borg-create
+type backup.work 
+exit
+cd .themes/
+ls
+locate -i adapta
+exit
+tm 
+tm start 09:15 ITB "ITB/ISNPM2018"
+tm stop
+tm sum
+tm week
+exit
+task
+taskl
+task 4 start
+exit
+cd gPodder/Downloads/LINUX\ Unplugged/
+ls
+mv 005a97d0-0506-4580-b300-191d3b26aece.mp3 "Linux Unplugged 79 - Ubuntu Calling.mp3"
+mv 02b3a79f-ccef-4d5a-bbbe-81c7fcfd701e.mp3 "Linux Unplugged 139 - Virtual Bondage.mp3"
+mv 036a764a-b3a2-4cde-a0ee-d5d8bf581663.mp3 "Linux Unplugged 81 - Unplugging the Past.mp3"
+mv 5430cce0-b8ce-4551-a850-11bf2b25b69a.mp3 "Linux Unplugged 68 - Linux Powered Schools.mp3"
+mv 72922dfe-508f-4348-81c0-5f605a6658de.mp3 "Linux Unplugged 138 - Better than Linux.mp3"
+mv 79921eec-c55f-4a63-9655-67241bc035be.mp3 "Linux Unplugged 253 - Personalities Happen.mp3"
+mv 52c09d98-8764-4ca6-afa1-e87fa54e4e12.mp3 "Linux Unplugged 93 - Rollback Romanticism.mp3"
+mv 7160325d-8cb5-4b6c-8d18-80992cae59df.mp3 "Linux Unplugged 252 - Github Hubbub.mp3"
+mv ffdc2178-7770-498b-a8a8-995d006982db.mp3 "Linux Unplugged 249 - Home Grown FUD.mp3"
+mv feddc66f-c496-4a78-9a6d-066a22defa3b.mp3 "Linux Unplugged 171 - Uncontained Human Error.mp3"
+mv 87a182e5-0eb8-46f2-b2e9-0f9b6c4f5471.mp3 "Linux Unplugged 144 - Flavorless Mint.mp3"
+mv 8725ed6a-295e-4828-8b8e-3404dbec8a13.mp3 "Linux Unplugged 191 - What's a Distro?.mp3"
+mv 863605bd-dd1f-48e2-bcdb-8491d896e2e4.mp3 "Linux Unplugged 75 - Obviausly Linux's Fault.mp3"
+mv 84f3b772-2518-4e8b-8ee3-8a6af2a1a692.mp3 "Linux Unplugged 222 - A Community Divided.mp3"
+mv 81063c73-beaa-4192-ab02-04697f10098f.mp3 "Linux Unplugged 186 - AWS Loses its ShIOT.mp3"
+mv 7e1f51d6-dd44-44e6-9879-9ccc8a5add24.mp3 "Linux Unplugged 56 - One Packager for All.mp3"
+mv 7dd180e5-3538-4e4e-b617-669d5ea3a1b2.mp3 "Linux Unplugged 58 - Cult of Community.mp3"
+mv 7ce762ee-8d7c-4e12-91e1-ca6244546091.mp3 "Linux Unplugged 241 - Snitching on SCALE.mp3"
+mv 7add494a-84b0-479e-bd95-1830c721471c.mp3 "Linux Unplugged 160 - Binary Decisions.mp3"
+m 774a33f5-aa1b-4902-af51-8478a384626c.mp3 "Linux Unplugged 99 - Finger on the Pulse of Video.mp3"
+mv 774a33f5-aa1b-4902-af51-8478a384626c.mp3 "Linux Unplugged 99 - Finger on the Pulse of Video.mp3"
+mv 75870503-6cd6-40cc-8626-f91b587b577b.mp3 "Linux Unplugged 126 - Mycroft Action Show.mp3"
+mv 7209a504-c35f-42df-8146-6b81e23f1d03.mp3 "Linux Unplugged 132 - Librem 15 is FAN-tastic.mp3"
+mv 6faddf60-a32c-44ee-bb82-4d32d4d43e15.mp3 "Linux Unplugged 209 - LILO and Slack(ware).mp3"
+mv 9b5ef4f4-82a5-4093-93f1-a61d64726f34.mp3 "Linux Unplugged 237 - One Ping Only.mp3"
+mv 77283f41-982a-43c6-a11f-903392ed7cf2.mp3 "Linux Unplugged 227 - Peer Pressure.mp3"
+mv 7895985b-fdcd-4daf-928c-99e72da61504.mp3 "Linux Unplugged 207 - Return of the Distrohopper.mp3"
+mv 8ad8be16-62a7-4eff-9dd5-c11d33723573.mp3 "Linux Unplugged 100 - Still Minty Fresh.mp3"
+mv 8b0208cd-8fcf-4ee3-97db-d6f8bee5ee90.mp3 "Linux Unplugged 183 - Niche Distros Need Not Apply.mp3"
+exit
+cd gPodder/Downloads/LINUX\ Unplugged/
+exiftool ffdc2178-7770-498b-a8a8-995d006982db.mp3 
+exiftool feddc66f-c496-4a78-9a6d-066a22defa3b.mp3 
+exiftool 87a182e5-0eb8-46f2-b2e9-0f9b6c4f5471.mp3 
+exiftool 8725ed6a-295e-4828-8b8e-3404dbec8a13.mp3 
+exiftool 863605bd-dd1f-48e2-bcdb-8491d896e2e4.mp3 
+exiftool 84f3b772-2518-4e8b-8ee3-8a6af2a1a692.mp3 
+exiftool 81063c73-beaa-4192-ab02-04697f10098f.mp3 
+exiftool 7e1f51d6-dd44-44e6-9879-9ccc8a5add24.mp3 
+exiftool 7dd180e5-3538-4e4e-b617-669d5ea3a1b2.mp3 
+exiftool 7ce762ee-8d7c-4e12-91e1-ca6244546091.mp3 
+exiftool 7add494a-84b0-479e-bd95-1830c721471c.mp3 
+exiftool 774a33f5-aa1b-4902-af51-8478a384626c.mp3 
+exiftool 75870503-6cd6-40cc-8626-f91b587b577b.mp3 
+exiftool 7209a504-c35f-42df-8146-6b81e23f1d03.mp3 
+exiftool 6faddf60-a32c-44ee-bb82-4d32d4d43e15.mp3 
+exiftool 9b5ef4f4-82a5-4093-93f1-a61d64726f34.mp3 
+exiftool 77283f41-982a-43c6-a11f-903392ed7cf2.mp3 
+exiftool 7895985b-fdcd-4daf-928c-99e72da61504.mp3 
+exiftool 8ad8be16-62a7-4eff-9dd5-c11d33723573.mp3 
+exiftool 8b0
+exiftool 8b0208cd-8fcf-4ee3-97db-d6f8bee5ee90.mp3 
+exit
+cd gPodder/
+ls
+cd Downloads/
+ls
+cd LINUX\ Unplugged/
+ls
+exiftool 005a97d0-0506-4580-b300-191d3b26aece.mp3 
+exiftool 02b3a79f-ccef-4d5a-bbbe-81c7fcfd701e.mp3 
+exiftool 036a764a-b3a2-4cde-a0ee-d5d8bf581663.mp3 
+exiftool 5430cce0-b8ce-4551-a850-11bf2b25b69a.mp3 
+exiftool 72922dfe-508f-4348-81c0-5f605a6658de.mp3 
+exiftool 79921eec-c55f-4a63-9655-67241bc035be.mp3 
+exiftool 52c09d98-8764-4ca6-afa1-e87fa54e4e12.mp3 
+exiftool 7160325d-8cb5-4b6c-8d18-80992cae59df.mp3 
+ls
+exit
+accio ffmpeg zlib* libjpeg* python3-setuptools
+accio ffmpeg zlib* python3-setuptools
+pip3 install --user wheel
+pip3 install --user gif-for-cli
+giftopnm 
+cd .local/bin/
+ls
+./gif-for-cli 
+type ./gif-for-cli 
+file ./gif-for-cli 
+vim ./gif-for-cli 
+cd
+vim .bashrc
+vim .bin/mysoftwares 
+source .bashrc
+cd Images/Other/
+ls
+ls *gif
+cd Pixel\ Art\ Animation/
+ls
+gif-for-cli ./wings\ and\ flying.gif 
+gif-for-cli flying
+cd ~/.cache/gif-for-cli/
+ls
+cd 1.1.1/
+ls
+cd 1615bd6e9e7016f9d1456d7efc5d5482-160cols-40rows-cw3px-ch6px/
+ls
+cd
+gif-for-cli flying
+gif-for-cli --help
+gif-for-cli flying -l 0
+gif-for-cli facepalm -l 0
+cd Misc/linux_apps/
+vim software.list 
+git clone https://github.com/google/gif-for-cli
+cd
+gif-for-cli steampowered
+gif-for-cli 12030145 -l 0
+proxyon2
+cd Documents/Other/MNC\ Play/
+ls
+mv ~/Downloads/file_struk_06-07-2018_16.46.11.pdf .
+cd
+ncdu .thunderbird/
+cd Misc/borgbackup/
+ls
+mkdir Thunderbird
+ncdu ~/.thunderbird/
+pass -c hubbinash.org/me@hubbinash.org 
+pass -c hubbinash.org/cpanel 
+pass -c2 hubbinash.org/cpanel 
+ls
+type borgc
+borg init ./Thunderbird/
+cd Work/
+ls
+less README 
+cd ../Thunderbird/
+ls
+..
+borg init /home/hubbi/Misc/borgbackup/Thunderbird/
+type borg
+borg init -e repokey /home/hubbi/Misc/borgbackup/Thunderbird/
+cd
+cd -
+borgc Thunderbird::Weekly_$(date +%y%m%d-%H%M%S) ~/.thunderbird/
+rm -rf Thunderbird/
+borg init -e none ./Thunderbird
+borgc Thunderbird::Weekly_$(date +%y%m%d-%H%M%S) ~/.thunderbird/
+pass -c hubbinash@gmail.com 
+du -sh .
+cd
+proxyoff
+speed-test 
+sudo snap install obs-studio
+gif-for-cli -l 0
+pass -c steam 
+proxyoff
+pass -c indodax.com 
+pass -c2 isnpm2018.fa.itb.ac.id/wp-admin 
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+proxyon2
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+taskl
+task add tag:ITB project:"Summer School 2018" Design goodie bag due:tomorrow
+task add tag:ITB project:"Summer School 2018" Buku agenda Tokema
+task add tag:ITB project:"Summer School 2018" Design & cetak nametag
+taskl
+task add tag:ITB project:"Summer School 2018" Bendera meja: Egypt, Indonesia, Malaysia, Thailand
+taskl
+taskl | grep "Summer School"
+task 15 delete
+taskl | grep "Summer School"
+snap list
+apt show inkscape
+psd
+ls
+ll
+vim .config/user-dirs.dirs 
+ls
+task tags
+task
+task completede
+task completed
+task add tag:ITB project:ISNPM Blast email: UI UP Uhamka Unpad USU Unri STFB Unjani Unand STFI Stifar Undip UGM Unair Ubaya UMY Unhas, Untan (Tanjungpura), Unmul
+task add tag:ITB project:ISNPM Blast email: UI UP Uhamka Unpad USU Unri STFB Unjani Unand STFI Stifar Undip UGM Unair Ubaya UMY Unhas, Untan \(Tanjungpura\), Unmul
+task add tag:ITB project:ISNPM Template abstract and poster
+task add tag:ITB project:ISNPM Info di web ttg publish di journal
+task 16 modify Blast email: UI UP Uhamka Unpad USU Unri STFB Unjani Unand STFI Stifar Undip UGM Unair Ubaya UMY Unhas, Untan \(Tanjungpura\), Unmul, Unram, Syuah Kuala Aceh
+task add tag:ITB project:ISNPM Updated leaflet
+taskl
+task add tag:ITB project:ISNPM Add nguyen min duc dekan farmasi TDT to website
+cd Misc/OS/Kubuntu/
+ls
+lsblk
+sudo umount /dev/sdb1
+sudo dd if=./kubuntu-18.04-desktop-amd64.iso of=/dev/sdb bs=4M
+exit
+htop
+exit
+nload
+exit
+tmux
+exit
+ssh vn
+exit
+ssh vn
+exit
+cd Downloads/Downloads.old/TOWATCH/
+ls
+..
+mv Downloads.old/TOWATCH/ ./
+ls
+cd TOWATCH/
+ls
+rclone copy gdrive:ACI/"Season 1"/ ./"Aircrash Investigation"/"Season 1"/
+proxyoff
+rclone copy gdrive:ACI/"Season 1"/ ./"Aircrash Investigation"/"Season 1"/
+rclone size gdrive:ACI/
+rclone config
+exit
+lsblk
+sudo umount /dev/sdb1
+sudo parted -a none /dev/sdb
+lsblk
+sudo mkfs.ntfs --quick -L FlashNexus /dev/sdb1
+lsblk
+task
+proxyon2
+sudo snap remove winds 
+cd snap/
+ls
+rm -rf winds
+cd
+pulsemixer 
+pass -c2 bukalapak.com 
+pass -c bukalapak.com 
+pass -c2 tokopedia.com 
+pass -c tokope
+pass -c tokopedia.com 
+pass -c2 lazada.co.id 
+pass -c lazada.co.id 
+pass -c2 zalora.co.id 
+pass -c zalora.co.id 
+pass -c2 shopee.co.id 
+pass -c shopee.co.id 
+cd Misc/linux_apps/
+ls
+git clone https://github.com/senorprogrammer/wtf
+vim software.list 
+cd soft
+cd 
+cd Software/
+mkdir wtf
+cd wtf/
+wget https://github.com/senorprogrammer/wtf/releases/download/v0.0.10/wtf_0.0.10_linux_amd64.tar.gz
+ls
+tar xvf wtf_0.0.10_linux_amd64.tar.gz 
+ls
+cd wtf_0.0.10_linux_amd64/
+ls
+mv wtf ..
+..
+ls
+rm wtf_0.0.10_linux_amd64 wtf_0.0.10_linux_amd64.tar.gz 
+ls
+rm -rf wtf_0.0.10_linux_amd64/
+ls
+cd
+vim .bin/mysoftwares 
+source .bashrc
+wtf
+man wtf
+wtf -h
+wtf
+proxyoff
+apup
+apt list --upgradable
+apgrade
+exit
+rclone config
+echo $http_proxy 
+proxyoff
+exit
+nload
+exit
+htop
+exit
+tmux
+exit
+cd .bin
+vim night-mode.xml
+rm night-mode.xml 
+exit
+for i in {1..16}; do echo $i; done
+exit
+vim .bin/myaliases 
+vim .bashrc
+vim .bin/myaliases 
+source .bashrc
+exit
+cd .bin
+chmod +x night-mode.sh 
+./night-mode.sh 
+chmod +x day-mode.sh 
+mv day-mode.sh day-mode.sh2
+mv night-mode.sh day-mode.sh
+mv day-mode.sh2 night-mode.sh
+exit
+locate -i suru
+cat Misc/linux_apps/software.list 
+cd /usr/
+ls
+cd local/
+ls
+..
+cd src/
+ls
+cd ../share/
+ls
+cd themes/
+ls
+..
+find . -iname suru
+find . -iname *suru*
+cd icons/
+ls
+cd Suru/
+ls
+cd 256x256
+ls
+cd status/
+ls
+cd ../../
+nautilus .
+..
+ls
+ll
+cd
+cd Images/Wall
+cd Images/Wallpapers/
+ls *xml
+ls
+cd mojave/
+ls
+vim mojave
+vim mojave.xml 
+exit
+cd .bin
+vim night-mode.sh
+exit
+cd .bin
+cp night-mode.sh day-mode.sh
+vim day-mode.sh 
+exit
+gsettings set org.gnome.desktop.background picture-uri 'file:///home/hubbi/Images/Wallpaper/mojave/mojave_dynamic_11.jpeg'
+
+gsettings set org.gnome.desktop.background picture-uri '/home/hubbi/Images/Wallpaper/mojave/mojave_dynamic_11.jpeg'
+'
+gsettings set org.gnome.desktop.background picture-uri 'file:///home/hubbi/Images/Wallpapers/mojave/mojave_dynamic_12.jpeg'
+gsettings set org.gnome.desktop.background picture-uri 'file:///home/hubbi/Images/Wallpapers/mojave/mojave_dynamic_15.jpeg'
+gsettings set org.gnome.desktop.background picture-uri 'file:///home/hubbi/Images/Wallpapers/mojave/mojave_dynamic_11.jpeg'
+gsettings set org.gnome.desktop.background picture-uri 'file:///home/hubbi/Images/Wallpapers/mojave/mojave_dynamic_15.jpeg'
+cd .bin
+./night-mode.sh 
+./day-mode.sh 
+gsettings set org.gnome.desktop.interface gtk-theme 'Adapta-Nokto-Eta'
+gsettings set org.gnome.desktop.interface gtk-theme 'Adapta-Eta'
+./day-mode.sh 
+./night-mode.sh 
+cd
+./day
+source .bashrc
+day-mode 
+night-mode 
+gsettings get 
+day-mode 
+night-mode 
+day-mode 
+night-mode 
+day-mode 
+night-mode 
+day-mode 
+shotcut
+exit
+vim .bin/night-mode.sh 
+cat .bin/night-mode.sh 
+cat .bin/day-mode.sh 
+exit
+rclone config
+cd Downloads/TOWATCH/
+ls
+rclone copy gdrive:ACI/"Season 1"/ ./"Aircrash Investigation"/"Season 1"/
+cd Aircrash\ Investigation/Season\ 1/
+ls
+exit
+apt search gconf-editor
+accio gconf-editor
+aprem dconf-editor
+aprem gconf-editor
+gsettings list-schemas
+gsettings list-recursively
+gsettings list-recursively | grep -i terminal
+gsettings list-recursively | grep -i org.gnome.Terminal
+gsettings list-recursively | grep -i org.gnome.Terminal | grep profile
+apt search gconftool-2
+apt search gconftool
+gconf2
+gconftool-2
+gconftool-2 --help
+gconftool-2 --get /apps/gnome-terminal/global/default_profile
+gconftool-2 --all-dirs /apps/gnome-terminal/profiles
+snap find shotwell
+apt search shotwell
+apt search shotcut
+snap find shotcut
+sudo snap install shotcut
+sudo snap install shotcut --classic
+night-mode 
+pscircle
+day-mode 
+night-mode 
+exit
+nload
+exit
+htop
+exit
+snap list
+flatpak --list
+flatpak list
+lsblk
+cd Misc/OS/Kubuntu/
+ls
+sudo dd if=./kubuntu-18.04-desktop-amd64.iso of=/dev/sdb bs=4M
+exit
+syst poweroff
+ps aux | grep firefox
+exit
+apup
+accio htop
+accio tmux nload
+tmux
+exit
+tmux attach
+exit
+echo $HOME
+exit
+snap list
+sudo snap install gimp pulsemixer speed-test
+snap list
+se
+vim a
+@
+@se
+snap list
+ps aux | grep -i gimp
+vim .config/user-dirs.dirs
+exit
+apgrade
+vpn
+accio openvpn
+vpn
+vpnitb
+cd Downloads/
+ls
+tar xvf breeze_transparent_dark.tar.xz 
+cd breeze_transparent_dark/
+ls
+vim metadata.desktop 
+accio vim
+vim metadata.desktop 
+ls
+vim colors 
+..
+rm -rf breeze_transparent_dark
+exit
+nload
+exit
+htop
+exit
+tmux attach
+exit
+ls
+mv Desktop/* .
+ls
+exit
+apt search plank
+accio plank
+exit
+pulsemixer 
+speed-test 
+cd Images/Wallpapers/
+mv ~/Downloads/
+reset
+exit
+df
+cd /home
+ls
+cd hubbi
+ls
+exit
+snap list
+sudo snap install brave darktable discord gravit-designer inkscape libreoffice mumble mutt obs-studio pubip shotcut slack spotify taskwarrior-plars telegram-desktop timew-spirotot tmnationsforever zenkit
+sudo snap install brave darktable discord gravit-designer inkscape libreoffice mumble mutt obs-studio pubip spotify taskwarrior-plars telegram-desktop timew-spirotot tmnationsforever zenkit
+snap list
+aprem plank
+pgrep plank
+kill 3933
+apt search latte
+accio latte-dock
+proxyon2
+apup
+lsblk
+cd /media/hubbi/Frida\ Damawulan\ \(12141026_STFB\)/Afix/
+ls
+ncdu
+proxyoff
+accio ncdu
+ncdu
+..
+cd Pictures/
+ncdu
+exit
+rsync
+mkdir temp
+cd temp/
+rsync /media/hubbi/Frida\ Damawulan\ \(12141026_STFB\)/Pictures/Photo ./
+rsync /media/hubbi/Frida\ Damawulan\ \(12141026_STFB\)/Pictures/KOFABA ./
+rsync /media/hubbi/Frida\ Damawulan\ \(12141026_STFB\)/Pictures/Mprit ./
+rsync /media/hubbi/Frida\ Damawulan\ \(12141026_STFB\)/Pictures/Frida ./
+cd
+exit
+mv kace-rodriguez-85845-unsplash.jpg Images/Wallpapers/
+vim .config/user-dirs.dirs
+accio thunderbird
+ps aux | grep latte
+kill 12433
+accio qtcurve-utils qtcurve-kde
+accio qtcurve
+cd /media/hubbi/Frida\ Damawulan\ \(12141026_STFB\)/Afix/
+ls
+vmd
+accio tcsh
+proxyoff
+accio tcsh
+vmd 
+accio grace
+xmgrace
+accio grace
+ls
+xmgrace rmsf.out 
+vim rmsf.in 
+xmgrace rmsf.out 
+cd
+exit
+ncdu
+exit
+vim .config/user-dirs.dirs
+cat .config/user-dirs.dirs.md5sum 
+md5sum .config/user-dirs.dirs
+cd .config/
+cp user-dirs.dirs.md5sum user-dirs.dirs.md5sum.bak
+md5sum user-dirs.dirs
+vim user-dirs.dirs.md5sum
+cd
+tm
+tm sum :yesterday
+tm start 10:05 STFB "STFB/Bimbingan"
+tm stop
+tm sum
+taskl
+exit
+xinput 
+less /proc/bus/input/devices 
+xev 
+exit
+df
+snap list
+discord 
+cd Cruft/
+mkdir Templates
+mkdir Public
+cd
+discord 
+exit
+neofetch 
+exit
+accio neofetch
+neofetch 
+xbindkeys
+accio xbindkeys
+proxyoff
+accio xbindkeys
+xbindkeys
+crontab -l
+xbindkeys
+vim .xbindkeysrc 
+xte
+accio xautomation
+xte
+neofetch 
+exit
+ps aux | grep spotify
+xprop -f _KDE_NET_WM_BLUR_BEHIND_REGION 32c -set _KDE_NET_WM_BLUR_BEHIND_REGION 0 -id `qdbus org.kde.konsole /konsole/MainWindow_1 winId`
+plasmashell --version
+sudo add-apt-repository ppa:kubuntu-ppa/backports
+apup
+sudo add-apt-repository ppa:kubuntu-ppa/backports
+sudo apt full-upgrade
+apgrade
+sudo apt full-upgrade
+exit
+nload
+exit
+htop
+exit
+tmux attach
+tmux
+tmux attach
+exit
+aprem latte-dock
+ps aux | grep latte
+kill 1884
+exit
+man netstat
+exit
+ss -nlp
+ss -nlptu
+ss -tulpn
+exit
+vim .bin/myfunctions 
+vim .bin/myaliases 
+exit
+cn
+vim .bin/myaliases 
+source .bashrc
+cn
+vim .bin/myaliases 
+vim .bin/myfunctions 
+source .bashrc
+cn
+exit
+cn
+exit
+man ss
+cn
+type cn
+ss -lantp
+ss -lantp | grep ESTABLISHED
+ss -lantp | grep ESTAB | cut -d'/' -f 2 | sort | uniq
+ss -lantp | grep ESTAB
+ss -lantp | grep ESTAB | cut -f 6 | sort | uniq
+ss -lantp | grep ESTAB | cut -d' ' -f 6 | sort | uniq
+ss -lantp | grep ESTAB | cut -d'\t' -f 6 | sort | uniq
+ss -lantp | grep ESTAB | cut -d\t -f 6 | sort | uniq
+ss -lantp | grep ESTAB
+ss -lantp | grep ESTAB | awk '{print $6}'
+ss -lantp | grep ESTAB | awk '{print $6}' | awk 'BEGIN{FS="\""} {print $2}'
+ss -lantp | grep ESTAB | awk '{print $6}' | awk 'BEGIN{FS="\""} {print $2}' | sort | uniq
+exit
+apup
+apt list --upgradable 
+accio libpng-dev libcairo2-dev libx11-dev
+sudo apt-get install -y ninja-build python3-pip python3-setuptools pkg-config
+pip3 install meson
+cd Software/
+ls
+mkdir pscircle
+cd pscircle/
+cd bin/
+ls
+./pscircle 
+./pscircle --help
+./pscircle --output=./test.png
+ls
+o test.png 
+cd
+cd Misc/linux_apps/
+vim software.list 
+cd
+neofetch 
+rclone
+accio rclone
+rclone config
+rclone lsd gdrive:ACI
+rclone lsd gdrive:ACI/"Season 18"
+rclone ls gdrive:ACI/"Season 18"
+cn
+accio netstat
+netstat
+ss
+ss -tulpn
+man ss
+exit
+hollywood 
+sudo snap remove hollywood
+accio hollywood
+hollywood 
+exit
+/usr/bin/hollywood 
+exit
+hollywood 
+exit
+/usr/bin/hollywood 
+exit
+hollywood 
+exit
+hollywood
+accio hollywood
+sudo snap install hollywood
+sudo snap install hollywood --classic
+exit
+cd $res
+cd Computation/tar
+cd Computation/
+ls
+cd drug_targets/
+ls
+cd KDM1A\ LSD1\ -\ lysine-specific\ histone\ demethylase\ 1/
+cp * /home/hubbi/Documents/Work/ITB/Research/2018.1\ Machine\ Learning\ VS/simulation/targets/
+exit
+neofetch 
+exit
+accio redshift
+redshift 
+pass
+accio pass
+pass -c me@hubbinash.org 
+rsync Cruft/Public/Misc/ ./Misc/
+mv Cruft/Public/Misc/ ./Misc/
+exit
+xev 
+exit
+df
+exit
+vim .xinput
+cd Cruft/Public/
+ls -a
+cd
+ls -a
+ls a | grep input
+ls -a | grep input
+vim .inputrc 
+ncdu Cruft/Public/Misc/
+ncdu
+exit
+cd Misc/Misc/
+du -sh .
+ncdu
+exit
+subliminal
+accio subliminal
+man subliminal
+cd Downloads/TOWATCH/Aircrash\ Investigation/Season\ 18/
+ls
+subliminal -l en Mayday\ S18E01.mkv 
+aprem subliminal
+sudo apt autoremove
+exit
+submarine
+cd Misc/linux_apps/
+vim software.list 
+exit
+cd Misc/linux_apps/crossover/
+ls
+accio ./crossover_17.5.0-1.deb 
+exit
+cd .mozilla/
+ncdu
+exit
+cd Downloads/Downloads.old/winapps/
+ls
+cd Microsoft\ Office\ 2010\ SP2\ Pro\ Plus/
+ls
+cd ../Microsoft\ Office\ 2010\ Proffesional/
+ls
+exit
+undistract-me.sh
+undistract
+apt search undistract
+accio undistract-me
+exit
+ssh vn
+exit
+speed-test 
+exit
+vpn
+accio tree
+tree
+cd Software/
+tree
+cd
+proxyon2
+ping bbc.co.uk
+ping io9.com
+man tracepath 
+tracepath io9.com
+ping io9.com
+proxyoff
+ping io9.com
+exit
+tm
+tm week
+cd Misc/VirtualBoxVM/SHARED/Manuscript\ and\ Dissertation/
+wget http://pubs.acs.org/paragonplus/submission/acs_submission_checklist.doc
+pgrep firefox
+exit
+nload
+exit
+htop
+exit
+ls Misc/borgbackup/
+backup.work 
+rclone lsd gdriveme:backups/borgbackup
+pass -c steam 
+exit
+mount-private 
+accio ecryptfs-utils
+mount-private 
+cd Misc/Private/
+ls
+cd CELEBS/
+ls
+mkdir "Evangeline Lilly"
+dolphin .
+..
+cd TEMP/
+ls
+dolphin .
+..
+rm -r TEMP/
+cd
+umount-private 
+vpn
+snap list
+pubip
+tmnationsforever
+proxyon2
+vim .config/user-dirs.dirs
+man xdg-user-dirs-update 
+xdg-user-dirs-update 
+vim .config/user-dirs.dirs
+xdg-user-dirs-update 
+vim .xbindkeysrc 
+tm tags
+tm start ITB "ITB/Curriculum" 09:00
+tm stop 11:10
+tm start ITB "ITB/Academic" 11:25
+tm stop 12:30
+tm sum
+tm start 15min ago ITB "ITB/Research"
+tm stop
+tm sum
+tm
+pass jakartanotebook.com 
+pass -c2 jakartanotebook.com 
+pass -c jakartanotebook.com 
+pass -c2 lazada.co.id 
+pass -c lazada.co.id 
+proxyoff
+accio xmodmap
+vim .Xmodmap
+xmodmap ~/.Xmodmap 
+cd Misc/
+ll Misc/
+sudo mv Misc/boot/ ./
+sudo mv Misc/Private/ ./
+ls Misc/
+rm -r Misc/
+du -sh joplin
+rsync joplin/ ./jop/
+cd joplin
+ll
+ls
+ll
+touch -t 201807122300 *
+ll
+touch -t 20180712230000 *
+
+touch -t 201807122300 *
+ll
+touch -t 201807122300 *
+cd
+borg
+accio borgbackup
+man borg
+borg -h
+borg list Misc/borgbackup/Work/
+borg list Misc/borgbackup/Thunderbird/
+cd Misc/borgbackup/
+ls
+mkdir joplin
+borg init -e none ./joplin/
+borg list joplin/
+borgc joplin::Weekly_$(date +%y%m%d-%H%M%S) ~/Misc/joplin/
+borg list borg::
+borg list borg
+borg list joplin
+borg list joplin::Weekly_180712-221709
+borg list joplin::Weekly_180712-221709 | wc -l
+ls
+borgc Thunderbird::Weekly_$(date +%y%m%d-%H%M%S) ~/.thunderbird/
+backup.postgraduate 
+ls
+rclone sync ./Work/ gdriveme:backups/borgbackup/Work/
+rclone sync ./Postgraduate/ gdriveme:backups/borgbackup/Postgraduate
+rclone sync ./joplin/ gdriveme:backups/borgbackup/joplin
+rclone sync ./Thunderbird/ gdriveme:backups/borgbackup/Thunderbird
+proxyon2
+rclone sync ./Thunderbird/ gdriveme:backups/borgbackup/Thunderbird
+proxyoff 
+
+apt list --upgradable 
+proxyon2
+rclone sync ./Thunderbird/ gdriveme:backups/borgbackup/Thunderbird
+proxyoff
+exit
+accio steam
+steam
+mv Downloads/Palm-Island-Print-and-Play1.4.6.pdf Interactive/Tabletop\ Games/Palm\ Island/
+pscircle
+snap find pscircle
+cd Misc/linux_apps/
+vim software.list 
+git clone https://gitlab.com/mildlyparallel/pscircle
+accio git
+git clone https://gitlab.com/mildlyparallel/pscircle
+cd pscircle/
+mkdir build
+cd build/
+meson ..
+ls
+..
+rm -rf build/*
+cd build/
+meson -h
+meson --prefix=/home/hubbi/Software/pscircle ..
+ninja
+ninja install
+cd
+vim .bin/mysoftwares 
+source .bashrc
+pscircle --help
+apgrade
+firefox --version
+cd Downloads/TOWATCH/Aircrash\ Investigation/Season\ 1/
+ls
+mpv Mayday\ S01E01.mkv 
+accio mpv
+mpv Mayday\ S01E01.mkv 
+ls
+..
+rm -rf Season\ 1/1
+rclone copy gdrive:ACI/"Season 18" ./"Season 18"/
+ls
+ncdu
+cd Season\ 18/
+ls
+mpv Mayday\ S18E01.mkv 
+exit
+cn
+type joplin 
+latte-dock
+ip r
+iw
+ip n
+ss
+cn
+df
+ncdu
+df
+cd $itb
+ls
+cd Research/
+ls
+cd 2018.1\ Machine\ Learning\ VS/
+ls
+o Asia\ Pharm\ 3\ Poster\ Hubbi.jpg 
+ls
+exit
+cd $itb
+ls
+cd $res
+cd Results/
+cd com
+cd ../Computation/
+ls
+cd
+cd $itb
+ls
+cd Research/
+ls
+cd 2018.1\ Machine\ Learning\ VS/
+ls
+mkdir simulation
+cd simulation/
+ls
+mkdir targets
+cd targets/
+ls
+mv ~/Downloads/bioactivity-18_5_51_10.xls .
+rm bioactivity-18_5_51_10.xls 
+ls
+mv ~/Downloads/bioactivity-18_5_57_19.txt .
+xinput 
+xbindkeys
+vim .xbin
+ls
+rm bioactivity-18_5_57_19.txt 
+..
+ls
+mkdir actives
+cd actives/
+mkdir KDM1A
+cd KDM1A/
+mv ../../targets/bioactivity.ods .
+ls
+mv ~/Downloads/CHEMBL3787230.mol .
+pymdpbsa CHEMBL3787230.mol 
+pymol
+accio pymol
+mv ~/Downloads/CHEMBL3* .
+ls
+exit
+plasmashell --version
+tmux
+syst reboot
+cd $itb
+cd Fakultas/Projects/ISNPM\ 2018/
+ls
+cd Abstracts/
+wget https://asiapharm3.fa.itb.ac.id/wp-content/uploads/2018/05/ABSTRACT_Template_Participant_Asia-Pharm_2018.docx
+exit
+cd Literature/Magazines/Linux/Linux\ Format/2018/
+wget http://toconquer.space:1405/Linux%20Format%20UK%20-%20May%202018/Linux%20Format%20UK%20-%20May%202018.pdf
+wget http://toconquer.space:1405/Linux%20Format%20UK%20-%20July%202018/Linux%20Format%20UK%20-%20July%202018.pdf
+exit
+ssh vn
+exit
+ssh gitvn
+vim .ssh/config 
+ls
+cd .ssh
+ls
+ll
+vim config 
+ssh gitvn
+vim config 
+ssh gitvn
+vim config 
+ssh vn
+vim config 
+ssh don
+vim config 
+exit
+cd Literature/Magazines/Linux/Linux\ Format/
+ls
+mkdir 2018
+cd 2018/
+wget http://toconquer.space:1405/Linux%20Format%20UK-January%202018%20-%20True%20PDF%20-%206293%20%5bECLiPSE%5d/Linux%20Format%20UK-January%202018.pdf
+wget http://toconquer.space:1405/Linux%20Format%20UK%20-%20March%202018/Linux%20Format%20UK%20-%20March%202018.pdf
+wget http://toconquer.space:1405/Linux%20Format%20UK%20-%20June%202018/Linux%20Format%20UK%20-%20June%202018.pdf
+wget http://toconquer.space:1405/Linux%20Format%20UK%20-%20August%202018/Linux%20Format%20UK%20-%20August%202018.pdf
+ls
+..
+ls
+mkdir 2017
+dolphin  .
+cd 2018
+ls
+o Linux\ Format\ UK-January\ 2018.pdf 
+dolphin .
+o Linux\ Format\ UK-January\ 2018.pdf 
+pass -c steam 
+type xmodmap 
+ls ~/.Xmodmap 
+ls
+o Linux\ Format\ UK\ -\ February\ 2018.pdf 
+exit
+tm start ITB "ITB/ISNPM2018"
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+tm stop
+tm sum :yesterday
+tm sum
+exit
+cd "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/ISNPM 2018/Website/assets/speakers/"
+ls
+file raymond.jpg 
+ls
+gimp nguyenminduc_raw.jpg 
+gimp nguyenminduc.jpg 
+exit
+lsmod | grep -iE "input"
+man grep
+lsmod | grep input
+lsmod
+lsmod | grep syn
+lsmod | grep apple
+lsmod | grep foc
+lsmod | grep cyapa
+lsmod | grep mouse
+lsmod | grep vsxx
+lsmod | grep bcm
+modinfo psmouse
+xinput --list
+cat /proc/bus/input/devices 
+locate synaptics | grep xorg
+locate focaltech 
+xinput --list
+xinput --list-props 15
+cat /dev/input/event4
+sudo cat /dev/input/event4
+xev
+xinput --list-props 15
+exit
+cd /etc/modprobe.d/
+ls
+sudo vim blacklist.conf 
+exit
+ls
+localectl 
+locale
+exit
+locale-gen 
+sudo locale-gen
+localectl 
+exit
+tmux
+exit
+cd Videos/Youtube/OverSimplified/
+exiftool Hitler\ -\ OverSimplified\ \(Part\ 1\)-ATlila3e9dM.mp4 
+mpv Hitler\ -\ OverSimplified\ \(Part\ 1\)-ATlila3e9dM.mp4 
+exit
+vim .ssh/config 
+exit
+vim .ssh/config 
+ssh kimed
+exit
+man curl
+curl
+exit
+vim .ssh/config 
+ping 167.205.68.230
+ssh kimedgpu
+exit
+ssh kimed
+exit
+cd Videos/Youtube/
+exiftool history\ of\ japan\ -\ bill\ wurtz.mkv 
+rm history\ of\ japan\ -\ bill\ wurtz.mp4 
+exit
+youtube-dl -F
+youtube-dl -L
+youtube-dl --formats
+man youtube-dl 
+youtube-dl -F https://www.youtube.com/watch?v=Mh5LY4Mz15o
+exit
+proxyon2
+apup
+exit
+ssh kimed
+echo $htt
+proxyon2
+echo $http_proxy 
+apup
+ip addr
+exit
+df
+umount-private 
+df
+cd /etc/pam.d/
+ls
+sudo vim login
+sudo vim /etc/fstab 
+cd ~/.ecryptfs/
+ls
+vim auto-mount 
+vim aut-um
+vim auto-umount 
+ls
+cd /etc/pam.d/
+ls
+sudo vim common-auth 
+sudo vim common-session
+sudo vim common-auth 
+exit
+history | grep borgc
+borgc ~/Misc/borgbackup/Thunderbird::Weekly_$(date +%y%m%d-%H%M%S) ~/.thunderbird/
+exit
+proxyon2
+type proxyon2
+cd Videos/Youtube/
+ls
+youtube-dl -o "%(title)s - $(uploader)s.$(ext)s" https://www.youtube.com/watch?v=xuCn8ux2gbs
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/watch?v=xuCn8ux2gbs
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/watch?v=CFh2zxQwxZI
+ls
+ncdu
+mpv How\ Switzerland\ Managed\ to\ Remain\ Neutral\ with\ WWI\ and\ WWII\ Raging\ Around\ Them\ -\ Today\ I\ Found\ Out.mkv 
+exiftool How\ Switzerland\ Managed\ to\ Remain\ Neutral\ with\ WWI\ and\ WWII\ Raging\ Around\ Them\ -\ Today\ I\ Found\ Out.mkv 
+mpv How\ Switzerland\ Managed\ to\ Remain\ Neutral\ with\ WWI\ and\ WWII\ Raging\ Around\ Them\ -\ Today\ I\ Found\ Out.mkv 
+proxyoff
+exit
+cd Videos/Youtube/
+lt
+mpv history\ of\ the\ entire\ world\,\ i\ guess\ -\ bill\ wurtz.mkv 
+cd OverSimplified/
+ls
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/watch?v=Jl3K63Rbygw
+exit
+plasmashell --version
+accio mesa-utils
+glxgears 
+glxinfo | grep -i opengl
+speed-test 
+stress-ng
+accio stress-ng
+man stress-ng
+aprem stress-ng
+sysbench
+accio sysbench
+man sysbench
+cd Videos/Youtube/OverSimplified/
+ls
+youtube-dl https://www.youtube.com/watch?v=ATlila3e9dM
+youtube-dl -f best https://www.youtube.com/watch?v=ATlila3e9dM
+youtube-dl -f best https://www.youtube.com/watch?v=Dd1JUTA7Ijc
+ls
+file Hitler\ -\ OverSimplified\ \(Part\ 1\)-ATlila3e9dM.mkv 
+exiftool
+accio libimage-exiftool-perl
+exiftool Hitler\ -\ OverSimplified\ \(Part\ 1\)-ATlila3e9dM.mkv 
+mpv Hitler\ -\ OverSimplified\ \(Part\ 1\)-ATlila3e9dM.mkv 
+ls
+rm Hitler\ -\ OverSimplified\ \(Part\ 1\)-ATlila3e9dM.mp4 
+cd
+ps aux | grep steam
+df
+pass -c steam 
+vnitb
+vpnitb
+ncdu
+df
+cd Videos/Youtube/
+youtube-dl -f best https://www.youtube.com/watch?v=Mh5LY4Mz15o
+rm history\ of\ japan-Mh5LY4Mz15o.mp4.part 
+man youtube-dl
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/watch?v=Mh5LY4Mz15o
+youtube-dl -f best -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/watch?v=Mh5LY4Mz15o
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/watch?v=Mh5LY4Mz15o
+exiftool history\ of\ japan\ -\ bill\ wurtz.mp4 
+cd
+proxyon2
+zenkit 
+ssh kimedgpu
+task
+taskl
+tm
+tm stop 2018-07-17T19:30
+tm
+tm week
+tm
+tm start 14:35 STFB "STFB/Bimbingan"
+task
+taskl
+type youtube-dl 
+proxyoff
+apup
+apt list --upgradable 
+apgrade
+cd Misc/
+ls *bash*
+sudo lxc file push ./bashrc-myubuntu-lxd myubuntu/home/ubuntu/
+cd
+exit
+echo b
+tail .bash_history 
+exit
+echo a
+tail .bash_history 
+exit
+tail .bash_history 
+exit
+apt search neofetch
+exit
+lxc list
+exit
+lxc list
+lxc image list
+lxc image list images:
+lxc image list ubuntu:
+lxc launch ubuntu:x myubuntu
+lxc list
+lxc exec myubuntu -- sudo -i -u ubuntu
+exit
+lxc
+accio lxd-client
+lxd
+accio lxd
+sudo usermod -a -G lxd hubbi
+apup
+accio zfsutils-linux
+sudo lxd init
+newgrp lxd
+exit
+uname -a
+neofetch 
+type neofetch 
+sudo lxc push /usr/bin/neofetch myubuntu/home/ubuntu/
+sudo lxc file push /usr/bin/neofetch myubuntu/home/ubuntu/
+cd .config/neofetch/
+ls
+vim config.conf 
+sudo lxc file push config.conf myubuntu/home/ubuntu/
+vim config.conf 
+cd
+uname -a
+neofetch 
+lsb_release 
+lsb_release -a
+lxc list
+newgrp lxd
+udevadm monitor
+cat /etc/issue
+sysbench 
+man sysbench 
+sysbench --test=cpu --cpu-max-prime=20000 run
+man sysbench 
+sysbench --test=cpu --cpu-max-prime=20000 --num-threads=4 run
+sysbench --test=cpu --cpu-max-prime=100000 --num-threads=4 run
+sysbench --test=cpu --cpu-max-prime=4000000 --num-threads=4 run
+sysbench --test=cpu --cpu-max-prime=10000000 --num-threads=4 run
+sysbench --test=cpu --cpu-max-prime=200000 --num-threads=4 run
+exit
+cd .local/share/lutris/
+ncdu
+du -sh .
+ncdu
+df
+exit
+ll
+ll -a
+exit
+df
+exit
+cd Misc/steam.ubuntu/
+ncdu
+exit
+apt search chromium
+chromium
+chromium-browser
+accio chromium-browser
+chromium-browser 
+aprem chromium-browser
+sudo visudo
+EDITOR=vim sudo visudo
+sudo su
+exit
+sudo scanmem 23933
+exit
+sudo scanmem 23933
+exit
+sudo scanmem 23933
+exit
+htop
+sudo scanmem 23933
+scanmem
+accio scanmem
+sudo scanmem 23933
+exit
+type firefox 
+exit
+pgrep firefox
+cd snap
+ls
+cd
+cd Misc/
+rm -rf The\ Eye\ \|\ Front\ Page*
+exit
+vpnitb
+exit
+lxc
+lxc list
+lxc exec myubuntu -- sudo -i -u ubuntu
+man git-remote
+exit
+man git-remote
+exit
+vim .yadm/encrypt 
+exit
+mas git-commit
+man git-commit
+exit

@@ -1,3 +1,6 @@
+# local bins
+export PATH=$PATH":/home/hubbi/.local/bin"
+
 # Acpype
 alias acpype="/home/hubbi/Software/acpype/acpype.py"
 
@@ -39,6 +42,9 @@ alias lsofgraph="/home/hubbi/Software/lsofgraph/lsofgraph"
 alias matlab="/home/hubbi/Software/matlab/r2017a/bin/matlab"
 alias mex="/home/hubbi/Software/matlab/r2017a/bin/mex"
 
+# pscircle
+alias pscircle="/home/hubbi/Software/pscircle/bin/pscircle"
+
 # Rust (programming language)
 export PATH=$PATH":/home/hubbi/.cargo/bin"
 
@@ -53,6 +59,9 @@ alias vmd="/home/hubbi/Software/vmd/bin/vmd"
 
 # WhatsApp
 alias whatsapp="/home/hubbi/Software/whatsapp/whatsapp-desktop-0.4.2-x86_64.AppImage"
+
+# wtf
+alias wtf="/home/hubbi/Software/wtf/wtf"
 
 # Zotero
 alias zotero="/home/hubbi/Software/zotero/zotero"

@@ -13,7 +13,7 @@
 			<xrc file="certificate.xrc" date="1509277703" />
 		</Resources>
 		<Language id="en_US" date="">
-			<Font font="Ubuntu 10" width="772" height="16" />
+			<Font font="Ubuntu 10" width="775" height="16" />
 		</Language>
 	</Layout>
 </FileZilla3>

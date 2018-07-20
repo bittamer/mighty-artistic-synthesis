@@ -20,7 +20,7 @@ network_timeout = 5
  
 # library path
 # Path to directory in which your library of books is stored
-library_path = u'/home/hubbi/Documents/E-Books/calibre_library_fiction'
+library_path = u'/home/hubbi/Literature/calibre_library_fiction'
  
 # language
 # The language in which to display the user interface

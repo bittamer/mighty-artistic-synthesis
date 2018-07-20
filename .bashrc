@@ -78,14 +78,22 @@ export itb=$work"/ITB"
 export res="/home/hubbi/Documents/Postgraduate/Research"
 export alfa=$work"/AlfaLC"
 export GPGKEY=A62014E0616D71ECACD762F38AF2E1186BB1D4C9
+export DIGITALOCEAN_TOKEN=62329ce9e4d6e751f86c9e50c4336e11cca6113be76821c51f186ec44da00a84
 
 source ~/.bin/myaliases
 source ~/.bin/myfunctions
 source ~/.bin/mysoftwares
 
+#color_reset='\[\e[m\]'
+#color_brackets='\[\e[1;38;5;015m\]' #white
+#color_user='\[\e[1;38;5;010m\]' #green
+#color_host='\[\e[1;38;5;005m\]' #purple
+#color_wd='\[\e[1;38;5;222m\]' #yellow
+#PS1=$color_brackets'['$color_reset''$color_user'\u'$color_reset''$color_brackets']['$color_reset''$color_host'\h'$color_reset''$color_brackets']'$color_reset''$color_wd' \w \$ '$color_reset
+
 color_reset='\[\e[m\]'
-color_brackets='\[\e[1;38;5;015m\]' #white
-color_user='\[\e[1;38;5;010m\]' #green
-color_host='\[\e[1;38;5;005m\]' #purple
-color_wd='\[\e[1;38;5;222m\]' #yellow
-PS1=$color_brackets'['$color_reset''$color_user'\u'$color_reset''$color_brackets']['$color_reset''$color_host'\h'$color_reset''$color_brackets']'$color_reset''$color_wd' \w \$ '$color_reset
+color_brackets='\[\e[1;48;5;214;38;5;015m\]' # white bold on orange
+color_user='\[\e[1;48;5;010;38;5;015m\]' # white on green
+color_host='\[\e[1;48;5;214;38;5;105m\]' # blue on orange
+color_wd='\[\e[1;48;5;105;38;5;222m\]' # yellow on blue
+PS1=$color_user' \u '$color_reset''$color_brackets' ['$color_reset''$color_host'\h'$color_reset''$color_brackets'] '$color_reset''$color_wd' \w > '$color_reset' '

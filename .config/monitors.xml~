@@ -13,9 +13,9 @@
           <serial>0x01010101</serial>
         </monitorspec>
         <mode>
-          <width>1280</width>
-          <height>1024</height>
-          <rate>85.024101257324219</rate>
+          <width>1024</width>
+          <height>768</height>
+          <rate>84.996688842773438</rate>
         </mode>
       </monitor>
       <monitor>
@@ -26,9 +26,9 @@
           <serial>0x00000000</serial>
         </monitorspec>
         <mode>
-          <width>1280</width>
-          <height>1024</height>
-          <rate>60.019741058349609</rate>
+          <width>1024</width>
+          <height>768</height>
+          <rate>120.07466888427734</rate>
         </mode>
       </monitor>
     </logicalmonitor>

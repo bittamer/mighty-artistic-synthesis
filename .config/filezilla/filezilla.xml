@@ -56,7 +56,7 @@
 		<Setting name="Auto Ascii no extension">1</Setting>
 		<Setting name="Auto Ascii dotfiles">1</Setting>
 		<Setting name="Language Code" />
-		<Setting name="Last Server Path">1 0 4 DCIM 6 Camera</Setting>
+		<Setting name="Last Server Path">1 0 11 public_html</Setting>
 		<Setting name="Concurrent download limit">0</Setting>
 		<Setting name="Concurrent upload limit">0</Setting>
 		<Setting name="Update Check">1</Setting>
@@ -76,14 +76,14 @@
 		<Setting name="Show Tree Remote">1</Setting>
 		<Setting name="File Pane Layout">0</Setting>
 		<Setting name="File Pane Swap">0</Setting>
-		<Setting name="Last local directory">/home/hubbi/</Setting>
+		<Setting name="Last local directory">/home/hubbi/.public_html/aptfi/</Setting>
 		<Setting name="Filelist directory sort">0</Setting>
 		<Setting name="Filelist name sort">1</Setting>
 		<Setting name="Queue successful autoclear">0</Setting>
 		<Setting name="Queue column widths">205 60 316 80 60 150</Setting>
-		<Setting name="Local filelist colwidths">120 80 100 120</Setting>
+		<Setting name="Local filelist colwidths">289 80 100 120</Setting>
 		<Setting name="Remote filelist colwidths">240 75 80 100 80 80</Setting>
-		<Setting name="Window position and size">1 139 65 1352 776 </Setting>
+		<Setting name="Window position and size">0 292 100 1352 776 </Setting>
 		<Setting name="Splitter positions (v2)">97 -231 500000000 233 171 500000000</Setting>
 		<Setting name="Local filelist sortorder">0 0</Setting>
 		<Setting name="Remote filelist sortorder">0 0</Setting>
@@ -97,11 +97,11 @@
 		<Setting name="Custom file associations" />
 		<Setting name="Comparison mode">1</Setting>
 		<Setting name="Comparison threshold">1</Setting>
-		<Setting name="Site Manager position">0 401 240 754 556 </Setting>
+		<Setting name="Site Manager position">0 591 256 754 556 </Setting>
 		<Setting name="Icon theme">default</Setting>
 		<Setting name="Icon scale">125</Setting>
 		<Setting name="Timestamp in message log">0</Setting>
-		<Setting name="Sitemanager last selected" />
+		<Setting name="Sitemanager last selected">0/APTFI</Setting>
 		<Setting name="Local filelist shown columns">1111</Setting>
 		<Setting name="Remote filelist shown columns">111111</Setting>
 		<Setting name="Local filelist column order">0,1,2,3</Setting>
@@ -110,7 +110,7 @@
 		<Setting name="Filter toggle state">0</Setting>
 		<Setting name="Show quickconnect bar">1</Setting>
 		<Setting name="Messagelog position">0</Setting>
-		<Setting name="Last connected site" />
+		<Setting name="Last connected site">0/APTFI</Setting>
 		<Setting name="File doubleclock action">0</Setting>
 		<Setting name="Dir doubleclock action">0</Setting>
 		<Setting name="Minimize to tray">0</Setting>
@@ -143,16 +143,19 @@
 		<Setting name="Disable update check">0</Setting>
 		<Setting name="Cache directory" />
 		<LastServer>
-			<Host>167.205.68.237</Host>
-			<Port>3721</Port>
+			<Host>ftp.aptfi.or.id</Host>
+			<Port>21</Port>
 			<Protocol>0</Protocol>
 			<Type>0</Type>
-			<Logontype>0</Logontype>
+			<User>h1405003</User>
+			<Pass encoding="base64">RmVsdUNpYTE0MDVDcGFuZWxhcHRmaQ==</Pass>
+			<Logontype>1</Logontype>
 			<TimezoneOffset>0</TimezoneOffset>
 			<PasvMode>MODE_DEFAULT</PasvMode>
 			<MaximumMultipleConnections>0</MaximumMultipleConnections>
 			<EncodingType>Auto</EncodingType>
 			<BypassProxy>0</BypassProxy>
+			<Name>APTFI</Name>
 		</LastServer>
 	</Settings>
 </FileZilla3>

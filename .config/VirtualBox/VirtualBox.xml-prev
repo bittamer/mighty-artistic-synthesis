@@ -19,12 +19,12 @@
       <ExtraDataItem name="GUI/RecentFolderHD" value="/home/hubbi/Misc/VirtualBoxVM/Win7"/>
       <ExtraDataItem name="GUI/RecentListCD" value="/home/hubbi/Misc/VirtualBoxVM/VBoxGuestAdditions_5.1.30.iso,/home/hubbi/Misc/OS/Fedora/Fedora-Workstation-Live-x86_64-27-1.6.iso"/>
       <ExtraDataItem name="GUI/RecentListHD" value="/home/hubbi/Misc/VirtualBoxVM/Win7/Win7.vdi"/>
-      <ExtraDataItem name="GUI/SplitterSizes" value="309,701"/>
+      <ExtraDataItem name="GUI/SplitterSizes" value="308,699"/>
       <ExtraDataItem name="GUI/SuppressMessages" value="remindAboutAutoCapture,confirmInputCapture,remindAboutMouseIntegration,confirmGoingFullscreen"/>
+      <ExtraDataItem name="GUI/Toolbar/MachineTools/Order" value="Details"/>
     </ExtraData>
     <MachineRegistry>
       <MachineEntry uuid="{1e28c905-1c3d-443c-8050-ce733157c83c}" src="/home/hubbi/Misc/VirtualBoxVM/Win7/Win7.vbox"/>
-      <MachineEntry uuid="{6a02a070-c969-446f-872e-6a79ecdb4fe4}" src="/home/hubbi/Misc/VirtualBoxVM/Fed/Fed.vbox"/>
     </MachineRegistry>
     <NetserviceRegistry>
       <DHCPServers>

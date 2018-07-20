@@ -1,3 +1,3 @@
 # This file is created by ibus-daemon, please do not modify it
-IBUS_ADDRESS=unix:abstract=/tmp/dbus-gS32PWDS,guid=433026d1e95435361b82b4395b06ca27
-IBUS_DAEMON_PID=2401
+IBUS_ADDRESS=unix:abstract=/tmp/dbus-6OTrIVav,guid=9c205cd7576ca396dae77e535b4374b4
+IBUS_DAEMON_PID=4217

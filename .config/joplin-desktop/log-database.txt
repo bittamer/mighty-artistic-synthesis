@@ -1661,3 +1661,700 @@ FetchError: request to https://api.ipify.org/?format=json failed, reason: read E
 2018-05-26 15:41:30: "Settings have been saved."
 2018-05-27 02:53:43: "Saving settings..."
 2018-05-27 02:53:43: "Settings have been saved."
+2018-05-28 00:27:21: "Saving settings..."
+2018-05-28 00:27:21: "Settings have been saved."
+2018-05-28 00:27:24: "Saving settings..."
+2018-05-28 00:27:24: "Settings have been saved."
+2018-05-28 00:34:53: "Saving settings..."
+2018-05-28 00:34:53: "Settings have been saved."
+2018-05-28 14:10:40: "Saving settings..."
+2018-05-28 14:10:40: "Settings have been saved."
+2018-05-28 14:10:51: "Fetching geolocation..."
+2018-05-28 14:11:38: "Could not get lat/long for note 2b07457e3a7a4062bc37692a9bc6d1a4: ", "FetchError: request to https://api.ipify.org/?format=json failed, reason: read ECONNRESET
+Code: ECONNRESET
+FetchError: request to https://api.ipify.org/?format=json failed, reason: read ECONNRESET
+    at ClientRequest.<anonymous> (/tmp/.mount_Joplinv3bxMg/app/resources/app/node_modules/node-fetch/index.js:133:11)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:191:7)
+    at TLSSocket.socketErrorListener (_http_client.js:358:9)
+    at emitOne (events.js:96:13)
+    at TLSSocket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1283:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)"
+2018-05-28 14:16:16: "Fetching geolocation..."
+2018-05-28 14:17:03: "Could not get lat/long for note 6e76f4a8a6224d048c75253ea21923f9: ", "FetchError: request to https://api.ipify.org/?format=json failed, reason: read ECONNRESET
+Code: ECONNRESET
+FetchError: request to https://api.ipify.org/?format=json failed, reason: read ECONNRESET
+    at ClientRequest.<anonymous> (/tmp/.mount_Joplinv3bxMg/app/resources/app/node_modules/node-fetch/index.js:133:11)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:191:7)
+    at TLSSocket.socketErrorListener (_http_client.js:358:9)
+    at emitOne (events.js:96:13)
+    at TLSSocket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1283:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)"
+2018-05-28 14:18:29: "Saving settings..."
+2018-05-28 14:18:30: "Settings have been saved."
+2018-05-28 14:19:51: "Saving settings..."
+2018-05-28 14:19:51: "Settings have been saved."
+2018-05-28 14:19:53: "Fetching geolocation..."
+2018-05-28 14:20:41: "Could not get lat/long for note b467842c6851477abb45e71f575a167a: ", "FetchError: request to https://api.ipify.org/?format=json failed, reason: read ECONNRESET
+Code: ECONNRESET
+FetchError: request to https://api.ipify.org/?format=json failed, reason: read ECONNRESET
+    at ClientRequest.<anonymous> (/tmp/.mount_Joplinv3bxMg/app/resources/app/node_modules/node-fetch/index.js:133:11)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:191:7)
+    at TLSSocket.socketErrorListener (_http_client.js:358:9)
+    at emitOne (events.js:96:13)
+    at TLSSocket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1283:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)"
+2018-05-28 14:20:54: "Saving settings..."
+2018-05-28 14:20:54: "Settings have been saved."
+2018-05-28 14:21:01: "Saving settings..."
+2018-05-28 14:21:01: "Settings have been saved."
+2018-05-28 14:21:08: "Saving settings..."
+2018-05-28 14:21:08: "Settings have been saved."
+2018-05-28 20:20:27: "Saving settings..."
+2018-05-28 20:20:28: "Settings have been saved."
+2018-05-28 21:07:33: "Saving settings..."
+2018-05-28 21:07:34: "Settings have been saved."
+2018-05-28 21:07:36: "Fetching geolocation..."
+2018-05-28 21:07:39: "Got lat/long"
+2018-05-28 21:07:39: "Updating lat/long of note 9c0a21093ae043708d82ab3236a3c8bb"
+2018-05-28 21:07:56: "Saving settings..."
+2018-05-28 21:07:57: "Settings have been saved."
+2018-05-28 21:15:03: "Saving settings..."
+2018-05-28 21:15:04: "Settings have been saved."
+2018-05-28 21:30:03: "Saving settings..."
+2018-05-28 21:30:03: "Settings have been saved."
+2018-05-28 21:35:55: "Saving settings..."
+2018-05-28 21:35:56: "Settings have been saved."
+2018-05-28 21:39:18: "Saving settings..."
+2018-05-28 21:39:18: "Settings have been saved."
+2018-06-01 21:36:40: "Database was open successfully"
+2018-06-01 21:36:40: "Checking for database schema update..."
+2018-06-01 21:36:40: "Current database version", "12"
+2018-06-01 21:36:42: "Saving settings..."
+2018-06-01 21:36:43: "Settings have been saved."
+2018-06-01 21:37:35: "Saving settings..."
+2018-06-01 21:37:35: "Settings have been saved."
+2018-06-01 21:37:37: "Saving settings..."
+2018-06-01 21:37:37: "Settings have been saved."
+2018-06-01 21:37:39: "Fetching geolocation..."
+2018-06-01 21:37:41: "Got lat/long"
+2018-06-01 21:37:41: "Updating lat/long of note 771cfda2bcdc4005ac2fe447bb2c4f2d"
+2018-06-01 21:51:54: "Saving settings..."
+2018-06-01 21:51:54: "Settings have been saved."
+2018-06-02 00:08:39: "Saving settings..."
+2018-06-02 00:08:40: "Settings have been saved."
+2018-06-02 00:13:09: "Saving settings..."
+2018-06-02 00:13:10: "Settings have been saved."
+2018-06-02 00:13:17: "Fetching geolocation..."
+2018-06-02 00:13:19: "Got lat/long"
+2018-06-02 00:13:19: "Updating lat/long of note d30f494a42c64686af16289d137911d3"
+2018-06-02 00:13:24: "Saving settings..."
+2018-06-02 00:13:24: "Settings have been saved."
+2018-06-02 00:15:44: "Saving settings..."
+2018-06-02 00:15:44: "Settings have been saved."
+2018-06-02 11:55:48: "Database was open successfully"
+2018-06-02 11:55:48: "Checking for database schema update..."
+2018-06-02 11:55:48: "Current database version", "12"
+2018-06-02 11:56:11: "Saving settings..."
+2018-06-02 11:56:11: "Settings have been saved."
+2018-06-03 21:09:07: "Saving settings..."
+2018-06-03 21:09:07: "Settings have been saved."
+2018-06-03 21:29:46: "Saving settings..."
+2018-06-03 21:29:46: "Settings have been saved."
+2018-06-04 01:11:42: "Saving settings..."
+2018-06-04 01:11:42: "Settings have been saved."
+2018-06-04 03:20:43: "Saving settings..."
+2018-06-04 03:20:44: "Settings have been saved."
+2018-06-04 14:49:36: "Saving settings..."
+2018-06-04 14:49:36: "Settings have been saved."
+2018-06-04 15:37:50: "Saving settings..."
+2018-06-04 15:37:50: "Settings have been saved."
+2018-06-04 16:12:19: "Saving settings..."
+2018-06-04 16:12:19: "Settings have been saved."
+2018-06-04 16:39:37: "Saving settings..."
+2018-06-04 16:39:37: "Settings have been saved."
+2018-06-04 18:53:25: "Saving settings..."
+2018-06-04 18:53:25: "Settings have been saved."
+2018-06-04 19:10:36: "Saving settings..."
+2018-06-04 19:10:36: "Settings have been saved."
+2018-06-04 21:12:20: "Saving settings..."
+2018-06-04 21:12:20: "Settings have been saved."
+2018-06-06 21:23:43: "Database was open successfully"
+2018-06-06 21:23:43: "Checking for database schema update..."
+2018-06-06 21:23:43: "Current database version", "12"
+2018-06-06 21:23:45: "Saving settings..."
+2018-06-06 21:23:45: "Settings have been saved."
+2018-06-06 21:27:45: "Saving settings..."
+2018-06-06 21:27:45: "Settings have been saved."
+2018-06-06 21:27:49: "Saving settings..."
+2018-06-06 21:27:49: "Settings have been saved."
+2018-06-06 21:28:09: "Saving settings..."
+2018-06-06 21:28:10: "Settings have been saved."
+2018-06-06 21:35:47: "Saving settings..."
+2018-06-06 21:35:47: "Settings have been saved."
+2018-06-07 18:42:47: "Saving settings..."
+2018-06-07 18:42:47: "Settings have been saved."
+2018-06-07 18:42:48: "Saving settings..."
+2018-06-07 18:42:48: "Settings have been saved."
+2018-06-07 18:53:24: "Saving settings..."
+2018-06-07 18:53:24: "Settings have been saved."
+2018-06-07 18:54:57: "Saving settings..."
+2018-06-07 18:54:58: "Settings have been saved."
+2018-06-07 18:55:07: "Fetching geolocation..."
+2018-06-07 18:55:09: "Got lat/long"
+2018-06-07 18:55:09: "Updating lat/long of note e3dd5ba2cb4e4e3eb686629716f94855"
+2018-06-07 18:55:26: "Saving settings..."
+2018-06-07 18:55:26: "Settings have been saved."
+2018-06-07 18:55:27: "Saving settings..."
+2018-06-07 18:55:27: "Settings have been saved."
+2018-06-07 19:01:58: "Updating lat/long of note 133b772935c34ca2957ecd2de32417e7"
+2018-06-07 19:03:36: "Updating lat/long of note 1f59a5aa30af4805b5b2ece7c794a93f"
+2018-06-07 19:03:39: "Updating lat/long of note a3c612f6fffc4de5a614309996a5d205"
+2018-06-07 19:05:04: "Saving settings..."
+2018-06-07 19:05:04: "Settings have been saved."
+2018-06-07 19:12:16: "Saving settings..."
+2018-06-07 19:12:16: "Settings have been saved."
+2018-06-07 20:07:23: "Fetching geolocation..."
+2018-06-07 20:07:25: "Got lat/long"
+2018-06-07 20:07:25: "Updating lat/long of note c4ea304ef1644661af74c3cc6ec7c6d4"
+2018-06-07 20:07:31: "Saving settings..."
+2018-06-07 20:07:32: "Settings have been saved."
+2018-06-07 20:10:50: "Saving settings..."
+2018-06-07 20:10:50: "Settings have been saved."
+2018-06-07 20:18:30: "Saving settings..."
+2018-06-07 20:18:30: "Settings have been saved."
+2018-06-07 20:24:57: "Fetching geolocation..."
+2018-06-07 20:24:58: "Saving settings..."
+2018-06-07 20:24:59: "Settings have been saved."
+2018-06-07 20:25:00: "Got lat/long"
+2018-06-07 20:25:00: "Updating lat/long of note debda357c75b4182be5d02a784270121"
+2018-06-07 21:55:47: "Saving settings..."
+2018-06-07 21:55:50: "Settings have been saved."
+2018-06-07 21:55:51: "Saving settings..."
+2018-06-07 21:55:52: "Settings have been saved."
+2018-06-13 23:02:34: "Database was open successfully"
+2018-06-13 23:02:34: "Checking for database schema update..."
+2018-06-13 23:02:34: "Current database version", "12"
+2018-06-13 23:02:36: "Saving settings..."
+2018-06-13 23:02:36: "Settings have been saved."
+2018-06-13 23:02:49: "Saving settings..."
+2018-06-13 23:02:49: "Settings have been saved."
+2018-06-13 23:02:55: "Fetching geolocation..."
+2018-06-13 23:02:57: "Got lat/long"
+2018-06-13 23:02:57: "Updating lat/long of note 4df1c15596254361988b6e172a0b2a00"
+2018-06-13 23:13:53: "Saving settings..."
+2018-06-13 23:13:53: "Settings have been saved."
+2018-06-14 10:32:56: "Saving settings..."
+2018-06-14 10:32:56: "Settings have been saved."
+2018-06-14 10:56:42: "Saving settings..."
+2018-06-14 10:56:42: "Settings have been saved."
+2018-06-14 10:57:43: "Saving settings..."
+2018-06-14 10:57:43: "Settings have been saved."
+2018-06-14 10:57:48: "Saving settings..."
+2018-06-14 10:57:48: "Settings have been saved."
+2018-06-14 11:04:39: "Saving settings..."
+2018-06-14 11:04:39: "Settings have been saved."
+2018-06-19 23:29:01: "Database was open successfully"
+2018-06-19 23:29:01: "Checking for database schema update..."
+2018-06-19 23:29:01: "Current database version", "12"
+2018-06-19 23:29:08: "Saving settings..."
+2018-06-19 23:29:08: "Settings have been saved."
+2018-06-21 10:52:21: "Database was open successfully"
+2018-06-21 10:52:21: "Checking for database schema update..."
+2018-06-21 10:52:21: "Current database version", "12"
+2018-06-21 10:52:22: "Saving settings..."
+2018-06-21 10:52:23: "Settings have been saved."
+2018-06-21 10:52:31: "Fetching geolocation..."
+2018-06-21 10:52:32: "Waiting for geolocation update..."
+2018-06-21 10:52:33: "Waiting for geolocation update..."
+2018-06-21 10:52:34: "Waiting for geolocation update..."
+2018-06-21 10:52:35: "Waiting for geolocation update..."
+2018-06-21 10:52:36: "Got lat/long"
+2018-06-21 10:52:36: "Updating lat/long of note b76468ff526548a789b8dca90c84d9ef"
+2018-06-21 10:52:36: "Updating lat/long of note e70a67b9fea741f28a2eea6e06fa85a4"
+2018-06-21 10:52:40: "Saving settings..."
+2018-06-21 10:52:40: "Settings have been saved."
+2018-06-21 10:53:18: "Saving settings..."
+2018-06-21 10:53:18: "Settings have been saved."
+2018-06-21 10:53:19: "Saving settings..."
+2018-06-21 10:53:19: "Settings have been saved."
+2018-06-21 10:53:23: "Saving settings..."
+2018-06-21 10:53:23: "Settings have been saved."
+2018-06-21 10:59:35: "Saving settings..."
+2018-06-21 10:59:36: "Settings have been saved."
+2018-06-21 11:06:49: "Saving settings..."
+2018-06-21 11:06:49: "Settings have been saved."
+2018-06-21 11:15:19: "Saving settings..."
+2018-06-21 11:15:19: "Settings have been saved."
+2018-06-21 22:18:50: "Saving settings..."
+2018-06-21 22:18:50: "Settings have been saved."
+2018-06-21 22:19:23: "Saving settings..."
+2018-06-21 22:19:23: "Settings have been saved."
+2018-06-26 14:23:33: "Database was open successfully"
+2018-06-26 14:23:33: "Checking for database schema update..."
+2018-06-26 14:23:33: "Current database version", "12"
+2018-06-26 14:23:36: "Saving settings..."
+2018-06-26 14:23:36: "Settings have been saved."
+2018-06-26 14:23:46: "Saving settings..."
+2018-06-26 14:23:46: "Settings have been saved."
+2018-06-26 14:52:39: "Saving settings..."
+2018-06-26 14:52:39: "Settings have been saved."
+2018-06-26 14:53:46: "Saving settings..."
+2018-06-26 14:53:46: "Settings have been saved."
+2018-06-26 14:54:31: "Saving settings..."
+2018-06-26 14:54:31: "Settings have been saved."
+2018-06-26 14:59:51: "Saving settings..."
+2018-06-26 14:59:52: "Settings have been saved."
+2018-06-26 15:34:57: "Saving settings..."
+2018-06-26 15:34:57: "Settings have been saved."
+2018-06-26 15:38:14: "Saving settings..."
+2018-06-26 15:38:14: "Settings have been saved."
+2018-06-26 15:43:44: "Saving settings..."
+2018-06-26 15:43:44: "Settings have been saved."
+2018-06-26 23:06:59: "Saving settings..."
+2018-06-26 23:06:59: "Settings have been saved."
+2018-06-26 23:07:05: "Fetching geolocation..."
+2018-06-26 23:07:07: "Got lat/long"
+2018-06-26 23:07:07: "Updating lat/long of note b20b8b21ea2b4fbb8ee8074481341022"
+2018-06-26 23:07:17: "Saving settings..."
+2018-06-26 23:07:17: "Settings have been saved."
+2018-06-26 23:07:38: "Saving settings..."
+2018-06-26 23:07:38: "Settings have been saved."
+2018-06-26 23:07:39: "Saving settings..."
+2018-06-26 23:07:39: "Settings have been saved."
+2018-06-26 23:13:07: "Saving settings..."
+2018-06-26 23:13:08: "Settings have been saved."
+2018-06-27 10:05:19: "Database was open successfully"
+2018-06-27 10:05:19: "Checking for database schema update..."
+2018-06-27 10:05:19: "Current database version", "12"
+2018-06-27 10:05:26: "Saving settings..."
+2018-06-27 10:05:27: "Settings have been saved."
+2018-06-27 21:49:27: "Saving settings..."
+2018-06-27 21:49:27: "Settings have been saved."
+2018-06-27 21:49:28: "Fetching geolocation..."
+2018-06-27 21:49:31: "Got lat/long"
+2018-06-27 21:49:31: "Updating lat/long of note 01f9fb6164634327891ecb6541f638b5"
+2018-06-27 21:49:47: "Saving settings..."
+2018-06-27 21:49:47: "Settings have been saved."
+2018-06-27 21:49:48: "Saving settings..."
+2018-06-27 21:49:49: "Settings have been saved."
+2018-06-27 21:50:23: "Saving settings..."
+2018-06-27 21:50:23: "Settings have been saved."
+2018-06-27 21:51:00: "Saving settings..."
+2018-06-27 21:51:00: "Settings have been saved."
+2018-06-27 21:56:25: "Saving settings..."
+2018-06-27 21:56:25: "Settings have been saved."
+2018-06-28 12:20:39: "Database was open successfully"
+2018-06-28 12:20:39: "Checking for database schema update..."
+2018-06-28 12:20:39: "Current database version", "12"
+2018-06-28 12:20:41: "Saving settings..."
+2018-06-28 12:20:41: "Settings have been saved."
+2018-06-28 15:39:11: "Saving settings..."
+2018-06-28 15:39:12: "Settings have been saved."
+2018-06-28 15:39:16: "Fetching geolocation..."
+2018-06-28 15:39:19: "Saving settings..."
+2018-06-28 15:39:19: "Settings have been saved."
+2018-06-28 15:40:03: "Could not get lat/long for note 4d44fd6aec544c409f814a34e46eaa8d: ", "FetchError: request to https://api.ipify.org/?format=json failed, reason: read ECONNRESET
+Code: ECONNRESET
+FetchError: request to https://api.ipify.org/?format=json failed, reason: read ECONNRESET
+    at ClientRequest.<anonymous> (/tmp/.mount_Joplinfd8BkU/app/resources/app/node_modules/node-fetch/index.js:133:11)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:191:7)
+    at TLSSocket.socketErrorListener (_http_client.js:358:9)
+    at emitOne (events.js:96:13)
+    at TLSSocket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1283:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)"
+2018-06-28 15:40:06: "Saving settings..."
+2018-06-28 15:40:06: "Settings have been saved."
+2018-06-28 15:48:53: "Saving settings..."
+2018-06-28 15:48:53: "Settings have been saved."
+2018-06-28 15:48:58: "Saving settings..."
+2018-06-28 15:48:58: "Settings have been saved."
+2018-06-28 15:50:39: "Saving settings..."
+2018-06-28 15:50:39: "Settings have been saved."
+2018-06-28 15:56:18: "Saving settings..."
+2018-06-28 15:56:18: "Settings have been saved."
+2018-06-28 16:01:17: "Saving settings..."
+2018-06-28 16:01:17: "Settings have been saved."
+2018-06-28 22:57:54: "Saving settings..."
+2018-06-28 22:57:54: "Settings have been saved."
+2018-06-28 22:58:16: "Saving settings..."
+2018-06-28 22:58:16: "Settings have been saved."
+2018-06-28 22:58:25: "Saving settings..."
+2018-06-28 22:58:25: "Settings have been saved."
+2018-06-28 22:58:49: "Saving settings..."
+2018-06-28 22:58:49: "Settings have been saved."
+2018-06-28 22:58:51: "Saving settings..."
+2018-06-28 22:58:51: "Settings have been saved."
+2018-06-28 22:58:55: "Saving settings..."
+2018-06-28 22:58:56: "Settings have been saved."
+2018-06-28 22:59:01: "Saving settings..."
+2018-06-28 22:59:01: "Settings have been saved."
+2018-06-29 17:32:42: "Saving settings..."
+2018-06-29 17:32:42: "Settings have been saved."
+2018-06-29 17:33:01: "Saving settings..."
+2018-06-29 17:33:01: "Settings have been saved."
+2018-06-29 17:33:30: "Saving settings..."
+2018-06-29 17:33:30: "Settings have been saved."
+2018-06-29 17:38:57: "Saving settings..."
+2018-06-29 17:38:57: "Settings have been saved."
+2018-06-30 10:58:43: "Database was open successfully"
+2018-06-30 10:58:43: "Checking for database schema update..."
+2018-06-30 10:58:43: "Current database version", "12"
+2018-06-30 10:58:45: "Saving settings..."
+2018-06-30 10:58:45: "Settings have been saved."
+2018-06-30 10:58:47: "Saving settings..."
+2018-06-30 10:58:47: "Settings have been saved."
+2018-06-30 10:58:52: "Saving settings..."
+2018-06-30 10:58:53: "Settings have been saved."
+2018-06-30 10:58:54: "Fetching geolocation..."
+2018-06-30 10:58:55: "Saving settings..."
+2018-06-30 10:58:55: "Got lat/long"
+2018-06-30 10:58:55: "Updating lat/long of note f8620405089445ba8cdaa178487753c2"
+2018-06-30 10:58:56: "Settings have been saved."
+2018-06-30 10:59:51: "Saving settings..."
+2018-06-30 10:59:52: "Settings have been saved."
+2018-06-30 11:05:13: "Saving settings..."
+2018-06-30 11:05:13: "Settings have been saved."
+2018-07-06 17:21:12: "Database was open successfully"
+2018-07-06 17:21:12: "Checking for database schema update..."
+2018-07-06 17:21:12: "Current database version", "12"
+2018-07-06 17:21:14: "Saving settings..."
+2018-07-06 17:21:14: "Settings have been saved."
+2018-07-06 17:21:19: "Saving settings..."
+2018-07-06 17:21:19: "Saving settings..."
+2018-07-06 17:21:19: "Settings have been saved."
+2018-07-06 17:21:19: "Settings have been saved."
+2018-07-06 17:21:20: "Saving settings..."
+2018-07-06 17:21:20: "Settings have been saved."
+2018-07-11 13:21:39: "Database was open successfully"
+2018-07-11 13:21:39: "Checking for database schema update..."
+2018-07-11 13:21:39: "Current database version", "12"
+2018-07-11 13:21:41: "Saving settings..."
+2018-07-11 13:21:41: "Settings have been saved."
+2018-07-11 13:24:47: "Fetching geolocation..."
+2018-07-11 13:24:50: "Could not get lat/long for note 31fb07469eea468dbaa26093559fa30a: ", "Error: Could not get geolocation: {
+  "0": "#################################################################################################################################",
+  "1": "#                                                                                                                               #",
+  "2": "# IMPORTANT - PLEASE UPDATE YOUR API ENDPOINT                                                                                   #",
+  "3": "#                                                                                                                               #",
+  "4": "# This API endpoint is deprecated and has now been shut down. To keep using the freegeoip API, please update your integration   #",
+  "5": "# to use the new ipstack API endpoint, designed as a simple drop-in replacement.                                                #",
+  "6": "# You will be required to create an account at https://ipstack.com and obtain an API access key.                                #",
+  "7": "#                                                                                                                               #",
+  "8": "# For more information on how to upgrade please visit our Github Tutorial at: https://github.com/apilayer/freegeoip#readme      #",
+  "9": "#                                                                                                                               #",
+  "a": "#################################################################################################################################"
+}
+Error: Could not get geolocation: {
+  "0": "#################################################################################################################################",
+  "1": "#                                                                                                                               #",
+  "2": "# IMPORTANT - PLEASE UPDATE YOUR API ENDPOINT                                                                                   #",
+  "3": "#                                                                                                                               #",
+  "4": "# This API endpoint is deprecated and has now been shut down. To keep using the freegeoip API, please update your integration   #",
+  "5": "# to use the new ipstack API endpoint, designed as a simple drop-in replacement.                                                #",
+  "6": "# You will be required to create an account at https://ipstack.com and obtain an API access key.                                #",
+  "7": "#                                                                                                                               #",
+  "8": "# For more information on how to upgrade please visit our Github Tutorial at: https://github.com/apilayer/freegeoip#readme      #",
+  "9": "#                                                                                                                               #",
+  "a": "#################################################################################################################################"
+}
+    at Function.currentPosition (/tmp/.mount_JoplinYsBnx2/app/resources/app/lib/geolocation-node.js:12:27)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:109:7)"
+2018-07-11 13:24:55: "Saving settings..."
+2018-07-11 13:24:55: "Settings have been saved."
+2018-07-11 13:25:52: "Saving settings..."
+2018-07-11 13:25:52: "Settings have been saved."
+2018-07-12 21:34:29: "Database was open successfully"
+2018-07-12 21:34:29: "Checking for database schema update..."
+2018-07-12 21:34:29: "Current database version", "12"
+2018-07-12 21:34:31: "Saving settings..."
+2018-07-12 21:34:31: "Settings have been saved."
+2018-07-12 21:34:39: "Fetching geolocation..."
+2018-07-12 21:34:41: "Could not get lat/long for note bb3536eb50bb4c04ae2b658fe592986a: ", "Error: Could not get geolocation: {
+  "0": "#################################################################################################################################",
+  "1": "#                                                                                                                               #",
+  "2": "# IMPORTANT - PLEASE UPDATE YOUR API ENDPOINT                                                                                   #",
+  "3": "#                                                                                                                               #",
+  "4": "# This API endpoint is deprecated and has now been shut down. To keep using the freegeoip API, please update your integration   #",
+  "5": "# to use the new ipstack API endpoint, designed as a simple drop-in replacement.                                                #",
+  "6": "# You will be required to create an account at https://ipstack.com and obtain an API access key.                                #",
+  "7": "#                                                                                                                               #",
+  "8": "# For more information on how to upgrade please visit our Github Tutorial at: https://github.com/apilayer/freegeoip#readme      #",
+  "9": "#                                                                                                                               #",
+  "a": "#################################################################################################################################"
+}
+Error: Could not get geolocation: {
+  "0": "#################################################################################################################################",
+  "1": "#                                                                                                                               #",
+  "2": "# IMPORTANT - PLEASE UPDATE YOUR API ENDPOINT                                                                                   #",
+  "3": "#                                                                                                                               #",
+  "4": "# This API endpoint is deprecated and has now been shut down. To keep using the freegeoip API, please update your integration   #",
+  "5": "# to use the new ipstack API endpoint, designed as a simple drop-in replacement.                                                #",
+  "6": "# You will be required to create an account at https://ipstack.com and obtain an API access key.                                #",
+  "7": "#                                                                                                                               #",
+  "8": "# For more information on how to upgrade please visit our Github Tutorial at: https://github.com/apilayer/freegeoip#readme      #",
+  "9": "#                                                                                                                               #",
+  "a": "#################################################################################################################################"
+}
+    at Function.currentPosition (/tmp/.mount_Joplin8yD4oH/app/resources/app/lib/geolocation-node.js:12:27)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:109:7)"
+2018-07-12 21:42:20: "Saving settings..."
+2018-07-12 21:42:20: "Settings have been saved."
+2018-07-12 21:46:26: "Database was open successfully"
+2018-07-12 21:46:26: "Checking for database schema update..."
+2018-07-12 21:46:26: "Current database version", "12"
+2018-07-12 21:46:28: "Saving settings..."
+2018-07-12 21:46:28: "Settings have been saved."
+2018-07-12 21:46:32: "Saving settings..."
+2018-07-12 21:46:32: "Settings have been saved."
+2018-07-12 21:46:40: "Saving settings..."
+2018-07-12 21:46:40: "Settings have been saved."
+2018-07-12 21:46:41: "Saving settings..."
+2018-07-12 21:46:41: "Settings have been saved."
+2018-07-12 21:48:57: "Saving settings..."
+2018-07-12 21:48:57: "Settings have been saved."
+2018-07-12 21:50:32: "Database was open successfully"
+2018-07-12 21:50:32: "Checking for database schema update..."
+2018-07-12 21:50:32: "Current database version", "12"
+2018-07-12 21:50:33: "Saving settings..."
+2018-07-12 21:50:33: "Settings have been saved."
+2018-07-12 21:51:17: "Saving settings..."
+2018-07-12 21:51:18: "Settings have been saved."
+2018-07-12 21:51:28: "Saving settings..."
+2018-07-12 21:51:28: "Settings have been saved."
+2018-07-12 21:51:31: "Fetching geolocation..."
+2018-07-12 21:51:34: "Could not get lat/long for note c39b476f35654691934e033d8b512a52: ", "Error: Could not get geolocation: {
+  "0": "#################################################################################################################################",
+  "1": "#                                                                                                                               #",
+  "2": "# IMPORTANT - PLEASE UPDATE YOUR API ENDPOINT                                                                                   #",
+  "3": "#                                                                                                                               #",
+  "4": "# This API endpoint is deprecated and has now been shut down. To keep using the freegeoip API, please update your integration   #",
+  "5": "# to use the new ipstack API endpoint, designed as a simple drop-in replacement.                                                #",
+  "6": "# You will be required to create an account at https://ipstack.com and obtain an API access key.                                #",
+  "7": "#                                                                                                                               #",
+  "8": "# For more information on how to upgrade please visit our Github Tutorial at: https://github.com/apilayer/freegeoip#readme      #",
+  "9": "#                                                                                                                               #",
+  "a": "#################################################################################################################################"
+}
+Error: Could not get geolocation: {
+  "0": "#################################################################################################################################",
+  "1": "#                                                                                                                               #",
+  "2": "# IMPORTANT - PLEASE UPDATE YOUR API ENDPOINT                                                                                   #",
+  "3": "#                                                                                                                               #",
+  "4": "# This API endpoint is deprecated and has now been shut down. To keep using the freegeoip API, please update your integration   #",
+  "5": "# to use the new ipstack API endpoint, designed as a simple drop-in replacement.                                                #",
+  "6": "# You will be required to create an account at https://ipstack.com and obtain an API access key.                                #",
+  "7": "#                                                                                                                               #",
+  "8": "# For more information on how to upgrade please visit our Github Tutorial at: https://github.com/apilayer/freegeoip#readme      #",
+  "9": "#                                                                                                                               #",
+  "a": "#################################################################################################################################"
+}
+    at Function.currentPosition (/tmp/.mount_JoplinXU4CJN/app/resources/app/lib/geolocation-node.js:12:27)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:109:7)"
+2018-07-12 21:51:38: "Saving settings..."
+2018-07-12 21:51:38: "Settings have been saved."
+2018-07-12 21:53:15: "Saving settings..."
+2018-07-12 21:53:15: "Settings have been saved."
+2018-07-12 21:54:46: "Saving settings..."
+2018-07-12 21:54:46: "Settings have been saved."
+2018-07-12 21:54:50: "Fetching geolocation..."
+2018-07-12 21:54:52: "Could not get lat/long for note f15c8336d99949c889d1074aa17939e4: ", "Error: Could not get geolocation: {
+  "0": "#################################################################################################################################",
+  "1": "#                                                                                                                               #",
+  "2": "# IMPORTANT - PLEASE UPDATE YOUR API ENDPOINT                                                                                   #",
+  "3": "#                                                                                                                               #",
+  "4": "# This API endpoint is deprecated and has now been shut down. To keep using the freegeoip API, please update your integration   #",
+  "5": "# to use the new ipstack API endpoint, designed as a simple drop-in replacement.                                                #",
+  "6": "# You will be required to create an account at https://ipstack.com and obtain an API access key.                                #",
+  "7": "#                                                                                                                               #",
+  "8": "# For more information on how to upgrade please visit our Github Tutorial at: https://github.com/apilayer/freegeoip#readme      #",
+  "9": "#                                                                                                                               #",
+  "a": "#################################################################################################################################"
+}
+Error: Could not get geolocation: {
+  "0": "#################################################################################################################################",
+  "1": "#                                                                                                                               #",
+  "2": "# IMPORTANT - PLEASE UPDATE YOUR API ENDPOINT                                                                                   #",
+  "3": "#                                                                                                                               #",
+  "4": "# This API endpoint is deprecated and has now been shut down. To keep using the freegeoip API, please update your integration   #",
+  "5": "# to use the new ipstack API endpoint, designed as a simple drop-in replacement.                                                #",
+  "6": "# You will be required to create an account at https://ipstack.com and obtain an API access key.                                #",
+  "7": "#                                                                                                                               #",
+  "8": "# For more information on how to upgrade please visit our Github Tutorial at: https://github.com/apilayer/freegeoip#readme      #",
+  "9": "#                                                                                                                               #",
+  "a": "#################################################################################################################################"
+}
+    at Function.currentPosition (/tmp/.mount_JoplinXU4CJN/app/resources/app/lib/geolocation-node.js:12:27)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:109:7)"
+2018-07-12 21:55:09: "Saving settings..."
+2018-07-12 21:55:10: "Settings have been saved."
+2018-07-12 22:07:24: "Saving settings..."
+2018-07-12 22:07:24: "Settings have been saved."
+2018-07-12 22:07:35: "Saving settings..."
+2018-07-12 22:07:35: "Settings have been saved."
+2018-07-12 22:07:42: "Fetching geolocation..."
+2018-07-12 22:07:44: "Could not get lat/long for note 68f94220b0aa4f8baaa1e523b84fa4c6: ", "Error: Could not get geolocation: {
+  "0": "#################################################################################################################################",
+  "1": "#                                                                                                                               #",
+  "2": "# IMPORTANT - PLEASE UPDATE YOUR API ENDPOINT                                                                                   #",
+  "3": "#                                                                                                                               #",
+  "4": "# This API endpoint is deprecated and has now been shut down. To keep using the freegeoip API, please update your integration   #",
+  "5": "# to use the new ipstack API endpoint, designed as a simple drop-in replacement.                                                #",
+  "6": "# You will be required to create an account at https://ipstack.com and obtain an API access key.                                #",
+  "7": "#                                                                                                                               #",
+  "8": "# For more information on how to upgrade please visit our Github Tutorial at: https://github.com/apilayer/freegeoip#readme      #",
+  "9": "#                                                                                                                               #",
+  "a": "#################################################################################################################################"
+}
+Error: Could not get geolocation: {
+  "0": "#################################################################################################################################",
+  "1": "#                                                                                                                               #",
+  "2": "# IMPORTANT - PLEASE UPDATE YOUR API ENDPOINT                                                                                   #",
+  "3": "#                                                                                                                               #",
+  "4": "# This API endpoint is deprecated and has now been shut down. To keep using the freegeoip API, please update your integration   #",
+  "5": "# to use the new ipstack API endpoint, designed as a simple drop-in replacement.                                                #",
+  "6": "# You will be required to create an account at https://ipstack.com and obtain an API access key.                                #",
+  "7": "#                                                                                                                               #",
+  "8": "# For more information on how to upgrade please visit our Github Tutorial at: https://github.com/apilayer/freegeoip#readme      #",
+  "9": "#                                                                                                                               #",
+  "a": "#################################################################################################################################"
+}
+    at Function.currentPosition (/tmp/.mount_JoplinXU4CJN/app/resources/app/lib/geolocation-node.js:12:27)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:109:7)"
+2018-07-12 22:07:48: "Saving settings..."
+2018-07-12 22:07:48: "Settings have been saved."
+2018-07-12 22:08:46: "Saving settings..."
+2018-07-12 22:08:47: "Settings have been saved."
+2018-07-12 22:11:06: "Saving settings..."
+2018-07-12 22:11:06: "Settings have been saved."
+2018-07-12 22:11:10: "Fetching geolocation..."
+2018-07-12 22:11:13: "Could not get lat/long for note 9b5233f34242472381f2c6f7fc29c427: ", "Error: Could not get geolocation: {
+  "0": "#################################################################################################################################",
+  "1": "#                                                                                                                               #",
+  "2": "# IMPORTANT - PLEASE UPDATE YOUR API ENDPOINT                                                                                   #",
+  "3": "#                                                                                                                               #",
+  "4": "# This API endpoint is deprecated and has now been shut down. To keep using the freegeoip API, please update your integration   #",
+  "5": "# to use the new ipstack API endpoint, designed as a simple drop-in replacement.                                                #",
+  "6": "# You will be required to create an account at https://ipstack.com and obtain an API access key.                                #",
+  "7": "#                                                                                                                               #",
+  "8": "# For more information on how to upgrade please visit our Github Tutorial at: https://github.com/apilayer/freegeoip#readme      #",
+  "9": "#                                                                                                                               #",
+  "a": "#################################################################################################################################"
+}
+Error: Could not get geolocation: {
+  "0": "#################################################################################################################################",
+  "1": "#                                                                                                                               #",
+  "2": "# IMPORTANT - PLEASE UPDATE YOUR API ENDPOINT                                                                                   #",
+  "3": "#                                                                                                                               #",
+  "4": "# This API endpoint is deprecated and has now been shut down. To keep using the freegeoip API, please update your integration   #",
+  "5": "# to use the new ipstack API endpoint, designed as a simple drop-in replacement.                                                #",
+  "6": "# You will be required to create an account at https://ipstack.com and obtain an API access key.                                #",
+  "7": "#                                                                                                                               #",
+  "8": "# For more information on how to upgrade please visit our Github Tutorial at: https://github.com/apilayer/freegeoip#readme      #",
+  "9": "#                                                                                                                               #",
+  "a": "#################################################################################################################################"
+}
+    at Function.currentPosition (/tmp/.mount_JoplinXU4CJN/app/resources/app/lib/geolocation-node.js:12:27)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:109:7)"
+2018-07-12 22:11:16: "Saving settings..."
+2018-07-12 22:11:16: "Settings have been saved."
+2018-07-12 22:11:29: "Saving settings..."
+2018-07-12 22:11:29: "Settings have been saved."
+2018-07-12 22:12:33: "Saving settings..."
+2018-07-12 22:12:33: "Settings have been saved."
+2018-07-12 22:12:35: "Saving settings..."
+2018-07-12 22:12:36: "Settings have been saved."
+2018-07-12 22:12:46: "Saving settings..."
+2018-07-12 22:12:47: "Settings have been saved."
+2018-07-12 22:14:12: "Saving settings..."
+2018-07-12 22:14:12: "Settings have been saved."
+2018-07-12 22:14:16: "Saving settings..."
+2018-07-12 22:14:16: "Settings have been saved."
+2018-07-12 22:22:07: "Saving settings..."
+2018-07-12 22:22:07: "Settings have been saved."
+2018-07-16 23:47:46: "Database was open successfully"
+2018-07-16 23:47:46: "Checking for database schema update..."
+2018-07-16 23:47:46: "Current database version", "12"
+2018-07-16 23:47:48: "Saving settings..."
+2018-07-16 23:47:48: "Settings have been saved."
+2018-07-16 23:48:02: "Saving settings..."
+2018-07-16 23:48:02: "Settings have been saved."
+2018-07-16 23:48:03: "Fetching geolocation..."
+2018-07-16 23:48:06: "Could not get lat/long for note 32778daf91ec421ebd47416e888b056d: ", "Error: Could not get geolocation: {
+  "0": "#################################################################################################################################",
+  "1": "#                                                                                                                               #",
+  "2": "# IMPORTANT - PLEASE UPDATE YOUR API ENDPOINT                                                                                   #",
+  "3": "#                                                                                                                               #",
+  "4": "# This API endpoint is deprecated and has now been shut down. To keep using the freegeoip API, please update your integration   #",
+  "5": "# to use the new ipstack API endpoint, designed as a simple drop-in replacement.                                                #",
+  "6": "# You will be required to create an account at https://ipstack.com and obtain an API access key.                                #",
+  "7": "#                                                                                                                               #",
+  "8": "# For more information on how to upgrade please visit our Github Tutorial at: https://github.com/apilayer/freegeoip#readme      #",
+  "9": "#                                                                                                                               #",
+  "a": "#################################################################################################################################"
+}
+Error: Could not get geolocation: {
+  "0": "#################################################################################################################################",
+  "1": "#                                                                                                                               #",
+  "2": "# IMPORTANT - PLEASE UPDATE YOUR API ENDPOINT                                                                                   #",
+  "3": "#                                                                                                                               #",
+  "4": "# This API endpoint is deprecated and has now been shut down. To keep using the freegeoip API, please update your integration   #",
+  "5": "# to use the new ipstack API endpoint, designed as a simple drop-in replacement.                                                #",
+  "6": "# You will be required to create an account at https://ipstack.com and obtain an API access key.                                #",
+  "7": "#                                                                                                                               #",
+  "8": "# For more information on how to upgrade please visit our Github Tutorial at: https://github.com/apilayer/freegeoip#readme      #",
+  "9": "#                                                                                                                               #",
+  "a": "#################################################################################################################################"
+}
+    at Function.currentPosition (/tmp/.mount_JoplinhAa4Nw/app/resources/app/lib/geolocation-node.js:12:27)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:109:7)"
+2018-07-16 23:50:14: "Saving settings..."
+2018-07-16 23:50:15: "Settings have been saved."
+2018-07-16 23:55:44: "Saving settings..."
+2018-07-16 23:55:45: "Settings have been saved."
+2018-07-18 17:39:40: "Database was open successfully"
+2018-07-18 17:39:40: "Checking for database schema update..."
+2018-07-18 17:39:40: "Current database version", "12"
+2018-07-18 17:39:42: "Saving settings..."
+2018-07-18 17:39:42: "Settings have been saved."
+2018-07-18 17:47:16: "Fetching geolocation..."
+2018-07-18 17:48:03: "Could not get lat/long for note 6ccba23a3777435da4f1fe4c487635bf: ", "FetchError: request to https://api.ipify.org/?format=json failed, reason: read ECONNRESET
+Code: ECONNRESET
+FetchError: request to https://api.ipify.org/?format=json failed, reason: read ECONNRESET
+    at ClientRequest.<anonymous> (/tmp/.mount_Joplina4ahwM/app/resources/app/node_modules/node-fetch/index.js:133:11)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:191:7)
+    at TLSSocket.socketErrorListener (_http_client.js:358:9)
+    at emitOne (events.js:96:13)
+    at TLSSocket.emit (events.js:191:7)
+    at emitErrorNT (net.js:1283:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9)"
+2018-07-18 17:48:15: "Saving settings..."
+2018-07-18 17:48:16: "Settings have been saved."
+2018-07-18 17:54:20: "Saving settings..."
+2018-07-18 17:54:20: "Settings have been saved."
+2018-07-18 17:54:23: "Saving settings..."
+2018-07-18 17:54:23: "Settings have been saved."
+2018-07-18 17:54:29: "Saving settings..."
+2018-07-18 17:54:29: "Settings have been saved."
+2018-07-18 17:54:34: "Saving settings..."
+2018-07-18 17:54:34: "Settings have been saved."

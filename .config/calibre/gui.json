@@ -65,7 +65,7 @@
   }, 
   "preferences dialog geometry": {
     "__class__": "bytearray", 
-    "__value__": "AdnQywACAAAAAAIMAAAAnwAABa0AAAOMAAACDAAAAL0AAAWtAAADjAAAAAAAAAAAB4A="
+    "__value__": "AdnQywACAAAAAAFsAAAAXQAABQ8AAANFAAABbQAAAHUAAAUOAAADRAAAAAAAAAAAB4A="
   }, 
   "bulk_metadata_window_tab": 0, 
   "manage_authors_table_widths": [
@@ -105,7 +105,8 @@
   "show_emblems": false, 
   "library_usage_stats": {
     "/home/hubbi/Documents/E-Books/calibre_library_nonfiction": 2, 
-    "/home/hubbi/Documents/E-Books/calibre_library_fiction": 8
+    "/home/hubbi/Documents/E-Books/calibre_library_fiction": 9, 
+    "/home/hubbi/Literature/calibre_library_fiction": 1
   }, 
   "Plugin Updater plugin:plugin updater dialog": {
     "__class__": "bytearray", 
