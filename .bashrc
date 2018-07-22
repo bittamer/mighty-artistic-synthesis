@@ -78,7 +78,6 @@ export itb=$work"/ITB"
 export res="/home/hubbi/Documents/Postgraduate/Research"
 export alfa=$work"/AlfaLC"
 export GPGKEY=A62014E0616D71ECACD762F38AF2E1186BB1D4C9
-export DIGITALOCEAN_TOKEN=62329ce9e4d6e751f86c9e50c4336e11cca6113be76821c51f186ec44da00a84
 
 source ~/.bin/myaliases
 source ~/.bin/myfunctions
