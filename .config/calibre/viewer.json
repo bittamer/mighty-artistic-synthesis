@@ -1,12 +1,12 @@
 {
   "main_window_state": {
     "__class__": "bytearray", 
-    "__value__": "AAAA/wAAAAL9AAAAAwAAAAAAAAAAAAAAAPwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIcA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAAyQD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABmAG8AbwB0AG4AbwB0AGUAcwAtAGQAbwBjAGsAAAAAAP////8AAAA6AP///wAAAlEAAALDAAAAAQAAAAIAAAABAAAAAvwAAAACAAAAAAAAAAEAAAAQAHQAbwBvAGwAXwBiAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAASAHQAbwBvAGwAXwBiAGEAcgAyAQAAAAD/////AAAAAAAAAAA="
+    "__value__": "AAAA/wAAAAL9AAAAAwAAAAAAAAAAAAAAAPwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIoA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAA0gD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABmAG8AbwB0AG4AbwB0AGUAcwAtAGQAbwBjAGsAAAAAAP////8AAAA7AP///wAABvYAAAPXAAAAAQAAAAIAAAABAAAAAvwAAAACAAAAAAAAAAEAAAAQAHQAbwBvAGwAXwBiAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAASAHQAbwBvAGwAXwBiAGEAcgAyAQAAAAD/////AAAAAAAAAAA="
   }, 
   "in_paged_mode": true, 
   "viewer_window_geometry": {
     "__class__": "bytearray", 
-    "__value__": "AdnQywACAAAAAAB5AAAASwAAAwUAAANOAAAAeQAAAGUAAAMFAAADTgAAAAAAAAAAB4A="
+    "__value__": "AdnQywACAAAAAABOAAAAJAAAB38AAAQ3AAAATgAAADwAAALaAAADJQAAAAACAAAAB4A="
   }, 
   "viewer_toc_isvisible": false, 
   "multiplier": 1.8000001907348633, 
@@ -109,6 +109,7 @@
     ]
   ], 
   "viewer_open_history": [
+    "/tmp/mozilla_hubbi0/ISNPM 2018.docx", 
     "/home/hubbi/Documents/Work/AlfaLC/Students/edit 27 Juli 2016.docx", 
     "/home/hubbi/Documents/Work/STFB/Bimbingan Tugas Akhir/2016-2017/Tia Widiawati/Skripsi/Final/BAB I-Lampiran_TiaWidiawati_28072017.docx", 
     "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Website/material/2018-01-06 Tentative Schedule for Asia Pharm III.docx", 
@@ -157,7 +158,6 @@
     "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/Vietnam/TRAN VAN THANH ABSTRACT  Asia Pharm III 2018 _ invited speaker.docx", 
     "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/Vietnam/ABSTRACT_Asia Pharm 2018 _ Phuoc Dien PHAM_0525018.docx", 
     "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/Asia Pharm 3/Abstracts/Vietnam/ABSTRACT_Asia Pharm 2018 _ Huy Truong Nguyen_05252018.docx", 
-    "/home/hubbi/.cache/.fr-1A1Kep/abstrak asiapharm/Abstract_117041_Hubbi Nashrullah Muhammad.docx", 
-    "/tmp/mozilla_hubbi0/ABSTRACT_Asia Pharm 2018_Tomi Hendrayana-1.docx"
+    "/home/hubbi/.cache/.fr-1A1Kep/abstrak asiapharm/Abstract_117041_Hubbi Nashrullah Muhammad.docx"
   ]
 }

@@ -7,6 +7,14 @@ function proxyon2 {
         gsettings set org.gnome.system.proxy.http port 8080
 	echo "Proxy ITB ON..."
 }
+function proxyon3 {
+	export http_proxy=http://hubbi:FeluCia1405ITB@cache4.itb.ac.id:8080
+	export https_proxy=$http_proxy
+        gsettings set org.gnome.system.proxy mode manual
+        gsettings set org.gnome.system.proxy.http host 167.205.22.103
+        gsettings set org.gnome.system.proxy.http port 8080
+	echo "Proxy ITB ON..."
+}
 function proxyon {
 	export http_proxy=http://167.205.22.102:8800
 	export https_proxy=$http_proxy
@@ -72,13 +80,19 @@ function tms {
 }
 
 # backup my Work and Documents folder to toconquer.space via borg
-function backup.work {
+function backup.borg.work {
   /usr/bin/borg create -v --stats --progress --compression lz4 --exclude-from /home/hubbi/.bin/borg_exclude_work /home/hubbi/Misc/borgbackup/Work::Weekly_$(date +%y%m%d-%H%M%S) /home/hubbi/Documents/Work/
   }
-function backup.postgraduate {
+function backup.borg.postgraduate {
   /usr/bin/borg create -v --stats --progress --compression lz4 --exclude-from /home/hubbi/.bin/borg_exclude_postgraduate /home/hubbi/Misc/borgbackup/Postgraduate::Weekly_$(date +%y%m%d-%H%M%S) /home/hubbi/Documents/Postgraduate/
 }
-function backup.zotero {
+function backup.borg.documents.other {
+  /usr/bin/borg create -v --stats --progress --compression lz4 /home/hubbi/Misc/borgbackup/Documents.Other::Weekly_$(date +%y%m%d-%H%M%S) /home/hubbi/Documents/Other/
+}
+function backup.borg.joplin {
+  /usr/bin/borg create -v --stats --progress --compression lz4 /home/hubbi/Misc/borgbackup/joplin::Weekly_$(date +%y%m%d-%H%M%S) /home/hubbi/Misc/joplin/
+}
+function backup.git.zotero {
   cd /home/hubbi/Misc/Zotero
   git add .
   git commit -m "Update on $(date +%y%m%d)" -a
@@ -89,4 +103,27 @@ function backup.zotero {
 # Check running programs currently connected to the Internet
 function cn {
   ss -lantp | grep ESTAB | awk '{print $6}' | awk 'BEGIN{FS="\""} {print $2}' | sort | uniq
+}
+
+# Generic timer
+function countdown(){
+  date1=$((`date +%s` + $1));
+  while [ "$date1" -ge `date +%s` ]; do
+    echo -ne "$(date -u --date @$(($date1 - `date +%s`)) +%H:%M:%S)\r";
+    sleep 0.1
+  done
+}
+
+# Pomodoro Timer - 22 mins (1320 s) session & 8 mins (480 s) break
+function pomodoro(){
+  echo "Pomodoro In Session"
+  countdown 1320
+  echo "Pomodoro Session End"
+  notify-send "End of Pomodoro Session"
+  echo ",,`date +%m/%d/%Y\ %H:%M:%S`,1320,Work" >> /home/hubbi/Misc/pomodoro_sessions
+  echo "Break..."
+  countdown 480
+  echo "Break End"
+  notify-send "End of Break"
+  echo ",,`date +%m/%d/%Y\ %H:%M:%S`,480,Break" >> /home/hubbi/Misc/pomodoro_sessions
 }

@@ -8766,3 +8766,3472 @@ exit
 mas git-commit
 man git-commit
 exit
+man git-remote
+cd .bin/myf
+vim .bin/myfunctions 
+exit
+vim .ssh/config 
+ssh gitvn
+vim .ssh/config 
+exit
+htop
+sudo scanmem 17390
+exit
+sudo scanmem 17390
+exit
+sudo scanmem 17390
+exit
+vpnitb
+exit
+cd Literature/
+ls
+cd Non\ Fiction/
+ls
+cd 0\ -\ Science\ and\ Knowledge\,\ Computer\ Science\,\ Information/
+ls
+cd 00\ -\ Fundementals\ of\ Knowledge\ and\ Culture/
+ls
+cd 004\ -\ Computer\ Science\,\ Computing/
+ll
+cd ~/Literature/
+ls
+ll
+cd Non\ Fiction/
+ll
+..
+mkdir humblebundle
+cd humblebundle/
+wget -m -np -c --no-check-certificate -R "index.html*" "https://the-eye.eu/public/Books/HumbleBundle/"
+curl "https://the-eye.eu/public/Books/HumbleBundle/"
+accio curl
+curl "https://the-eye.eu/public/Books/HumbleBundle/"
+wget -m -np -c --no-check-certificate -R "index.html*" "https://the-eye.eu/public/Books/HumbleBundle/"
+wget -m -np -c --no-check-certificate "https://the-eye.eu/public/Books/HumbleBundle/"
+wget https://the-eye.eu/public/Books/HumbleBundle/startupmixology.pdf
+wget -m -np -c --no-check-certificate -R "index.html*" "https://the-eye.eu/public/Books/HumbleBundle/"
+..
+rm -r humblebundle/
+exit
+cd $res
+cd Computation/top2a_etoposide/md/monopzp/
+ls
+type rsync
+type rsync -z
+rsync kimedgpu:~/.system/md/monopzp/f_em* .
+rsync kimedgpu:~/.system/md/monopzp/f_em* ./
+rsync kimedgpu:~/.system/md/monopzp/*mdp mdptpr/
+rsync kimedgpu:~/.system/md/monopzp/*tpr mdptpr/
+rsync kimedgpu:~/.system/md/monopzp/*itp ./
+rsync kimedgpu:~/.system/md/monopzp/*top ./
+exit
+cd Misc/
+cat pomodoro_sessions 
+exit
+python
+sourc .bashrc
+source .bashrc
+pomodoro 20
+source .bashrc
+pomodoro 20
+source .bashrc
+pomodoro 20
+source .bashrc
+pomodoro 20
+source .bashrc
+pomodoro 20
+source .bashrc
+pomodoro 20
+source .bashrc
+pomodoro 5
+source .bashrc
+pomodoro 5
+source .bashrc
+pomodoro 5
+pomodoro
+pomodoro 5
+source .bashrc
+pomodoro
+source .bashrc
+countdown 10
+source .bashrc
+pomodoro 
+source .bashrc
+pomodoro 
+source .bashrc
+pomodoro 
+source .bashrc
+pomodoro 
+cd Misc/
+cd
+echo "'date'"
+echo "`date`"
+source .bashrc
+pomodoro 
+exit
+while true; do echo -ne "`date`\r"; done
+man echo
+date r
+`date`
+date
+date\r
+date \r
+seconds=20; date1=$((`date +%s` + $seconds)); 
+while [ "$date1" -ge `date +%s` ]; do    echo -ne "$(date -u --date @$(($date1 - `date +%s` )) +%H:%M:%S)\r";  done
+vim .bin/myfunctions 
+source .bashrc
+exit
+ssh kimedgpu
+ssh kimed
+exit
+date
+date 20:00
+date 2018-07-22T20:00
+man date
+echo -ne "\007"
+beep
+accio beep
+beep
+notify-send hello
+exit
+python
+exit
+date +%s
+date +%s + 4
+echo -ne "`date +%s` + 4"
+echo -e "`date +%s` + 4"
+a=$((`date +%s` + 10)); echo $a
+countdown 5; notify-send "MD Done"
+exit
+cat .bin/myfunctions 
+exit
+cd $res
+cd Results/
+ls
+cd Buku\ 
+cd Buku\ Disertasi/
+ls
+vim dissertation_notes 
+exit
+gmx grompp -h
+exit
+nload
+htop
+cd Misc/VirtualBoxVM/SHARED/
+ls
+ln -s ~/Documents/Postgraduate/Research/Results/Buku\ Disertasi/ ./dissertation
+cd
+python
+countdown 4200; notify-send "MD Done"
+python
+countdown 8100; notify-send "MD Done"
+vpnitb
+loginctl
+loginctl 4
+man loginctl
+loginctl -p Type
+loginctl -p Type 4
+man loginctl
+loginctl list-sessions
+man loginctl
+loginctl show-session 4
+loginctl show-session 4 -p Type
+lsmod 
+lsmod  | grep nou
+lsmod  | grep veau
+tmux
+pgrep mpv
+kill 2197
+pgrep mpv
+sudo snap install vlc
+pgrep vlc
+sudo poweroff
+gmx grompp -h
+exit
+man lsof
+exit
+ssh kimedgpu
+exit
+crontab -e
+exit
+date
+date +%M
+date +%m
+date +%m/
+date +%m/%d
+date +%m/%d/%y
+date +%m/%d/%Y
+date +%m/%d/%Y %T
+date +%m/%d/%Y\ %m
+date +%m/%d/%Y\ %H:%M:%S
+exit
+vim brainfocus.csv 
+cat brainfocus.csv 
+cat brainfocus.csv >> Misc/pomodoro_sessions 
+exit
+man rclone
+exit
+man sort
+exit
+vim .bin/myfunctions 
+cat brainfocus.csv 
+cat Misc/pomodoro_sessions 
+vim Misc/pomodoro_sessions 
+cd .bin/scripts/
+ls
+//
+ll
+cd
+vim Misc/pomodoro_sessions 
+proxyoff
+cat Misc/pomodoro_sessions 
+cat Misc/pomodoro_sessions | sort
+cat Misc/pomodoro_sessions
+cat Misc/pomodoro_sessions | awk 'BEGIN{FS=","} {print $FN}'
+cat Misc/pomodoro_sessions | awk 'BEGIN{FS=","} {print $1}'
+cat Misc/pomodoro_sessions | awk 'BEGIN{FS=","} {print $3}'
+cat Misc/pomodoro_sessions | awk 'BEGIN{FS=","} {print $0}'
+cat Misc/pomodoro_sessions | awk 'NR==1 {print $0}'
+cat Misc/pomodoro_sessions | awk 'NR!=1 {print $0}'
+cat Misc/pomodoro_sessions | awk 'NR!=1 {print $0}' | awk 'BEGIN{FS="," {print $3 $4 $5}'
+cat Misc/pomodoro_sessions | awk 'NR!=1 {print $0}' | awk 'BEGIN{FS="," {print $3, $4, $5}'
+cat Misc/pomodoro_sessions | awk 'NR!=1 {print $0}' | awk 'BEGIN{FS="," {print $3; print $4; print $5}'
+cat Misc/pomodoro_sessions | awk 'NR!=1 {print $0}' | awk 'BEGIN{FS=","} {print $3 $4 $5}'
+cat Misc/pomodoro_sessions | awk 'NR!=1 {print $0}' | awk 'BEGIN{FS=","} {print $3 , $4 , $5}'
+cat Misc/pomodoro_sessions | awk 'NR!=1 {print $0}' | awk 'BEGIN{FS=","} {print $3 "#" $4 "#" $5}'
+cat Misc/pomodoro_sessions | awk 'NR!=1 {print $0}' | awk 'BEGIN{FS=","} {print $3 " " $4 " " $5}'
+cat Misc/pomodoro_sessions | awk 'NR!=1 {print $0}' | awk 'BEGIN{FS=","} {printg $3 " " $4 " " $5}'
+cat Misc/pomodoro_sessions | awk 'NR!=1 {print $0}' | awk 'BEGIN{FS=","} {printf $3 " " $4 " " $5}'
+cat Misc/pomodoro_sessions | awk 'NR!=1 {print $0}' | awk 'BEGIN{FS=","} {printg $3 " " $4 " " $5}'
+cat Misc/pomodoro_sessions | awk 'NR!=1 {print $0}' | awk 'BEGIN{FS=","} {print $3 " " $4 " " $5}'
+cat Misc/pomodoro_sessions | awk 'NR!=1 {print $0}' | awk 'BEGIN{FS=","} {print $3 " " $4 " " $5}' | sort
+cat Misc/pomodoro_sessions | awk 'NR!=1 {print $0}' | awk 'BEGIN{FS=","} {print $3 " " $4 " " $5}' | awk '$4=="Work" {print $0}'
+cat Misc/pomodoro_sessions | awk 'NR!=1 {print $0}' | awk 'BEGIN{FS=","} {print $3 " " $4 " " $5}' | awk '$4=="Break" {print $0}'
+cat Misc/pomodoro_sessions | awk 'NR!=1 {print $0}' | awk 'BEGIN{FS=","} {print $3 " " $4 " " $5}' | awk '$4=="Work" {print $0}' | sort
+cd Videos/tow
+cd Downloads/TOWATCH/
+ls
+psd p
+exit
+tm start ITB "ITB/ISNPM2018"
+pass isnpm2018.fa.itb.ac.id/wp-admin 
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+tm
+tm stop
+tm
+tm week
+tm start ITB "ITB/Dissertation"
+pass mathworks.com 
+pass -c mathworks.com 
+pass -c asiapharm3/cpanel 
+pass -c asiapharm3/wp-admin 
+cd Misc/linux_apps/
+ls
+cd Matlab/
+ls
+mv ~/Downloads/matlab_R2018a_glnxa64.zip .
+rm ~/Downloads/matlab_R2018a_glnxa64\(1\).zip 
+ls
+rm -rf matlab_r2017a
+unip matlab_R2018a_glnxa64.zip 
+unzip matlab_R2018a_glnxa64.zip 
+ls
+dolphin .
+ls
+cd
+cd -
+ls
+cd matlab_R2018a_glnxa64/
+ls
+less readme.txt 
+o install_guide.pdf 
+./install 
+cd
+tm
+tm stop 30min ago
+tm continue
+tm stop
+tm sum
+tm continue
+tm stop
+tm sum
+tm tags
+tm start Alfa "Alfa/Les"
+tm stop
+tm sum
+exit
+df
+cd Misc/Private/
+ls
+..
+mount-private 
+cd -
+cd CELEBS/
+pass -c chrono.gg 
+..
+ls
+proxyon2
+cd
+umount-private 
+pomodoro 
+pass -c mathworks.com 
+cd .bin
+ls
+mkdir scripts
+crontab -l
+mv battery_condition.sh scripts/
+mv battery_notification.sh scripts/
+mv change_gnome_wallpaper.sh scripts/
+mv day-mode.sh scripts/
+mv night-mode.sh scripts/
+mv disk_write_speed.sh scripts/
+mv *.sh scripts/
+ls
+vim .bin/mya
+vim myaliases 
+cd scripts/
+ls
+vim battery_condition.sh 
+cd ~/Misc/
+vim battery_condition 
+vim battery_charge 
+cd
+pomodoro 
+source .bashrc
+type pomodoro 
+pomodoro 
+exit
+vpnitb
+exit
+ssh kimedgpu
+exit
+cd $res
+cd Articles/
+mv ~/Downloads/freres2017.pdf Cancer/"2017 - Freres P - Categories of Anticancer Treatment.pdf"
+cp Cancer/2017\ -\ Freres\ P\ -\ Categories\ of\ Anticancer\ Treatment.pdf /home/hubbi/Documents/Postgraduate/Research/Results/Manuscript/Manuscript\ -\ DNA\ binding\ dynamics/References/
+find . -iname *fornari*
+cp Cancer/1994\ -\ Fornari\ F.A.\ -\ Interference\ by\ doxorubicin\ with\ DNA\ unwinding\ in\ MCF-7\ breast\ tumor\ cells.pdf /home/hubbi/Documents/Postgraduate/Research/Results/Manuscript/Manuscript\ -\ DNA\ binding\ dynamics/References/
+exit
+cd $res
+cd Results/Manuscript/Manuscript\ -\ DNA\ binding\ dynamics/References/
+exit
+htop
+exit
+nload
+exit
+tm
+tm stop 2018-07-22T19:00
+tmux
+exit
+man scanmem
+exit
+sudo scanmem 6333
+exit
+sudo scanmem 6333
+exit
+sudo scanmem 6333
+exit
+steam
+nvidia-smi 
+htop
+sudo scanmem 6333
+exit
+tmux
+pgrep kwin
+kwin_x11 
+export DISPLAY=:0
+kwin_x11 
+kwin_x11 --replace
+nload
+htop
+neofetch 
+glxinfo | grep -i opengl
+kill 6333
+htop
+nload
+exit
+nvidia-smi 
+neofetch 
+htop
+exit
+apup
+apt list --upgradable 
+apgrade
+exit
+ubuntu-bug 
+htop
+ubuntu-bug 3390
+exit
+tmux attach
+htop
+glxinfo | grep -i opengl
+nvidia-smi
+tmux
+exit
+ubuntu-
+ubuntu-drivers 
+ubuntu-drivers  -l
+ubuntu-drivers 
+ubuntu-drivers -h
+ubuntu-drivers list
+sudo apt autoremove
+glxinfo | grep -i opengl
+syst reboot
+ssh kimedgpu
+ping 167.205.68.1
+ping 167.205.68.230
+exit
+tm sum
+tm start 13:00 ITB "ITB/Academic"
+tm stop
+tm sum
+tm start ITB "ITB/ISNPM2018"
+glxinfo | grep -i opengl
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+cd Images/
+lt
+gimp Screenshot_20180724_155427.png 
+cd
+tm stop
+pomodoro 
+exit
+proxyoff
+tmux
+nload
+htop
+cd $res
+cd Articles/
+ls
+mv ~/Downloads/pabo1984.pdf DNA/"1984 - Pabo C.O. - Protein-DNA Recognition.pdf"
+mv ~/Downloads/schleif1988.pdf DNA/"1988 - Schleif R. - DNA bniding by proteins.pdf"
+ls
+mv ~/Downloads/trent1996.pdf DNA/"1996 - Trent J.O. - Targeting the minor groove of DNA-crystal structures of two complexes between furan derivatives of berenil and the DNA dodecamer CGCGAATTCGCG.pdf"
+mv ~/Downloads/brown1992.pdf DNA/"1992 - Brown D.G. - Crystal structure of a berenil-CGCAAATTTGCG complex.pdf"
+mv ~/Downloads/bellorini1995.pdf DNA/"1995 - Bellorini M. - Distamycin A and tallimustine inhibit TBP binding and basal in vitro transcription.pdf"
+mv ~/Downloads/mote1994.pdf DNA/"1994 - Mote Jr. J. - A DNA Minor Groove-binding Ligan Both Potentiates and Arrests Transcription by RNA Polymerase II: Elongation Factor SII Enables Readthrough at Arrest Sites.pdf"
+tm continue
+tm stop
+tm
+python
+type pomodoro 
+tm
+tm start 1.5h ago ITB "ITB/Dissertation"
+tm stop
+tm sum
+pass -c2 tokopedia.com 
+pass -c tokopedia.com 
+tm start 30min ago ITB "ITB/Summer School"
+tm stop
+tm sum
+tm tags
+tm start 10:00 ITB BBRC
+tm stop 11:15
+tm sum
+lsblk
+sudo parted -a none /dev/sdb
+sudo mkfs.ntfs --quick -L FlashNexus /dev/sdb1
+lsblk
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+proxyon2
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+tm
+tm stop 2018-07-26T19:30
+tm start 5min ago ITB "ITB/ISNPM2018"
+tm stop
+pass -c2 mims.com 
+pass -c mims.com 
+pass mims.com 
+pass generate -n mims.com 15
+pass edit mims.com 
+pass mims.com 
+pass edit mims.com 
+pass mims.com 
+pass -c mims.com 
+pass generate mims.com 15
+pass edit mims.com 
+pass -c mims.com 
+pass edit 
+pass edit mims.com 
+pass -c mims.com 
+pass generate -n mims.com 15
+pass edit mims.com 
+pass -c mims.com 
+pass | grep bri
+pass -c bri.co.id 
+tm start Alfa "Alfa/Les"
+tm stop
+proxyoff
+python
+tm
+tm sum
+tm start 1.5h ago Alfa "Alfa/Les"
+tm stop
+vpnitb
+cd $res
+cd Results/Manuscript/Manuscript\ -\ DNA\ binding\ dynamics/References/
+cp /home/hubbi/Documents/Postgraduate/Research/Articles/DNA/1984\ -\ Pabo\ C.O.\ -\ Protein-DNA\ Recognition.pdf .
+cp /home/hubbi/Documents/Postgraduate/Research/Articles/DNA/1988\ -\ Schleif\ R.\ -\ DNA\ bniding\ by\ proteins.pdf .
+cp /home/hubbi/Documents/Postgraduate/Research/Articles/DNA/1996\ -\ Trent\ J.O.\ -\ Targeting\ the\ minor\ groove\ of\ DNA-crystal\ structures\ of\ two\ complexes\ between\ furan\ derivatives\ of\ berenil\ and\ the\ DNA\ dodecamer\ CGCGAATTCGCG.pdf .
+cp /home/hubbi/Documents/Postgraduate/Research/Articles/DNA/1992\ -\ Brown\ D.G.\ -\ Crystal\ structure\ of\ a\ berenil-CGCAAATTTGCG\ complex.pdf .
+cp /home/hubbi/Documents/Postgraduate/Research/Articles/DNA/1995\ -\ Bellorini\ M.\ -\ Distamycin\ A\ and\ tallimustine\ inhibit\ TBP\ binding\ and\ basal\ in\ vitro\ transcription.pdf .
+cp /home/hubbi/Documents/Postgraduate/Research/Articles/DNA/1994\ -\ Mote\ Jr.\ J.\ -\ A\ DNA\ Minor\ Groove-binding\ Ligan\ Both\ Potentiates\ and\ Arrests\ Transcription\ by\ RNA\ Polymerase\ II\:\ Elongation\ Factor\ SII\ Enables\ Readthrough\ at\ Arrest\ Sites.pdf .
+proxyon2
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+cat Misc/pomodoro_sessions 
+vim Misc/pomodoro_sessions 
+pomodoro 
+cd $itb
+cd Fakultas/Projects/Summer\ School/Summer\ School\ 2018/
+ls
+mv ~/Downloads/10072018\ rundown\ summer\ school\ ITB\ 2018.xlsx .
+ls
+mv ~/Downloads/List\ of\ students.xlsx .
+ls
+o SUMMER\ SCHOOL\ 2.pdf 
+mkdir Leaflet
+mv SUMMER\ SCHOOL\ 2.pdf Leaflet/
+ls
+ll
+mkdir Data
+mv *xlsx Data/
+ll
+cd
+cat Misc/pomodoro_sessions 
+proxyoff
+pomodoro 
+proxyon2
+pomodoro 
+taskl
+task add tag:ITB project:CRBB Manuscript!
+task 17 done
+task add tag:ITB project:CRBB Journal cover
+task add tag:ITB project:CRBB Compile journal
+pass crbb-journal/
+pass -c2 crbb-journal/cpanel 
+pass -c crbb-journal/cpanel 
+pass generate -m crbb-journal/hubbi@crbb-journal.com 20
+pass generate -n crbb-journal/hubbi@crbb-journal.com 20
+pass -c crbb-journal/hubbi@crbb-journal.com 
+cat Misc/pomodoro_sessions 
+vim Misc/pomodoro_sessions 
+pass -c2 kickstarter.com 
+pass -c kickstarter.com 
+python
+cd $res
+cd $itb
+cd Fakultas/Projects/Summer\ School/Summer\ School\ 2018/
+ls
+mv ~/Downloads/24072018\ rundown\ summer\ school\ ITB\ 2018.xlsx .
+cd
+pass -c crbb-journal/cpanel 
+pass -c crbb-journal/hubbi@crbb-journal.com 
+cd $itb
+cd Fakultas/Projects/Summer\ School/Summer\ School\ 2018/Booklet/
+ls
+mv 17072018\ Summer\ School\ Booklet\ 2018.docx 2018-07-17\ Summer\ School\ Booklet\ 2018.docx 
+ls
+mv ~/Downloads/Summer\ School\ Booklet\ 2018.pdf .
+..
+ls
+mv ~/Downloads/Proxy.pdf .
+proxyoff
+proxyon2
+ls\
+ls
+cd Booklet/
+ls
+mv ~/Downloads/25072018\ Summer\ School\ Booklet\ 2018_Yuda.docx "2018-07-25 Summer School Booklet 2018.docx"
+ls
+cp 2018-07-25\ Summer\ School\ Booklet\ 2018.docx ~/Misc/VirtualBoxVM/SHARED/
+mv ~/Downloads/Cover\ Program\ Book.png .
+..
+ls
+mkdir Nametags
+cd Nametags/
+mv ~/Downloads/Desain\ Nametag-final.pdf .
+cd
+tm start 10min ago ITB "ITB/Summer School"
+tm stop
+tm week
+proxyon
+tm sum
+tm start 15:37 ITB "ITB/Academic"
+tm stop 16:30
+tm tags
+tm start Alfa "Alfa/Les"
+pomodoro 
+proxyon2
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+pomodoro 
+vim .bin/func
+vim .bin/myfunctions 
+source .bashrc
+type pomodoro 
+pomodoro 
+proxyon2
+du -sh Documents/Other/
+cd Misc/borgbackup/
+ls
+ll
+type backup.work 
+mkdir Documents.Other
+borg init -e none ./Documents.Other/
+borgc ~/Misc/borgbackup/Documents.Other::Weekly_$(date +%y%m%d-%H%M%S) ~/Documents/Other/
+ll
+exit
+cd $alfa
+cd Students/Pheobe\ Rose/
+ls
+mkdir images
+cd images/
+mv ~/Images/Screenshot_20180730_175141.png .
+cd ..
+mkdir articles
+cd articles/
+mv ~/Downloads/ane_6830.pdf .
+o ane_6830.pdf 
+cd ../images/
+mv ~/Images/Screenshot_20180730_181846.png .
+..
+mkdir books
+cd books/
+mv ~/Downloads/Mark\ F.\ Bear\,\ Barry\ W.\ Connors\,\ Michael\ A.\ Paradiso\ -\ Neuroscience_\ Exploring\ the\ Brain\ \(2015\,\ Wolters\ Kluwer\).pdf .
+o Mark\ F.\ Bear\,\ Barry\ W.\ Connors\,\ Michael\ A.\ Paradiso\ -\ Neuroscience_\ Exploring\ the\ Brain\ \(2015\,\ Wolters\ Kluwer\).pdf 
+cd ../articles/
+mv ~/Downloads/FB2012A0008.pdf .
+exit
+pass -c2 tokopedia.com 
+pass -c tokopedia.com 
+exit
+vim .bin/myfunctions 
+source .bashrc
+vim .bin/myfunctions 
+source .bashrc
+backup.joplin 
+pomodoro 
+cat Misc/pomodoro_sessions 
+proxyoff
+cd Videos/Youtube/
+ll
+mkdir "Tabletop Weekly"
+cd Tabletop\ Weekly/
+mkdir "DM 101"
+cd DM\ 101/
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/watch?list=PLz2TUw__7qw7qNmQMgFckACCt4RPl8QCx
+proxyon2
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/watch?list=PLz2TUw__7qw7qNmQMgFckACCt4RPl8QCx
+cd
+pomodoro 
+proxyon2
+pomodoro 
+cd Videos/ou
+cd Videos/Youtube/
+mkdir "Shut Up & Sit Down"
+cd Shut\ Up\ \&\ Sit\ Down/
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/watch?v=ElcG-_-gfxo
+ls
+ll
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/watch?v=okviYD6hbc8
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://youtu.be/FW6ZmQNCr_0
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://youtu.be/k0dySBa68uA
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://youtu.be/Zqpd09khWQs
+exit
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+exit
+man youtube-dl 
+exit
+man borg
+exit
+borg status
+borg info
+exit
+cd $res
+cd Computation/
+ls
+cd top2a_etoposide/
+cd md/
+ls
+cd evp
+ls
+cd plots/
+ls
+xmgrace evp_rmsd_backbone.xvg 
+exit
+cd Misc/borgbackup/
+ll
+rclone size gdriveme:backups/borgbackup/Postgraduate
+rclone size Postgraduate/
+proxyon2
+rclone sync ./Documents.Other/ gdriveme:backups/borgbackup/Documents.Other/
+rclone lsd gdriveme:backups/borgbackup
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+ls
+exit
+proxyon2
+rclone lsd gdriveme:backups/borgbackup/
+rclone sync Misc/borgbackup/Postgraduate/ gdriveme:backups/borgbackup/Postgraduate/
+borg info Misc/borgbackup/Work/
+borg list Misc/borgbackup/Work/
+rclone sync Misc/borgbackup/Work/ gdriveme:backups/borgbackup/Work/
+exit
+ls
+mpv 00012.MTS 
+exit
+df
+ncdu
+exit
+mkdir temp
+cd temp
+rsync /media/hubbi/680E-C948/PRIVATE/AVCHD/BDMV/STREAM/00031.MTS ./
+rsync /media/hubbi/680E-C948/PRIVATE/AVCHD/BDMV/STREAM/00028.MTS ./
+exit
+ls
+mpv 00031.MTS 
+mpv 00028.MTS 
+cd
+exit
+lsblk
+df
+ncdu /media/hubbi/680E-C948/
+exit
+cd Downloads/TOWATCH/
+ncdu
+df
+exit
+cd .thunderbird/
+ll
+cd
+df
+cd temp
+ls
+mpv 00031.MTS 
+rsync /media/hubbi/680E-C948/PRIVATE/AVCHD/BDMV/STREAM/00025.MTS ./
+ll
+mpv 00031
+mpv 00031.MTS 
+mpv 00025.MTS 
+df
+exit
+lsblk
+ncdu /media/hubbi/680E-C948/
+exit
+lsblk
+cd /media/hubbi/LUNA\ DRIVE/
+ls
+mkdir ~/materibuluna
+rsync 3-Test\ and\ grade /home/hubbi/materibuluna/
+ls ~/materibuluna/
+rsync 1-Lecture\ ITB /home/hubbi/materibuluna/
+ll
+rsync 2-Plaque /home/hubbi/materibuluna/
+rsync 4-\ Other\ info\ and\ Picture /home/hubbi/materibuluna/
+rsync 5-\ Extra\ file /home/hubbi/materibuluna/
+ll
+rsync 7-Targeted\ Therapy.pptx /home/hubbi/materibuluna/
+cd
+exit
+tm stop
+tm start ITB "ITB/Dissertation"
+tm stop 5min ago
+tm continue
+tm stop
+tm continue
+backup.postgraduate 
+du -sh Misc/borgbackup/Postgraduate/
+borg list Misc/borgbackup/Postgraduate::
+borg list Misc/borgbackup/Postgraduate
+borg info Misc/borgbackup/Postgraduate/
+borg info Misc/borgbackup/Work/
+du -sh Misc/borgbackup/Work/
+tm stop
+tm sum
+backup.work 
+tm
+tm sum
+tm tags
+tm start 13:00 ITB "ITB/Other"
+tm stop 15min ago
+tm start 10min ago STFB "STFB/Bimbingan"
+tm
+tm stop 2018-08-01T18:30
+tm sum :yesterday
+tm start ITB "ITB/Summer School" 08:00
+tm stop 30min ago
+tm week
+uptime 
+pass -c bri
+pass -c bri.co.id 
+taskl
+task 13 done
+task 14 done
+taskl
+pass -c bri.co.id 
+pass -c2 diit
+pass -c2 digitalocean.com
+pass -c digitalocean.com
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+proxyoff
+df
+exit
+cd Literature/
+ls
+ll
+cd Non\ Fiction/
+ll
+cd 0\ -\ Science\ and\ Knowledge\,\ Computer\ Science\,\ Information/
+ll
+cd 00\ -\ Fundementals\ of\ Knowledge\ and\ Culture/
+ll
+cd 004\ -\ Computer\ Science\,\ Computing/
+ll
+cd 004.4\ -\ Software/
+ll
+cd 004.43\ -\ Programming\ Languages/
+ll
+..
+ll
+cd 004.42\ -\ Computer\ Programming/
+ll
+mv ~/V.\ Anton\ Spraul\ -\ Think\ Like\ a\ Programmer* .
+mv ~/Sweigart\,\ Al\ -\ Automate\ the\ boring\ stuff\ with\ python\ _\ practical\ programming\ for\ total\ beginners\ \(2015\,\ No\ Starch\ Press\).* .
+mv ~/Peteris\ Krumins\ -\ Perl\ One-Liners_\ 130\ Programs\ That\ Get\ Things\ Done\ \(2013\,\ No\ Starch\ Press\).* .
+mv ~/Michael\ Kerrisk\ -\ The\ Linux\ programming\ interface_\ a\ Linux\ and\ UNIX\ system\ programming\ handbook\ \(2010\,\ No\ Starch\ Press\).* .
+mv ~/John\ Graham-Cumming\ -\ The\ GNU\ Make\ Book\ \(2015\,\ No\ Starch\ Press\).* .
+..
+ls
+ll
+..
+ll
+cd 004.1\ -\ Unix\,\ Linux/
+ll
+mkdir "How Linux Works - Brian Ward"
+mv ~/Brian\ Ward\ -\ How\ Linux\ works_\ what\ every\ superuser\ should\ know\ \(2014\,\ No\ Starch\ Press\).* How\ Linux\ Works\ -\ Brian\ Ward/
+mkdir "Wicked Cool Shell Scripts"
+mv ~/Dave\ Taylor\,\ Brandon\ Perry\ -\ Wicked\ Cool\ Shell\ Scripts_\ 101\ Scripts\ for\ Linux\,\ OS\ X\,\ and\ UNIX\ Systems\ \(2016\,\ No\ Starch\ Press\).* Wicked\ Cool\ Shell\ Scripts/
+mkdir "The Book of PF - A No-Nonsense Guide to the OpenBSD Firewall"
+mv ~/Peter\ N.\ M.\ Hansteen\ -\ The\ Book\ of\ PF_\ A\ No-Nonsense\ Guide\ to\ the\ OpenBSD\ Firewall\ \(2010\,\ No\ Starch\ Press\).epub The\ Book\ of\ PF\ -\ A\ No-Nonsense\ Guide\ to\ the\ OpenBSD\ Firewall/
+mv ~/Peter\ N.\ M.\ Hansteen\ -\ The\ Book\ of\ PF_\ A\ No-Nonsense\ Guide\ to\ the\ OpenBSD\ Firewall\ \(2014\,\ No\ Starch\ Press\).pdf The\ Book\ of\ PF\ -\ A\ No-Nonsense\ Guide\ to\ the\ OpenBSD\ Firewall/
+..
+ll
+..
+ll
+..
+ll
+..
+ll
+exit
+export DISPLAY=:0
+kwin_x11 
+cd Videos/Youtube/Shut\ Up\ \&\ Sit\ Down/
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/watch?v=CUESNTb5w7M
+proxyon2
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/watch?v=CUESNTb5w7M
+mpv Pandemic\ +\ In\ the\ Lab\ \&\ On\ the\ Brink\ Expansions\ -\ Shut\ Up\ \&\ Sit\ Down\ Review\ -\ Shut\ Up\ \&\ Sit\ Down.mp4 
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/watch?v=t3xpnZRER9k
+..
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/watch?v=l8XOZJkozfI&t=5s
+fg
+cd Shut\ Up\ \&\ Sit\ Down/
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://youtu.be/-G3R0ZuUfik
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://youtu.be/Zqpd09khWQs
+ll
+mpv SU\&SD\ -\ Season\ 1\,\ Episode\ 2\ \[Descent\ \&\ DungeonQuest\]\ -\ Shut\ Up\ \&\ Sit\ Down.mkv 
+proxyoff
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://youtu.be/V-NQinxpnaM
+ll
+cd temp
+df
+cd
+ncdu
+pass -c2 bookdepository.com 
+pass -c bookdepository.com 
+proxyon2
+mpv https://youtu.be/vU81r3CokTo
+tm
+tm sum
+tm week
+man timewarrior
+tm help
+tm gap help
+tm gap
+tm gap 2018-07-31
+tm week
+tm gap 2018-07-30
+time gaps
+tm gaps
+tm gaps 2018-07-30 - 2018-08-01
+tm gaps 2018-07-31 - 2018-08-01
+tm gaps 2018-07-30 - 2018-08-01
+tm week
+tm track 2018-07-31T10:38 - 2018-07-31T12:00
+tm track 2018-07-31T10:39 - 2018-07-31T12:00 ITB "ITB/Summer School"
+tm gaps 2018-07-31 - 2018-08-01
+tm week
+tm sum
+tm start 08:00 ITB "ITB/Summer School"
+pomodoro 
+proxyoff
+cd Downloads/
+wget http://toconquer.space:1405/John%20Wick%20(2014)%20%5b1080p%5d%20%5bYTS.AG%5d/John.Wick.2014.1080p.BluRay.x264-%5bYTS.AG%5d.mp4
+wget "http://toconquer.space:1405/John%20Wick%20(2014)%20%5b1080p%5d%20%5bYTS.AG%5d/John.Wick.2014.1080p.BluRay.x264-%5bYTS.AG%5d.mp4"
+unzip john-wick-english-yify-35191.zip 
+rm john-wick-english-yify-35191.zip
+mv John_Wick_2014_1080p_1080p.srt John.Wick.2014.1080p.BluRay.x264-\[YTS.AG\].srt
+mpv John.Wick.2014.1080p.BluRay.x264-\[YTS.AG\].mp4 
+rclone John.Wick.2014.1080p.BluRay.x264-\[YTS.AG\].srt gdriveme:backups/direct/Videos/Movies/"John Wick (2014)"/
+rclone copy John.Wick.2014.1080p.BluRay.x264-\[YTS.AG\].srt gdriveme:backups/direct/Videos/Movies/"John Wick (2014)"/
+rclone copy John.Wick.2014.1080p.BluRay.x264-\[YTS.AG\].mp4 gdriveme:backups/direct/Videos/Movies/"John Wick (2014)"/
+cd
+proxyoff
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+cd Downloads/
+mpv John.Wick.2014.1080p.BluRay.x264-\[YTS.AG\].mp4 
+cd
+ssh vn
+apup
+apt list --upgradable 
+apgrade
+proxyon2
+pass -c bri.co.id 
+uptime 
+neofetch 
+mv Downloads/jcisd8_authguide.pdf ~/Misc/VirtualBoxVM/SHARED/
+locate winapps
+mv Downloads/SumatraPDF-3.1.2-install.exe Downloads/Downloads.old/winapps/
+cp Downloads/Downloads.old/winapps/SumatraPDF-3.1.2-install.exe ~/Misc/VirtualBoxVM/SHARED/
+taskl
+tm
+tm sum 2018-08-01 - 2018-08-31
+tm track 2018-08-03T08:30 - 2018-08-03T11:30 ITB "ITB/Summer School"
+tm track 2018-08-03T13:30 - 2018-08-03T16:30 ITB "ITB/Summer School"
+tm sum 2018-08-01 - 2018-08-31
+tm start 09:45 ITB "ITB/Summer School"
+tm stop 12:00
+tm week
+tm start ITB "ITB/Dissertation"
+pomodoro 
+proxyoff
+pass -c aliexpress.com 
+pass -c2 aliexpress.com 
+htop
+proxyoff
+tmux
+fg
+rclone lsd gdriveme:backups/direct/Movies
+rclone lsd gdriveme:backups/direct/Videos/Movies
+rclone lsd gdriveme:backups/direct/Videos/Movies | grep -i wick
+rclone lsd gdriveme:backups/direct/Videos/Movies | grep -i rogue
+rclone lsd gdriveme:backups/direct/Videos/Movies | grep -i wick
+proxyoff
+pass -c2 lazada.co.id 
+pass -c lazada.co.id 
+pass -c2 shopee.co.id 
+pass -c shopee.co.id 
+python
+ip addr
+ip r
+python
+df
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+cd Videos/Youtube/Shut\ Up\ \&\ Sit\ Down/
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://youtu.be/Zrz5nHrQujo
+proxyon2
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://youtu.be/Zrz5nHrQujo
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://youtu.be/FfEhUn1Lw3c
+proxyoff
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://youtu.be/ERNJ2XN2dno
+cd $res
+cd Articles/
+mv ~/Downloads/794.full.pdf Cancer/"2004 - Hilmer S.N. - The hepatic pharmacokinetics of doxorubicin and liposomal doxorubicin.pdf"
+cp Cancer/2004\ -\ Hilmer\ S.N.\ -\ The\ hepatic\ pharmacokinetics\ of\ doxorubicin\ and\ liposomal\ doxorubicin.pdf /home/hubbi/Documents/Postgraduate/Research/Results/Manuscript/Manuscript\ -\ DNA\ binding\ dynamics/References/
+mv ~/Downloads/1-s2.0-S0958166907001188-main.pdf DNA/"2007 - Palchaudhuri R. - DNA as a target for anticancer compounds-methods to determine the mode of binding and mechanism of action.pdf"
+cp DNA/2007\ -\ Palchaudhuri\ R.\ -\ DNA\ as\ a\ target\ for\ anticancer\ compounds-methods\ to\ determine\ the\ mode\ of\ binding\ and\ mechanism\ of\ action.pdf /home/hubbi/Documents/Postgraduate/Research/Results/Manuscript/Manuscript\ -\ DNA\ binding\ dynamics/References/
+mv ~/Downloads/3831.full.pdf DNA/"1990 - Sugiura Y. - DNA intercalation and cleavage of an antitumor antibiotic dynemicin that contains anthracycline and enediyne cores.pdf"
+cp DNA/"DNA/1990 - Sugiura Y. - DNA intercalation and cleavage of an antitumor antibiotic dynemicin that contains anthracycline and enediyne cores.pdf" /home/hubbi/Documents/Postgraduate/Research/Results/Manuscript/Manuscript\ -\ DNA\ binding\ dynamics/References/
+cp DNA/"1990 - Sugiura Y. - DNA intercalation and cleavage of an antitumor antibiotic dynemicin that contains anthracycline and enediyne cores.pdf" /home/hubbi/Documents/Postgraduate/Research/Results/Manuscript/Manuscript\ -\ DNA\ binding\ dynamics/References/
+mv ~/Downloads/bi00378a025.pdf DNA/"1987 - Wang A.H.J. - Interactions between an anthracycline antibiotic and DNA.pdf"
+cp DNA/1987\ -\ Wang\ A.H.J.\ -\ Interactions\ between\ an\ anthracycline\ antibiotic\ and\ DNA.pdf /home/hubbi/Documents/Postgraduate/Research/Results/Manuscript/Manuscript\ -\ DNA\ binding\ dynamics/References/
+mv ~/Downloads/bc00012a001.pdf DNA/"1991 - Bailly C. - DNA recognition by intercalator-minor-groove binder hybrid molecules.pdf"
+cp DNA/1991\ -\ Bailly\ C.\ -\ DNA\ recognition\ by\ intercalator-minor-groove\ binder\ hybrid\ molecules.pdf /home/hubbi/Documents/Postgraduate/Research/Results/Manuscript/Manuscript\ -\ DNA\ binding\ dynamics/References/
+mv ~/Downloads/42_1449.pdf "1989 - Konishi M. - Dynemicin, a novel antibiotic with the anthraquinone and diynene subunit.pdf"
+cp 1989\ -\ Konishi\ M.\ -\ Dynemicin\,\ a\ novel\ antibiotic\ with\ the\ anthraquinone\ and\ diynene\ subunit.pdf /home/hubbi/Documents/Postgraduate/Research/Results/Manuscript/Manuscript\ -\ DNA\ binding\ dynamics/References/
+cd Videos/Youtube/Shut\ Up\ \&\ Sit\ Down/
+ll
+mv SU\&SD\ -\ Seasons\ 1\,\ Episode\ 6\ \[Dungeon\ Lords\,\ Bunny\ Bunny\ Moose\ Moose\ \&\ Galaxy\ Trucker\]\ -\ Shut\ Up\ \&\ Sit\ Down.mkv SU\&SD\ -\ Season\ 1\,\ Episode\ 6\ \[Dungeon\ Lords\,\ Bunny\ Bunny\ Moose\ Moose\ \&\ Galaxy\ Trucker\]\ -\ Shut\ Up\ \&\ Sit\ Down.mkv 
+ll
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://youtu.be/fDzkU6KeG-A
+ll
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://youtu.be/ERNJ2XN2dno
+ll
+mpv SU\&SD\ -\ Season\ 1\,\ Episode\ 2\ \[Descent\ \&\ DungeonQuest\]\ -\ Shut\ Up\ \&\ Sit\ Down.mkv 
+dolphin .
+ll
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://youtu.be/cduiSuuJ4ws
+ll
+mv SU\&SD\ -\ Season\ 1\,\ Episode\ 7\ \[Quarriors\,\ Phantom\ Leader\ \&\ Cosmic\ Encounter\]\ -\ Shut\ Up\ \&\ Sit\ Down.mkv SU\&SD\ -\ S01E07\ \[Quarriors\,\ Phantom\ Leader\ \&\ Cosmic\ Encounter\]\ -\ Shut\ Up\ \&\ Sit\ Down.mkv 
+ll
+du -sh .
+for i in {1..5}; do echo $i; done
+for i in $(ls); do echo $i; done
+for i in $(ll); do echo $i; done
+ll
+ll | awk 'NF>8 {print $0}'
+ll | awk 'NR>8 {print $0}'
+ll | awk ' {print $0}'
+ll | awk 'if {NF>8} {print $0}'
+ll | awk 'if {NF > 8} {print $0}'
+ll | awk 'if (NF > 8) {print $0}'
+ll | awk '{ if (NF > 8) print $0}'
+ll | awk '{ for (i=8;i<NF;i++) print i}'
+ll | awk '{ for (i=8;i<NF;i++) print $i}'
+ll | awk '{ for (i=8;i<NF;i++) printf $i}'
+ll | awk '{ for (i=8;i<NF;i++) printf $i " "}'
+ll | awk '{ for (i=8;i<NF;i++) printf $i " "} END{}'
+ll | awk '{ for (i=8;i<NF;i++) printf $i " "} END{print ha}'
+ll
+ll | awk '{ for (i=9;i<NF;i++) printf $i " "} END{print ha}'
+ll | awk '{ for (i=9;i<NF;i++) printf $i " "}'
+ll | awk '{ for (i=9;i<NF;i++) printf $i; " "}'
+ll | awk '{ for (i=9;i<NF;i++) printf $i " \n"}'
+ll | awk '{ for (i=9;i<NF;i++) printf $i " "}'
+ll
+ll | awk '{print NF}'
+ll | awk 'BEGIN {FS="2017"} {print $2}'
+ll
+ll | awk 'for (i=9;i<=NF;i++) {printf $i} {print ""}'
+ll | awk 'for (i=9;i<=NF;i++) {printf $i}'
+ll | awk 'for (i=9;i<=NF;i++) {printf $i} {print ""}'
+ll | awk '{for (i=9;i<=NF;i++) printf $i} {print ""}'
+ll | awk '{for (i=9;i<=NF;i++) printf $i " "} {print ""}'
+ll
+ll | awk '{for (i=9;i<=NF;i++) printf $i " "} {print ""}'
+ll | awk '{for (i=9;i<=NF;i++) printf $i " "} {print ""}' | awk 'NR>2 {print}'
+ll | awk '{for (i=9;i<=NF;i++) printf $i " "} {print ""}' | awk 'NR>1 {print}'
+
+ll | awk '{for (i=9;i<=NF;i++) printf $i " "} {print ""}' | awk 'NR>1 {print}'
+mpv SU\&SD\ -\ S01E03\ \[The\ Resistance\,\ PowerGrid\ \&\ Summoner\ Wars\]\ -\ Shut\ Up\ \&\ Sit\ Down.mkv 
+uptime 
+ls
+mpv Inis\ -\ Shut\ Up\ \&\ Sit\ Down\ Review\ -\ Shut\ Up\ \&\ Sit\ Down.mkv 
+mpv SU\&SD\ -\ S01E03\ \[The\ Resistance\,\ PowerGrid\ \&\ Summoner\ Wars\]\ -\ Shut\ Up\ \&\ Sit\ Down.mkv 
+mpv SU\&SD\ -\ S01E04\ \[Dominion\,\ 7\ Wonders\ \&\ Nightfall\]\ -\ Shut\ Up\ \&\ Sit\ Down.mkv 
+cd $itb
+cd Research/
+ls
+ll
+cd 2018.1\ Machine\ Learning\ VS/
+ls
+ll
+cd simulation/
+ll
+cd actives/
+ll
+cd ../targets/
+ll
+cd ../actives/
+ll
+cd KDM1A/
+ls
+ll
+pymol
+accio pymol
+nload
+df
+cd Misc/joplin/
+ls
+cd
+pass shutupandsitdown.com 
+pass -c2 shutupandsitdown.com 
+pass -c shutupandsitdown.com 
+tm start 17:30 Alfa "Alfa/Les"
+tm
+tm sum
+tm stop
+tm sum
+tm track 2018-07-30T08:00 - 2018-07-30T17:00
+vim snap/timew-spirotot/current/.timewarrior/data/2018-07.data 
+tm sum
+tm week
+cd Images/Phone/
+ls
+ip addr
+sys
+accio openssh-server
+syst restart sshd
+sfs
+sys
+ls | grep -i vid
+ip addr
+du -sh .
+cd
+tm
+tm start ITB "ITB/ISNPM2018"
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+tm stop
+tm sum
+tm
+tm sum
+tm start 13:15 ITB "ITB/ISNPM2018"
+tm stop
+tm sum
+tm start ITB "ITB/Dissertation"
+tm stop
+cd Videos/you
+cd Videos/Youtube/
+ll
+cd Tabletop\ Weekly/
+ls
+cd DM\ 101/
+ls
+exiftool DM\ 101\ -\ Episode\ 1\ -\ The\ Basics\ \(Dungeons\ \&\ Dragons\ Help\)\ -\ Tabletop\ Weekly.mkv 
+mpv DM\ 101\ -\ Episode\ 1\ -\ The\ Basics\ \(Dungeons\ \&\ Dragons\ Help\)\ -\ Tabletop\ Weekly.mkv 
+youtube-dl -F https://www.youtube.com/watch?v=t3xpnZRER9k
+proxyon2
+youtube-dl -F https://www.youtube.com/watch?v=t3xpnZRER9k
+cd ../../Shut\ Up\ \&\ Sit\ Down/
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://youtu.be/-8ApDDq-ulY
+proxyon2
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://youtu.be/-8ApDDq-ulY
+proxyoff
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://youtu.be/TtCzsCMYnCE
+cd $res
+cd Results/Manuscript/Manuscript\ -\ DNA\ binding\ dynamics/References/
+proxyon2
+rclone lsd gdriveme:backups/direct/Videos
+rclone help
+rclone help | grep mkdir
+rclone mkdir gdriveme:backups/direct/Videos/TEMP
+rclone copy Downloads/Downloads.old/www.SceneTime.com\ -\ Match.Of.The.Day.2017.12.02.720p.HDTV.x264-VERUM/match.of.the.day.2017.12.02.720p.hdtv.x264-verum.mkv gdriveme:backups/direct/Videos/TEMP/
+rclone copy ~/Downloads/Downloads.old/videos/Match\ of\ the\ Day\ 2017-2018/ gdriveme:backups/direct/Videos/TEMP/"Match of the Day 2017
+rclone copy ~/Downloads/Downloads.old/videos/Match\ of\ the\ Day\ 2017-2018/ gdriveme:backups/direct/Videos/TEMP/"Match of the Day 2017-2018"/
+proxyoff
+rclone copy ~/Downloads/Downloads.old/videos/Match\ of\ the\ Day\ 2017-2018/ gdriveme:backups/direct/Videos/TEMP/"Match of the Day 2017-2018"/
+rclone copy ~/Downloads/Downloads.old/videos/Full\ Frontal/ gdriveme:backups/direct/Videos/TEMP/"Full Frontal"/
+rclone copy ~/Downloads/Downloads.old/videos/Last\ Week\ Tonight/ gdriveme:backups/direct/Videos/TEMP/"Last Week Tonight"/
+proxyoff
+tmux
+htop
+nload
+psd p
+pass -c bittamer@gmail.com 
+taskl
+syst reboot
+upower 
+upower -i /org/freedesktop/UPower/devices/battery_BAT0
+./.bin/scripts/battery_condition.sh 
+kate Misc/battery_condition 
+exit
+cat .ssh/config 
+ip addr
+ping 167.205.68.1
+ping 167.205.68.2
+ping 167.205.68.122
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+vim Misc/battery_condition 
+kate Misc/battery_condition 
+crontab -l
+vim .bin/scripts/battery_condition.sh 
+cat .ssh/config 
+vim .ssh/config 
+exit
+df
+exit
+history | grep editconf
+history | grep gmx
+exit
+cd $res
+ls
+cd Articles/
+ls
+cd Tutorials\ and\ Manuals/
+ls
+cd Gromacs/
+ls
+mp Gromacs\ Tutorial.pdf 
+o Gromacs\ Tutorial.pdf 
+cd Lysozyme\ in\ Water/
+ls
+cd ../Protein\ Ligand\ Complexes/
+ls
+o Protein\ Ligand\ Complex\ -\ 1
+o Protein\ Ligand\ Complex\ -\ Step\ 1\ -\ Protein_topology.pdf 
+o Protein\ Ligand\ Complex\ -\ Step\ 2\ -\ Ligand_topology.pdf 
+o Protein\ Ligand\ Complex\ -\ Step\ 3\ -\ Solvation.pdf 
+o Protein\ Ligand\ Complex\ -\ Step\ 4\ -\ Adding_ions.pdf 
+o Protein\ Ligand\ Complex\ -\ Step\ 5\ -\ EM.pdf 
+exit
+vpnitb
+exit
+echo $http_proxy 
+apup
+apt list --upgradable 
+accio pymol
+apgrade
+exit
+rclone size Downloads/Downloads.old/videos/Last\ Week\ Tonight/
+exit
+cd snap/timew-spirotot/current/.timewarrior/data/
+ll
+vim 2018-08.data 
+exit
+ssh vn
+exit
+pgrep steam
+exit
+pulsemixer 
+man pulseaudio 
+pulseaudio -k
+exit
+pulsemixer 
+pulseaudio 
+pulsemixer 
+sys
+sys | grep pulse
+pulsemixer 
+pulseaudio 
+pgrep pulse
+ps aux | grep 28720
+kill -SIGTERM 28720
+ps aux | grep 28720
+ps aux | grep pulse
+pulsemixer 
+syst restar pulseaudio
+syst restart pulseaudio
+syst restart pulse
+exit
+sudo scanmem 29185
+exit
+pubip
+ps aux | grep -i eu
+sudo scanmem 29185
+exit
+sudo scanmem 29185
+exit
+df
+exit
+cd Documents/Howtos/
+ls | grep gromacs
+vim gromacs_restarts_extension.txt 
+exit
+proxyoff
+tmux
+exit
+sudo powertop
+cd $res
+cd Computation/
+ls
+cd top2a_etoposide/
+ls
+cd md/
+ls
+..
+ls
+cd docking/
+ls
+..
+ls
+cd md/
+ls
+pymol protein_dna
+pymol protein_dna.pdb 
+ls
+mkdir protein_dna
+mv protein_dna_edited.pdb protein_dna/
+cd protein_dna/
+cp protein_dna_edited.pdb ..
+ls
+pymol protein_dna_edited.pdb 
+ll
+gmx pdb2gmx -f protein_dna_edited.pdb -o a_proteindna.gro
+ls
+ll
+gmx editconf -h
+gmx pdb2gmx -f protein_dna_edited.pdb -o a_proteindna.gro -ignh
+gmx editconf -f a_proteindna.gro -o b_box.gro -bt dodecahedron -d 1.2
+gmx solvate -cp b_box.gro -cs spc216.gro -p topol.top -o c_solv.gro
+tail topol.top 
+mkdir mdptpr
+cp ../evp/mdptpr/*mdp mdptpr/
+ll mdptpr/
+vim mdptpr/em_solv.mdp 
+gmx grompp -f mdptpr/em_solv.mdp -c c_solv.gro -p topol.top -o d_solvions.gro
+gmx grompp -f mdptpr/em_solv.mdp -c c_solv.gro -p topol.top -o mdptpr/ions.tpr
+gmx genion -s mdptpr/ions.tpr -o d_solvions.gro -p topol.top -pname NA -nname CL -neutral -conc 0.15
+tail topol.top 
+ll
+gmx grompp -f mdptpr/em_solv.mdp -c d_solvions.gro -p topol.top -o mdptpr/em_solv.tpr
+ls
+gmx mdrun -v -s mdptpr/em_solv.tpr -deffnm e_em
+ll
+ls
+rm \#*
+ls
+rsync e_em.gro kimedgpu:~/.system/md/top2a/
+rsync *itp kimedgpu:~/.system/md/top2a/
+rsync *top kimedgpu:~/.system/md/top2a/
+ls
+rsync mdptpr/*mdp kimedgpu:~/.system/md/top2a/mdptpr/
+gmx make_ndx -f e_em.gro -o index.ndx
+rsync index.ndx  kimedgpu:~/.system/md/top2a/
+df
+ncdu
+cd Videos/Youtube/Shut\ Up\ \&\ Sit\ Down/
+ll
+mpv SU\&SD\ -\ S01E04\ \[Dominion\,\ 7\ Wonders\ \&\ Nightfall\]\ -\ Shut\ Up\ \&\ Sit\ Down.mkv 
+mpv SU\&SD\ -\ S01E05a\ \[Twilight\ Imperium\,\ Race\ for\ the\ Galaxy\ \&\ Space\ Alert\]\ -\ Shut\ Up\ \&\ Sit\ Down.mkv 
+export DISPLAY=:0
+kwin_x11 
+nload
+s-tui 
+snap list
+accio stress-ng
+s-tui 
+ssh kimedgpu
+cd $res
+cd Computation/top2a_etoposide/md/evp/
+ll
+ls
+ssh kimedgpu
+proxyon2
+inxi -B
+accio inxi
+apup
+ping 91.189.88.152
+echo $http_proxy 
+apup
+ssh kimed
+ssh kimedgpu
+ssh root@167.205.68.1 -i ~/.ssh/kimed
+ssh root@167.205.68.2 -i ~/.ssh/kimed
+ssh root@167.205.68.101 -i ~/.ssh/kimed
+ssh root@167.205.68.102 -i ~/.ssh/kimed
+for i in {103..255}; do ssh root@167.205.68.$i -i ~/.ssh/kimed; done
+ssh root@167.205.68.197 -i .ssh/kimed
+ssh root@167.205.68.197 -i ~/.ssh/kimed
+ssh kimed@167.205.68.197 -i ~/.ssh/kimed
+for i in {198..255}; do ssh root@167.205.68.$i -i ~/.ssh/kimed; done
+ssh kimed@167.205.68.212 -i ~/.ssh/kimed
+ssh root@167.205.68.216 -i ~/.ssh/kimed
+ssh root@167.205.68.212 -i ~/.ssh/kimed
+proxyoff
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+cd Videos/Youtube/Shut\ Up\ \&\ Sit\ Down/
+ll
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/watch?v=KeHUkmd_T1s
+mpv Archipelago\ -\ Shut\ Up\ \&\ Sit\ Down\ Reviews\ -\ Shut\ Up\ \&\ Sit\ Down.mkv 
+exiftool Archipelago\ -\ Shut\ Up\ \&\ Sit\ Down\ Reviews\ -\ Shut\ Up\ \&\ Sit\ Down.mkv 
+youtube-dl -f best -o "haha.%(ext)s https://www.youtube.com/watch?v=KeHUkmd_T1s
+youtube-dl -f best -o "haha.%(ext)s" https://www.youtube.com/watch?v=KeHUkmd_T1s
+exiftool haha.mp4 
+du -sh haha.mp4 
+mpv haha.mp4 
+rm haha.mp4 
+cd
+pass -c amazon.com 
+pass -c2 amazon.com 
+pass -c amazon.com 
+proxyon2
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+pass -c asiapharm3/wp-admin 
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+pass -c asiapharm3/cpanel 
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+wget https://isnpm2018.fa.itb.ac.id/wp-content/uploads/2018/07/Abstract-Template-ISNPM-2018.docx
+rm Abstract-Template-ISNPM-2018.docx 
+tm week
+tm start 08:45 ITB "ITB/Summer School"
+tm sum
+tm week
+tm sum
+tm sum 2018-08-06 - 2018-08-08
+tm week
+tm track 2018-08-07T13:00 - 2018-08-07T16:00 ITB "ITB/Summer School"
+tm week
+tm stop 11:30
+tm week
+tm start 12:30 ITB "ITB/ISNPM2018"
+tm stop 13:30
+tm tags
+tm continue
+cd $itb
+cd Fakultas/Projects/ISNPM\ 2018/Website/assets/speakers/
+exiftool GeoffreyCordell.jpg 
+file GeoffreyCordell.jpg 
+cd
+tm stop
+tm week
+proxyoff
+ip addr
+ip route
+rm Downloads/Deadpool\ 2\ \(2018\)\ \[WEBRip\]\ \[1080p\]\ \[YTS.AM\].torrent Downloads/Avengers\ Infinity\ War\ \(2018\)\ \[BluRay\]\ \[1080p\]\ \[YTS.AM\].torrent 
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+python
+accio inxi
+inxi -B
+inxi -B | grep --color=none *
+inxi -B | grep --color=none Battery
+inxi --color=none -B
+neofetch 
+proxyon2
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+mv Downloads/rekap_registrasi.xls .
+o rekap_registrasi.xls 
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+rm rekap_registrasi.xls 
+mv snap/libreoffice/current/isnpm_rekap_registrasi.xls .
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+tm start 09:00 ITB "ITB/ISNPM2018"
+tm stop
+wget https://isnpm2018.fa.itb.ac.id/wp-content/uploads/2018/07/Abstract-Template-ISNPM-2018.docx
+htop
+snap find s-tui
+apt search s-tui
+pip install s-tui
+accio gcc python-dev python-pip
+pip install s-tui --user
+rclone lsd gdriveme:backups/direct/Videos/TEMP
+rclone size gdriveme:backups/direct/Videos/TEMP/"Last Week Tonight"
+rclone copy Downloads/Downloads.old/videos/Last\ Week\ Tonight/ gdriveme:backups/direct/Videos/TEMP/"Last Week Tonight"/
+rclone copy Downloads/Downloads.old/videos/How\ to\ Get\ Away\ With\ Murder/ gdriveme:backups/direct/Videos/TEMP/"How to Got Away With Murder"/
+rclone copy Downloads/Downloads.old/videos/Lucifer/ gdriveme:backups/direct/Videos/TEMP/Lucifer/
+rclone lsd gdriveme:backups/direct/Videos/Movies
+rclone lsd gdriveme:backups/direct/Videos/Movies | grep -i catch
+locate -i avenger
+cd Downloads/
+ls
+wget "http://toconquer.space:1405/Avengers%20Infinity%20War%20(2018)%20%5bBluRay%5d%20%5b1080p%5d%20%5bYTS.AM%5d/Avengers.Infinity.War.2018.1080p.BluRay.x264-%5bYTS.AM%5d.mp4"
+mpv Avengers.Infinity.War.2018.1080p.BluRay.x264-\[YTS.AM\].mp4 
+wget "http://toconquer.space:1405/007%20James%20Bond%20Goldfinger%201964%201080p%20BluRay%20x264%20AC3%20-%20Ozlem/007%20James%20Bond%20Goldfinger%201964%201080p%20BluRay%20x264%20AC3%20-%20Ozlem.mp4"
+
+proxyon2
+rclone copy Downloads.old/videos/Supergirl\ Season\ 2/ gdriveme:backups/direct/Videos/TEMP/"Supergirl Season 2"/
+rclone copy Downloads.old/videos/Racing\ Extinction\ \(2015\).mp4 gdriveme:backups/direct/Videos/TEMP/
+rclone copy Downloads.old/videos/Before\ the\ Flood\ -\ Full\ Movie\ _\ National\ Geographic.mp4 gdriveme:backups/direct/Videos/TEMP/
+rclone size Downloads.old/videos/Before\ the\ Flood\ -\ Full\ Movie\ _\ National\ Geographic.mp4 
+rclone copy Downloads.old/videos/Baby\ Driver\ \(2017\)\ \[1080p\]\ \[YTS.AG\]/ gdriveme:backups/direct/Videos/Movies/"Baby Driver (2017)"/
+df
+exit
+df
+exit
+df
+exit
+echo $http_proxy 
+exit
+proxyon2
+lsblk
+ncdu /media/hubbi/680E-C948/
+lsblk
+cd /media/hubbi/Elements/
+ls
+mkdir "Summer School"
+mv Summer\ School/ "Summer School 2018"/
+ll
+cd Summer\ School\ 2018/
+ll
+du -sh .
+cd
+exit
+cd temp
+df
+ls
+mv /media/hubbi/680E-C948/PRIVATE/AVCHD/BDMV/STREAM/00042.MTS .l
+mv /media/hubbi/680E-C948/PRIVATE/AVCHD/BDMV/STREAM/00042.MTS ./
+ls
+du -sh 00042.MTS 
+mount
+sudo umount /dev/sdb1
+mkdir d
+sudo mount /dev/sdb1 ./d/ -o rw,uid=1000,gid=1000
+sudo umount d
+rsync /media/hubbi/680E-C948/PRIVATE/AVCHD/BDMV/STREAM/00045.MTS ./
+ll
+rsync /media/hubbi/680E-C948/PRIVATE/AVCHD/BDMV/STREAM/00041.MTS ./
+rsync /media/hubbi/680E-C948/PRIVATE/AVCHD/BDMV/STREAM/00030.MTS ./
+rsync /media/hubbi/680E-C948/PRIVATE/AVCHD/BDMV/STREAM/ ./
+ncdu .
+rm .l 
+ncdu .
+rm -r d/
+ncdu .
+ll
+mpv 00042.MTS 
+mpv 00045.MTS 
+mpv 00042.MTS 
+mpv 00045.MTS 
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+ls
+du -sh .
+rsync ./ /media/hubbi/Elements/Summer\ School\ 2018/
+..
+rm -rf temp
+df
+exit
+cd Videos/
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/watch?v=X6dJEAs0-Gk
+rm Stars\ in\ the\ Universe\ _\ 4K\ Relaxing\ Screensaver\ -\ Josu\ Relax.f313.webm.part 
+youtube-dl -F https://www.youtube.com/watch?v=X6dJEAs0-Gk
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" -f 247 https://www.youtube.com/watch?v=X6dJEAs0-Gk
+cd ~/.themes/
+ls
+ll
+exit
+cd Misc/OS/Ubuntu/
+ls
+wget http://toconquer.space:1405/ubuntu-18.04.1-desktop-amd64.iso
+exit
+ssh kimedgpu
+exit
+apup
+accio nmap
+exit
+nmap
+proxyoff
+accio nmap
+proxyoff
+accio nmap
+proxyon2
+sudo nmap -sP -PS22 167.205.68.1/24
+exit
+ssh kimedgpu
+vim .ssh/config 
+exit
+ssh kimed
+exit
+pass -c me@hubbinash.org 
+exit
+df
+cd $res
+cd Computation/top2a_etoposide/md/
+ls
+cd protein_dna/
+ls
+rsync kimedgpu:~/.system/md/top2a/mdptpr/ ./mdptpr/
+ls
+rsync kimedgpu:~/.system/md/top2a/f_* ./
+rsync kimedgpu:~/.system/md/top2a/g_* ./
+rsync kimedgpu:~/.system/md/top2a/h_production.cpt ./
+rsync kimedgpu:~/.system/md/top2a/h_production.edr ./
+rsync kimedgpu:~/.system/md/top2a/h_production.log ./
+rsync kimedgpu:~/.system/md/top2a/h_production.xtc ./
+exit
+mv Downloads/TemplateFRKFEDDosen.xls /home/hubbi/Documents/Work/ITB/FRK\ FED/FRK\ FED\ 2018-2019\ Semester\ I\ Hubbi\ Nashrullah\ Muhammad.xls
+exit
+htop
+nload
+proxyon2
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+proxyoff
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+proxyon2
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+taskl
+task add tag:ITB project:ISNPM Pengumuman extend abstract website due:today
+task 16 start
+taskl
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+proxyoff
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+proxyon2
+proxyoff 
+uptime 
+vpnitb
+kate Documents/Howtos/nmap_tut.txt 
+proxyoff
+vpnitb
+ping kimedgpu
+tail .ssh/config 
+vim .ssh/config 
+ping 167.205.68.212
+ping 167.205.68.1
+cd Documents/Howtos/
+ls | grep nmap
+vim nmap_tut.txt 
+ssh root@167.205.68.174 -i ~/.ssh/kimed
+ssh root@167.205.68.245 -i ~/.ssh/kimed
+ssh root@167.205.68.255 -i ~/.ssh/kimed
+ssh root@167.205.68.253 -i ~/.ssh/kimed
+ssh root@167.205.68.236 -i ~/.ssh/kimed
+ssh root@167.205.68.235 -i ~/.ssh/kimed
+ssh root@167.205.68.216 -i ~/.ssh/kimed
+ssh-keygen -f ~/.ssh/known_hosts -R 167.205.68.216
+ssh root@167.205.68.216 -i ~/.ssh/kimed
+ssh root@167.205.68.213 -i ~/.ssh/kimed
+ssh root@167.205.68.212 -i ~/.ssh/kimed
+ssh kimedgpu
+sudo powertop
+proxyoff
+tmux
+cd $res
+cd Computation/
+ls
+ll
+cd top2a_etoposide/
+ls
+cd md
+ll
+snap find qownnotes
+sudo snap install qownnotes
+proxyoff
+sudo snap install qownnotes
+fg
+exit
+taskl
+task add tag:ITB Surat FRS Susulan! due:tomorrow
+task 17 start
+taskl
+exit
+cd Misc/joplin/.resource/
+ls
+dolphin 
+dolphin .
+du -sh .
+exit
+cd Downloads/TOWATCH/
+ls
+cd ../Downloads.old/videos/
+ls
+cd Baby\ Driver\ \(2017\)\ \[1080p\]\ \[YTS.AG\]/
+ls
+mv ~/Downloads/babydriver20171080pblurayx264-sparks-english-114887.zip .
+unzip ~/Downloads/babydriver20171080pblurayx264-sparks-english-114887.zip
+unzip babydriver20171080pblurayx264-sparks-english-114887.zip 
+rm babydriver20171080pblurayx264-sparks-english-114887.zip
+mv Baby.Driver.2017.1080p.BluRay.x264-SPARKS.srt Baby.Driver.2017.1080p.BluRay.x264-\[YTS.AG\].srt
+mpv Baby.Driver.2017.1080p.BluRay.x264-\[YTS.AG\].mp4 
+exit
+cd Misc/
+cd
+rsync Misc/joplin/ vn:~/misc/joplin/
+cd Misc/joplin/archive/
+ls
+cd
+exit
+proxyon2
+proxyon
+proxyoff
+apup
+apt list --upgradable 
+pass -c2 twitter.com 
+pass -c twitter.com 
+proxyon2
+proxyon
+ps aux | grep -i qown
+rm -r Misc/qownnotes/
+python
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+proxyon2
+proxyoff
+speed-test 
+snap find note
+vim
+taskl
+task
+backup.joplin 
+type backup.joplin 
+rclone lsd gdriveme:backups/direct/Misc
+rclone sync Misc/joplin/ gdriveme:backups/direct/Misc/joplin/
+ssh vn
+vpnitb
+proxyon
+proxyon2
+task
+cd $itb
+cd Fakultas/Projects/Summer\ School/
+ls
+cd Summer\ School\ 2018/
+ls
+mv ~/materibuluna/ ./
+ls
+cd
+pass -c masterweb.com 
+mv Downloads/rekap_registrasi.xls isnpm_rekap_registrasi_2018-08-21T1022.xls
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+ps aux | grep libre
+task
+taskl
+task 16 done
+task tag:ITB project:ISNPM Blast email deadline abstract update due:2018-08-23
+task add tag:ITB project:ISNPM Blast email deadline abstract update due:2018-08-23
+task add tag:ITB project:ISNPM due:2018-08-23 Print, map, and give abstracts to reviewers
+taskl
+task 17 18 start
+taskl
+task
+proxyoff
+mv Downloads/typewriter-gtk-master.zip .
+unzip typewriter-gtk-master.zip 
+cd typewriter-gtk-master/
+ls
+less README.md 
+m Typewriter ~/.themes/
+mv Typewriter ~/.themes/
+mv Typewriter-Night/ ~/.themes/
+..
+rm -rf typewriter-gtk-master
+cd Misc/Themes/
+ls
+mkdir GTK
+cd GTK/
+vim themes.list
+clone https://github.com/logico-dev/typewriter-gtk/
+git clone https://github.com/logico-dev/typewriter-gtk/
+ls
+cd typewriter-gtk/
+ls
+cd
+cd -
+mv ~/Downloads/Aqua* .
+ls
+mv Aqua* ..
+..
+ls
+vim themes.list 
+mv ~/Downloads/mylight-green.tar.gz .
+vim themes.list 
+mv ~/Downloads/Obscure-Grey.tar.xz .
+ls
+tar xvf Aqua.tar.xz 
+mv Aqua ~/.themes/
+ls
+tar xvf mylight-green.tar.gz 
+mv mylight-green ~/.themes/
+ls
+tar xvf Obscure-Grey.tar.xz 
+mv Obscure-Grey ~/.themes/
+ls
+cd
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+uptime 
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+sudo add-apt-repository ppa:nilarimogard/webupd8
+accio movgrab
+ppa-purge
+accio ppa-purge
+sudo ppa-purge ppa:nilarimogard/webupd8
+vpnitb
+sudo add-apt-repository ppa:clipgrab-team/ppa
+accio clipgrab
+man clipgrab
+clipgrab -h
+aprem --purge clipgrab
+aprem libavcodec-extra libavcodec-extra57
+accio libavcodec57
+apup
+apt list --upgradable 
+cd Misc/linux_apps/
+mv ~/Downloads/movgrab-1.2.1.tar.gz .
+vim software.list 
+tar xvf movgrab-1.2.1.tar.gz 
+cd movgrab-1.2.1/
+ls
+less README 
+cd Docs/
+ls
+less Usage.txt 
+..
+ls
+less install
+less INSTALL
+cd
+lxc
+lxc list
+lxc start myubuntu
+lxc list
+lxc exec -- sudo -i -u ubuntu
+lxc exec myubuntu -- sudo -i -u ubuntu
+lxc list
+lxc
+lxc stop myubuntu
+exit
+cd Videos/Youtube/Shut\ Up\ \&\ Sit\ Down/
+ls
+ll
+mv An\ Intro\ To\ Board\ Games\ -\ Shut\ Up\ \&\ Sit\ Down\ -\ Shut\ Up\ \&\ Sit\ Down.mp4 "An Intro To Board Games - Shut Up & Sit Down.mp4" 
+mv Archipelago\ -\ Shut\ Up\ \&\ Sit\ Down\ Reviews\ -\ Shut\ Up\ \&\ Sit\ Down.mkv "Archipelago - Shut Up & Sit Down Reviews.mkv" 
+mv Inis\ -\ Shut\ Up\ \&\ Sit\ Down\ Review\ -\ Shut\ Up\ \&\ Sit\ Down.mkv "Inis - Shut Up & Sit Down Review.mkv" 
+mv "Archipelago - Shut Up & Sit Down Reviews.mkv" "Archipelago - Shut Up & Sit Down Review.mkv" 
+ll
+mv Pandemic\ +\ In\ the\ Lab\ \&\ On\ the\ Brink\ Expansions\ -\ Shut\ Up\ \&\ Sit\ Down\ Review\ -\ Shut\ Up\ \&\ Sit\ Down.mp4 "Pandemic + In the Lab & On the Brink Expansions - Shut Up & Sit Down Review.mp4"
+mv Spyfall\ -\ Shut\ Up\ \&\ Sit\ Down\ Review\ -\ Shut\ Up\ \&\ Sit\ Down.mp4 "Spyfall - Shut Up & Sit Down Review.mp4" 
+mv "Terra Mystica - Shut Up & Sit Down Reviews.mkv" "Terra Mystica - Shut Up & Sit Down Review.mkv" 
+ll
+mkdir Classic
+mv SU\&SD\ -\ S0* Classic/
+ll
+mkdir Reviews
+mv Archipelago\ -\ Shut\ Up\ \&\ Sit\ Down\ Review.mkv Reviews/
+mv Inis\ -\ Shut\ Up\ \&\ Sit\ Down\ Review.mkv Reviews/
+mv Kemet\ -\ Shut\ Up\ \&\ Sit\ Down\ Review.mp4 Reviews/
+mv Seafall\ -\ Shut\ Up\ \&\ Sit\ Down\ Review.mp4 Reviews/
+mpv Spyfall\ -\ Shut\ Up\ \&\ Sit\ Down\ Review.mp4 
+mv Spyfall\ -\ Shut\ Up\ \&\ Sit\ Down\ Review.mp4 Reviews/
+mv Terra\ Mystica\ -\ Shut\ Up\ \&\ Sit\ Down\ Review.mkv Reviews/
+ll
+mkdir "The Opener"
+mv Pandemic\ +\ In\ the\ Lab\ \&\ On\ the\ Brink\ Expansions\ -\ Shut\ Up\ \&\ Sit\ Down\ Review.mp4 The\ Opener/
+ll
+mkdir Specials
+mv An\ Intro\ To\ Board\ Games\ -\ Shut\ Up\ \&\ Sit\ Down.mp4 Specials/
+ll
+exit
+speed-test 
+exit
+locate -i a
+locate -i "dragons"
+exit
+python
+exit
+vim Misc/pomodoro_sessions 
+exit
+termux
+exit
+proxyoff
+tmux
+tmux attach
+exit
+tmux attach
+exit
+df
+exit
+cd $res
+cd Books/Toxicology/
+ll
+o Poisoning\ and\ Drug\ Overdose\ -\ Olson\ KR.pdf 
+o Principles\ of\ Clinical\ Toxicology\ -\ Bricker\ JD\,\ Gossel\ TA.pdf 
+exit
+cd .thunderbird/
+ls
+du -sh .
+exit
+cd Misc/borgbackup/
+ls
+history | grep -i thunderbird
+ll
+borgc Thunderbird::Weekly_$(date +%y%m%d-%H%M%S) ~/.thunderbird/
+du -sh Thunderbird/
+exit
+cd Misc/linux_apps/thunderbird/thunderbird/
+ls
+./thunderbird&
+exit
+cd Videos/Youtube/Shut\ Up\ \&\ Sit\ Down/
+ncdu
+exit
+proxyon2
+ps aux | grep thunder
+tm
+tm start 07:00 ITB "ITB/Academic"
+tm stop 08:40
+tm tags
+tm start 15min ago Personal
+pass generate -n microsoft-imagine 20
+pass edit microsoft-imagine 
+pass -c microsoft-imagine 
+tm stop
+whois
+pass -c2 godaddy.com 
+pass -c godaddy.com 
+ping vn
+ping toconquer.space
+ping vn.toconquer.space
+ping iwant.toconquer.space
+type backup.joplin 
+type.doc
+type backup.documents.other 
+type backup.work 
+type tms
+cd snap/timew-spirotot/current/.timewarrior/
+git remote -v
+cd
+vim .ssh/config 
+tm
+taskl
+task 18 done
+task 12 done
+taskl
+pass -c2 tokopedia.com 
+pass -c tokopedia.com 
+tm
+taskl
+pass -c backblaze.com 
+pass -c steam 
+python
+taskl
+task add tag:ITB project:ISNPM Link to full paper template to journal websites due:tomorrow
+proxyoff
+pulsemiker
+pulsemixer
+pavucontrol
+accio pavucontrol
+pavucontrol
+exit
+cd Misc/linux_apps/thunderbird/
+ll
+cd thunderbird/
+ls
+./thunderbird&
+exit
+proxyoff
+tmux
+exit
+cd Videos/Youtube/Shut\ Up\ \&\ Sit\ Down/Reviews/
+proxyon2
+youtube-dl -o "%(title)s.%(ext)s" https://youtu.be/aUxAVjiO0Qg
+ls
+ll
+cd ../Let\'s\ Play/
+ls
+ll
+youtube-dl -o "%(title)s.%(ext)s" https://youtu.be/eJYx-o0UsRs
+ncdu
+..
+ncdu
+proxyoff
+cd Reviews/
+ll
+proxyoff
+youtube-dl -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=mmiXSOG1BtQ
+ll
+..
+ls
+cd Let\'s\ Play/
+ll
+..
+cd The\ Opener/
+ll
+mv ../Reviews/Arboretum\ -\ Shut\ Up\ \&\ Sit\ Down\ Review\ \(with\ Spicy\ Trees\).mkv .
+ll
+cd
+cd -
+..
+cd Reviews/
+ll
+proxyon2
+youtube-dl -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=TiswoYwwjnI&index=17&list=WL&t=0s
+fg
+proxyoff
+proxyon2
+speed-test 
+taskl
+neo
+neofetch 
+proxyon2
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+proxyon
+proxyon2
+ps aux | grep -i thunderbird
+pass -c masterweb.com 
+tm sum 2018-08-20 - 2018-08-27
+tm track 2018-08-20T09:00 - 2018-08-20T11:00 ITB "ITB/Academic"
+tm sum 2018-08-20 - 2018-08-27
+tm start 09:00 ITB "ITB/Academic"
+tm stop 11:00
+tm sum
+tm week
+tm start ITB "ITB/ISNPM2018"
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+tm stop
+tm week
+tm sum
+nload
+sudo powertop
+htop
+tb
+exit
+ps aux | grep -i thunderbird
+vim .bin/myaliases 
+vim .bin/mysoftwares 
+exit
+cd Misc/linux_apps/thunderbird/thunderbird/
+ls
+cd
+exit
+tb&
+exit
+proxyoff
+tmux
+exit
+tb&
+exit
+locate dungeons
+locate *dungeons*
+locate *learning*
+locate learning
+exit
+cd Downloads/
+ls Wizards\ RPG\ Team*
+exit
+cd Documents/Howtos/
+ls | grep -i steam
+vim steam_how_to_fix.txt 
+exit
+proxyon2
+pass -c2 shopee.co.id 
+pass -c shopee.co.id 
+python
+proxyoff
+mount-private 
+cd Misc/Private/
+mkdir VIDEOS
+cd VI
+cd VIDEOS/
+cd
+umount-private 
+ll Misc/Private/
+pass generate -n disqus.com
+pass edit disqus.com 
+pass -c disqus.com 
+proxyon2
+pass -c twitter.com 
+taskl
+task 17 done
+taskl
+ps aux | grep -i libre
+tm sum
+tm
+tm start 5min ago ITB "ITB/Dissertation"
+echo $http_proxy 
+proxyon2
+tm
+tm stop
+ps aux | grep -i thunder
+tm continue
+tm stop 15min ago
+tm sum
+proxyon2
+tm sum
+tm sum :week
+tm track 2018-08-28T15:00 - 2018-08-28T15:30 ITB "ITB/Academic"
+tm track 2018-08-28T15:35 - 2018-08-28T17:00 ITB "ITB/Curriculum"
+tm start 30min ago ITB "ITB/Curriculum"
+tm stop
+tm start ITB "ITB/ISNPM2018"
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+tm stop
+pass add -m itb.ac.id
+pass -c itb.ac.id 
+tm
+tm track 2018-08-29T11:00 - 2018-08-29T13:00 ITB "ITB/Academic"
+ll
+mkdir "Machine Learning Humble Book Bundle"
+cd Machine\ Learning\ Humble\ Book\ Bundle/
+mv ~/Downloads/Scott\ V.\ Burger-Introduction\ to\ Machine\ Learning\ with\ R_\ Rigorous\ Mathematical\ Analysis-O’Reilly\ Media\ \(2018\).epub .
+mv ~/Downloads/Drew\ Conway\,\ John\ Myles\ White-Machine\ Learning\ for\ Hackers-O\'Reilly\ Media\ \(2012\).epub .
+mv ~/Downloads/Drew\ Conway\,\ John\ Myles\ White-Machine\ Learning\ for\ Hackers-O\'Reilly\ Media\ \(2012\).pdf .
+mv ~/Downloads/Navdeep\ Gill\,\ Patrick\ Hall-An\ Introduction\ to\ Machine\ Learning\ Interpretability-O’Reilly\ Media\,\ Inc.\ \(2018\).pdf .
+mv ~/Downloads/Douwe\ Osinga-Deep\ Learning\ Cookbook_\ practical\ recipes\ to\ get\ started\ quickly-O’Reilly\ Media\ \(2018\).* .
+mv ~/Downloads/Andreas\ C.\ Müller\,\ Sarah\ Guido* .
+ll
+ll ~/Downloads/*epub
+ll ~/Downloads/*pdf
+mv ~/Downloads/Nikhil\ Buduma\,\ Nicholas\ Locascio-Fundamentals\ of\ Deep\ Learning_\ Designing\ Next-Generation\ Machine\ Intelligence\ Algorithms-O’Reilly\ Media\ \(2017\).pdf .
+rm ~/Downloads/Wizards\ RPG\ Team.\ -\ Dungeons\ \&\ Dragons\ Starter\ Set_\ Fantasy\ Roleplaying\ Game\ \(1\).pdf*
+proxyoff
+cd
+cd $itb
+ll
+cd Fakultas/Dokumen\ Organisasi/
+ls
+mv ~/snap/libreoffice/80/Program\ Learning\ Outcomes\ -\ Magister\ Sains\ Farmasi.doc .
+proxyon2
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+tm
+tm start 07:45 ITB "ITB/Curriculum"
+tm stop 
+tm sum
+cd 
+cd .steam
+ls
+find . -iname config.vdi
+cd
+find . -iname config.vdy
+find . -iname config.vdi
+exit
+cd .steam
+ls
+find . -iname config
+cd config/
+ls
+vim config.vdf 
+kate config.vdf 
+exit
+proxyon2
+steam
+cd .steam/config/
+ls
+kate config.vdf 
+..
+find . -iname config.vdf
+ll
+cd steam
+ls
+cd config/
+ls
+kate config.vdf 
+steam
+exit
+find . -iname config.vdf
+exit
+kwin_x11 &
+export DISPLAY=:0
+kwin_x11 &
+exit
+python
+exit
+python
+exit
+python
+exit
+python
+exit
+python
+exit
+locate -i kingdom
+locate -i kingdom | grep hearts
+cd
+ll
+cd Audio/
+ls
+cd Music/
+ls
+cd
+cd Videos/
+ls
+mpv Dearly\ Beloved.webm 
+exit
+echo $http_proxy 
+steam
+exit
+vim .bin/myfunctions 
+exit
+backup.joplin 
+backup.work 
+ssh gitvn
+source .bashrc
+exit
+cd .yadm/
+git remote -v
+cd ~/snap/timew-spirotot/current/.timewarrior/
+git remote -v
+~/.bashrc
+source ~/.bashrc
+exit
+backup.documents.other 
+backup.postgraduate 
+backup.zotero 
+type backup.zotero 
+cd Misc/zotero
+cd Misc/Zotero
+ls
+git remote -v
+git remote delete vn
+git remote remove vn
+git remote add vn gitvn:/home/git/zotero.git
+git remote -v
+backup.zotero 
+source ~/.bashrc
+exit
+proxyoff
+tmux attach
+sudo snap install wavebox
+accio ttf-mscorefonts-installer
+pass -c slack.com 
+pass microsoft_online 
+pass -c microsoft_online 
+pass generate -n microsoft_online 20
+pass edit microsoft_online 
+pass -c microsoft_online 
+pass generate microsoft_online 20
+pass edit microsoft_online 
+pass -c microsoft_online 
+pass generate microsoft_online 16
+pass -c microsoft_online 
+ls
+pass -c microsoft_online 
+pass edit microsoft_online 
+mv .password-store/microsoft_online.gpg .password-store/office.com.gpg
+pass office.com 
+pass zenkit.com 
+pass -c2 zenkit.com 
+pass -c zenkit.com 
+exit
+tb&
+exit
+locate -i 
+locate -i rps*doc*
+locate -i rps
+locate -i farmakologi
+locate -i farmakologi | grep doc
+locate -i farmakologi | grep -i rps
+exit
+exit
+ssh kimedgpu
+proxyon2
+proxyoff
+snap find whatsapp
+cd Software/whatsapp/
+ls
+proxyon2
+./whatsapp-desktop-0.4.2-x86_64.AppImage 
+cd
+python
+proxyoff
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+pass -c bri.co.id 
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+cd $itb
+cd Fakultas/Projects/Summer\ School/Summer\ School\ 2018
+ls
+cd materibuluna/
+ls
+du -sh To_Bu\ Luna.mp4 
+cd
+tm sum
+tm sum :week
+tm start 07:15 ITB "ITB/Academic"
+proxyoff
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+proxyon2
+pass -c me@hubbinash.org 
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+tm
+tm stop 08:45
+tm start 09:00 ITB "ITB/Academic"
+tm stop 10:45
+tm sum
+proxyon2
+pass -c indodax.com 
+cd Misc/joplin/
+ll
+ls
+find . 
+find . -type d
+cd archive/
+ls
+cd
+cd Misc/joplin/
+ls
+ls *.md
+for i in $(ls *.md); do echo $i; done
+for i in $(ls *.md); do grep -i linux $i; done
+for i in $(ls *.md); do grep -i "the pyramid of horus" $i; done
+for i in $(ls *.md); do echo $i; grep -i "the pyramid of horus" $i; done
+kate eaf71afb89f843dba198a6b7d47b7eda.md 
+kate 9a75547cb4ad4eb29823fa9fa6f76b84.md 
+cd
+proxyoff
+snap list
+sudo snap install sweethome3d-homedesign
+snap list
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+apup
+apt list --upgradable 
+apgrade
+nload
+ncdu
+kimedgpu
+ssh kimedgpu
+cd $itb
+cd $res
+cd Computation/top2a_etoposide/md/protein_dna/
+ls
+du -sh .
+ssh kimedgpu
+..
+cd bispyp/
+ls
+rsync kimedgpu:~/.system/md/bispyp/g_nvt* ./
+cd $res
+cd Results/Buku\ Disertasi/
+ll
+cp Dissertation.doc Dissertation.doc.bak
+snap list
+cd ~/Videos/shut
+cd ~/Videos/Youtube/Shut\ Up\ \&\ Sit\ Down/Reviews/
+proxyon2
+youtube-dl -o "%(title)s.%(ext)s" https://youtu.be/YwZLuvHwImk
+cd ../The\ Opener/
+ll
+..
+cd Classic/
+ll
+mpv SU\&SD\ -\ S01E01\ \[Citadels\ \&\ Memoir\ \'44\]\ -\ Shut\ Up\ \&\ Sit\ Down.mkv 
+ps aux | grep -i xmodmap
+xmodmap
+vim ~/.xmodpam
+vim ~/.xmodmap
+vim ~/.Xmodmap 
+xmodmap ~/.Xmodmap 
+man xmodmap
+setxkbmap -layout dvorak
+xmodmap ~/.Xmodmap 
+vim ~/.Xmodmap 
+xmodmap ~/.Xmodmap 
+mpv SU\&SD\ -\ S01E01\ \[Citadels\ \&\ Memoir\ \'44\]\ -\ Shut\ Up\ \&\ Sit\ Down.mkv 
+python
+sudo powertop
+tm&
+tb&
+exit
+uptime
+exit
+echo `uptime`
+echo `uptime` >> Misc/uptime.txt
+cat Misc/uptime.txt 
+rm Misc/uptime.txt 
+exit
+cd .bin/scripts/
+ll
+exit
+systemctl list-units
+systemctl list-all-units
+systemctl 
+type sys
+man systemctl
+systemctl status record-uptime
+systemctl --user status record-uptime
+systemctl status --user record-uptime
+exit
+cd /lib/systemd/system
+ls
+ll
+exit
+ll Misc/Private/
+snap list
+sudo snap remove wavebox
+tm
+taskl
+tasks
+tms
+proxyon2
+tm
+tm sum 2018-08-27 - 2018-09-02
+tm track 2018-09-03T09:00 - 2018-09-03T11:00 ITB "ITB/Academic"
+neofetch 
+true
+man true
+cd /usr/lib/systemd/
+ll
+cd user
+ls
+vim psd.service 
+ll
+vim psd.service 
+cd
+exit
+syst
+type syst
+system status reco
+systemctl status record-uptime
+syst start record-uptime
+systemctl status record-uptime
+syst stop record-uptime
+systemctl status record-uptime
+syst start record-uptime
+systemctl status record-uptime
+syst enable record-uptime
+ssh kimedgpu
+ping kimedgpu
+ping io9.com
+proxyon2
+ping io9.com
+proxyoff
+ping io9.com
+vpnitb
+exit
+cd Misc/steam.ubuntu/
+ls
+ncdu
+exit
+cd .steam
+ls
+cd steamapps/
+ls
+..
+cd steam
+ls
+cd steamapps/
+ls
+cd common/
+ls
+mkdir compatdata
+cd Age2HD/
+ls
+STEAM_COMPAT_DATA_PATH=~/.steam/steam/steamapps/common/compatdata/ ../Proton\ 3.7/proton run ./Launcher.exe
+STEAM_COMPAT_DATA_PATH=~/.steam/steam/steamapps/common/compatdata/ PROTON_LOG=1 ../Proton\ 3.7/proton run ./Launcher.exe
+STEAM_COMPAT_DATA_PATH=~/.steam/steam/steamapps/common/compatdata/ PROTON_LOG=1 PROTON_DUMP_DEBUG_COMMANDS=1 ../Proton\ 3.7/proton run ./Launcher.exe
+ls
+../Proton\ 3.7/
+../Proton\ 3.7/proton
+cd ../compatdata/
+ls
+cat version 
+cd -
+STEAM_COMPAT_DATA_PATH=~/.steam/steam/steamapps/common/compatdata/ ../Proton\ 3.7/proton
+STEAM_COMPAT_DATA_PATH=~/.steam/steam/steamapps/common/compatdata/ ../Proton\ 3.7/proton help
+exit
+cd Misc/steam.ubuntu/steam/steamapps/common/Age2HD/
+ls
+ll
+ls
+cp AoK\ HD.exe AoK\ HD.exe.bak
+cp Launcher.exe Launcher.exe.bak
+ls
+mv AoK\ HD.exe Launcher.exe
+ls
+dolphin 
+dolphin .
+..
+ls
+cd Proton\ 3.7/
+ls
+..
+ls
+winetricks
+accio winetricks
+exit
+ls
+exit
+steam
+exit
+watch -n 1 "dmesg | tail -n 20"
+xev 
+xinput --list-props 15
+xinput --list
+exit
+ps aux | grep -i thunder
+tb&
+exit
+ssh vn
+exit
+ssh vn
+exit
+steam
+exit
+cd Videos/Youtube/Shut\ Up\ \&\ Sit\ Down/Specials/
+ls
+mv ~/Downloads/The\ Wet\ Retirement\ Special.mp4 "The Wet Retirement Special - Shut Up & Sit Down.mp4"
+ll
+python
+cd ../Let\'s\ Play/
+ll
+youtube-dl -o "%(title)s.%(ext)s" https://youtu.be/tZFf8CKO2D8
+ll
+proxyon2
+cd ../Reviews/
+ll
+l
+youtube-dl -o "%(title)s.%(ext)s" https://youtu.be/MN7r21GGrdM
+exiftool Xia\ -\ Legends\ of\ a\ Drift\ System\ -\ Shut\ Up\ \&\ Sit\ Down\ Review.mkv 
+mpv Xia\ -\ Legends\ of\ a\ Drift\ System\ -\ Shut\ Up\ \&\ Sit\ Down\ Review.mkv 
+ncdu
+cd ../Let\'s\ Play/
+ll
+proxyoff
+cd ../Reviews/
+youtube-dl -o "%(title)s.%(ext)s" https://youtu.be/B8oee1lwEIk
+exit
+cd $res
+cd Computation/top2a_etoposide/md/bispyp/
+ls
+rsync kimedgpu:/root/.system/md/bispyp/*mdp mdptpr/
+rsync kimedgpu:/root/.system/md/bispyp/*tpr mdptpr/
+rsync kimedgpu:/root/.system/md/bispyp/g_nvt* ./
+rsync kimedgpu:/root/.system/md/bispyp/h_npt* ./
+exit
+ssh kimedgpu
+exit
+tb&
+exit
+cd "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/ISNPM 2018/Surat/"
+ll
+chmod -x Surat\ Pengajuan\ SKP.pdf 
+ll
+chmod 644 Surat\ Pengajuan\ SKP.pdf 
+ll
+du -sh Surat\ Pengajuan\ SKP.pdf 
+convert Surat\ Pengajuan\ SKP.pdf[1] a.jpg
+o a.jpg 
+convert -density 300 Surat\ Pengajuan\ SKP.pdf[1] a.jpg
+o a.jpg 
+du -sh a.jpg 
+convert -density 300 Surat\ Pengajuan\ SKP.pdf[2] b.jpg
+o b.jpg 
+gimp a.jpg 
+bg
+dolphin .
+ll
+convert -density 300 Surat\ Pengajuan\ SKP.pdf[0] cover.jpg
+convert cover.jpg a.jpg b.jpg surat.pdf
+o surat
+o surat.pdf 
+du -sh surat.pdf 
+mv surat.pdf Surat\ Pengajuan\ SKP.pdf 
+rm a.jpg b.jpg cover.jpg 
+ll
+o Surat\ Pengajuan\ 
+o Surat\ Pengajuan\ SKP.pdf 
+exit
+proxyoff
+cat Misc/uptime.txt 
+tmux
+nload
+mv Downloads/participants.php .
+rsync participants.php vn:~/
+rm participants.php 
+rsync vn:~/misc/boardgame-stats/participants.php
+rsync vn:~/misc/boardgame-stats/participants.php .
+mkdir boardgame-stats
+mv participants.php boardgame-stats/
+cd boardgame-stats/
+ls
+sublime-text.subl participants.php 
+mv participants.php entry.php
+sublime-text.subl entry.php 
+ls
+rsync entry.php vn:~/misc/boardgame-stats/
+htop
+proxyon2
+taskl
+proxyoff
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+apup
+apt list --upgradable
+watch -n 1 "ps aux | grep firefox"
+accio firefox
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+cd Videos/Youtube/Shut\ Up\ \&\ Sit\ Down/
+cd Reviews/
+ll
+..
+find . -iname *xia*
+find . -iname *cyclades*
+cd Reviews/
+mv ~/Downloads/Review_\ Cyclades_\ Titans.mp4 ./"Cyclades Titans - Shut Up & Sit Down Review.mp4"
+exit
+apt list --upgradable
+tb&
+exit
+rm Downloads/SU\&SD\ Play...\ Watch\ the\ Skies\ 2\ \(Pt.\ 1\).mp4 
+apup
+apt list --upgradable
+apgrade
+docker
+snap info docker
+accio docker.io
+syst star docker
+syst start docker
+syst disable docker
+sys
+sys | grep docker
+curl -L "https://github.com/docker/compose/releases/download/1.22.0/docker-compose-$(uname -s)-$(uname -m)" -o ~/Software/docker-compose/docker-compose
+vim .bin/mysoftwares 
+exit
+man docker-build
+exit
+ssh vn
+rsync vn:~/misc/wheatbin/tests/php.ini .
+vim php.ini 
+rm php.ini 
+exit
+man docker-compose
+docker-compose --help
+docker-compose create
+exit
+cd Videos/Youtube/
+ll
+mkdir "No Pun Included"
+cd No\ Pun\ Included/
+mkdir Specials
+cd Specials/
+youtube-dl -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=BkxCxfFHCH0
+youtube-dl -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=kUeR4DPVg20
+exit
+ss
+cn
+type cn
+netstat -tulpn
+ss talpn
+ss -talpn
+ss -tulpn
+netstat -tulpn
+type cn
+ss -lantp
+ss talpn
+ss -talpn
+cn
+type cn
+man ss
+ss -lntp
+ss -antp
+ss -lantp
+ss -lntp
+ss -ntp
+ss -antp
+ss 
+ss-n
+ss -n
+ss -nt
+ss -ntp
+ss -lntp
+netstat -tulpn
+ss -lntp
+ss -lntup
+ss -tulpn
+ss -tulnp
+ss -tuanp
+ss -tunp
+exit
+cd Videos/Youtube/Shut\ Up\ \&\ Sit\ Down/Let\'s\ Play/
+ll
+exit
+man youtube-dl
+exit
+cd Videos/Youtube/Shut\ Up\ \&\ Sit\ Down/Let\'s\ Play/
+youtube-dl -o "%(title)s.%(ext)s" https://youtu.be/vfcKY4GUzOk
+ll
+youtube-dl -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=vfcKY4GUzOk
+youtube-dl -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=IWzeZYm8_BI
+ll
+youtube-dl -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=vfcKY4GUzOk
+cd ../Reviews/
+ll
+youtube-dl -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=PLybps39ZwM
+ll
+youtube-dl -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=-k74ki2dBXo
+cd ../..
+find -t d
+find . -t d
+find . -type d
+mkdir Rahdo
+cd Rahdo/
+youtube-dl -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=kPv00kPkRCQ
+youtube-dl -o "%(title)s.%(ext)s" -F https://www.youtube.com/watch?v=kPv00kPkRCQ
+ll
+ncdu
+rm Brass\ Extended\ Gameplay.f137.mp4.part 
+ncdu
+youtube-dl -o "%(title)s.%(ext)s" -f 136+251 --merge-output-format mkv https://www.youtube.com/watch?v=kPv00kPkRCQ
+ll
+ncdu
+exit
+cd Videos/Youtube/Rahdo/
+youtube-dl -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=e_dqnt-Z0_Y
+exit
+man youtube-dl
+exit
+cd Videos/Youtube/Rahdo/
+youtube-dl -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=0-_omCAAaJY
+exit
+df
+exit
+man youtube-dl
+exit
+watch -n 1 "dmesg | tail"
+python
+exit
+ps aux | grep twitch
+gnome-twitch 
+sudo snap remove gnome-twitch
+exit
+cd $itb
+cd Fakultas/Projects/Pelantikan\ Apoteker/
+ls
+ll
+cd March\ 2018/
+ls
+cp PENGAMBILAN\ SUMPAH\ DAN\ PELANTIKAN\ 041017\ 4-3.pptx ~/Misc/VirtualBoxVM/SHARED/pelantikan_apt/
+exit
+cd Misc/VirtualBoxVM/SHARED/
+ln -s /home/hubbi/Documents/Work/ITB/Fakultas/Projects/Pelantikan\ Apoteker/September\ 2018/ pelantikan_apt
+exit
+cd $itb
+cd Fakultas/Projects/Pelantikan\ Apoteker/September\ 2018/
+ll
+mv ~/Downloads/daftar\ peserta\ sumpah\ Apoteker\ 13\ September\ 2018.pptx .
+cd ..
+ll
+cd March\ 2018/
+ls
+ll
+cp * ../September\ 2018/
+cd ../September\ 2018/
+ll
+exit
+cd $res
+find . -iname *pharmacology*
+cd Books/Pharmacology/
+ll
+mv \[Francesco_Clementi\,_Guido_Fumagalli\]_General_and_\(BookZZ.org\).pdf "General and Molecular Pharmacology - Principles of Drug Action - Clementi F, Fumagalli G.pdf"
+mv \[Georges_Vauquelin\,_Bengt_von_Mentzer\]_G_Protein-c\(BookZZ.org\).pdf "G Protein-coupled Receptors - Molecular Pharmacology - Vauquelin G, von Mentzer B.pdf"
+mv \[John_Dickenson\,_Fiona_Freeman\,_Chris_Lloyd_Mills\,\(BookZZ.org\).pdf "Molecular Pharmacology - From DNA to Drug Discovery - Dickenson J, Freeman F.pdf"
+mv \[Walter_Rosenthal\]_Encyclopedia_of_Molecular_Pharm\(BookZZ.org\).pdf "Encyclopedia of Molecular Pharmacology - Offermanns S, Rosenthal W.pdf"
+ll
+mv ~/Downloads/Michael\ J.\ Neal-Medical\ Pharmacology\ at\ a\ Glance-Wiley-Blackwell\ \(2015\).pdf "Medical Pharmacology at a Glance - Neal J.pdf"
+ll
+o Medical\ Pharmacology\ at\ a\ Glance\ -\ Neal\ J.pdf 
+exit
+cd Interactive/Tabletop\ Games/Dungeons\ and\ Dragons/
+ll
+o Monster\ Manual.pdf 
+cd the-eye.eu/
+ll
+cd public/
+ll
+cd Books/
+ll
+cd rpg.rem.uz/
+ll
+cd Dungeons\ \&\ Dragons/
+ll
+cd D\&D\ 5th\ Edition/
+ll
+cd Rulebooks/
+ll
+cd Extras/
+ll
+o Magic\ Items\ by\ Rarity.pdf 
+o Monsters\ by\ Challenge\ Rating.pdf 
+mv * ~/Interactive/Tabletop\ Games/Dungeons\ and\ Dragons/
+cd ~/Interactive/Tabletop\ Games/Dungeons\ and\ Dragons/
+ll
+rm -rf the-eye.eu/
+ll
+o Monster\ Manual\ Roll20\ Tokens.zip 
+o Player\'s\ Handbook.pdf 
+pass generate -n inkarnate.com 15
+pass -c inkarnate.com 
+pass edit inkarnate.com 
+ll
+proxyon2
+wget https://the-eye.eu/public/Books/rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Rulebooks/SRD/System%20Reference%20Document.pdf
+o System\ Reference\ Document.pdf 
+mv ~/Downloads/Slade\ Henson-Treasure\ Maps\ \(Advanced\ Dungeons\ \&\ Dragons\,\ Gr3\ 9377\)\ \(1992\).pdf .
+o Slade\ Henson-Treasure\ Maps\ \(Advanced\ Dungeons\ \&\ Dragons\,\ Gr3\ 9377\)\ \(1992\).pdf 
+mv Slade\ Henson-Treasure\ Maps\ \(Advanced\ Dungeons\ \&\ Dragons\,\ Gr3\ 9377\)\ \(1992\).pdf "Treasure Maps.pdf"
+mv ~/Downloads/Tracy\ Hickman-Dragons\ of\ Truth\ \(Advanced\ Dungeons\ \&\ Dragons\ Dragonlance\ Module\ DL13\)-TSR\ \(1986\).pdf "Dragons of Truth (Dragonlance Module).pdf"
+o Dragons\ of\ Truth\ \(Dragonlance\ Module\).pdf 
+mkdir Modules
+mv Dragons\ of\ Truth\ \(Dragonlance\ Module\).pdf Modules/
+proxyoff
+exit
+vim .bin/scripts/record_uptime.sh 
+exit
+uptime
+cat .bin/scripts/record_uptime.sh 
+echo `uptime` >> /home/hubbi/Misc/uptime.txt 
+cat Misc/uptime.txt 
+ll Misc/uptime.txt 
+ll
+sudo chown hubbi:hubbi Misc/uptime.txt 
+echo `uptime` >> /home/hubbi/Misc/uptime.txt 
+cat Misc/uptime.txt 
+date
+vim Misc/uptime.txt 
+echo `date` `uptime`
+echo `date` "|" `uptime`
+echo `date` "|" `uptime` >> Misc/uptime.txt 
+cat Misc/uptime.txt 
+exit
+man find
+exit
+vim .bin/myaliases 
+lsd
+exit
+wget https://the-eye.eu/public/Books/PlayBoy/Playboy%201953/12%20-%20December%201953.pdf
+o 12\ -\ December\ 1953.pdf 
+rm 12\ -\ December\ 1953.pdf 
+exit
+wget https://the-eye.eu/public/Books/PlayBoy/Playboy%202013/1-2%20-%20January-February%202013.pdf
+o 1-2\ -\ January-February\ 2013.pdf 
+rm 1-2\ -\ January-February\ 2013.pdf 
+exit
+cd $itb
+cd $res
+cd Books/
+cd Pharmacology/
+ls
+ll
+o Medical\ Pharmacology\ at\ a\ Glance\ -\ Neal\ J.pdf 
+exit
+cd Videos/Youtube/Shut\ Up\ \&\ Sit\ Down/
+cd Reviews/
+ll
+cd ../The\ Opener/
+ll
+youtube-dl -o "%(title)s.%(ext)s" https://youtu.be/VZCOBQFSEW4
+cd ../Reviews/
+youtube-dl -o "%(title)s.%(ext)s" https://youtu.be/Qw3-CM52z-g
+ll
+ll | grep -i tigris
+youtube-dl -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=0Jl_ensO_UY
+exit
+cd Interactive/Tabletop\ Games/Dungeons\ and\ Dragons/
+proxyon2
+wget https://rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Core/D%26D%20Adventure%20Grid.pdf
+proxyoff
+ll
+mv D\&D\ Adventure\ Grid.pdf "DnD Adventure Grid.pdf" 
+o DnD\ Adventure\ Grid.pdf 
+proxyon2
+wget https://the-eye.eu/public/Books/rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Rulebooks/Core/Player%27s%20Handbook%20Errata.pdf
+o Player\'s\ Handbook\ Errata.pdf 
+rm Player\'s\ Handbook\ Errata.pdf 
+ll
+mv "DnD Adventure Grid.pdf" "Adventure Grid.pdf"
+mv "DnD DM Basic Rules V05.pdf" "Dungeon Master's Basic Rules v0.5.pdf"
+mv "DnD Player Basic Rules V03.pdf" "Player Basic Rules v0.3.pdf"
+mv DnD\ Player\'s\ Handbook.pdf "Player's Handbook.pdf"
+ll
+wget https://the-eye.eu/public/Books/rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Rulebooks/Core/Dungeon%20Master%27s%20Guide.pdf
+o Dungeon\ Master\'s\ Guide.pdf 
+wget https://the-eye.eu/public/Books/rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Rulebooks/Core/Monster%20Manual.pdf
+wget -m -np -c -w 3 --no-check-certificate -R "index.html*" "https://the-eye.eu/public/Books/rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Rulebooks/Extras/"
+proxyoff
+cd mdo
+cd Modules/
+wget https://the-eye.eu/public/Books/rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Modules/Storm%20King%27s%20Thunder%20-%20Maps.pdf
+ll
+o Rat\ Queens\ -\ The\ Hangover.pdf 
+wget -m -np -c -w 3 --no-check-certificate -R "index.html*" "https://the-eye.eu/public/Books/rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Adventures/"
+du -sh .
+ls
+du -sh the-eye.eu/
+ls the-eye.eu/public/Books/rpg.rem.uz/Dungeons\ \&\ Dragons/D\&D\ 5th\ Edition/Adventures/
+mv the-eye.eu/public/Books/rpg.rem.uz/Dungeons\ \&\ Dragons/D\&D\ 5th\ Edition/Adventures/* .
+rm -r the-eye.eu/
+ll
+ld
+type ld
+source ~/.bashrc
+lsd
+ll
+exit
+pulsemixer 
+exit
+cd Videos/Youtube/Tabletop\ Weekly/
+ll
+lsd
+proxyon2
+mkdir "How to Make a DnD 5e Character"
+cd How\ to\ Make\ a\ DnD\ 5e\ Character/
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/playlist?list=PLz2TUw__7qw7_uewRKSkIj5S20Wjhr_oy
+proxyoff
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://www.youtube.com/playlist?list=PLz2TUw__7qw7_uewRKSkIj5S20Wjhr_oy
+ll
+du -sh .
+exit
+cd Videos/Youtube/Tabletop\ Weekly/
+ll
+exit
+cd $itb
+cd KK\ Farmakologi\ \&\ Farmasi\ Klinik/Academic/Praktikum/FA4142\ Praktikum\ Farmakologi\ Terpadu/Modul\ 6\ -\ Pencernaan/
+ls
+mv ~/Downloads/070308_saliva_review.pdf saliva
+mv saliva saliva_review.pdf
+o saliva_review.pdf 
+cd ../..
+ls
+..
+cd Kuliah/Farmakologi\ Toksikologi\ I
+ls
+mkdir sources
+cd sources/
+mv ~/Downloads/drug_metabolism_2006-2007.ppt .
+o drug_metabolism_2006-2007.ppt 
+mv ~/Downloads/29241.pdf .
+o 29241.pdf 
+mv 29241.pdf phase_II_drug_metabolism.pdf
+o phase_II_drug_metabolism.pdf 
+exit
+cd $res/
+cd Books/
+ls
+cd ~/Literature/
+ls
+ll
+cd Non\ Fiction/
+lsd
+cd 5\ -\ Mathematics\,\ Natural\ Sciences/
+lsd
+cd ../6\ -\ Applied\ Sciences\,\ Medicine\,\ Technology/
+lsd
+cd 61\ -\ Medical\ Sciences/
+ll
+cd 612
+cd 612\ -\ Physiology/
+ll
+o Fundamentals\ of\ Anatomy\ and\ Physiology\ -\ Frederic\ Martini.pdf 
+exit
+cd Videos/Youtube/Tabletop\ Weekly/
+ll
+cd How\ to\ Make\ a\ DnD\ 5e\ Character/
+ll
+mpv Part\ 1\ -\ How\ to\ make\ a\ Dungeons\ and\ Dragons\ 5th\ Edition\ Character\ \(Rolling\ Stats\,\ Race\ \&\ Class\)\ -\ Tabletop\ Weekly.webm 
+mpv Part\ 2\ -\ How\ to\ make\ a\ Dungeons\ \&\ Dragons\ 5th\ Edition\ Character\ \(Ability\ Modifiers\,\ Traits\ \&\ HP\)\ -\ Tabletop\ Weekly.mkv 
+mpv Part\ 3\ -\ How\ to\ make\ a\ Dungeons\ \&\ Dragons\ 5th\ Edition\ Character\ \(Proficiency\,\ Skills\,\ Backgrounds\)\)\ -\ Tabletop\ Weekly.mkv 
+mpv Part\ 4\ -\ How\ to\ make\ a\ Dungeons\ \&\ Dragons\ 5th\ Edition\ Character\ \(Armour\ Class\ \&\ Attacks\)\ -\ Tabletop\ Weekly.webm 
+mpv Part\ 3\ -\ How\ to\ make\ a\ Dungeons\ \&\ Dragons\ 5th\ Edition\ Character\ \(Proficiency\,\ Skills\,\ Backgrounds\)\)\ -\ Tabletop\ Weekly.mkv 
+mpv Part\ 4\ -\ How\ to\ make\ a\ Dungeons\ \&\ Dragons\ 5th\ Edition\ Character\ \(Armour\ Class\ \&\ Attacks\)\ -\ Tabletop\ Weekly.webm 
+exit
+tb&
+exit
+cd Videos/Youtube/Rahdo/
+youtube-dl -o "%(title)s.%(ext)s" -F https://www.youtube.com/watch?v=I2bncw0QXWI
+youtube-dl -o "%(title)s.%(ext)s" -f 136+140 --merge-output-format mkv https://www.youtube.com/watch?v=I2bncw0QXWI
+ll
+mpv Concordia\ Gameplay\ Runthrough.mkv 
+ll
+mpv Concordia\ Final\ Thoughts.mp4 
+cd..
+..
+mkdir "Cool Ghosts"
+cd Cool\ Ghosts/
+mkdir Play
+cd Play/
+..
+mv Play/ "Let's Play"
+cd Let\'s\ Play/
+youtube-dl -o "%(title)s.%(ext)s" https://youtu.be/SxJ8yOT1PNE
+..
+mkdir BoardGameGeek
+rm -r BoardGameGeek/
+..
+mkdir BoardGameGeek
+cd BoardGameGeek/
+mkdir "GameNight!"
+cd GameNight\!/
+youtube-dl -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=-9qHBDXte_k
+ls
+rm Inis\ -\ GameNight\!\ Se4\ Ep23.f299.mp4.part 
+youtube-dl -o "%(title)s.%(ext)s" -F https://www.youtube.com/watch?v=-9qHBDXte_k
+youtube-dl -o "%(title)s.%(ext)s" -f 137+bestaudio --merge-output-format mkv https://www.youtube.com/watch?v=-9qHBDXte_k
+exit
+cd Videos/Youtube/No\ Pun\ Included/
+ll
+mkdir Review
+mv Review/ Reviews
+cd Reviews/
+youtube-dl -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=itlmiZL9Fs8
+youtube-dl -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=sckVxwB2Jvs
+exit
+vim
+exit
+cd Videos/Youtube/Tabletop\ Weekly/
+ll
+cd How\ to\ Make\ a\ DnD\ 5e\ Character/
+ll
+mpv Part\ 4\ -\ How\ to\ make\ a\ Dungeons\ \&\ Dragons\ 5th\ Edition\ Character\ \(Armour\ Class\ \&\ Attacks\)\ -\ Tabletop\ Weekly.webm 
+mpv Part\ 3\ -\ How\ to\ make\ a\ Dungeons\ \&\ Dragons\ 5th\ Edition\ Character\ \(Proficiency\,\ Skills\,\ Backgrounds\)\)\ -\ Tabletop\ Weekly.mkv 
+exit
+cd Misc/VirtualBoxVM/SHARED/
+ll
+rm pratikum_farmol_terpadu
+ln -s /home/hubbi/Documents/Work/ITB/KK\ Farmakologi\ \&\ Farmasi\ Klinik/Academic/Praktikum/FA4142\ Praktikum\ Farmakologi\ Terpadu/ praktikum_farmol_terpadu
+ll
+exit
+ssh vn
+exit
+proxyon2
+cd Misc/OS/
+ls
+mkdir "KDE Neon"
+cd KDE\ Neon/
+wget https://files.kde.org/neon/images/neon-useredition/current/neon-useredition-current.iso
+proxyoff
+proxyon2
+wget http://toconquer.space:1405/neon-useredition-current.iso
+rm neon-useredition-current.iso 
+exit
+echo $http_proxy 
+tb&
+exit
+locate -i solo
+locate -i solo | grep -i star
+exit
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+exit
+cd $itb/
+cd Fakultas/Projects/ISNPM\ 2018/Abstracts/1\ Revised/
+rclone copy gdrive:"ABSTRACT ISNPM"/ ./
+ll
+du -sh .
+ll | wc -l
+ll oral/ | wc -l
+ll poster/ | wc -l
+exit
+man youtube-dl 
+exit
+cd $itb
+cd $res
+cd Books/Pharmacology/
+ll
+o Medical\ Pharmacology\ at\ a\ Glance\ -\ Neal\ J.pdf 
+exit
+cd $res/
+cd Books/Pharmacology/
+dolphin .
+exit
+proxyon2
+sys
+uptime
+exit
+mkdir praktikum_farmakologi_saraf
+cd praktikum_farmakologi_saraf/
+youtube-dl -F https://www.youtube.com/watch?v=nU61egBVsqU
+youtube-dl -f 18+249 --merge-output-format mkv https://www.youtube.com/watch?v=nU61egBVsqU
+youtube-dl -f 134+249 --merge-output-format mkv https://www.youtube.com/watch?v=nU61egBVsqU
+youtube-dl -F https://www.youtube.com/watch?v=H0zh7rTAioc
+mv ~/Downloads/Physiology\ Lab\ Demonstration\ Skeletal\ Muscle\ Physiology.mp4 .
+o Physiology\ Lab\ Demonstration\ Skeletal\ Muscle\ Physiology.mp4 
+mpv Physiology\ Lab\ Demonstration\ Skeletal\ Muscle\ Physiology.mp4 
+ll
+rm Physiology\ of\ frog\ muscles\ contraction-nU61egBVsqU.f18.mp4.part 
+ll
+exit
+proxyon
+proxyon2
+exit
+apt show thunderbird
+tb&
+exit
+vpnitb
+exit
+cd $res
+cd Computation/
+ll
+cd drug_targets/
+ll
+mkdir "A2AR - Adenosine A2A Receptor"
+cd A2AR\ -\ Adenosine\ A2A\ Receptor/
+ll
+proxyon2
+getpdb 3eml
+for i in {3rfm,3rey,3pwh,3vg9,3vga,3uza,3uzc,4eiy}; do getpdb $i; done
+ll
+exit
+df
+exit
+man git
+man git-commit
+exit
+man pass
+exit
+ssh gitvn
+exit
+081294109633
+087789163633
+087861782121
+exit
+cd python_vis_tutorial/
+ls
+python test.py 
+ll
+o 2014-mn-capita-budget.png 
+exit
+kwin_x11 &
+export DISPLAY=:0
+kwin_x11 &
+exit
+uptime
+htop
+nload
+cd Interactive/Tabletop\ Games/Dungeons\ and\ Dragons/
+ll
+cd Crosshead\ Studios/
+ll
+mkdir "Forest Road"
+cd Forest\ Road/
+..
+ll
+mkdir Maps
+mv * Maps/
+ll
+mkdir "Buildings - Church"
+cd Buildings\ -\ Church/
+mv ~/Downloads/BUILDINGS\ -\ CHURCH.zip .
+unzip BUILDINGS\ -\ CHURCH.zip 
+rm BUILDINGS\ -\ CHURCH.zip 
+ll
+..
+ll
+mv Buildings\ -\ Church/ Maps/
+ll
+mkdir Miniatures
+cd Miniatures/
+mv ~/Downloads/NPC\ -\ ASSASSIN.zip .
+unzip NPC\ -\ ASSASSIN.zip 
+rm NPC\ -\ ASSASSIN.zip 
+mv ~/Downloads/NPC\ -\ * .
+ll
+mkdir "NPC - Assassin"
+mv ASSASSIN\ * NPC\ -\ Assassin/
+ll
+mkdir "NPC - Acolyte"
+mkdir "NPC - Archmage"
+mkdir "NPC - Bandit Captain"
+mkdir "NPC - Bandit"
+mv NPC\ -\ ARCHMAGE.zip NPC\ -\ Archmage/
+mv NPC\ -\ BANDIT.zip NPC\ -\ Bandit/
+ll
+mv NPC\ -\ ACOLYTE.zip NPC\ -\ Acolyte/
+mv NPC\ -\ BANDIT\ CAPTAIN.zip NPC\ -\ Bandit\ Captain/
+ll
+proxyoff
+tmux
+pass -c bri.co.id 
+proxyon2
+tm sum
+tm week
+tm sum :yesterday
+tm track 2018-10-01T11:00 - 2018-10-01T12:00 ITB "ITB/ISNPM2018"
+tm track 2018-10-01T12:00 - 2018-10-01T13:30 ITB "ITB/Academic"
+tm track 2018-10-01T13:30 - 2018-10-01T14:25 ITB "ITB/ISNPM2018"
+tm track 2018-10-01T15:00 - 2018-10-01T17:00 ITB "ITB/Academic"
+tm week
+tm start ITB "ITB/ISNPM2018"
+mv Downloads/Abstract\ Numbering.xlsx /home/hubbi/Documents/Work/ITB/Fakultas/Projects/ISNPM\ 2018/Abstracts/
+mv Downloads/file_struk_02-10-2018_12.13.21.pdf Documents/Other/MNC\ Play/
+tm stop 30min ago
+echo "---" >> Misc/uptime.txt 
+cat Misc/uptime.txt 
+tm continue
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+tm
+tm stop
+tm sum
+tm week
+tm start 10min ago ITB "ITB/ISNPM2018"
+cd "/home/hubbi/Documents/Work/ITB/Fakultas/Projects/ISNPM 2018/Booklet/"
+ll
+gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=done.pdf booklet_front_cover.pdf Abstract\ Book\ -\ ISNPM\ 2018.pdf booklet_back_cover.pdf 
+cd
+tm
+tm stop
+taskl
+task 17 19 done
+taskl
+task 11 delete
+task add tag:ITB project:ISNPM barcode and name stickers
+taskl
+task 17 modify due:tomorrow
+task 17 start
+task
+gimp ktp.jpg 
+ll
+cd /home/hubbi/Music
+mv Downloads/Abstract\ Numbering.xlsx /home/hubbi/Documents/Work/ITB/Fakultas/Projects/ISNPM\ 2018/Abstracts/
+proxyoff
+tm
+tm sum
+tm start 17:00 ITB "ITB/ISNPM2018"
+tm stop 20:00 
+tm sum
+tm week
+tm continue
+pulsemixer 
+proxyoff
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+ll
+lsd
+cd Interactive/Video\ Games/
+ls
+ll
+cd Emulation/
+ll
+cd ROMS/
+ll
+rm ~/Downloads/Bios\ Core\ Files\ \(all-in-one\ pack\).7z 
+o Bios\ Core\ Files\ \(all-in-one\ pack\).7z 
+cd
+cd ps2-bios/
+ls
+cd Bios\ Core\ Files\ \(all-in-one\ pack\)/
+ls
+mv * ..
+..
+rm -r Bios\ Core\ Files\ \(all-in-one\ pack\)/
+ll
+..
+proxyon2
+ln -s /home/hubbi/Documents/Work/STFB/Bimbingan\ Tugas\ Akhir/ ~/Misc/VirtualBoxVM/SHARED/"Tugas Akhir STFB"
+proxyon2
+pass -c isnpm2018.fa.itb.ac.id/wp-admin 
+pass -c isnpm2018.fa.itb.ac.id/cpanel 
+pass -c2 tokopedia.com 
+pass -c tokopedia.com 
+pass -c2 tokopedia.com 
+pass -c tokopedia.com 
+proxyoff
+pass -c2 paypal.com 
+pass -c paypal.com 
+cd Images/Me\ and\ Wife/
+du pasfoto
+du portrait\ 2018-10.
+du portrait\ 2018-10.jpg 
+gimp portrait\ 2018-10.jpg 
+cd
+du a.jpg 
+o a.jpg 
+mv a.jpg hubbi.jpg
+exiftool hubbi.jpg 
+gimp hubbi.jpg 
+du hubbi.jpg 
+gimp hubbi.jpg 
+du hubbi.jpg 
+mv hubbi.jpg Documents/
+pass -c indodax.com 
+proxyon2
+pass generate -n itsfoss.community 15
+pass edit itsfoss.community 
+pass -c itsfoss.community 
+proxyoff
+pass git status
+pass git remote -v
+pass git commit -a
+pass git commit -a -m "Update"
+pass git status
+pass git push origin master
+pass git push vn master
+pass git status
+history | grep pass
+history | grep pass | grep git
+pass git push -u origin master
+type backup.git.zotero 
+type tms
+pass git push -u --all 
+pass git status
+pass git add .
+pass git status
+pass git push -u origin master
+pass git status
+pass git commit -m Update -a
+pass git push -u origin master
+pass git push -u vn master
+pass git status
+type tms
+tms
+tasks
+cd snap/timew-spirotot/14/.timewarrior/
+git status
+cd
+pass git remote -v
+cat .ssh/config 
+cd .ssh
+ll
+dolphin .
+cd
+ip addr
+pass github.com 
+pass itsfoss.community 
+pass git status
+pass git remote rm vn
+pass git status
+pass git remote -v
+cat .sshlon
+cat .ssh/config 
+pass add -m HAHA
+pass git remote -v
+yadm remote -v
+pass git push -u origin master
+proxyon2
+uptime
+.bin/scripts/record_uptime.sh 
+proxyon2
+proxyoff
+proxyon2
+dolphin 
+dolphin Documents/Howtos/
+ll
+ls
+cd Documents/
+ls
+cd Howtos/
+ls
+kate gromacs_pbc.txt 
+cd
+cd $work
+cd STFB/
+ls
+cd Bimbingan\ Tugas\ Akhir/
+ls
+cd 2018-2019/
+ls
+cd Upload\ 1/
+ls
+o HANA.pdf 
+o puji.pdf 
+gimp HANA.pdf 
+cd
+apt search python-pandas
+mkdir python_vis_tutorial
+cd python_vis_tutorial/
+proxyon2
+wget http://pbpython.com/extras/mn-budget-detail-2014.csv
+kate mn-budget-detail-2014.csv 
+proxyoff
+accio python-pandas
+ls
+vim test.py
+apt search python-matplotlib
+vim test.py
+apt search python-matplotlib
+vim test.py
+python test.py 
+vim test.py
+python test.py 
+vim test.py
+cd
+apup
+apt list --upgradable
+cd Videos/Youtube/Shut\ Up\ \&\ Sit\ Down/
+ll
+cd Let\'s\ Play/
+ll
+proxyon2
+youtube-dl -o "%(title)s.%(ext)s" https://www.youtube.com/watch?v=0itUHQP6Zyo
+cd ../Reviews/
+ll
+proxyon2
+youtube-dl -o "%(title)s.%(ext)s" https://youtu.be/Xj7GpCYMtTs
+youtube-dl -o "%(title)s.%(ext)s" https://youtu.be/nYMNcyM-i3g
+proxyoff
+youtube-dl -o "%(title)s.%(ext)s" https://youtu.be/nYMNcyM-i3g
+proxyoff
+ll
+mpv Kemet\ -\ Shut\ Up\ \&\ Sit\ Down\ Review.mp4 
+tb&
+exit
+tb&
+exit
+vpn
+vpnitb
+type vpn
+cd Misc/openvpn/toconquerspace_docker_ovpn/
+ll
+vim hubbi_toconquerspace.ovpn 
+vpn
+exit
+cd Misc/OS/KDE\ Neon/
+ll
+sudo dd if=./neon-useredition-20180927-0529-amd64.iso of=/dev/sdb bs=4M
+lsblk
+exit
+lsblk
+sudo umount /dev/sdb1
+exit
+vim software.list 
+exit
+type tb
+cd Misc/thunderbird-monterail/
+ls
+cat git.source 
+cd ~/.thunderbird/
+ll
+cd m8jdv7c4.default/
+ls
+mv ~/Downloads/thunderbird-monterail-master.zip 
+mv ~/Downloads/thunderbird-monterail-master.zip .
+o thunderbird-monterail-master.zip 
+unzip thunderbird-monterail-master.zip 
+ls
+rm thunderbird-monterail-master.zip 
+lsd
+mv thunderbird-monterail-master/ chrome
+vim chrome/userChrome.css 
+cd chrome/themes/
+ls
+..
+vim userChrome.css 
+..
+rm -rf chrome/
+cd
+cd -
+ll
+lsd
+cd Photos/
+ls
+dolphin .
+ll
+..
+ll
+lsd
+ncdu .
+cd
+proxyoff
+ip addr
+cd /etc/openvpn/
+vim update-resolv-conf 
+cd
+snap list
+snap list > software.list
+vim software
+vim software.list 
+zcat /var/log/apt/history.log.*.gz | cat - /var/log/apt/history.log
+zcat /var/log/apt/history.log.*.gz | cat - /var/log/apt/history.log | grep -Po '^Commandline: apt-get install (?!.*--reinstall)\K.*'
+zcat /var/log/apt/history.log.*.gz | cat - /var/log/apt/history.log | grep -Po '^Commandline: apt install (?!.*--reinstall)\K.*'
+zcat /var/log/apt/history.log.*.gz | cat - /var/log/apt/history.log | grep -Po '^Commandline: apt install (?!.*--reinstall)\K.*' >> software.list 
+zcat /var/log/apt/history.log.*.gz | cat - /var/log/apt/history.log | grep --color=none -Po '^Commandline: apt install (?!.*--reinstall)\K.*' >> software.list 
+exit
+nload
+exit
+htop
+exit
+proxyoff
+tmux
+exit
+apgrade
+accio redshift
+kate
+firefox --version
+accio docker.io smem winetricks pymol gcc python-dev python-pip stress-ng inxi nmap ppa-purge ttf-mscorefonts-installer openvpn qtcurve ncdu grace neofetch xbindkeys xautomation steam git mpv rclone ecrytpfs-utils pass borgbackup undistract-me lutris calibre bluefish filezilla kcharselect powertop mesa-utils sysbench libimage-exiftool-perl profile-sync-daemon scanmem yadm curl openssh-server python-pandas
+accio docker.io smem winetricks pymol gcc python-dev python-pip stress-ng inxi nmap ppa-purge ttf-mscorefonts-installer openvpn qtcurve ncdu grace neofetch xbindkeys xautomation steam git mpv rclone pass borgbackup undistract-me calibre bluefish filezilla kcharselect powertop mesa-utils sysbench libimage-exiftool-perl profile-sync-daemon scanmem yadm curl openssh-server python-pandas
+accio docker.io smem winetricks pymol gcc python-dev python-pip stress-ng inxi nmap ppa-purge ttf-mscorefonts-installer openvpn qtcurve ncdu grace neofetch xbindkeys xautomation steam git mpv rclone pass borgbackup undistract-me bluefish filezilla kcharselect powertop mesa-utils sysbench libimage-exiftool-perl profile-sync-daemon scanmem yadm curl openssh-server python-pandas
+exit
+tb&
+exit
+apt show thunderbird
+exit
+neofetch 
+exit
+ssh vn
+exit
+tb&
+exit
+tm tags
+exit
+python
+exit
+ssh vn
+exit
+pass -c steam 
+exit
+steam
+type steam
+steam
+pgrep steam
+kill 15273
+pgrep steam
+steam
+exit
+apup
+apt list --upgradable
+apgrade
+exit
+kate software.list 
+exit
+steam&
+exit
+cd $itb
+cd Fakultas/Projects/ISNPM\ 2018/
+du -sh .
+exit

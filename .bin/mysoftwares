@@ -15,6 +15,9 @@ alias adt="/home/hubbi/Software/mgltools/bin/adt"
 # Calibre
 #alias calibre="/home/hubbi/Software/calibre/calibre/calibre"
 
+# Docker Compose
+alias docker-compose="/home/hubbi/Software/docker-compose/docker-compose"
+
 # Gaussian
 export g09root="/home/hubbi/Software/gaussian"
 export GAUSS_SCRDIR="/home/hubbi/Software/gaussian/scr"
@@ -50,6 +53,9 @@ export PATH=$PATH":/home/hubbi/.cargo/bin"
 
 # Speedtest
 alias speedtest="/home/hubbi/Software/speedtest/speedtest.py"
+
+# Thunderbird 60
+alias thunderbird="/home/hubbi/Misc/linux_apps/thunderbird/thunderbird/thunderbird"
 
 # Undistract-me
 source /etc/profile.d/undistract-me.sh

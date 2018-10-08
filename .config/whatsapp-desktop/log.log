@@ -385,3 +385,9 @@
 [2018-05-02 14:59:50.692] [warn] Error checking updates (status 404): null
 [2018-05-09 10:50:25.905] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
 [2018-05-09 11:45:00.373] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-08-30 14:48:07.787] [warn] No supported locale found, defaulting to en_US
+[2018-08-30 14:48:08.554] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-08-30 14:48:15.052] [warn] Error checking updates (status 404): null
+[2018-08-30 14:49:46.752] [warn] No supported locale found, defaulting to en_US
+[2018-08-30 14:49:47.091] [warn] Error clearing cache: Error: ENOENT: no such file or directory, unlink '/home/hubbi/.config/whatsapp-desktop/Application Cache/Index'
+[2018-08-30 14:49:50.165] [warn] Error checking updates (status 404): null
