@@ -1,18 +1,16 @@
 VirtualBox GUI VM Selector Window 5.2.10_Ubuntu r121806 linux.amd64 (Jun 15 2018 16:14:07) release log
-00:00:00.989068 Log opened 2018-10-04T02:08:06.281114000Z
-00:00:00.989069 Build Type: release
-00:00:00.989071 OS Product: Linux
-00:00:00.989072 OS Release: 4.15.0-34-generic
-00:00:00.989072 OS Version: #37-Ubuntu SMP Mon Aug 27 15:21:48 UTC 2018
-00:00:00.989090 DMI Product Name: UX303UB
-00:00:00.989096 DMI Product Version: 1.0       
-00:00:00.989137 Host RAM: 11436MB (11.1GB) total, 7981MB (7.7GB) available
-00:00:00.989141 Executable: /usr/lib/virtualbox/VirtualBox
-00:00:00.989141 Process ID: 23270
-00:00:00.989142 Package type: LINUX_64BITS_GENERIC (OSE)
-00:00:00.989157 Qt version: 5.9.5
-00:00:01.018866 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:00:01.279912 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:00:01.299930 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 78x36 x 1842x1044
-00:26:33.758591 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:26:34.479554 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:04.682454 Log opened 2018-10-25T06:49:46.830112000Z
+00:00:04.682461 Build Type: release
+00:00:04.682471 OS Product: Linux
+00:00:04.682476 OS Release: 4.15.0-36-generic
+00:00:04.682482 OS Version: #39-Ubuntu SMP Mon Sep 24 16:19:09 UTC 2018
+00:00:04.682567 DMI Product Name: UX303UB
+00:00:04.682613 DMI Product Version: 1.0       
+00:00:04.682821 Host RAM: 11436MB (11.1GB) total, 5236MB (5.1GB) available
+00:00:04.682841 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:04.682845 Process ID: 23759
+00:00:04.682850 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:04.682940 Qt version: 5.11.1
+00:00:04.801247 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:05.937849 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 78x36 x 1842x1044
+00:00:05.939308 GUI: UIMediumEnumerator: Medium-enumeration finished!

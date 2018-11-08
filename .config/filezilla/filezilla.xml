@@ -56,7 +56,7 @@
 		<Setting name="Auto Ascii no extension">1</Setting>
 		<Setting name="Auto Ascii dotfiles">1</Setting>
 		<Setting name="Language Code" />
-		<Setting name="Last Server Path">1 0 11 public_html</Setting>
+		<Setting name="Last Server Path">1 0 11 public_html 7 dokumen</Setting>
 		<Setting name="Concurrent download limit">0</Setting>
 		<Setting name="Concurrent upload limit">0</Setting>
 		<Setting name="Update Check">1</Setting>
@@ -76,17 +76,17 @@
 		<Setting name="Show Tree Remote">1</Setting>
 		<Setting name="File Pane Layout">0</Setting>
 		<Setting name="File Pane Swap">0</Setting>
-		<Setting name="Last local directory">/home/hubbi/.public_html/aptfi/</Setting>
+		<Setting name="Last local directory">/home/hubbi/.public_html/aptfi/dokumen/</Setting>
 		<Setting name="Filelist directory sort">0</Setting>
 		<Setting name="Filelist name sort">1</Setting>
 		<Setting name="Queue successful autoclear">0</Setting>
 		<Setting name="Queue column widths">205 60 316 80 60 150</Setting>
-		<Setting name="Local filelist colwidths">289 80 100 120</Setting>
+		<Setting name="Local filelist colwidths">351 80 100 120</Setting>
 		<Setting name="Remote filelist colwidths">240 75 80 100 80 80</Setting>
 		<Setting name="Window position and size">0 292 100 1352 776 </Setting>
-		<Setting name="Splitter positions (v2)">97 -231 500000000 233 171 500000000</Setting>
-		<Setting name="Local filelist sortorder">0 0</Setting>
-		<Setting name="Remote filelist sortorder">0 0</Setting>
+		<Setting name="Splitter positions (v2)">97 -105 500000000 233 171 500000000</Setting>
+		<Setting name="Local filelist sortorder">1 3</Setting>
+		<Setting name="Remote filelist sortorder">1 0</Setting>
 		<Setting name="Time Format" />
 		<Setting name="Date Format" />
 		<Setting name="Show message log">1</Setting>
@@ -97,7 +97,7 @@
 		<Setting name="Custom file associations" />
 		<Setting name="Comparison mode">1</Setting>
 		<Setting name="Comparison threshold">1</Setting>
-		<Setting name="Site Manager position">0 591 256 754 556 </Setting>
+		<Setting name="Site Manager position">0 591 253 754 556 </Setting>
 		<Setting name="Icon theme">default</Setting>
 		<Setting name="Icon scale">125</Setting>
 		<Setting name="Timestamp in message log">0</Setting>
@@ -145,7 +145,7 @@
 		<LastServer>
 			<Host>ftp.aptfi.or.id</Host>
 			<Port>21</Port>
-			<Protocol>0</Protocol>
+			<Protocol>6</Protocol>
 			<Type>0</Type>
 			<User>h1405003</User>
 			<Pass encoding="base64">RmVsdUNpYTE0MDVDcGFuZWxhcHRmaQ==</Pass>

@@ -1,0 +1,5 @@
+2018-05-24 02:19:50: "checkForUpdates: Initializing..."
+2018-05-24 02:19:50: "Checking for update"
+2018-05-24 02:19:51: "Generated new staging user ID: 245eef90-49c5-5b10-8e61-9a69c316612a"
+2018-05-24 02:19:59: "Found version 1.0.94 (url: Joplin-1.0.94-x86_64.AppImage)"
+2018-05-24 02:20:05: "checkForUpdates: Done."

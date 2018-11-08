@@ -15,5 +15,8 @@
 		<Language id="en_US" date="">
 			<Font font="Ubuntu 10" width="775" height="16" />
 		</Language>
+		<Language id="en_GB" date="">
+			<Font font="Ubuntu 10" width="775" height="16" />
+		</Language>
 	</Layout>
 </FileZilla3>

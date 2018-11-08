@@ -12235,3 +12235,1817 @@ cd $itb
 cd Fakultas/Projects/ISNPM\ 2018/
 du -sh .
 exit
+youtube-dl -o "%(title)s - %(uploader)s.%(ext)s" https://youtu.be/PONe4IIYSnQ
+exit
+ssh kimedgpu
+ping kimedgpu
+ssh kimed
+ping kimed
+vim .ssh/config 
+ping 167.205.68.1
+ping 167.205.68.212
+sudo nmap -sP -PS22 167.205.68.1/24
+vim .ssh/config 
+exit
+pgrep thunderbird
+vpnitb
+exit
+     man gs
+exit
+snap search corebird
+exit
+vpnitb
+exit
+ll
+cd .bin
+..
+mv Public/* ./
+cd Public/Misc/
+ls
+cd
+cd Misc/
+ls
+cd
+mv Public/Misc/ Misc/
+mv Public/Software/ Software/
+ls
+cd Public/
+ls
+..
+rm -r Public/
+exit
+locate zotero.desktop
+vim .local/share/applications/zotero.desktop 
+exit
+cd Misc/joplin/
+ll
+touch -t 201810080000 ffc455caa18246038659958778af3446.md 
+ls
+ll
+vim ffc455caa18246038659958778af3446.md 
+vim ff5c8a3b206d4dea8a1653ec0ff19d82.md 
+touch -t 201810080000 ff5c8a3b206d4dea8a1653ec0ff19d82.md 
+vim ff5c8a3b206d4dea8a1653ec0ff19d82.md 
+ll
+touch -t 201810080000 *
+
+touch -t 201810110000 *
+ll
+touch -t 201810091625 *
+exit
+locate steam.desktop
+sudo vim /usr/share/applications/steam.desktop 
+vim .local/share/applications/appimagekit-joplin.desktop 
+exit
+cd Images/Other/bitflat_icon_pack/
+ll
+exit
+proxyon2
+pulsemixer 
+cd Documents/
+ll
+du -sh ijazah_s2_winda.pdf 
+o ijazah_s2_winda.pdf 
+convert -resize 70% Penyetaraan\ Ijazah\ S2\ Winda.pdf Penyetaraan\ Ijazah\ S2\ Winda_NEW.pdf 
+gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=done.pdf -dPDFSETTINGS=/screen Penyetaraan\ Ijazah\ S2\ Winda.pdf 
+gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=done.pdf -dPDFSETTINGS=/ebook Penyetaraan\ Ijazah\ S2\ Winda.pdf 
+gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=done.pdf Penyetaraan\ Ijazah\ S2\ Winda_small.pdf Ijazah\ S2\ Winda.pdf 
+gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=done.pdf -dPDFSETTINGS=/ebook Penyetaraan\ Ijazah\ S2\ Winda.pdf Ijazah\ S2\ Winda.pdf 
+gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=done.pdf -dPDFSETTINGS=/screen Penyetaraan\ Ijazah\ S2\ Winda.pdf Ijazah\ S2\ Winda.pdf 
+gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=done.pdf -dPDFSETTINGS=/ebook Penyetaraan\ Ijazah\ S2\ Winda.pdf Ijazah\ S2\ Winda.pdf 
+gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=done.pdf -dPDFSETTINGS=/prepress Penyetaraan\ Ijazah\ S2\ Winda.pdf Ijazah\ S2\ Winda.pdf 
+gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile=done.pdf -dPDFSETTINGS=/ebook Penyetaraan\ Ijazah\ S2\ Winda.pdf Ijazah\ S2\ Winda.pdf 
+gs -q -dBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=done.pdf -dPDFSETTINGS=/ebook Ijazah\ S2\ Winda.pdf 
+gs -q -dBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=done.pdf -dPDFSETTINGS=/ebook Penyetaraan\ Ijazah\ S2\ Winda.pdf 
+gs -q -dBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=done.pdf -dPDFSETTINGS=/screen Penyetaraan\ Ijazah\ S2\ Winda.pdf 
+gs -q -dBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=done.pdf -dPDFSETTINGS=/ebook Penyetaraan\ Ijazah\ S2\ Winda.pdf 
+exiftool Penyetaraan\ Ijazah\ S2\ Winda.jpg 
+convert -density 100 Penyetaraan\ Ijazah\ S2\ Winda.jpg done.pdf
+gs -q -dBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=done.pdf Penyetaraan\ Ijazah\ S2\ Winda.jpg 
+gs -q -dBATCH -dNOPAUSE -sDEVICE=pdfwrite -sOutputFile=done.pdf Penyetaraan\ Ijazah\ S2\ Winda_small.pdf Ijazah\ S2\ Winda.pdf 
+cd
+taskl
+task 17 done
+task 15 delete
+tm
+tm sum
+tm week
+task add tag:ITB project:Academic Soal UTS Pharmatox Inter due:2018-10-16
+taskl
+cd Misc/linux_apps/crossover/
+ls
+ll
+sudo apt install ./crossover_17.5.0-1.deb 
+proxyoff
+proxyon2
+proxyoff
+sudo apt install ./crossover_17.5.0-1.deb 
+cd
+locate crossover
+rm -rf .cxoffice/
+pass -c2 crossover
+pass -c2 codeweavers.com 
+pass -c codeweavers.com 
+cd Misc/win_apps/
+ls
+lsd
+cd Microsoft\ Office\ 2013\ x86\ \(Bellatrix\)/
+ll
+cd ../Microsoft\ Office\ 2016\ v16.0.4266\ RTM\ +\ Keys\ \(32-64Bit\)/
+ll
+cd Microsoft\ Office\ 2016\ v16.0.4266\ RTM\ +\ Keys/
+ll
+unzip Microsoft\ Office\ 2016\ v16.0.4266\ RTM\ +\ Keys\ \(32-64Bit\).zip 
+ll
+rm Setup.exe 
+..
+lsd
+..
+lsd
+cd Microsoft\ Office\ 2013\ x86\ \(Bellatrix\)/
+ll
+mkdir haha
+sudo mount en\ office\ professional\ plus\ 2013\ x86\ dvd\ 1123673\[Bellatrix\].iso haha
+cd
+proxyon2
+cd /etc/network
+ls
+sudo vim interfaces 
+cd ..
+cd NetworkManager/
+ls
+cd system-connections/
+ls
+sudo vim tablet02 
+sudo vim Rumah\ Kita
+cd
+type zotero 
+cd Misc/linux_apps/
+cd zotero/
+ls
+..
+vim software.list 
+cd zotero/
+mv ~/Downloads/Zotero-5.0.55_linux-x86_64.tar.bz2 .
+tar xvf Zotero-5.0.55_linux-x86_64.tar.bz2 
+ls Zotero_linux-x86_64/
+ls ~/Software/zotero/
+ls
+rm ~/Software/zotero/*
+rm -rf ~/Software/zotero/*
+mv Zotero_linux-x86_64/* ~/Software/zotero/
+rm -r Zotero_linux-x86_64/
+cd
+cd -
+ls
+proxyoff
+cp ~/Images/Other/Icons/zotero.png .
+o zotero.png 
+gimp zotero.png 
+ls
+cp ~/Images/Other/Icons/zotero.png .
+o zotero.png 
+mv zotero.png zotero-icon.png
+cp zotero-icon.png ~/Software/zotero/
+cd 
+ll
+cd Software/zotero/
+ls
+cd -
+cd Misc/
+mv Misc/* .
+sudo mv Misc/boot/ ./
+sudo mv Misc/Private/ ./
+ls
+cd Misc/
+ls
+cd joplin/
+ls
+cd ../joplin/
+ls
+cd ../joplin/
+ls
+..
+ls
+cd joplin/
+ls
+mv ../Misc/joplin/* ./
+ls
+..
+cd Misc/
+ls
+cd joplin/
+ls
+..
+rm -rf Misc/
+ls
+cd linux_apps/zotero/
+ll
+cd
+cd Software/
+ls
+cd
+ls
+cd Software/
+ls
+cd Software/
+ls
+..
+ls zotero/
+mv Software/zotero/* zotero/
+ls zotero/
+rm -r Software/zotero/
+mv Software/* ./
+ls
+cd Software
+ls
+..
+rm -r Software
+cd
+proxyon2
+cd Software/joplin/
+ls
+o joplin-
+o joplin-logo.png 
+rm joplin-logo.png 
+cp ~/Images/Other/Icons/joplin.png joplin-logo.png
+o joplin-logo.png 
+locate joplin.desktop
+vim ~/.local/share/applications/appimagekit-joplin.desktop 
+cd
+cd Images/Other/
+mv Icons/ bitflat_icon_pack
+cd bitflat_icon_pack/
+ll
+ll *png
+o steam.png 
+ll
+o dolphin.svg 
+ll
+o dolphin.png 
+locate dolphin.desktop
+sudo vim /usr/share/applications/org.kde.dolphin.desktop 
+cd
+locate inkscape.desktop
+cd snap/inkscape/4274/
+ll
+cd
+sudo vim /var/lib/snapd/desktop/applications/inkscape_inkscape.desktop 
+cd /snap/inkscape/4274/
+sudo vim meta/gui/inkscape.desktop 
+sudo vim share/applications/inkscape.desktop 
+cd
+sudo vim /var/lib/snapd/desktop/applications/inkscape_inkscape.desktop 
+exit
+cd /var/lib/snapd/desktop/applications/
+ls
+sudo vim inkscape_inkscape.desktop 
+exit
+cd Images/Other/bitflat_icon_pack/
+ll
+exit
+ssh vn
+exit
+cd dnd
+ls
+cd dm
+cd DM\ and\ GM\ Tools/
+ls
+dolphin .
+..
+cd Maps\,\ Dungeons\,\ Dungeon\ Tiles\,\ Monster\ Tokens/
+dolphin .
+exit
+cd Images/Other/
+cd bitflat_icon_pack/
+ll
+exit
+cd Images/Other/bitflat_icon_pack/
+ll
+exit
+cd Images/Other/bitflat_icon_pack/
+ll
+exit
+pgrep spotify
+exit
+vim
+exit
+tm start ITB "ITB/Dissertation"
+tm stop 10min ago
+pass discordapp.com 
+pass -c2 discordapp.com 
+pass -c discordapp.com 
+exit
+pomodoro 
+exit
+cd Misc/borgbackup/
+ls
+ll
+df
+ll
+exit
+ssh vn
+cd Images/Phone/
+du -sh .
+lt
+exit
+cd Downloads/Downloads.old/videos/
+ll
+mv ~/Downloads/doctor.who.s11.e00.twice.upon.a.time.\(2017\).eng.1cd.\(7203262\).zip .
+unzip doctor.who.s11.e00.twice.upon.a.time.\(2017\).eng.1cd.\(7203262\).zip 
+rm doctor.who.s11.e00.twice.upon.a.time.\(2017\).eng.1cd.\(7203262\).zip
+rm doctor.who.twice.upon.a.time.\(7203262\).nfo 
+mv Doctor\ Who\,\ Twice\ Upon\ a\ Time-b09kknqq.en.srt Doctor\ Who\ -\ Christmas\ Day\ Special\ 2017\ \[MKV-AAC\]\(oan\).srt
+mkv Doctor\ Who\ -\ Christmas\ Day\ Special\ 2017\ \[MKV-AAC\]\(oan\).mkv 
+mpv Doctor\ Who\ -\ Christmas\ Day\ Special\ 2017\ \[MKV-AAC\]\(oan\).
+mpv Doctor\ Who\ -\ Christmas\ Day\ Special\ 2017\ \[MKV-AAC\]\(oan\).mkv 
+rm Doctor\ Who\ -\ Christmas\ Day\ Special\ 2017\ \[MKV-AAC\]\(oan\).srt 
+mv ~/Downloads/Doctor.Who.2005.S11E00.zip .
+unzip Doctor.Who.2005.S11E00.zip 
+rm Doctor.Who.2005.S11E00.zip
+mv Doctor.Who.2005.S11E00.HDTV.x264-MTB.srt Doctor\ Who\ -\ Christmas\ Day\ Special\ 2017\ \[MKV-AAC\]\(oan\).srt
+mpv Doctor\ Who\ -\ Christmas\ Day\ Special\ 2017\ \[MKV-AAC\]\(oan\).mkv 
+rm Doctor\ Who\ -\ Christmas\ Day\ Special\ 2017\ \[MKV-AAC\]\(oan\).srt 
+mv Doctor.Who.2005.S11E00.1080p.HDTV.x264-MTB.srt Doctor\ Who\ -\ Christmas\ Day\ Special\ 2017\ \[MKV-AAC\]\(oan\).srt
+mpv Doctor\ Who\ -\ Christmas\ Day\ Special\ 2017\ \[MKV-AAC\]\(oan\).mkv 
+rm Doctor\ Who\ -\ Christmas\ Day\ Special\ 2017\ \[MKV-AAC\]\(oan\).srt 
+exit
+cd Downloads/Downloads.old/videos/
+ls
+wget http://toconquer.space:1405/complete/Doctor%20Who%20-%20Christmas%20Day%20Special%202017%20%5bMKV-AAC%5d(oan)/Doctor%20Who%20-%20Christmas%20Day%20Special%202017%20%5bMKV-AAC%5d(oan).mkv
+wget "http://toconquer.space:1405/complete/Doctor%20Who%20-%20Christmas%20Day%20Special%202017%20%5bMKV-AAC%5d(oan)/Doctor%20Who%20-%20Christmas%20Day%20Special%202017%20%5bMKV-AAC%5d(oan).mkv"
+ls
+mpv Doctor\ Who\ -\ Christmas\ Day\ Special\ 2017\ \[MKV-AAC\]\(oan\).mkv 
+mkdir "Game of Thrones Season 7"
+cd Game\ of\ Thrones\ Season\ 7/
+wget -m -np -c -w 3 --no-check-certificate -R "index.html*" "http://toconquer.space:1405/complete/Game.of.Thrones.S07.720p.HDTV.x264-AVS/"
+df
+wget -m -np -c -w 3 --no-check-certificate -R "index.html*" "http://toconquer.space:1405/complete/Game%20of%20Thrones%20Season%206%20S06%20Complete%201080p%20WEB%20DL%20x265%20HEVC%20SUJAIDR/"
+cd
+ssh vn
+exit
+cd Documents/Misc/CPNS\ 2018/
+mv ~/Downloads/document.pdf "Kartu Informasi Akun SSCN - Hubbi.pdf"
+o Kartu\ Informasi\ Akun\ SSCN\ -\ Hubbi.pdf 
+mv ~/Downloads/document.pdf "Kartu Pendaftaran SSCN 2018.pdf" 
+rm Kartu\ Pendaftaran\ CPNS.pdf 
+exit
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             cd Interactive/Tabletop\ Games/Dungeons\ and\ Dragons/
+ls
+cd Crosshead\ Studios/
+ls
+cd Miniatures/
+ll
+..
+ll
+mkdir "Monsters"
+cd Monsters/
+proxyon2
+mv ~/Images/Other/Pixel\ Art\ Animation/RYAN_REYNOLDS_BIG_MISTAKE_DD_5E_STATS_ONLINE_MONSTER_MANUAL.jpg .
+ls
+mv ~/Downloads/CR\ * .
+ls
+mkdir "Big Mistake"
+mkdir Sauron
+mkdir "Black Knight"
+mv CR\ 28\ -\ SAURON.zip Sauron/
+mv CR\ 9\ -\ BLACK\ KNIGHT.zip Black\ Knight/
+mv RYAN_REYNOLDS_BIG_MISTAKE_DD_5E_STATS_ONLINE_MONSTER_MANUAL.jpg Big\ Mistake/
+ll
+cd Big\ Mistake/
+ll
+..
+cd Black\ Knight/
+ll
+unzip CR\ 9\ -\ BLACK\ KNIGHT.zip 
+rm CR\ 9\ -\ BLACK\ KNIGHT.zip
+ll
+..
+cd Sauron/
+ll
+unzip CR\ 28\ -\ SAURON.zip 
+rm CR\ 28\ -\ SAURON.zip
+...
+..
+chmod -R 775 *
+exit
+cd $itb
+cd Fakultas/Projects/Asia\ Pharm\ 3/
+ll
+cd Abstracts/
+ls
+..
+ls
+cd Booklet/
+ls
+exit
+pass discordapp.com 
+exit
+speed-test 
+speedtest 
+proxyoff
+ping speedtest.net
+ping toconquer.space
+speed
+speedtest 
+locate dolphin.desktop
+sudo vim /usr/share/applications/org.kde.dolphin.desktop 
+locate konsole.desktop
+sudo vim /usr/share/applications/org.kde.konsole.desktop 
+pass generate -n dmsguild.com 15
+pass -c dmsguild.com 
+pass edit dmsguild.com 
+pass -c paypal.com 
+pass paypal.com 
+python
+cd Interactive/Tabletop\ Games/Dungeons\ and\ Dragons/
+mkdir "Dungeon Master's Guild"
+cd Dungeon\ Master\'s\ Guild/
+mv ~/Downloads/dmg-2018-10-15_10-39pm.zip .
+unzip .
+unzip dmg-2018-10-15_10-39pm.zip 
+rm dmg-2018-10-15_10-39pm.zip 
+o The_Lightborn_-_New_Race.pdf 
+o Way_of_the_Elements_DMS_Guild_Printer_Friendly_Version_Final_Fixed.pdf 
+o Way_of_the_Elements_Revised_Monastic_Tradition_Mark_Hulmes_Tabletop_Weekly.pdf 
+cd
+proxyon2
+tm start 10min ago ITB "ITB/Academic"
+tm stop
+pass -c bri.co.id 
+cd Misc/VirtualBoxVM/SHARED/
+ll
+rm isnpm
+rm praktikum_farmol_terpadu
+rm Tugas\ Akhir\ STFB
+cd
+cd -
+ll
+cd Asia\ Pharm\ 3/
+ls
+..
+rm -rf Asia\ Pharm\ 3/
+cd
+proxyoff
+snap find discord
+apt search discord
+vim software.list 
+sudo snap install discord
+pgrep discord
+discord 
+pass -c2 discordapp.com 
+pass -c discordapp.com 
+proxyon2
+pass discordapp.com 
+proxyoff
+cd Downloads/Downloads.old/videos/
+ll
+mkdir "Doctor Who"
+mv Doctor\ Who\ -\ Christmas\ Day\ Special\ 2017\ \[MKV-AAC\]\(oan\).mkv Doctor\ Who/
+ls
+ll
+cd Doctor\ Who/
+ll
+wget http://toconquer.space:1405/complete/Doctor.Who.2005.S11E01.HDTV.x264-MTB%5beztv%5d.mkv
+wget http://toconquer.space:1405/complete/Doctor.Who.2005.S11E02.720p.HDTV.x264-MTB%5beztv%5d.mkv
+ll
+mpv Doctor\ Who\ -\ Christmas\ Day\ Special\ 2017\ \[MKV-AAC\]\(oan\).mkv 
+exit
+cd Misc/VirtualBoxVM/SHARED/
+ll
+rm farmolekuler 
+ll
+ln -s /home/hubbi/Documents/Work/ITB/KK\ Farmakologi\ \&\ Farmasi\ Klinik/Academic/Kuliah/Farmakologi\ Molekuler\ S2/ farmolekuler
+ll
+proxyon2
+pass -c linkedin.com 
+proxyoff
+exit
+cd Misc/VirtualBoxVM/SHARED/
+ln -s /home/hubbi/Documents/Work/ITB/KK\ Farmakologi\ \&\ Farmasi\ Klinik/Academic/Kuliah/Farmakologi\ Toksikologi\ I farmol1
+exit
+locate "g coupled"
+cd $res
+cd Articles/
+find . -iname *couple*
+find . -iname *g*
+find . -iname *protein*
+lsd
+mkdir GPCR
+cd GPCR/
+mv ~/Downloads/rosenbaum2009.pdf "Review - 2009 - Rosenbaum D.M. - The structure and function of G-protein-coupled receptors.pdf"
+..
+find . -iname *protein*
+find . -iname "*protein*"
+find . -iname "*couple*"
+cd GPCR/
+o Review\ -\ 2009\ -\ Rosenbaum\ D.M.\ -\ The\ structure\ and\ function\ of\ G-protein-coupled\ receptors.pdf 
+cd ~/Literature/Non\ Fiction/UNSORTED/
+ll
+mkdir GPCR
+cd GPCR/
+mv ~/Downloads/\(Methods\ and\ Principles\ in\ Medicinal\ Chemistry\)\ Raimund\ Mannhold\,\ Hugo\ Kubinyi\,\ Gerd\ Folkers\(eds.\)-G\ Protein-Coupled\ Receptors\ as\ Drug\ Targets_\ Analysis\ of\ Activation\ and\ Constitutive\ Activity\,\ Volume.pdf .
+ls ../Medicinal\ Chemistry/
+ll ../Pharmacology/
+mv ../Pharmacology/G\ Protein-coupled\ Receptors\ -\ Molecular\ Pharmacology\ -\ Vauquelin\ G\,\ von\ Mentzer\ B.pdf .
+ll
+o \(Methods\ and\ Principles\ in\ Medicinal\ Chemistry\)\ Raimund\ Mannhold\,\ Hugo\ Kubinyi\,\ Gerd\ Folkers\(eds.\)-G\ Protein-Coupled\ Receptors\ as\ Drug\ Targets_\ Analysis\ of\ Activation\ and\ Constitutive\ Activity\,\ Volume.pdf 
+cd ../Medicinal\ Chemistry/
+cd -
+mv ~/Downloads/Kenneth\ H.\ Lundstrom\ \(Editor\)\,\ Mark\ L.\ Chiu\ \(Editor\)\ -\ G\ Protein-Coupled\ Receptors\ in\ Drug\ Discovery\ \(2005\,\ CRC\ Press\).pdf .
+o Kenneth\ H.\ Lundstrom\ \(Editor\)\,\ Mark\ L.\ Chiu\ \(Editor\)\ -\ G\ Protein-Coupled\ Receptors\ in\ Drug\ Discovery\ \(2005\,\ CRC\ Press\).pdf 
+cd ../Medicinal\ Chemistry/
+//
+ll
+o the\ practice\ of\ medicinal\ chemistry\,\ third\ edition.pdf 
+mv the\ practice\ of\ medicinal\ chemistry\,\ third\ edition.pdf "The Practice of Medicinal Chemistry - 3rd Edition - Camille Georges Wermuth.pdf"
+o The\ Practice\ of\ Medicinal\ Chemistry\ -\ 3rd\ Edition\ -\ Camille\ Georges\ Wermuth.pdf 
+exit
+ssh kimedgpu
+cd $res
+cd Computation/top2a_etoposide/md/bispyp/
+ll
+ls
+ssh kimedgpu
+exit
+ssh vn
+cd $res
+cd Computation/
+ll
+cd top2a_etoposide/
+cd md/
+ls
+ll
+ls monopyp/
+ls monoimp/
+ls monoz
+ls monopzp/
+ls bispyp/
+cd bispyp/
+ls
+rsync kimedgpu:/root/.system/md/bispyp/i_production* ./
+ll
+..
+ll bisimp/
+ll bispzp/
+ll trispyp/
+ll trispzp/
+cd trispyp/
+ls
+cd ../bispyp/
+rsync kimedgpu:/root/.system/md/bispyp/*mdp mdptpr/
+cd -
+cp -R ../bispyp/mdptpr/ ./
+ls
+rm mdptpr/*tpr
+ll mdptpr/
+rm mdptpr/#nvt.tpr.1# 
+gmx pdb2gmx -f trispyp.pdb -o a_trispyp.gro
+ls
+pymol trispyp.pdb 
+ls
+gmx pdb2gmx -f ../protein_dna.pdb -o a_protein_dna.gro
+ls
+rsync trispyp.pdb kimedgpu:~/.system/md/trispyp/
+pymol trispyp.pdb 
+rsync trispyp.pdb kimedgpu:~/.system/md/trispyp/
+exit
+vpnitb
+exit
+cd $res
+cd Computation/top2a_etoposide/md/monopyp/
+cd plots/
+ll
+kate monopyp_rmsd_backbone.xvg 
+bg
+exit
+mount-private 
+accio ecrytfs-utils
+accio ecryptfs-utils
+mount-private 
+cd Misc/Private/
+cd
+umount-private 
+ls Misc/Private/
+exit
+cd Downloads/Downloads.old/videos/
+ll
+ls Game\ of\ Thrones\ Season\ 7/
+rclone copy Game\ of\ Thrones\ Season\ 7/ gdriveme:backups/direct/Videos/"TV Series"/"Game of Thrones"/"Game of Thrones Season 7"/
+cd Doctor\ Who/
+ls
+rclone lsd gdriveme:backups/direct/Videos/"TV Series"/"Doctor Who"
+rclone copy ./ gdriveme:backups/direct/Videos/"TV Series"/"Doctor Who"/"Season 11"/
+exit
+man timewarrior
+exit
+cd Interactive/Tabletop\ Games/Dungeons\ and\ Dragons/
+ll
+cd Dungeon\ Master\'s\ Guild/
+ls
+mv ~/Downloads/926526-1.* .
+ll
+mkdir "The Lightborn Race"
+mv The_Lightborn_-_New_Race.pdf The\ Lightborn\ Race/
+mkdir "Way of the Elements Monastic Tradition"
+mv Way_of_the_Elements_* Way\ of\ the\ Elements\ Monastic\ Tradition/
+ls
+mkdir "The Vault of Arcane Secrets"
+mv 926526-1.* The\ Vault\ of\ Arcane\ Secrets/
+cd The\ Vault\ of\ Arcane\ Secrets/
+ll
+o 926526-1.1-vault-arcane-secrets.pdf 
+vpnitb
+tm start ITB "ITB/Academic"
+tm sum
+tm stop
+tm delete @1
+tm sum
+tm sum :month
+tm delete @1
+tm sum :month
+tm delete @1
+tm sum :month
+tm track 2018-10-15T13:00 ITB "ITB/Academic"
+tm stop
+tm delete @1
+tm sum :month
+tm delete @1
+tm sum :month
+tm track 2018-10-15T13:00 - 2018-10-15T16:30 ITB "ITB/Academic"
+tm sum :month
+tm start 12:30 ITB "ITB/Academic"
+tm stop 12:59
+tm sum
+tm sum :month
+tm start ITB "ITB/Academic"
+locate okular.desktop
+sudo vim /usr/share/applications/org.kde.okular.desktop 
+mv Images/Screenshot_20181016_212529.png Misc/VirtualBoxVM/SHARED/
+proxyon2
+tm
+tm stop 2018-10-16T22:00
+tm sum :week
+tm track 2018-10-17T07:30 - 2018-10-17T08:30 ITB "ITB/Academic"
+tm start 10min ago ITB "ITB/Academic"
+taskl
+cd Misc/
+cd $itb
+cd KK\ Farmakologi\ \&\ Farmasi\ Klinik/Academic/Kuliah/
+ll
+cd Farmakologi\ Molekuler\ S2/
+ll
+cd Kuliah/
+ll
+..
+ln -s ./Farmakologi\ Molekuler\ S2/ ~/Misc/VirtualBoxVM/SHARED/farmolekuler
+ln -s Farmakologi\ Molekuler\ S2/ ~/Misc/VirtualBoxVM/SHARED/farmolekuler
+man ln
+cd
+snap list
+tm
+tm stop 16:00
+tm sum
+tm week
+task
+wget https://raw.githubusercontent.com/denilsonsa/gimp-palettes/master/palettes/Papyrus-(by-Steadfast-Innovation).gpl
+wget "https://raw.githubusercontent.com/denilsonsa/gimp-palettes/master/palettes/Papyrus-(by-Steadfast-Innovation).gpl"
+rm Papyrus-\(by-Steadfast-Innovation\).gpl 
+cd Downloads/Downloads.old/videos/
+rclone size Game\ of\ Thrones\ Season\ 6/
+rclone size gdriveme:backups/direct/Videos/"TV Series"/"Game of Thrones"/"Game of Thrones Season 6"
+pass -c dmsguild.com 
+proxyoff
+rclone size gdriveme:backups/direct/Videos/"TV Series"/"Game of Thrones"/"Game of Thrones Season 6"
+cd
+snap find obs
+snap find obs-studio
+apt search obs-studio
+sudo snap install obs-studio
+cd Misc/VirtualBoxVM/SHARED/
+ll
+rm -rf dir
+ln -s /home/hubbi/Documents/Work/ITB/KK\ Farmakologi\ \&\ Farmasi\ Klinik/Academic/Praktikum/FA4142\ Praktikum\ Farmakologi\ Terpadu/dir/ praktikum_farmol
+rm praktikum_farmol
+ln -s /home/hubbi/Documents/Work/ITB/KK\ Farmakologi\ \&\ Farmasi\ Klinik/Academic/Praktikum/FA4142\ Praktikum\ Farmakologi\ Terpadu/ praktikum_farmol
+dolphin .
+cd
+vpnitb
+proxyon2
+tm 
+tm start 5min ago ITB "ITB/Academic"
+tm stop
+tm sum
+pass -c2 tokopedia.com 
+pass -c tokopedia.com 
+pass -c2 bukalapak.com 
+pass -c bukalapak.com 
+tm
+tm tags
+tm track 2018-10-18T13:00 - 2018-10-18T14:15 ITB "ITB/Other"
+tm sum
+tm week
+cd snap/timew-spirotot/14/
+ll
+cd .timewarrior/
+ll
+vim timewarrior.cfg 
+cd
+tm week
+vim snap/timew-spirotot/14/.timewarrior/timewarrior.cfg 
+tm sum
+tm week
+tm month
+python
+tm start 5min ago ITB "ITB/Academic"
+tm stop
+proxyoff
+tm
+tm start ITB "ITB/Academic"
+tm
+tm stop 01:20
+tm sum
+tm sum :week
+tm week
+smem --pie=name
+proxyon2
+proxyoff
+pass aptfi.or.id/cpanel 
+pass -c2 aptfi.or.id/cpanel 
+pass -c aptfi.or.id/cpanel 
+pass generate acs.org 15
+pass -c acs.org 
+pass rm acs.org 
+pass generate -n acs.org 15
+pass -c acs.org 
+pass git push -u origin master
+pass git pull origin master
+pass git push -u origin master
+tm
+tm sum
+tm start 09:00 ITB "ITB/Academic"
+tm stop 11:15
+tm start 13:00 ITB "ITB/Academic"
+proxyoff
+tm stop 16:00
+tm
+tm stop 2018-10-19T16:00
+tm sum :week
+tm week
+vim snap/timew-spirotot/14/.timewarrior/timewarrior.cfg 
+tm week
+proxyoff
+sudo powertop
+nload
+htop
+discord &
+exit
+vim times 
+exit
+sudo visudo
+exit
+man rclone
+exit
+cd Misc/
+history | grep lxc
+history | grep lxc push
+history | grep lxc | grep push
+sudo lxc file push ./bashrc-myubuntu-lxd myubuntu/home/ubuntu/
+exit
+cd $itb
+cd $res
+cd Results/Manuscript/Manuscript\ -\ DNA\ binding\ dynamics/
+ls
+cd submission_documents/
+ll
+sudo lxc file push ./jpa_form_a_*jpg myubuntu/home/ubuntu/temp/
+exit
+accio zfsutils-linux
+sudo lxd init
+lxc list
+lxc image list ubuntu:
+lxc list
+lxc launch ubuntu:x myubuntu
+proxyoff
+lxc launch ubuntu:x myubuntu
+lxc list
+lxc image list
+lxc image list images:
+lxc pull ubuntu:x
+lxc image pull ubuntu:x
+lxc init ubuntu:x myubuntu
+lxc image list images: ubuntu 16.04
+lxc launch images:ubuntu/16.04 myubuntu
+lxc list
+lxc exec myubuntu -- sudo -i -u ubuntu
+lxc exec myubuntu -- sudo -i -u root
+lxc exec myubuntu -- sudo -i -u ubuntu
+lxc exec myubuntu -- sudo -i -u root
+lxc exec myubuntu -- sudo -i -u ubuntu
+lxc stop myubuntu
+lxc list
+exit
+accio lxc
+accio lxd
+aprem lxc
+newgrp lxd
+exit
+cd Interactive/Tabletop\ Games/Dungeons\ and\ Dragons/
+exit
+python
+exit
+vpnitb
+vpn
+vpnitb
+exit
+cd Videos/Youtube/Shut\ Up\ \&\ Sit\ Down/Reviews/
+..
+find . -iname mascarade
+cd Reviews/
+ll
+cd ../The\ Opener/
+ll
+..
+find . -iname *mascarade*
+cd The\ Opener/
+mpv Mascarade\ -\ Shut\ Up\ \&\ Sit\ Down\ Review.mkv 
+tm continue
+tm
+tm stop 13:00
+tm week
+exit
+backup.borg.documents.other 
+backup.borg.joplin 
+backup.borg.postgraduate 
+backup.borg.work 
+cd Misc/borgbackup/
+ls
+ll
+du -sh .
+rclone copy Documents.Other/ gdriveme:backups/borgbackup/Documents.Other/
+rclone copy joplin/ gdriveme:backups/borgbackup/joplin/
+rclone copy Postgraduate/ gdriveme:backups/borgbackup/Postgraduate/
+rclone copy Work/ gdriveme:backups/borgbackup/Work/
+exit
+cd Downloads/Downloads.old/videos/
+ll
+cd Doctor\ Who/
+ll
+mpv Doctor.Who.2005.S11E01.HDTV.x264-MTB\[eztv\].mkv 
+exit
+cd Videos/
+ncdu
+exit
+man cmus
+man ncmpcpp
+man cmus
+exit
+cmus
+exit
+apup
+apt list --upgradable 
+cd Images/Phone/
+lt
+cd
+mkdir diuretik
+cd diuretik/
+mv ~/Downloads/44536-44437-1-PB.pdf .
+mv ~/Downloads/maghrani2005.pdf .
+mv ~/Downloads/hill1976.pdf .
+mv ~/Downloads/kau1984.pdf .
+cd
+cd $itb/
+cd KK\ Farmakologi\ \&\ Farmasi\ Klinik/Academic/Praktikum/
+ll
+mv FA4142\ Praktikum\ Farmakologi\ Terpadu/ "Praktikum Farmakologi Terpadu"
+cd Praktikum\ Farmakologi\ Terpadu/
+..
+mv Praktikum\ Farmakologi\ Terpadu/ "Farmakologi Terpadu"
+cd Farmakologi\ Terpadu/
+ls
+ll
+cd Respiratory\ and\ Excretion\ System/
+ll
+vim tes_awal.txt
+dolphin .
+cd
+tm
+tm start 09:00 ITB "ITB/Academic"
+tm sum
+tm :month
+tm
+tm sum
+tm month
+tm
+tm stop 10:45
+tm start 11:05 ITB "ITB/Academic"
+tm sum
+pass acs.org 
+pass -c acs.org 
+pass edit acs.org 
+pass git push -u origin master
+task
+task add tag:ITB project:Academic Periksa UTS Farmol 1 STF due:2018-10-27
+task 17 start
+taskl
+task
+python
+tm 
+tm stop
+tm sum
+proxyon2
+proxyoff
+tm sum
+tm track 2018-10-22T14:00 - 2018-10-22T16:45 ITB "ITB/Academic"
+tm sum
+tm week
+tm month
+python
+task
+vim times
+kate times 
+vim times
+pass bukalapak.com 
+pass tokopedia.com 
+pass -c tokopedia.com 
+cd .password-store/
+mkdir tokopedia.com
+mv tokopedia.com.gpg tokopedia.com/bit.tamer
+cd tokopedia.com/
+ll
+mv bit.tamer bit.tamer.gpg
+cd
+pass add -m tokopedia.com/bittamer+onreg
+pass tokopedia.com/bit.tamer 
+cd .password-store/
+pass bukalapak.com 
+mkdir bukalapak.com
+mv bukalapak.com.gpg bukalapak.com/bit.tamer.gpg
+cd
+pass git push -u origin master
+pass tokopedia.com/bit.tamer 
+pass -c tokopedia.com/bittamer+onreg 
+cd Downloads/Downloads.old/videos/
+cd Doctor\ Who/
+ll
+ll -h
+wget "http://toconquer.space:1405/complete/Doctor.Who.2005.S11E03.HDTV.x264-MTB%5beztv%5d.mkv"
+cd
+proxyon2
+tm start ITB "ITB/Dissertation"
+pass -c acs.org 
+pass -c2 acs.org 
+pass -c acs.org 
+vim .xbindkeysrc 
+tm stop
+tm sum
+proxyoff
+tm
+tm start 10:45 ITB "ITB/Dissertation"
+tm stop 11:00
+tm start 11:05 ITB "ITB/Academic"
+tm sum
+tm week
+pass -c itb.ac.id 
+cd "/home/hubbi/Documents/Work/ITB/Kepegawaian/Remunerasi/"
+mv ~/Downloads/Remun_0127083291_Juli_2018.pdf "Remun 2018-07 July.pdf"
+cd
+gimp Downloads/Remun_0127083291_Oktober_2018.pdf 
+rm Downloads/Remun_0127083291_Oktober_2018.pdf 
+proxyon2
+tm
+tm sum
+tm stop 12:40
+tm tas
+tm tags
+tm sum
+tm start 13:00 "ITB/KK"
+tm stop 14:00
+tm start 14:30 "ITB/Dissertation"
+tm stop 15:30
+tm sum
+tm
+tm help untag
+tm untag @3 ITB
+tm sum
+tm untag @4 @5 ITB
+tm sum
+tm untag @all ITB
+cd snap/timew-spirotot/14/.timewarrior/
+ll
+cd data
+ll
+vim 2018-10.data 
+vim 2018-09.data 
+vim 2018-08.data 
+vim 2018-07.data 
+vim 2018-06.data 
+vim 2018-05.data 
+vim 2018-04.data 
+vim 2018-03.data 
+vim 2018-02.data 
+vim 2018-08.data 
+vim 2018-07.data 
+vim 2018-06.data 
+vim 2018-05.data 
+vim 2018-04.data 
+vim 2018-03.data 
+vim 2018-02.data 
+vim 2018-01.data 
+tm tags
+proxyoff
+proxyon2
+proxyoff
+pass backblaze.com 
+pass -c backblaze.com 
+pass roll20.net 
+pass -c2 roll20.net 
+pass -c roll20.net 
+proxyon2
+cd
+vim times 
+kate times 
+vim times 
+proxyoff
+pass digitalocean.com
+pass -c digitalocean.com
+tm sum
+tm
+tm week
+tm sum :week
+tm track 2018-10-24T13:00 - 2018-10-24T16:00 "ITB/Academic"
+tm sum :week
+tm week
+pass generate -n fastmail.com 15
+pass -c fastmail.com 
+pass edit fastmail.com 
+pass -c hubbinash.org/me@hubbinash.org 
+pass -c2 hubbinash.org/me@hubbinash.org 
+pass -c hubbinash.org/cpanel 
+pass -c2 hubbinash.org/cpanel 
+pass -c hubbinash.org/me@hubbinash.org 
+pass git push -u origin master
+pass generate -n dnd-spells.com 15
+pass -c dnd-spells.com 
+pass edit dnd-spells.com 
+pass generate -n dnd-spells.com 15
+pass git push -u origin master
+pass -c fastmail.com 
+pass -c discordapp.com 
+cd Misc/
+ls -i *code*
+mv ~/Downloads/digitalocean_backupcodes.txt .
+vim digitalocean_backupcodes.txt 
+cd
+pass -c humblebundle.com 
+pass -c backblaze.com 
+cd Misc/
+o Backblaze\ Backup\ Codes.pdf 
+rm Backblaze\ Backup\ Codes.pdf 
+vim discord_backup_codes.txt 
+vim backblaze_backup_codes.txt
+cd
+pass -c indodax.com 
+pass blockchain.info 
+pass -c blockchain.info 
+pass -c2 blockchain.info 
+pass -c blockchain.info 
+pass -c2 blockchain.info 
+pass -c blockchain.info 
+cd Misc/VirtualBoxVM/SHARED/
+ln -s ~/Documents/Work/STFB/ stfb
+cd $res
+cd Articles/
+find . -iname *tutorial*
+find . -iname *docking*
+
+find . -iname *screen*
+o Computation/2004\ -\ Kitchen\ D.B.\ -\ Docking\ and\ scoring\ in\ virtual\ screening\ for\ drug\ discovery\:\ methods\ and\ applications.pdf 
+o Computation/2015\ -\ Jaghoori\ M.M.\ -\ 1001\ Ways\ to\ run\ autodock\ vina\ for\ virtual\ screening.pdf 
+o Virtual\ Screening/Review\ -\ 2010\ -\ Cosconati\ S.\ -\ Virtual\ screening\ with\ AutoDock-theory\ and\ practice.pdf 
+o Virtual\ Screening/2008\ -\ Deng\ XQ\ -\ Pharmacophore\ modelling\ and\ virtual\ screening\ for\ identification\ of\ new\ aurora-A\ kinase\ inhibitors.pdf 
+o Virtual\ Screening/2010\ -\ Kuck\ D.\ -\ Novel\ and\ selective\ DNA\ methyltransferase\ inhibitors-docking\ based\ virtual\ screening.pdf 
+cp Virtual\ Screening/2010\ -\ Kuck\ D.\ -\ Novel\ and\ selective\ DNA\ methyltransferase\ inhibitors-docking\ based\ virtual\ screening.pdf ~/Misc/VirtualBoxVM/SHARED/stfb/Bimbingan\ Tugas\ Akhir/2018-2019/TOSEND/
+cd ~/Documents/Work/STFB/Bimbingan\ Tugas\ Akhir/2018-2019/TOSEND/
+l
+ll
+touch -t 201810221634 2010\ -\ Kuck\ D.\ -\ Novel\ and\ selective\ DNA\ methyltransferase\ inhibitors-docking\ based\ virtual\ screening.pdf 
+touch -t 201810221634 Outline\ Makalah.docx 
+ll
+touch -t 201810221634 Outline\ Makalah\ dan\ lain\ lain.zip 
+ll
+touch -t 201810221634 Outline\ Makalah\ dan\ lain\ lain.zip 
+ll
+cd
+pass -c2 tokopedia.com/
+pass -c2 tokopedia.com/bit.tamer 
+pass -c tokopedia.com/bit.tamer 
+pass add -m shopback.co.id
+pass -c shopback.co.id 
+pass git push -u origin master
+pass -c shob
+pass -c shopback.co.id 
+pass -c2 shopback.co.id 
+pass -c fastmail.com 
+pass -c tokopedia.com/bit.tamer 
+pass add -m tokopedia.com/onreg@hubbinash.org
+pass git push -u origin master
+pass -c tokopedia.com/me
+pass -c tokopedia.com/onreg@hubbinash.org 
+pass -c tokopedia.com/bittamer+onreg 
+pass -c tokopedia.com/bit.tamer 
+pass -c tokopedia.com/onreg@hubbinash.org 
+pass tokopedia.com/
+tm
+tm week
+tm tags
+tm start 13:45 "STFB/Bimbingan"
+tm stop 14:20
+tm week
+pass -c2 dnd-spells.com 
+pass -c dnd-spells.com 
+python
+proxyon2
+pass -c bri.co.id 
+pass -c tokopedia.com/bit.tamer 
+uptime 
+.bin/scripts/record_uptime.sh 
+cat Misc/uptime.txt 
+vim Misc/uptime.txt 
+proxyoff
+vim herb
+youtube-dl -F "https://www.youtube.com/watch?v=038VWS3CAbE"
+youtube-dl -f bestaudio https://www.youtube.com/watch?v=038VWS3CAbE
+pass -c fastmail.com 
+snap find audacity
+sudo snap install audacity
+exiftool THE\ SHROUD\ OF\ EYES\ -\ HighRollers\ D\&D\ -\ Episode\ 25\ \(21st\ August\ 2016\)-038VWS3CAbE.webm 
+man ffmpeg
+locate libavformat.so.55
+locate libavformat.so.
+ll Software/vmd/lib/vmd/libavformat.so.56
+cp Software/vmd/lib/vmd/libavformat.so.56.15.102 ~/Documents/libavformat.so.55
+rm Documents/libavformat.so.55 
+sudo snap remove audacity
+apt search audacity
+accio audacity
+mpv Documents/unknown_fantasy.mp3 
+mv Documents/unknown_fantasy.mp3 Audio/Music/
+rm THE\ SHROUD\ OF\ EYES\ -\ HighRollers\ D\&D\ -\ Episode\ 25\ \(21st\ August\ 2016\)-038VWS3CAbE.webm 
+mpv Audio/Music/unknown_fantasy.mp3 
+proxyon
+proxyon2
+uptime 
+.bin/scripts/record_uptime.sh 
+mpv Audio/Music/unknown_fantasy.mp3 
+ping mail.cosmax.co.id
+tm month
+tm sum
+tm
+tm start 8min ago "ITB/Academic"
+tm
+tm stop
+tm continue
+tm
+stop
+tm stop
+tm sum
+proxyoff
+vpn
+pulsemixer 
+pass add -m deviantart.com
+pass git push -u origin master
+pass -c facebook.com 
+apup
+apt list --upgradable 
+accio firefox
+pass patreon.com 
+pass -c patreon.com 
+pass -c me@hubbinash.org 
+python
+pass cermati.com 
+pass -c cermati.com 
+proxyon
+proxyon2
+uptime
+tm start 15min ago "ITB/Academic"
+tm
+tm stop 15:00
+proxyoff
+proxyon2
+proxyoff
+uptime
+tm week
+mount-private 
+mv /home/hubbi/Documents/Work/ITB/Fakultas/Projects/ISNPM\ 2018/Logo/Poonam_Pandav_indian_desi_striping__boobs_pussy_bihari_model_bhabhi_nude_private001@hotnwildbabes.blogspot.com.jpg ~/Misc/Private/Poonam\ Pandav/
+vpn
+vpnitb
+ll
+mkdir 1
+mv *jpg 1/
+ll
+cd
+umount-private 
+cd Videos/
+ll
+mpv Dearly\ Beloved.webm 
+exit
+man cmus
+exit
+tm stop
+tm week
+tm sum
+exit
+man cmus
+exit
+cmus
+exit
+ssh vn
+proxyoff
+ssh vn
+snap find mopidy
+accio mopidy
+accio ncmpcpp
+ncmpcpp 
+accio cmus
+cmus
+aprem mopidy ncmpcpp
+pulsemixer 
+tm continue
+cd Audio/
+ll
+cd Music/
+ll
+rm Desktop
+rm Documents
+rm Downloads
+rm Templates
+rm Videos
+ll
+cd artists/
+ll
+cd Nightowl/
+ll
+mkdir "Nightowl - Terra Incognita"
+mv Nightowl\ -\ Terra\ Incognita/ "Nightowl - Terra Incognita [128]"
+cd Nightowl\ -\ Terra\ Incognita\ \[128\]/
+wget "https://archive.org/download/terra_incognita/nightowl.terra_incognita.00.back_cover.jpg"
+o nightowl.tersudo powertop
+                    cmus
+exit
+killall cmus
+exit
+killall cmus
+cmus
+exit
+killall cmus
+exit
+proxyon2
+cd Downloads/Downloads.old/videos/Daredevil\ Season\ 3/
+wget http://toconquer.space:1405/complete/%5bTorrentCouch.net%5d.Marvels.Daredevil.S03.COMPLETE.720p.WEB.x264.%5b5.5GB%5d.%5bMP4%5d/%5bTorrentCouch.net%5d.Marvels.Daredevil.S03E13.720p.WEB.x264.mp4
+exit
+proxyon2
+cmus
+df
+umount-private 
+df
+cd Downloads/Downloads.old/videos/
+cd Daredevil\ Season\ 3/
+ll
+wget "http://toconquer.space:1405/complete/%5bTorrentCouch.net%5d.Marvels.Daredevil.S03.COMPLETE.720p.WEB.x264.%5b5.5GB%5d.%5bMP4%5d/%5bTorrentCouch.net%5d.Marvels.Daredevil.S03E07.720p.WEB.x264.mp4"
+wget http://toconquer.space:1405/complete/%5bTorrentCouch.net%5d.Marvels.Daredevil.S03.COMPLETE.720p.WEB.x264.%5b5.5GB%5d.%5bMP4%5d/%5bTorrentCouch.net%5d.Marvels.Daredevil.S03E09.720p.WEB.x264.mp4
+wget 
+wget http://toconquer.space:1405/complete/%5bTorrentCouch.net%5d.Marvels.Daredevil.S03.COMPLETE.720p.WEB.x264.%5b5.5GB%5d.%5bMP4%5d/%5bTorrentCouch.net%5d.Marvels.Daredevil.S03E12.720p.WEB.x264.mp4
+exit
+proxyon2
+cd Downloads/Downloads.old/videos/
+cd Daredevil\ Season\ 3/
+wget http://toconquer.space:1405/complete/%5bTorrentCouch.net%5d.Marvels.Daredevil.S03.COMPLETE.720p.WEB.x264.%5b5.5GB%5d.%5bMP4%5d/%5bTorrentCouch.net%5d.Marvels.Daredevil.S03E08.720p.WEB.x264.mp4
+wget http://toconquer.space:1405/complete/%5bTorrentCouch.net%5d.Marvels.Daredevil.S03.COMPLETE.720p.WEB.x264.%5b5.5GB%5d.%5bMP4%5d/%5bTorrentCouch.net%5d.Marvels.Daredevil.S03E10.720p.WEB.x264.mp4
+wget http://toconquer.space:1405/complete/%5bTorrentCouch.net%5d.Marvels.Daredevil.S03.COMPLETE.720p.WEB.x264.%5b5.5GB%5d.%5bMP4%5d/%5bTorrentCouch.net%5d.Marvels.Daredevil.S03E11.720p.WEB.x264.mp4
+exit
+cd $itb
+cd KK\ Farmakologi\ \&\ Farmasi\ Klinik/Academic/Kuliah/
+ll
+cd Farmakologi\ Molekuler\ S2/
+ll
+cd Kuliah/
+l
+ll
+cd References/
+ll
+..
+cd 01\ Interaksi\ Obat-Reseptor\ Material/
+ll
+ll *pdf
+o CN-11-315.pdf 
+o i1523-5998-005-02-0070.pdf 
+o Medicinal\(1\).Dr.Sana\'a.Slides\ group\(3\).pdf 
+..
+ll
+cd $res
+cd Articles/GPCR/
+ll
+dolphin .
+tm
+cd
+exit
+type cn
+exit
+cn
+type cn
+ss -lantp
+exit
+htop
+proxyon2
+steam
+tm
+tm start 10:00 "ITB/Dissertation"
+tm stop 11:30
+tm start 12:30 "ITB/Academic"
+tm
+tm sum
+proxyon2
+tm stop
+tm week
+task
+task 17 done
+proxyoff
+apup
+apgrade
+youtube-dl https://www.youtube.com/watch?v=gbSIBhFwQ4s
+youtube-dl https://www.youtube.com/watch?v=5hwaDamU-jo
+cd Downloads/Downloads.old/videos/Doctor\ Who/
+ll
+mpv Doctor.Who.2005.S11E02.720p.HDTV.x264-MTB\[eztv\].mkv 
+ncdu
+kwin_x11 &
+export DISPLAY=:0
+kwin_x11 &
+jobs
+syst reboot
+cd $work/st
+cd $work/
+cd STFB/Bimbingan\ Tugas\ Akhir/
+ls
+cd 2018-2019/
+ls
+ll
+cd TOSEND/
+ll
+..
+ll
+cd Tugas\ 1/
+ll
+..
+cd
+ll *pdf
+o bolli2011.pdf 
+o cjc230125.pdf 
+finde . -iname *topoisomerase*
+find . -iname *topoisomerase*
+find . -iname *topoisomerase*.pdf
+ssh vn
+nload
+proxyoff
+tmux
+sudo powertop
+vpnitb
+vpn
+type vpn
+vim Misc/openvpn/toconquerspace_docker_ovpn/hubbi_toconquerspace.ovpn 
+type vpnitb
+vim Misc/openvpn/vpn_itb/config/itb.ovpn 
+vpnitb
+exit
+find . -iname *pommier*
+exit
+snap find haguichi
+exit
+cd Downloads/Downloads.old/videos/Daredevil\ Season\ 3/
+ll
+exit
+mpitb
+vpnitb
+exit
+cd .cxoffice/Fantasy_Grounds/drive_c/
+ll
+cd Program
+cd Program\ Files/
+ll
+cd Fantasy\ Grounds/
+ll
+..
+cd users/
+ll
+cd crossover/
+ll
+..
+find . -iname *female1.png*
+find . -iname Examples.ppk
+cd drive_c/users/crossover/
+cd Application\ Data/Fantasy\ Grounds/
+ll
+cd portraits/
+ll
+cp ~/Interactive/tabletop_games/dungeons_and_dragons/Characters/eleran_token.png .
+exit
+steam
+exit
+cd Downloads/Downloads.old/videos/Doctor\ Who/
+wget "http://toconquer.space:1405/complete/Doctor.Who.2005.S11E05.720p.HDTV.x264-FoV%5brarbg%5d/"
+rm index.html 
+wget "http://toconquer.space:1405/complete/Doctor.Who.2005.S11E05.720p.HDTV.x264-FoV%5brarbg%5d/doctor_who_2005.11x05.720p_hdtv_x264-fov.mkv"
+mpv doctor_who_2005.11x05.720p_hdtv_x264-fov.mkv 
+exit
+cd Downloads/Downloads.old/videos/Daredevil\ Season\ 3/
+ll
+cd
+cd Downloads/Downloads.old/videos/Doctor\ Who/
+ll
+wget "http://toconquer.space:1405/complete/doctor_who_2005.11x04.720p_hdtv_x264-fov%5beztv%5d.mkv"
+mpv Doctor.Who.2005.S11E02.720p.HDTV.x264-MTB\[eztv\].mkv 
+mpv Doctor.Who.2005.S11E03.HDTV.x264-MTB\[eztv\].mkv 
+ll
+mpv doctor_who_2005.11x04.720p_hdtv_x264-fov\[eztv\].mkv 
+exit
+cd Misc/openvpn/vpn_itb/config/
+ll
+vim itb.ovpn 
+host reddit.com
+man host
+host hubbinash.org
+ping hubbinash.org
+host toconquer.space
+systemd-resolve toconquer.space
+ip link
+ip addr
+cd
+cd /etc/dnsmasq.d
+ll
+cd
+vim /var/log/syslog
+systemd-resolve --status
+ip link
+route -n
+route -n | grep wlp2s0
+apt search openresolv
+sys
+sys | grep openvpn
+sudo cat /etc/resolv.conf 
+systemd-resolve --status
+host toconquer.space
+host -h
+host -v toconquer.space
+host -v roll20.net
+systemd-resolve --status
+exit
+cd Downloads/Downloads.old/videos/Doctor\ Who/
+mpv Doctor.Who.2005.S11E02.720p.HDTV.x264-MTB\[eztv\].mkv 
+ll
+fg
+pass -c2 discordapp.com 
+pass -c discordapp.com 
+proxyon2
+cd
+cd Misc/OS/
+ll
+cd Win7/
+ll
+cd
+tm
+tm week
+tm task
+task
+task 16 done
+cd $itb
+cd $res
+cd Articles/
+find . -iname *pommier*
+mv ~/Downloads/pommier2016.pdf DNA\ Topoisomerase/"2016 - Pommier Y. - Roles of eukaryotic topoisomerases in transcription, replication, and genomic stability.pdf"
+dolphin DNA\ Topoisomerase/
+cd
+tm
+tm tags
+tm start 10min ago Learning
+tm stop
+cd Misc/linux_apps/
+mv ~/Downloads/XMind-ZEN-for-Linux-64bit.deb .
+ls
+mkdir xmind
+mv XMind-ZEN-for-Linux-64bit.deb xmind/
+cd xmind/
+accio ./XMind-ZEN-for-Linux-64bit.deb 
+proxyoff
+accio ./XMind-ZEN-for-Linux-64bit.deb 
+cd
+cd Documents/
+ll
+o DNA\ Topoisomerase.pdf 
+rm DNA\ Topoisomerase.pdf 
+cd
+tm continue
+tm stop
+tm sum
+tm week
+proxyon2
+cd Misc/Windows\ Fonts/
+..
+cd win_apps/
+mv ~/Downloads/Scapple-installer.exe .
+ll
+proxyoff
+cd
+proxyon2
+proxyoff
+proxyon2
+pass -c bri.co.id 
+proxyoff
+pass add -m fantasygrounds.com
+pass -c fantasygrounds.com 
+pass git push -u origin master
+mv Downloads/token_1.png Interactive/tabletop_games/dungeons_and_dragons/Characters/rolen.png
+pass add -m adventurersleague.com
+pass -c adventurersleague.com 
+mv Downloads/file_struk_02-11-2018_05.05.56.pdf Documents/Other/MNC\ Play/
+mv Downloads/document.pdf Documents/Misc/CPNS\ 2018/"Kartu Peserta Ujian CPNS - Hubbi.pdf"
+proxyon2
+proxyoff
+proxyon2
+tm week
+tm
+proxyoff
+cd Misc/linux_apps/
+mkdir hamachi
+cd hamachi/
+wget https://www.vpn.net/installers/logmein-hamachi_2.1.0.198-1_amd64.deb
+accio ./logmein-hamachi_2.1.0.198-1_amd64.deb 
+sudo add-apt-repository -y ppa:webupd8team/haguichi
+accio haguichi
+cd
+pass add -m logme.in
+pass -c logme.in 
+mount-private 
+umount-private 
+df
+proxyon2
+tm
+tm month
+tm tags
+tm start "ITB/Academic"
+tm stop 15min ago
+tm sum
+tm week
+proxyoff
+tm
+tm start 13:05 "ITB/Academic"
+tm sum
+tm start 15:05 "ITB/Academic"
+tm stop 15min ago
+tm sum
+pass -c2 tokopedia.com/onreg@hubbinash.org 
+pulsemixer 
+pass goodreads.com 
+pass -c2 godr
+pass -c2 goodreads.com 
+pass -c goodreads.com 
+tm start Learning
+tm stop
+pass mathworks.com 
+tm
+pass fantasygrounds.com 
+pass -c2 fantasygrounds.com 
+pass -c fantasygrounds.com 
+pass edit fantasygrounds.com 
+apup
+apgrade
+df
+tm start 30min ago Learning
+tm stop
+tm
+tm sum
+tm week
+tm start "ITB/Academic"
+tm stop
+tm
+tm sum
+tm week
+proxyon2
+tm
+tm tags
+tm
+tm start 13:30 "ITB/Other"
+proxyoff
+tm stop
+tm sum
+ls mozilla.pdf 
+o mozilla.pdf 
+rm mozilla.pdf 
+vpnitb
+reset 
+exit
+vpnitb
+exit
+cd $dnd
+cd Crosshead\ Studios/
+ll
+cd Miniatures/
+ll
+mkdir "NPC - Beserker"
+mkdir "NPC - Cult Fanatic"
+mkdir "NPC - Druid"
+cd NPC\ -\ Beserker/
+mv ~/Downloads/NPC\ -\ BERSERKER\ \(NEW\).zip .
+cd ../NPC\ -\ Cult\ Fanatic/
+mv ~/Downloads/NPC\ -\ CULT\ FANATIC\ \(NEW\).zip .
+cd ../NPC\ -\ Druid/
+mv ~/Downloads/NPC\ -\ DRUID\ \(NEW\).zip .
+..
+mv ~/Downloads/NPC\ -\ * .
+ll
+mkdir "NPC - Gladiator"
+mkdir "NPC - Guard"
+mkdir "NPC - Knight"
+mkdir "NPC - Mage"
+mkdir "NPC - Priest"
+mv NPC\ -\ GLADIATOR\ \(NEW\).zip NPC\ -\ Gladiator
+mv NPC\ -\ GUARD\ \(NEW\).zip NPC\ -\ Guard
+ll
+ls NPC\ -\ Guard/
+mv NPC\ -\ KNIGHT\ \(NEW\).zip NPC\ -\ Knight
+mv NPC\ -\ MAGE\ \(NEW\).zip NPC\ -\ Mage
+mv NPC\ -\ PRIEST\ \(NEW\).zip NPC\ -\ Priest
+exit
+vim .bashrc
+exit
+tm
+tm tags
+tm start "ITB/APTFI"
+tm stop
+exit
+tm start 5min ago Learning
+tm stop
+tm sum
+tm
+tm start Learning
+tm stop
+tm sum
+tm week
+proxyon2
+tm
+tm start Learning
+tm stop
+tm start 30min ago Learning
+tm stop
+tm sum
+tm start 5min ago "STFB/Bimbingan"
+proxyoff
+tm stop
+proxyon2
+pass -c bri.co.id 
+.bin/scripts/record_uptime.sh 
+uptime 
+cd Videos/Youtube/Shut\ Up\ \&\ Sit\ Down/
+ll
+..
+ll
+cd Cool\ Ghosts/
+ll
+cd Let\'s\ Play/
+ll
+..
+cd -
+mpv Lovers\ in\ a\ Dangerous\ Spacetime\ -\ Cosmic\ Romance\ with\ Cool\ Ghosts.mkv 
+..
+proxyon2
+wget https://www.youtube.com/watch?v=2t0AiQmgQqk&t=812s
+ll
+rm watch\?v\=2t0AiQmgQqk 
+rm wget-log 
+ll
+youtube-dl https://www.youtube.com/watch?v=2t0AiQmgQqk
+proxyoff
+proxyon2
+proxyoff
+cd
+uname -a
+snap find cpod
+cd Misc/linux_apps/
+ll
+mkdir "cpod"
+cd cpod/
+..
+vim software.list 
+cd cpod/
+wget https://github.com/z-------------/CPod/releases/download/v1.27.0/CPod_1.27.0_amd64.deb
+accio ./CPod_1.27.0_amd64.deb 
+cpod 
+aprem cpod
+cd
+sudo snap install cpod
+snap find cpod
+sudo snap install cumulonimbus
+pgrep cpod
+pgrep cumulonimbu
+cpod
+cumulonimbus 
+snap list
+sudo snap remove cumulonimbus
+ll Downloads/Downloads.old/videos/Doctor\ Who/
+tb
+sudo snap install taskbook
+snap alias taskbook tb
+sudo snap alias taskbook tb
+tb
+taskl
+tb -t @Dissertation Publish first manuscript
+tb
+tb -t @Dissertation Write draft of second manuscript
+tb
+tb -c 1
+tb
+tb -c 1
+tb
+taskl
+tb -t @ITB @Research Machine Learning VS - Literature Review
+tb
+tb @ITB
+tb -i
+tb -m @1 ITB Dissertation
+tb
+tb -m @2 ITB Dissertation
+tb
+tb -l @ITB
+tb -l ITB
+tb -f machine
+tb
+taskl
+tb -t @STFB Write resignation letter
+tb
+tb -p @1 3
+tb
+tb -p @2 2
+tb
+task
+tm
+tm sum
+tm start Learning
+proxyoff
+tm stop 43min ago
+tm sum
+snap find chromium
+sudo snap install chromium
+cd Misc/linux_apps/
+mkdir submarine
+cd submarine/
+git clone https://github.com/blaztinn/submarine
+ls
+cd submarine/
+ls
+apt search glib2
+apt search libgee
+apt search libsoup
+apt search libarchive
+accio libgee libarchive-dev
+apt search libgee
+accio libgee-0.8-2 libarchive-dev
+ll
+./autogen.sh 
+apt search autotools
+autoreconf
+accio autoconf
+./autogen.sh 
+apt search libtool
+accio libtool
+./autogen.sh 
+./configure 
+make -j 4
+apt search vala
+accio libvala-0.40-0
+./configure 
+accio vala
+valac
+aprem libvala-0.40-0
+accio valac
+./configure 
+..
+rm -rf submarine/
+git clone https://github.com/blaztinn/submarine
+cd submarine/
+./autogen.sh 
+./configure 
+accio libsoup-2.4 gee-1.0
+apt search libsoup
+cd ../..
+vim software.list 
+cd
+cd Downloads/Downloads.old/videos/Daredevil\ Season\ 3/
+ll
+rm -rf ~/arkCkFEgl/
+cd arkNvMaoe/
+ll
+mv Marvels.Daredevil.S03E01.720p.WEB.x264-STRiFE\ .srt ..
+..
+ll
+rm -rf arkNvMaoe/
+exit

@@ -10895,3 +10895,349 @@
 }
 [08/09/18, 23:08:41:649] info: Store: QUIT_APP
 [08/09/18, 23:08:42:281] info: Store: QUIT_APP
+[10/08/18, 22:36:34:029] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[10/08/18, 22:36:34:029] info: ║      Slack 3.3.3, linux 4.15.0-36-generic on x64 at 10/08/18, 22:36:34:027      ║
+[10/08/18, 22:36:34:030] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[10/08/18, 22:36:34:641] info: Initializing local storage instance at path: /home/hubbi/.config/Slack/local-settings.json
+[10/08/18, 22:36:35:126] info: TraceRecorder: setting up trace recorder, trace will be stored under /home/hubbi/.config/Slack/logs/recorded-trace
+[10/08/18, 22:36:35:180] info: Configuring uncaughtExceptionHandler
+[10/08/18, 22:36:35:181] info: Configuring unhandledRejectionHandler
+[10/08/18, 22:36:35:181] info: Registered with apiKey acaff8df67924f677747922423057034
+[10/08/18, 22:37:01:641] info: BrowserStore: Keychain access previously denied, don't ask again
+[10/08/18, 22:37:01:923] info: Store: persist/REHYDRATE
+{
+  "appTeams": {
+    "selectedTeamId": "T81JU9CQ5",
+    "teamsByIndex": [
+      "T81JU9CQ5"
+    ],
+    "teamsToSignOut": []
+  },
+  "dialog": "[REDACTED]",
+  "downloads": "[REDACTED]",
+  "enterprise": {
+    "T81JU9CQ5": null
+  },
+  "settings": {
+    "appVersion": "3.2.1",
+    "versionName": "Cartoon Heroes",
+    "platform": "linux",
+    "platformVersion": {
+      "major": 4,
+      "minor": 15,
+      "build": 0
+    },
+    "isWin10": false,
+    "isBeforeWin10": false,
+    "resourcePath": "/snap/slack/7/usr/lib/slack/resources/app.asar",
+    "webappSrcPath": null,
+    "webappParams": null,
+    "isDevMode": false,
+    "devEnv": null,
+    "logFile": null,
+    "rxLogging": false,
+    "openDevToolsOnStart": false,
+    "pretendNotReallyWindows10": false,
+    "releaseChannel": "prod",
+    "autoHideMenuBar": false,
+    "defaultSigninTeam": null,
+    "isTitleBarHidden": false,
+    "hasRunApp": true,
+    "hasRunFromTray": true,
+    "reportIssueOnStartup": false,
+    "isSignedIntoSlackOrg": false,
+    "isGpuCompositionAvailable": true,
+    "runFromTray": true,
+    "launchOnStartup": false,
+    "spellcheckerLanguage": null,
+    "zoomLevel": 0,
+    "workspaceIdleTimeout": 21600000,
+    "whitelistedUrlSchemes": [
+      "http:",
+      "https:",
+      "mailto:",
+      "skype:",
+      "spotify:",
+      "live:",
+      "callto:",
+      "tel:",
+      "im:",
+      "sip:",
+      "sips:"
+    ],
+    "isTitleBarForcedByUser": false,
+    "isOpenExternalShellForced": false,
+    "PrefSSBFileDownloadPath": "/home/hubbi/Downloads",
+    "notificationMethod": null,
+    "notificationPlayback": null,
+    "notifyPosition": {
+      "corner": "bottom_right",
+      "display": "same_as_app"
+    },
+    "locale": "en-US",
+    "useHwAcceleration": true,
+    "os": false,
+    "release": false,
+    "desktopEnvironment": false,
+    "launchedWithLink": null,
+    "isAeroGlassEnabled": false,
+    "linux": {
+      "os": "Ubuntu 18.04.1 LTS",
+      "release": "bionic",
+      "desktopEnvironment": "KDE"
+    }
+  },
+  "teams": "[REDACTED]",
+  "windowFrame": {
+    "windowSettings": {
+      "size": [
+        1842,
+        1020
+      ],
+      "position": [
+        78,
+        60
+      ],
+      "isMaximized": false
+    },
+    "isFullScreen": false
+  }
+}
+[10/08/18, 22:37:02:394] info: initializeMainWindowEpic: Waiting for selected team to load
+{
+  "selectedTeamId": "T81JU9CQ5"
+}
+[10/08/18, 22:37:02:395] info: Store: UPDATE_SETTINGS
+{
+  "isSignedIntoSlackOrg": false
+}
+[10/08/18, 22:37:02:396] info: UpdaterEpics: Updates disabled because
+{
+  "reasons": [
+    "using Linux"
+  ]
+}
+[10/08/18, 22:37:02:969] info: Store: INITIALIZE_SETTINGS
+{
+  "releaseChannel": "prod",
+  "platformVersion": {
+    "major": 4,
+    "minor": 15,
+    "build": 0
+  },
+  "isTitleBarHidden": false,
+  "isDevMode": false,
+  "appVersion": "3.3.3",
+  "versionName": "Dirty Computer",
+  "devEnv": null,
+  "resourcePath": "/snap/slack/9/usr/lib/slack/resources/app.asar",
+  "webappSrcPath": null,
+  "webappParams": null,
+  "launchOnStartup": false,
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "isAeroGlassEnabled": false,
+  "isGpuCompositionAvailable": true,
+  "linux": {
+    "os": "KDE neon User Edition 5.13",
+    "release": "bionic",
+    "desktopEnvironment": "KDE"
+  }
+}
+[10/08/18, 22:37:02:973] info: AutoLoginEpic: Checking for autologin.
+[10/08/18, 22:37:02:977] info: WebContentsMediator: Attaching to new webContents
+[10/08/18, 22:37:02:980] info: Store: ADD_WINDOW
+{
+  "id": 2,
+  "type": "main"
+}
+[10/08/18, 22:37:02:981] info: BrowserViewManager: Starting initialization
+[10/08/18, 22:37:02:981] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "T81JU9CQ5"
+}
+[10/08/18, 22:37:02:981] info: BrowserViewManager: Creating BrowserView
+{
+  "teamId": "T81JU9CQ5"
+}
+[10/08/18, 22:37:02:983] info: WebContentsMediator: Attaching to new webContents
+[10/08/18, 22:37:02:983] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "teamId": "T81JU9CQ5",
+  "state": "unloaded"
+}
+[10/08/18, 22:37:02:987] info: Background Clients Update: 
++-----------+-------+------------+
+|           | Full  | Background |
+|-----------+-------+------------+
+| T81JU9CQ5 | start |            |
++-----------+-------+------------+
+[10/08/18, 22:37:02:992] info: PersistSettingsWindowBehavior: Loading windowMetrics
+{
+  "settings": {
+    "size": [
+      1842,
+      1020
+    ],
+    "position": [
+      78,
+      60
+    ],
+    "isMaximized": false
+  }
+}
+[10/08/18, 22:37:03:024] info: Application: Setting main window ID
+{
+  "id": 2
+}
+[10/08/18, 22:37:03:028] info: App: Welcome to Slack 3.3.3 x64
+[10/08/18, 22:37:03:028] info: App load time: 29,551290055
+[10/08/18, 22:37:05:706] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[10/08/18, 22:37:05:711] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[10/08/18, 22:37:05:712] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "T81JU9CQ5"
+}
+[10/08/18, 22:37:06:530] info: Store: SET_NETWORK_STATUS online
+[10/08/18, 22:37:08:484] info: Team boot count
+{
+  "count": 1
+}
+[10/08/18, 22:37:15:238] info: WebContents LifeCycle: webContents:3 from 'unloaded' to 'loaded' took 12251 ms
+[10/08/18, 22:37:15:239] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T81JU9CQ5"
+}
+[10/08/18, 22:37:15:240] info: Background Clients Update: 
++-----------+---------+------------+
+|           | Full    | Background |
+|-----------+---------+------------+
+| T81JU9CQ5 | loading |            |
++-----------+---------+------------+
+[10/08/18, 22:37:15:242] info: initializeMainWindowEpic: Showing main window
+{
+  "shouldMinimize": false,
+  "shouldMaximize": false,
+  "shouldHide": false
+}
+[10/08/18, 22:37:15:244] info: Store: MAIN_WINDOW_SHOWN
+[10/08/18, 22:37:15:251] info: Store: SET_FULL_SCREEN
+[10/08/18, 22:37:15:293] info: Store: SET_FULL_SCREEN
+[10/08/18, 22:37:15:294] info: Store: SET_FULL_SCREEN
+[10/08/18, 22:37:15:307] info: Store: SET_FULL_SCREEN
+[10/08/18, 22:37:15:308] info: Store: SET_FULL_SCREEN
+[10/08/18, 22:37:15:399] info: Store: SET_FULL_SCREEN
+[10/08/18, 22:37:15:724] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T81JU9CQ5"
+}
+[10/08/18, 22:37:16:014] info: Store: SELECT_CHANNEL C82H0CF6K
+[10/08/18, 22:37:16:019] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T81JU9CQ5"
+}
+[10/08/18, 22:37:16:089] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[10/08/18, 22:37:16:170] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T81JU9CQ5",
+  "theme": {
+    "active_item": "#6698C8",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#94E864",
+    "badge": "#78AF8F",
+    "column_bg": "#303E4D",
+    "hover_item": "#4A5664",
+    "menu_bg": "#2C3849",
+    "text_color": "#FFFFFF"
+  }
+}
+[10/08/18, 22:37:16:405] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "position": [
+    447,
+    141
+  ],
+  "size": [
+    1105,
+    835
+  ],
+  "isMaximized": true
+}
+[10/08/18, 22:37:16:407] info: BrowserViewManager: Activating BrowserView
+{
+  "teamId": "T81JU9CQ5"
+}
+[10/08/18, 22:37:17:150] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T81JU9CQ5"
+}
+[10/08/18, 22:37:17:228] info: WebContents LifeCycle: webContents:3 from 'loaded' to 'webapp-loaded' took 1990 ms
+[10/08/18, 22:37:17:228] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T81JU9CQ5"
+}
+[10/08/18, 22:37:17:229] info: Background Clients Update: 
++-----------+-------+------------+
+|           | Full  | Background |
+|-----------+-------+------------+
+| T81JU9CQ5 | ready |            |
++-----------+-------+------------+
+[10/08/18, 22:37:17:231] info: Store: UPDATE_SETTINGS
+{
+  "sandboxSigninWindow": true
+}
+[10/08/18, 22:37:17:701] info: Store: STORE_ENTERPRISE_ID_PAIR
+{
+  "teamId": "T81JU9CQ5",
+  "enterpriseId": null
+}
+[10/08/18, 22:37:17:704] info: Store: STORE_API_TOKEN
+{
+  "token": "xoxs-⋯",
+  "teamId": "T81JU9CQ5"
+}
+[10/08/18, 22:37:29:914] info: Store: SELECT_CHANNEL DA7MYSLBY
+[10/08/18, 22:37:31:971] info: WebContentsMediator: Attaching to new webContents
+[10/08/18, 22:37:32:739] info: WebContentsMediator: Attaching to new webContents
+[10/08/18, 22:37:33:033] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-16250.log
+[10/08/18, 22:37:33:034] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-16297.log
+[10/08/18, 22:37:33:034] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-16328.log
+[10/08/18, 22:37:33:034] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-24991.log
+[10/08/18, 22:37:33:045] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-25054.log
+[10/08/18, 22:37:33:045] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-25121.log
+[10/08/18, 22:37:33:052] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-7653.log
+[10/08/18, 22:37:33:052] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-7700.log
+[10/08/18, 22:37:33:053] info: Removed log file /home/hubbi/.config/Slack/logs/renderer-7736.log
+[10/08/18, 22:37:33:116] info: Removed log file /home/hubbi/.config/Slack/logs/webapp-T81JU9CQ5.log
+[10/08/18, 22:38:06:562] info: Store: QUIT_APP
+[10/08/18, 22:38:06:580] info: quitApplicationEpic: found update metadata, send telemetry
+[10/08/18, 22:38:06:581] info: EpicHelpers: Flushing cookie store
+[10/08/18, 22:38:06:593] info: EpicHelpers: Flushing local-settings.json
+[10/08/18, 22:38:06:890] info: quitApplicationEpic: Closing main window
+{
+  "id": 2
+}
+[10/08/18, 22:38:06:891] info: Allowing window close because user chose to quit
+[10/08/18, 22:38:06:894] info: Notification Window Manager: Trying to close notifications window
+[10/08/18, 22:38:06:894] warn: Notification Window Manager: Could not find notifications window in state
+[10/08/18, 22:38:06:897] info: App: Disposing application
+[10/08/18, 22:38:06:899] info: Store: REMOVE_WINDOW 2
+[10/08/18, 22:38:06:903] info: quitApplicationEpic: Disposing item
+{
+  "type": "ReduxPersistStorage"
+}
+[10/08/18, 22:38:06:912] info: Store: QUIT_APP
+[10/08/18, 22:38:06:914] info: Allowing window close because user chose to quit
+[10/08/18, 22:38:06:944] info: Store: QUIT_APP

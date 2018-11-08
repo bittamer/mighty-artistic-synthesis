@@ -77,6 +77,9 @@ export work="/home/hubbi/Documents/Work"
 export itb=$work"/ITB"
 export res="/home/hubbi/Documents/Postgraduate/Research"
 export alfa=$work"/AlfaLC"
+export stfb=$work"/STFB"
+export dnd="/home/hubbi/Interactive/tabletop_games/dungeons_and_dragons"
+export gdd="gdriveme:backups/direct"
 export GPGKEY=A62014E0616D71ECACD762F38AF2E1186BB1D4C9
 
 source ~/.bin/myaliases
